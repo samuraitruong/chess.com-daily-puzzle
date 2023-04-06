@@ -26,6 +26,7 @@ async function fetchMonth(date) {
   });
 }
 async function main() {
+  const CONCURRENT_REQUESTS = (processs.env.CONCURRENT_REQUESTS || 10) * 1;
   // Month has first puzzle
   const firstMonth = moment("2007-04-01");
 
@@ -47,7 +48,11 @@ async function main() {
     return data;
   };
 
-  for await (const data of asyncPool(10, months, processMonth)) {
+  for await (const data of asyncPool(
+    CONCURRENT_REQUESTS,
+    months,
+    processMonth
+  )) {
     allPuzzle = [...allPuzzle, ...data];
   }
 

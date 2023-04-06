@@ -9,7 +9,8 @@ on:
       - main
   schedule:
     - cron: "0 1 * * *"
-
+env:
+  CONCURRENT_REQUESTS: 5  
 jobs:
   sycn:
     runs-on: ubuntu-latest
