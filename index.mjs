@@ -66,10 +66,14 @@ async function main() {
     allPuzzle = [...allPuzzle, ...data];
   }
 
-  fs.writeFileSync("puzzle/all.json", JSON.stringify(allPuzzle, null, 4));
+  const sortedPuzzle = allPuzzle.sort((a, b) => {
+    return a.id - b.id;
+  });
+
+  fs.writeFileSync("puzzle/all.json", JSON.stringify(sortedPuzzle, null, 4));
   fs.writeFileSync(
     "puzzle/all.txt",
-    allPuzzle.map((x) => x.parsed.fen).join("\r\n")
+    sortedPuzzle.map((x) => x.parsed.fen).join("\r\n")
   );
 }
 
