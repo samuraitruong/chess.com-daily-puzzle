@@ -23,7 +23,7 @@ jobs:
           node-version: 16
           cache: 'npm'
       - run: npm ci
-      - run: npm start 2
+      - run: npm start
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update daily puzzle files"

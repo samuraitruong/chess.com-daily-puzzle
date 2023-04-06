@@ -26,7 +26,7 @@ async function fetchMonth(date) {
   });
 }
 async function main() {
-  const CONCURRENT_REQUESTS = (processs.env.CONCURRENT_REQUESTS || 10) * 1;
+  const CONCURRENT_REQUESTS = (process.env.CONCURRENT_REQUESTS || 10) * 1;
   // Month has first puzzle
   const firstMonth = moment("2007-04-01");
 
