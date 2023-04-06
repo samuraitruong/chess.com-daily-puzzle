@@ -5,12 +5,11 @@ import fs from "fs";
 import axiosRetry from "axios-retry";
 
 axiosRetry(axios, {
+  retries: 10,
   retryDelay: (retryCount) => {
     return retryCount * 1000;
   },
 });
-
-axiosRetry(axios, { retryDelay: axiosRetry.exponentialDelay, retries: 10 });
 
 function parsePgn(pgn) {
   const lines = pgn.split("\r\n").filter((x) => x !== "");
