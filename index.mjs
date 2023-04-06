@@ -1,4 +1,5 @@
 import axios from "axios";
+import asyncPool from "tiny-async-pool";
 import moment from "moment";
 import fs from "fs";
 function parsePgn(pgn) {
@@ -29,21 +30,27 @@ async function main() {
   const firstMonth = moment("2007-04-01");
 
   const now = moment();
-  const monthDiff = now.diff(firstMonth, "months");
+  const monthDiff = now.diff(firstMonth, "months") + 1;
   // console.log("monthDiff", monthDiff);
   // At the code time, the puzzle of the current month is not available
   const numberOfMonth = (process.argv[2] || monthDiff) * 1;
   const months = Array.from(Array(numberOfMonth).keys());
   let allPuzzle = [];
-  for await (const month of months) {
+
+  const processMonth = async (month) => {
     const currentMonth = moment().subtract(+month, "months").endOf("month");
     const data = await fetchMonth(currentMonth);
     console.log(currentMonth.format("MM/YYYY"), data.length);
     const key = `puzzle/${currentMonth.format("YYYY/YYYY-MM")}.json`;
     fs.mkdirSync(`puzzle/${currentMonth.format("YYYY")}`, { recursive: true });
     fs.writeFileSync(key, JSON.stringify(data, null, 4));
+    return data;
+  };
+
+  for await (const data of asyncPool(10, months, processMonth)) {
     allPuzzle = [...allPuzzle, ...data];
   }
+
   fs.writeFileSync("puzzle/all.json", JSON.stringify(allPuzzle, null, 4));
   fs.writeFileSync(
     "puzzle/all.txt",
