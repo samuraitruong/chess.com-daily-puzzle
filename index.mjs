@@ -10,7 +10,7 @@ axiosRetry(axios, {
   },
 });
 
-axiosRetry(axios, { retryDelay: axiosRetry.exponentialDelay });
+axiosRetry(axios, { retryDelay: axiosRetry.exponentialDelay, retries: 10 });
 
 function parsePgn(pgn) {
   const lines = pgn.split("\r\n").filter((x) => x !== "");
