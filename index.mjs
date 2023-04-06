@@ -2,6 +2,15 @@ import axios from "axios";
 import asyncPool from "tiny-async-pool";
 import moment from "moment";
 import fs from "fs";
+
+axiosRetry(axios, {
+  retryDelay: (retryCount) => {
+    return retryCount * 1000;
+  },
+});
+
+axiosRetry(axios, { retryDelay: axiosRetry.exponentialDelay });
+
 function parsePgn(pgn) {
   const lines = pgn.split("\r\n").filter((x) => x !== "");
   const moves = lines.pop();

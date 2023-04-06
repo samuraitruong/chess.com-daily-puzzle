@@ -10,7 +10,7 @@ on:
   schedule:
     - cron: "0 1 * * *"
 env:
-  CONCURRENT_REQUESTS: 5  
+  CONCURRENT_REQUESTS: 3  
 jobs:
   sycn:
     permissions:
