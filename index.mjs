@@ -9,6 +9,7 @@ axiosRetry(axios, {
   retryDelay: (retryCount) => {
     return retryCount * 1000;
   },
+  retryCondition: () => true,
 });
 
 function parsePgn(pgn) {
