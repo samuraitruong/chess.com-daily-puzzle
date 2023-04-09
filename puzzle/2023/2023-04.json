@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_april_fools_tbd_04_01_23_r2x.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 3367,
-        "solved_count": 2609362,
+        "comment_count": 3371,
+        "solved_count": 2629512,
         "parsed": {
             "moves": "1. d4 b5 2. d5 b4 3. axb4 a3 4. b5 a2 5. b6 a1=Q 6. b7# *",
             "date": "1942",
@@ -28,8 +28,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_wrist_watches_and_zugzwang_04_02_23_n2i.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1805,
-        "solved_count": 2508021,
+        "comment_count": 1816,
+        "solved_count": 2534244,
         "parsed": {
             "moves": "1. a5 h3 2. g4+ Kh4 3. a3 h5 4. g5 fxg5 5. a4 g4 6. Kf4 g3 7. hxg3# *",
             "result": "*",
@@ -45,8 +45,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_forcing_moves_to_the_rescue_04_03_23_y4q.mp4",
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
-        "comment_count": 1126,
-        "solved_count": 2558344,
+        "comment_count": 1133,
+        "solved_count": 2588330,
         "parsed": {
             "moves": "1... Qa5+ 2. Nc3 Qxg5 *",
             "result": "*",
@@ -62,8 +62,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_an_ounce_of_prevention_04_04_23_j4b.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1045,
-        "solved_count": 2492886,
+        "comment_count": 1050,
+        "solved_count": 2529319,
         "parsed": {
             "moves": "1. f4 Rf7 2. R1h6# *",
             "result": "*",
@@ -79,8 +79,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_loose_piece_yo-yo_04_05_23_u3q.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1142,
-        "solved_count": 2421200,
+        "comment_count": 1155,
+        "solved_count": 2467518,
         "parsed": {
             "moves": "1. Re8+ Rxe8 2. Qxe8+ Kh7 3. Qe4+ Kg8 4. Qxc4 *",
             "result": "*",
@@ -96,8 +96,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_minor_piece_flurry_04_06_23_t7v.mp4.mp4",
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
-        "comment_count": 1293,
-        "solved_count": 2297949,
+        "comment_count": 1304,
+        "solved_count": 2362105,
         "parsed": {
             "moves": "1. Ne7+ Kh7 2. Bg8+ Kh8 3. Nf7# *",
             "result": "*",
@@ -113,8 +113,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_wcc_candidate_ian_nepomniachtchi_04_07_23_c8l.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 827,
-        "solved_count": 1974814,
+        "comment_count": 907,
+        "solved_count": 2223079,
         "parsed": {
             "moves": "37. Qxf6+ Bxf6 38. Bxf6 Qd8 39. Rh8# 1-0",
             "event": "World Youth Stars 4th",
@@ -128,6 +128,28 @@
             "whiteelo": "2506",
             "blackelo": "2352",
             "fen": "2r1rk2/6b1/1q2ppP1/pp1PpQB1/8/PPP2BP1/6K1/7R w - - 0 37"
+        }
+    },
+    {
+        "id": 11551,
+        "title": "WCC Candidate: Ding Liren",
+        "pgn": "[Event \"Chinese League\"]\r\n[Site \"Chengdu CHN\"]\r\n[Date \"2011.05.26\"]\r\n[White \"Ding Liren\"]\r\n[Black \"Wang Hao\"]\r\n[Result \"1-0\"]\r\n[FEN \"3r2r1/p3Rbk1/5q2/3P2p1/P2Q2P1/2p2p2/8/4RBK1 w - - 0 31\"]\r\n\r\n31. Rxf7+ Kxf7 32. Qxa7+ Kf8 33. Re6 f2+ 34. Kg2 Qf4 35. Qe7# 1-0",
+        "date": "2023-04-08",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_wcc_candidate_ding_liren_04_08_23_v7n.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 726,
+        "solved_count": 1866851,
+        "parsed": {
+            "moves": "31. Rxf7+ Kxf7 32. Qxa7+ Kf8 33. Re6 f2+ 34. Kg2 Qf4 35. Qe7# 1-0",
+            "event": "Chinese League",
+            "site": "Chengdu CHN",
+            "date": "2011.05.26",
+            "white": "Ding Liren",
+            "black": "Wang Hao",
+            "result": "1-0",
+            "fen": "3r2r1/p3Rbk1/5q2/3P2p1/P2Q2P1/2p2p2/8/4RBK1 w - - 0 31"
         }
     }
 ]
