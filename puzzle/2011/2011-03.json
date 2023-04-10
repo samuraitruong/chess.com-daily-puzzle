@@ -12,7 +12,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "4k3/4p2b/4N3/4N3/8/4K3/8/6R1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4k3/4p2b/4N3/4N3/8/4K3/8/6R1 w - - 0 1"
     },
     {
         "id": 2911,
@@ -27,7 +28,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "8/1p4k1/5R2/8/8/7K/6p1/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/1p4k1/5R2/8/8/7K/6p1/8 w - - 0 1"
     },
     {
         "id": 2912,
@@ -42,7 +44,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "1k1r4/pP2q3/8/Q7/8/6bP/6P1/2R4K w KQkq - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1k1r4/pP2q3/8/Q7/8/6bP/6P1/2R4K w KQkq - 0 1"
     },
     {
         "id": 2913,
@@ -57,7 +60,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "3K4/kp6/p7/1P6/8/8/7P/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3K4/kp6/p7/1P6/8/8/7P/8 w - - 0 1"
     },
     {
         "id": 2914,
@@ -72,7 +76,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "2K5/2P2R2/k7/8/8/8/2r2p2/8 w KQkq - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2K5/2P2R2/k7/8/8/8/2r2p2/8 w KQkq - 0 1"
     },
     {
         "id": 2915,
@@ -87,7 +92,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "8/2pppppP/6p1/3P1P2/3BB3/3Np1P1/4P2b/R3K1k1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/2pppppP/6p1/3P1P2/3BB3/3Np1P1/4P2b/R3K1k1 w - - 0 1"
     },
     {
         "id": 2916,
@@ -102,7 +108,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "k7/8/1K6/5N2/8/8/4pRp1/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=k7/8/1K6/5N2/8/8/4pRp1/8 w - - 0 1"
     },
     {
         "id": 2917,
@@ -117,7 +124,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "8/8/8/5K2/7k/6pp/8/R7 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/8/5K2/7k/6pp/8/R7 w - - 0 1"
     },
     {
         "id": 2918,
@@ -126,13 +134,14 @@
         "date": "2011-03-09",
         "video": [],
         "comment_count": 1,
-        "solved_count": 25,
+        "solved_count": 26,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/3k2b1/2NP4/3K3B/6p1/8/2p2n2/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/3k2b1/2NP4/3K3B/6p1/8/2p2n2/8 w - - 0 1"
     },
     {
         "id": 2919,
@@ -147,7 +156,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "8/2kP4/8/1P3K2/8/8/8/8 w KQkq - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/2kP4/8/1P3K2/8/8/8/8 w KQkq - 0 1"
     },
     {
         "id": 2920,
@@ -162,7 +172,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "8/8/8/1p2k3/4q3/4R1K1/8/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/8/1p2k3/4q3/4R1K1/8/8 w - - 0 1"
     },
     {
         "id": 2921,
@@ -177,7 +188,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "8/kp6/4R3/1P2K3/8/3pp3/8/8 w KQkq - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/kp6/4R3/1P2K3/8/3pp3/8/8 w KQkq - 0 1"
     },
     {
         "id": 2922,
@@ -191,7 +203,8 @@
             "moves": "*",
             "result": "*",
             "fen": "8/kP2B3/2K2N2/8/7r/1N6/4r3/1q6 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/kP2B3/2K2N2/8/7r/1N6/4r3/1q6 w - - 0 1"
     },
     {
         "id": 2923,
@@ -206,7 +219,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "8/8/8/8/8/8/8/RR2K1k1 w Q - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/8/8/8/8/8/RR2K1k1 w Q - 0 1"
     },
     {
         "id": 2924,
@@ -221,7 +235,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "8/R7/1P6/KR6/8/8/P7/k7 w KQkq - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/R7/1P6/KR6/8/8/P7/k7 w KQkq - 0 1"
     },
     {
         "id": 2925,
@@ -236,7 +251,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "5k2/6n1/8/5pK1/8/8/7P/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5k2/6n1/8/5pK1/8/8/7P/8 w - - 0 1"
     },
     {
         "id": 2926,
@@ -251,7 +267,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "2k5/8/P3P3/3K4/p4N2/8/8/6r1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2k5/8/P3P3/3K4/p4N2/8/8/6r1 w - - 0 1"
     },
     {
         "id": 2927,
@@ -266,7 +283,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "6k1/3p4/8/8/8/B7/P7/7K w KQkq - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/3p4/8/8/8/B7/P7/7K w KQkq - 0 1"
     },
     {
         "id": 2928,
@@ -281,7 +299,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "8/8/3B2p1/6K1/1PPkp3/2RnN2Q/8/nN6 w KQkq - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/3B2p1/6K1/1PPkp3/2RnN2Q/8/nN6 w KQkq - 0 1"
     },
     {
         "id": 2929,
@@ -296,7 +315,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "2r1k2r/1p3pp1/pq2pn1p/8/3pP3/P1N2P2/1PK2QPP/3R1B1R b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r1k2r/1p3pp1/pq2pn1p/8/3pP3/P1N2P2/1PK2QPP/3R1B1R b - - 0 1"
     },
     {
         "id": 2930,
@@ -311,7 +331,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "4K3/3P4/8/1kP5/1P6/P7/2P5/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4K3/3P4/8/1kP5/1P6/P7/2P5/8 w - - 0 1"
     },
     {
         "id": 2931,
@@ -326,7 +347,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "r1rR4/5kpp/np3p2/p3p1b1/P1q1P3/6B1/1P2QPPP/R5K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1rR4/5kpp/np3p2/p3p1b1/P1q1P3/6B1/1P2QPPP/R5K1 w - - 0 1"
     },
     {
         "id": 2932,
@@ -341,7 +363,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "1R6/8/p7/1b1N4/k1r5/5Q2/K7/2q5 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1R6/8/p7/1b1N4/k1r5/5Q2/K7/2q5 w - - 0 1"
     },
     {
         "id": 2933,
@@ -356,7 +379,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "8/8/2kP2K1/4r3/8/3p4/8/4R3 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/2kP2K1/4r3/8/3p4/8/4R3 w - - 0 1"
     },
     {
         "id": 2934,
@@ -371,7 +395,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "5k2/8/p3p3/Pp2P3/1P2P3/8/8/7K w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5k2/8/p3p3/Pp2P3/1P2P3/8/8/7K w - - 0 1"
     },
     {
         "id": 2935,
@@ -386,7 +411,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "2R3B1/rr6/5pNp/b2p1k1p/b2P3B/5P2/4N1K1/2R2Q2 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2R3B1/rr6/5pNp/b2p1k1p/b2P3B/5P2/4N1K1/2R2Q2 w - - 0 1"
     },
     {
         "id": 2936,
@@ -401,7 +427,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "8/3PkP2/1P5P/3PPP2/4K3/8/8/8 w KQkq - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/3PkP2/1P5P/3PPP2/4K3/8/8/8 w KQkq - 0 1"
     },
     {
         "id": 2937,
@@ -416,7 +443,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "7k/5Rr1/5BR1/4P3/3K4/1Qr5/2B5/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7k/5Rr1/5BR1/4P3/3K4/1Qr5/2B5/8 w - - 0 1"
     },
     {
         "id": 2938,
@@ -431,7 +459,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "8/8/8/5K1N/7k/7p/7R/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/8/5K1N/7k/7p/7R/8 w - - 0 1"
     },
     {
         "id": 2939,
@@ -446,7 +475,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "4R3/8/8/8/2p4R/3k2q1/3p4/3K4 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4R3/8/8/8/2p4R/3k2q1/3p4/3K4 w - - 0 1"
     },
     {
         "id": 2940,
@@ -461,6 +491,7 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "8/1k6/8/1K6/P7/1pR5/2p5/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/1k6/8/1K6/P7/1pR5/2p5/8 w - - 0 1"
     }
 ]

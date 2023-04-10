@@ -6,12 +6,13 @@
         "date": "2021-04-01",
         "video": [],
         "comment_count": 23,
-        "solved_count": 1261,
+        "solved_count": 1262,
         "parsed": {
             "moves": "Qxf1 8.Qxf1 Bxf1 *",
             "result": "*",
             "fen": "2kr4/ppp2qpp/2n5/2b1P3/8/1bPB1NB1/1P2Q1PP/1K3R2 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2kr4/ppp2qpp/2n5/2b1P3/8/1bPB1NB1/1P2Q1PP/1K3R2 b - - 0 1"
     },
     {
         "id": 10016,
@@ -20,12 +21,13 @@
         "date": "2021-04-02",
         "video": [],
         "comment_count": 7,
-        "solved_count": 897,
+        "solved_count": 898,
         "parsed": {
             "moves": "1...Nxg6 2.Kxg6 Nxf4+ 3.Nxf4+ Ke4 4.Ne2 Ke3 5.Ng3 d3 6.Kf5 d2 *",
             "result": "*",
             "fen": "8/8/5KN1/1p1k4/1P1p1P1n/3N4/4n3/8 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/5KN1/1p1k4/1P1p1P1n/3N4/4n3/8 b - - 0 1"
     },
     {
         "id": 10018,
@@ -34,12 +36,13 @@
         "date": "2021-04-03",
         "video": [],
         "comment_count": 6,
-        "solved_count": 877,
+        "solved_count": 878,
         "parsed": {
             "moves": "Qd5# *",
             "result": "*",
             "fen": "3rrn2/p4k1p/1p4p1/2p2P1Q/2P5/P7/1q4PP/4RRK1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3rrn2/p4k1p/1p4p1/2p2P1Q/2P5/P7/1q4PP/4RRK1 w - - 0 1"
     },
     {
         "id": 9978,
@@ -48,12 +51,13 @@
         "date": "2021-04-04",
         "video": [],
         "comment_count": 5,
-        "solved_count": 885,
+        "solved_count": 886,
         "parsed": {
             "moves": "1...Rh1+ 2.Bxh1 Bh2# *",
             "result": "*",
             "fen": "Bb4k1/p4ppp/4b3/1p3N2/1P1P2R1/7q/4QP1r/3R2K1 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=Bb4k1/p4ppp/4b3/1p3N2/1P1P2R1/7q/4QP1r/3R2K1 b - - 0 1"
     },
     {
         "id": 10006,
@@ -62,12 +66,13 @@
         "date": "2021-04-05",
         "video": [],
         "comment_count": 7,
-        "solved_count": 894,
+        "solved_count": 895,
         "parsed": {
             "moves": "c8=Q+ Kxc8 *",
             "result": "*",
             "fen": "8/1p6/8/P1p5/2P2k2/5pp1/1P4N1/5K2 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/1p6/8/P1p5/2P2k2/5pp1/1P4N1/5K2 b - - 0 1"
     },
     {
         "id": 10014,
@@ -76,12 +81,13 @@
         "date": "2021-04-06",
         "video": [],
         "comment_count": 9,
-        "solved_count": 864,
+        "solved_count": 866,
         "parsed": {
             "moves": "1...Rxg3 2.hxg3 Qxg3 3.Qf3 Qxf3 *",
             "result": "*",
             "fen": "6rk/2p2prp/p2p4/4p3/1PPb4/P2P2Pq/R4PBP/3Q1RK1 b - - 1 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6rk/2p2prp/p2p4/4p3/1PPb4/P2P2Pq/R4PBP/3Q1RK1 b - - 1 1"
     },
     {
         "id": 10000,
@@ -90,12 +96,13 @@
         "date": "2021-04-07",
         "video": [],
         "comment_count": 6,
-        "solved_count": 848,
+        "solved_count": 849,
         "parsed": {
             "moves": "1...Qe3+ 2.Kh2 Ne2 3.Qf3+ Qxf3 *",
             "result": "*",
             "fen": "5r2/1Q3R2/3p3p/4p1pk/1P1n4/6PP/4q1P1/6K1 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5r2/1Q3R2/3p3p/4p1pk/1P1n4/6PP/4q1P1/6K1 b - - 0 1"
     },
     {
         "id": 10020,
@@ -104,7 +111,7 @@
         "date": "2021-04-08",
         "video": [],
         "comment_count": 5,
-        "solved_count": 841,
+        "solved_count": 842,
         "parsed": {
             "moves": "39.Rf1+ Kh8 40.Bxg7+ Kxg7 41.Qxd7+ Kh8 42.Rxd1 *",
             "event": "Tal Memorial (Rapid)",
@@ -115,7 +122,8 @@
             "black": "Viktor Laznicka",
             "result": "*",
             "fen": "2r1r1k1/2Qn1Rpn/8/p2B4/3B2p1/7P/8/3q2K1 w - - 0 39"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r1r1k1/2Qn1Rpn/8/p2B4/3B2p1/7P/8/3q2K1 w - - 0 39"
     },
     {
         "id": 10022,
@@ -124,12 +132,13 @@
         "date": "2021-04-09",
         "video": [],
         "comment_count": 9,
-        "solved_count": 842,
+        "solved_count": 843,
         "parsed": {
             "moves": "1.Qa5 Kb8 2.Qxc7+ Ka8 3.Nb6+ axb6 4.Bd5 Bc8 5.Rf7 *",
             "result": "*",
             "fen": "2kr3r/pppb2pp/3p4/3Np1q1/2B1P3/4P1Pn/PPPQ2KP/5R2 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2kr3r/pppb2pp/3p4/3Np1q1/2B1P3/4P1Pn/PPPQ2KP/5R2 w - - 0 1"
     },
     {
         "id": 10038,
@@ -138,12 +147,13 @@
         "date": "2021-04-10",
         "video": [],
         "comment_count": 23,
-        "solved_count": 830,
+        "solved_count": 831,
         "parsed": {
             "moves": "1.Rxb7+ Kf6 2.Be5+ Kg6 3.Nh4+ gxh4 4.Qe6+ Bf6 5.Qxf7+ *",
             "result": "*",
             "fen": "rnQ4r/pp2kpb1/2p4p/3p2p1/3Pn3/2q1PNB1/P4PPP/1R1K1B1R w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=rnQ4r/pp2kpb1/2p4p/3p2p1/3Pn3/2q1PNB1/P4PPP/1R1K1B1R w - - 0 1"
     },
     {
         "id": 10026,
@@ -157,7 +167,8 @@
             "moves": "1...Bxc3+ 2.bxc3 b5 3.Nd2 bxc4 *",
             "result": "*",
             "fen": "rnb2rk1/pp3pp1/4pb1p/2q5/2B5/P1N1PN2/1P2QPPP/R3K2R b KQ - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=rnb2rk1/pp3pp1/4pb1p/2q5/2B5/P1N1PN2/1P2QPPP/R3K2R b KQ - 0 1"
     },
     {
         "id": 10044,
@@ -171,7 +182,8 @@
             "moves": "1.g3 Qh3 2.Bf1 Qg4 3.gxf4 *",
             "result": "*",
             "fen": "r4rk1/p1p2pp1/Bp1p3p/3P4/4Pn1q/P3R3/1PQ3PP/R6K w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r4rk1/p1p2pp1/Bp1p3p/3P4/4Pn1q/P3R3/1PQ3PP/R6K w - - 0 1"
     },
     {
         "id": 10028,
@@ -185,7 +197,8 @@
             "moves": "1.Bg5 g6 2.Qxh7+ Kxh7 3.Rh3+ Kg7 4.Bh6+ Kh7 5.Bf8+ Bh4 6.Rxh4# 1-0",
             "result": "*",
             "fen": "3rn1rk/1p3ppp/1qp1pb1B/p7/3P4/2PBR2Q/PP3PPP/1R4K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3rn1rk/1p3ppp/1qp1pb1B/p7/3P4/2PBR2Q/PP3PPP/1R4K1 w - - 0 1"
     },
     {
         "id": 10030,
@@ -199,7 +212,8 @@
             "moves": "1...Rxg2 2.Kxg2 Qg6+ 3.Kf1 Ng3+ 4.fxg3 Qxd3 *",
             "result": "*",
             "fen": "3r2k1/p4pp1/3b2rp/3p3q/4n3/BP1Q1N1P/P3RPP1/4RK2 b - - 1 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r2k1/p4pp1/3b2rp/3p3q/4n3/BP1Q1N1P/P3RPP1/4RK2 b - - 1 1"
     },
     {
         "id": 10024,
@@ -213,7 +227,8 @@
             "moves": "1.Kxg2 Bh3+ 2.Kg1 Qd5 3.f3 *",
             "result": "*",
             "fen": "2kr1b2/pppq1p1p/2n1bp2/8/3P4/3BB3/PQP1NPrP/R4RK1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2kr1b2/pppq1p1p/2n1bp2/8/3P4/3BB3/PQP1NPrP/R4RK1 w - - 0 1"
     },
     {
         "id": 10056,
@@ -227,7 +242,8 @@
             "moves": "1.Rxf7 Rxf7 2.Nxf7+ Kh7 3.c7 Qf8 4.Be6 Rc4 5.Bxc4 *",
             "result": "*",
             "fen": "5r1k/pp3pq1/2P3pp/4N3/3r4/1B3R2/PP3PPP/R5K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5r1k/pp3pq1/2P3pp/4N3/3r4/1B3R2/PP3PPP/R5K1 w - - 0 1"
     },
     {
         "id": 10058,
@@ -244,7 +260,8 @@
             "black": "Study",
             "result": "*",
             "fen": "6n1/3BBp2/P6p/4P2k/4P3/K7/6Pp/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6n1/3BBp2/P6p/4P2k/4P3/K7/6Pp/8 w - - 0 1"
     },
     {
         "id": 10054,
@@ -258,7 +275,8 @@
             "moves": "1.Nxe4 fxe4 2.fxe3 Qh4+ 3.Kd2 *",
             "result": "*",
             "fen": "rnbq1rk1/ppp3pp/8/3pPp2/4n3/PPN1b2P/1BP2PP1/R2QKBNR w KQ - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=rnbq1rk1/ppp3pp/8/3pPp2/4n3/PPN1b2P/1BP2PP1/R2QKBNR w KQ - 0 1"
     },
     {
         "id": 10048,
@@ -272,7 +290,8 @@
             "moves": "1...Rg8 2.Nxe6 Kxe6 3.Rg1 Rxg1 4.a8=Q Rg4# 0-1",
             "result": "*",
             "fen": "r7/P3k3/2p1p3/2NpP3/3PpK2/4P3/4b3/R7 b - - 1 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r7/P3k3/2p1p3/2NpP3/3PpK2/4P3/4b3/R7 b - - 1 1"
     },
     {
         "id": 10050,
@@ -286,7 +305,8 @@
             "moves": "1.Nxc7+ Qxc7 2.Qf7+ Kd8 3.Qf8# *",
             "result": "*",
             "fen": "r1bqk1nr/2ppb1pp/p7/3Np1B1/1p1n4/1B3Q2/PPP2PPP/R3K2R w KQkq - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1bqk1nr/2ppb1pp/p7/3Np1B1/1p1n4/1B3Q2/PPP2PPP/R3K2R w KQkq - 0 1"
     },
     {
         "id": 10032,
@@ -308,7 +328,8 @@
             "whiteelo": "2450",
             "blackelo": "2554",
             "fen": "4R3/1b4pk/4p1p1/4b3/P7/4B2P/2p3P1/5K2 b - - 1 44"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4R3/1b4pk/4p1p1/4b3/P7/4B2P/2p3P1/5K2 b - - 1 44"
     },
     {
         "id": 10034,
@@ -322,7 +343,8 @@
             "moves": "1...f2+ 2.Raxf2 Qg2+ 3.Rxg2 Nh3+ 4.Kh1 Rxf1+ 5.Rg1 Rxg1# *",
             "result": "*",
             "fen": "1r3rk1/1p6/p2P3p/P3p3/5np1/2BPPp1q/R6P/1Q1B1RK1 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r3rk1/1p6/p2P3p/P3p3/5np1/2BPPp1q/R6P/1Q1B1RK1 b - - 0 1"
     },
     {
         "id": 10060,
@@ -336,7 +358,8 @@
             "moves": "1...b5+ 2.Kxc5 Kd7 3.e6+ fxe6 4.fxe6+ Rxe6 5.Rf7+ Re7 6.Rxe7+ Bxe7# *",
             "result": "*",
             "fen": "2kbr3/pp3p2/2p3p1/2n1PPp1/2KBP1P1/1P4NP/nP4B1/5R2 b - - 1 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2kbr3/pp3p2/2p3p1/2n1PPp1/2KBP1P1/1P4NP/nP4B1/5R2 b - - 1 1"
     },
     {
         "id": 10064,
@@ -350,7 +373,8 @@
             "moves": "Qe1# 0-1",
             "result": "*",
             "fen": "8/6P1/2k5/P7/4p3/2Kn4/3Np3/8 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/6P1/2k5/P7/4p3/2Kn4/3Np3/8 b - - 0 1"
     },
     {
         "id": 10062,
@@ -364,7 +388,8 @@
             "moves": "1...Qe3+ 2.Kg2 Nxc3 *",
             "result": "*",
             "fen": "5r2/3rkpQ1/4q3/pRp5/P7/2B2PP1/2P1p2P/3nR1K1 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5r2/3rkpQ1/4q3/pRp5/P7/2B2PP1/2P1p2P/3nR1K1 b - - 0 1"
     },
     {
         "id": 10052,
@@ -378,7 +403,8 @@
             "moves": "1...Bc8 2.Kb5 Ba6+ 3.Kc6 Bxe2 4.Bxc5 dxc5 *",
             "result": "*",
             "fen": "3k4/3b1pbp/3p2p1/p1nP4/1pK5/1P2B1P1/P3N1BP/8 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3k4/3b1pbp/3p2p1/p1nP4/1pK5/1P2B1P1/P3N1BP/8 b - - 0 1"
     },
     {
         "id": 10040,
@@ -392,7 +418,8 @@
             "moves": "1.Rxg7+ Kh8 2.Qxf7 d1=Q+ 3.Kh2 Q1d6+ 4.g3 *",
             "result": "*",
             "fen": "3q2k1/1b3rpp/p3Qb1B/1p6/4p3/P5RP/3p1RP1/6K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3q2k1/1b3rpp/p3Qb1B/1p6/4p3/P5RP/3p1RP1/6K1 w - - 0 1"
     },
     {
         "id": 10036,
@@ -406,7 +433,8 @@
             "moves": "1.Nxf6+ gxf6 2.Qd5+ Kg7 3.Bxf6+ *",
             "result": "*",
             "fen": "1q1rr1k1/6pp/p2b1pn1/1p3Q2/1P1BN3/P1P2R2/6PP/3R2K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1q1rr1k1/6pp/p2b1pn1/1p3Q2/1P1BN3/P1P2R2/6PP/3R2K1 w - - 0 1"
     },
     {
         "id": 10042,
@@ -420,7 +448,8 @@
             "moves": "1.Nf6+ gxf6 2.Rg3+ Kh8 3.Nxf7+ Rxf7 4.Rc8+ Qd8 5.Rxd8+ Rf8 6.Rxf8# *",
             "result": "*",
             "fen": "rb3rk1/1p3ppp/p3p3/2R1N3/3qN3/2R4P/bP2QPP1/6K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=rb3rk1/1p3ppp/p3p3/2R1N3/3qN3/2R4P/bP2QPP1/6K1 w - - 0 1"
     },
     {
         "id": 10046,
@@ -434,6 +463,7 @@
             "moves": "1.Re1+ Kd8 2.Qe7+ Kc8 3.Qe8+ Rxe8 4.Rxe8# 1-0",
             "result": "*",
             "fen": "r3k2r/2pn4/p6p/1pQ3p1/3P4/3q4/PP3PB1/2R3K1 w kq - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r3k2r/2pn4/p6p/1pQ3p1/3P4/3q4/PP3PB1/2R3K1 w kq - 0 1"
     }
 ]

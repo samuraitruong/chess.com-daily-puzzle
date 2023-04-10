@@ -9,12 +9,13 @@
             "author_id": "114a38e6-2baf-11e0-8042-000000000000"
         },
         "comment_count": 317,
-        "solved_count": 1493,
+        "solved_count": 1497,
         "parsed": {
             "moves": "1.Nd6+ Kg8 2.Bxe6# *",
             "result": "*",
             "fen": "r6r/p3nk1p/nqp1b1pB/1p2Pp2/4N3/1B4P1/PPP2P1P/R3K2R w KQ - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r6r/p3nk1p/nqp1b1pB/1p2Pp2/4N3/1B4P1/PPP2P1P/R3K2R w KQ - 0 1"
     },
     {
         "id": 10313,
@@ -26,12 +27,13 @@
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
         "comment_count": 294,
-        "solved_count": 1406,
+        "solved_count": 1410,
         "parsed": {
             "moves": "1...Qg1+ 2.Ke2 Bg4+ 3.f3 Bxf3+ 4.Kxf3 Qxd1+ *",
             "result": "*",
             "fen": "1rb2r1k/6p1/1p1N1pqp/p7/2R1P3/P7/PR1B1P1P/3QK3 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1rb2r1k/6p1/1p1N1pqp/p7/2R1P3/P7/PR1B1P1P/3QK3 b - - 0 1"
     },
     {
         "id": 10315,
@@ -43,12 +45,13 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 234,
-        "solved_count": 1362,
+        "solved_count": 1365,
         "parsed": {
             "moves": "1.Qd8+ Kg7 2.Ne8+ Rxe8 3.Qxh4 *",
             "result": "*",
             "fen": "r1b2k1r/ppn2p2/2p2Np1/2n1P2p/7q/2P3pP/P1PQ2B1/3RR1K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b2k1r/ppn2p2/2p2Np1/2n1P2p/7q/2P3pP/P1PQ2B1/3RR1K1 w - - 0 1"
     },
     {
         "id": 10317,
@@ -60,12 +63,13 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 309,
-        "solved_count": 1363,
+        "solved_count": 1366,
         "parsed": {
             "moves": "Kc1 Rc2+ 8.Kd1 Rgd2# *",
             "result": "*",
             "fen": "7k/1P4p1/7p/5p2/4p3/r2r2PP/q4P2/1RQ1R1K1 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7k/1P4p1/7p/5p2/4p3/r2r2PP/q4P2/1RQ1R1K1 b - - 0 1"
     },
     {
         "id": 10319,
@@ -77,7 +81,7 @@
             "author_id": "114a38e6-2baf-11e0-8042-000000000000"
         },
         "comment_count": 530,
-        "solved_count": 1375,
+        "solved_count": 1378,
         "parsed": {
             "moves": "f8=N+ Kf7 8.Nxd7 *",
             "date": "1930",
@@ -85,7 +89,8 @@
             "black": "Study",
             "result": "*",
             "fen": "8/3r1P1P/Rp4N1/8/2n3kN/1p6/1P4PP/K7 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/3r1P1P/Rp4N1/8/2n3kN/1p6/1P4PP/K7 w - - 0 1"
     },
     {
         "id": 10321,
@@ -97,12 +102,13 @@
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
         "comment_count": 223,
-        "solved_count": 1318,
+        "solved_count": 1320,
         "parsed": {
             "moves": "1.Rxa5 Nxa5 2.Bb6 Rd1 3.Bxa5 *",
             "result": "*",
             "fen": "3rb3/5pk1/2n1pn1p/rp3Pp1/6P1/1P2B2P/2R3BK/R3N3 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3rb3/5pk1/2n1pn1p/rp3Pp1/6P1/1P2B2P/2R3BK/R3N3 w - - 0 1"
     },
     {
         "id": 10323,
@@ -114,12 +120,13 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 221,
-        "solved_count": 1296,
+        "solved_count": 1298,
         "parsed": {
             "moves": "1.Nxd4 exd4 2.Nd5 Qd8 3.Bxg4 *",
             "result": "*",
             "fen": "r3k2r/1pp2pb1/p2p1qpp/4p3/P2nP1b1/2N2NP1/1PPQBP1P/R3R1K1 w kq - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r3k2r/1pp2pb1/p2p1qpp/4p3/P2nP1b1/2N2NP1/1PPQBP1P/R3R1K1 w kq - 0 1"
     },
     {
         "id": 10393,
@@ -131,12 +138,13 @@
             "author_id": "114a38e6-2baf-11e0-8042-000000000000"
         },
         "comment_count": 985,
-        "solved_count": 1288,
+        "solved_count": 1290,
         "parsed": {
             "moves": "1.dxe6# 1-0",
             "result": "1-0",
             "fen": "r1rnqb2/1R3pkp/3p2pN/p2Pp3/b2BP3/7P/P2Q2P1/5RK1 w - e6 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1rnqb2/1R3pkp/3p2pN/p2Pp3/b2BP3/7P/P2Q2P1/5RK1 w - e6 0 1"
     },
     {
         "id": 10327,
@@ -148,12 +156,13 @@
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
         "comment_count": 228,
-        "solved_count": 1284,
+        "solved_count": 1286,
         "parsed": {
             "moves": "1.Nxd5 Nxd5 2.Bg2 Nb4 3.Bxa8 Nxa2 4.Bd5 Rf8 5.Bxa2 *",
             "result": "*",
             "fen": "r6k/p4rbp/1p1p1np1/3n1p2/3P3N/2N3P1/RP3P1P/4RBK1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r6k/p4rbp/1p1p1np1/3n1p2/3P3N/2N3P1/RP3P1P/4RBK1 w - - 0 1"
     },
     {
         "id": 10329,
@@ -165,12 +174,13 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 300,
-        "solved_count": 1278,
+        "solved_count": 1280,
         "parsed": {
             "moves": "1.Rxb8 Rxb8 2.Rd6 Rc8 3.Ra6 *",
             "result": "*",
             "fen": "1rr3k1/1R3ppp/4p3/n3q3/1Q6/5BP1/4PP1P/3R2K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1rr3k1/1R3ppp/4p3/n3q3/1Q6/5BP1/4PP1P/3R2K1 w - - 0 1"
     },
     {
         "id": 10331,
@@ -182,12 +192,13 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 363,
-        "solved_count": 1388,
+        "solved_count": 1390,
         "parsed": {
             "moves": "1.Rh8+ Kxh8 2.Rh3+ Kg8 3.Rh8+ Kxh8 4.Qh1+ Kg8 5.Qh7+ Kf8 6.Qh8# *",
             "result": "*",
             "fen": "4q1k1/1r2rpp1/1n4P1/1nbQP3/6P1/1pB1NR2/1P2B3/K6R w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4q1k1/1r2rpp1/1n4P1/1nbQP3/6P1/1pB1NR2/1P2B3/K6R w - - 0 1"
     },
     {
         "id": 10333,
@@ -199,7 +210,7 @@
             "author_id": "114a38e6-2baf-11e0-8042-000000000000"
         },
         "comment_count": 211,
-        "solved_count": 1286,
+        "solved_count": 1289,
         "parsed": {
             "moves": "27...hxg2+ 28.Qxg2 Ng3+ 29.Rxg3 Rh8+ 30.Rh3 Rxh3+ 31.Qxh3 Bxh3 0-1",
             "event": "39th World Open",
@@ -212,7 +223,8 @@
             "whiteelo": "2376",
             "blackelo": "2243",
             "fen": "r1b2kr1/p3bp2/6R1/3QN2n/3P4/3BP2p/P3NqP1/1R5K b - - 1 27"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b2kr1/p3bp2/6R1/3QN2n/3P4/3BP2p/P3NqP1/1R5K b - - 1 27"
     },
     {
         "id": 10335,
@@ -224,12 +236,13 @@
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
         "comment_count": 249,
-        "solved_count": 1263,
+        "solved_count": 1265,
         "parsed": {
             "moves": "1.Nxc6 Qxa1 2.Ne7+ Kh7 3.Rxa1 *",
             "result": "*",
             "fen": "5rk1/1pp2pp1/2n3p1/4q3/2PN3r/1P5P/5RP1/Q4RK1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5rk1/1pp2pp1/2n3p1/4q3/2PN3r/1P5P/5RP1/Q4RK1 w - - 0 1"
     },
     {
         "id": 10337,
@@ -241,12 +254,13 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 276,
-        "solved_count": 1229,
+        "solved_count": 1231,
         "parsed": {
             "moves": "1...Bxa3 2.Nxa3 Qa5+ 3.Qd2 Qxa3 *",
             "result": "*",
             "fen": "r1bqrbk1/pp3pp1/5nnp/3Pp3/7P/BP1PP1P1/P3NPB1/RN1QK2R b KQ - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1bqrbk1/pp3pp1/5nnp/3Pp3/7P/BP1PP1P1/P3NPB1/RN1QK2R b KQ - 0 1"
     },
     {
         "id": 10339,
@@ -258,12 +272,13 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 326,
-        "solved_count": 1247,
+        "solved_count": 1249,
         "parsed": {
             "moves": "1.Bb8 Qd5 2.Qxe7 *",
             "result": "*",
             "fen": "r2q2k1/1Q2bppp/4p3/p7/P2r1B2/6P1/5P1P/1R3RK1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r2q2k1/1Q2bppp/4p3/p7/P2r1B2/6P1/5P1P/1R3RK1 w - - 0 1"
     },
     {
         "id": 10341,
@@ -275,12 +290,13 @@
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
         "comment_count": 254,
-        "solved_count": 1247,
+        "solved_count": 1248,
         "parsed": {
             "moves": "1.Bxc6 Bxc6 2.dxe5 dxe5 3.Qxd8 Raxd8 4.Bxf6 *",
             "result": "*",
             "fen": "r2qrbk1/1ppb1p1p/p1np1np1/4p1B1/B2PP3/2P2N1P/PP3PP1/RN1QR1K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r2qrbk1/1ppb1p1p/p1np1np1/4p1B1/B2PP3/2P2N1P/PP3PP1/RN1QR1K1 w - - 0 1"
     },
     {
         "id": 10347,
@@ -297,7 +313,8 @@
             "moves": "1.Bg7+ Kxg7 2.Qg5+ Kh8 3.Qg8# *",
             "result": "*",
             "fen": "r2q1b1k/pbp2r2/1p1p1N1B/n1nPpQ2/8/2R1P3/PP3PPP/5RK1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r2q1b1k/pbp2r2/1p1p1N1B/n1nPpQ2/8/2R1P3/PP3PPP/5RK1 w - - 0 1"
     },
     {
         "id": 10343,
@@ -314,7 +331,8 @@
             "moves": "1.Bxf7+ Kxf7 2.Ne5+ Kg8 3.Rxf8+ Kxf8 4.Bh6+ Ke8 5.f7+ Ke7 6.f8=Q+ *",
             "result": "*",
             "fen": "r1b1Rbk1/1p3r1p/pnp2Pp1/6Bp/2B4P/P4NP1/8/3K4 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b1Rbk1/1p3r1p/pnp2Pp1/6Bp/2B4P/P4NP1/8/3K4 w - - 0 1"
     },
     {
         "id": 10345,
@@ -331,7 +349,8 @@
             "moves": "1...Kb4 2.Kf6 Kc3 3.Ke5 Kd3 4.Rh8 c3 5.Rh3+ Kd2 6.Kd4 c2 7.Rh2+ Kd1 8.Kd3 c1=N+ 9.Kc3 Ne2+ *",
             "result": "*",
             "fen": "2R5/6K1/8/1k6/2p5/8/8/8 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2R5/6K1/8/1k6/2p5/8/8/8 b - - 0 1"
     },
     {
         "id": 10353,
@@ -348,7 +367,8 @@
             "moves": "1.Qd4 e5 2.Qxc4 *",
             "result": "*",
             "fen": "4r1k1/5ppp/p3p3/b6q/2b1P3/4RNP1/5PP1/B2Q2K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4r1k1/5ppp/p3p3/b6q/2b1P3/4RNP1/5PP1/B2Q2K1 w - - 0 1"
     },
     {
         "id": 10351,
@@ -365,7 +385,8 @@
             "moves": "1.Qxd5+ Kh8 2.Qa8+ Bd8 3.Qxd8+ *",
             "result": "*",
             "fen": "6k1/3Q3p/5bpB/3p1p2/p2P4/1pP5/1P2q1P1/7K w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/3Q3p/5bpB/3p1p2/p2P4/1pP5/1P2q1P1/7K w - - 0 1"
     },
     {
         "id": 10349,
@@ -382,7 +403,8 @@
             "moves": "1...Bf5 2.Qd5 Bg6 3.Qb7 Bxb1 *",
             "result": "*",
             "fen": "r1b2q1k/6pp/8/1p5r/pP2Q3/4PPB1/6PP/1RR3K1 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b2q1k/6pp/8/1p5r/pP2Q3/4PPB1/6PP/1RR3K1 b - - 0 1"
     },
     {
         "id": 10355,
@@ -396,7 +418,8 @@
             "moves": "1...Rxe7 2.Qxe7 Bxd4 3.Qd6 Be3 *",
             "result": "*",
             "fen": "1r2r3/p3Rpbk/6bp/6p1/1p1N2P1/1P5P/P3Q1PK/8 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r2r3/p3Rpbk/6bp/6p1/1p1N2P1/1P5P/P3Q1PK/8 b - - 0 1"
     },
     {
         "id": 10359,
@@ -413,7 +436,8 @@
             "moves": "1.g6+ Kh8 2.Nh6 Bc5 3.Qg8+ Rxg8 4.Nf7# *",
             "result": "*",
             "fen": "4rb2/p4Qnk/1qp5/3n1NPp/4r3/P3P3/1P4RP/2B3K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4rb2/p4Qnk/1qp5/3n1NPp/4r3/P3P3/1P4RP/2B3K1 w - - 0 1"
     },
     {
         "id": 10361,
@@ -430,7 +454,8 @@
             "moves": "1...e2 2.Qd7 Nf6 3.Qxe8+ Nxe8 *",
             "result": "*",
             "fen": "1k2r3/ppp2Npp/8/5Q2/3B2n1/3Pp2b/PPP3qP/1K1R1R2 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1k2r3/ppp2Npp/8/5Q2/3B2n1/3Pp2b/PPP3qP/1K1R1R2 b - - 0 1"
     },
     {
         "id": 10357,
@@ -455,7 +480,8 @@
             "eco": "B14",
             "plycount": "66",
             "fen": "r4rk1/1b2qNpp/p7/1p3Q2/3P4/1B6/P5PP/3n1RK1 b - - 0 21"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r4rk1/1b2qNpp/p7/1p3Q2/3P4/1B6/P5PP/3n1RK1 b - - 0 21"
     },
     {
         "id": 10363,
@@ -472,7 +498,8 @@
             "moves": "1...f4 2.gxf4 gxf4 3.Re4 Rf5 *",
             "result": "*",
             "fen": "5rk1/1pp3b1/np5p/4Npp1/BPP5/P3RPP1/1K5P/8 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5rk1/1pp3b1/np5p/4Npp1/BPP5/P3RPP1/1K5P/8 b - - 0 1"
     },
     {
         "id": 10365,
@@ -489,7 +516,8 @@
             "moves": "1...Bd7 2.Qf4 g5 3.Qf3 Bg4 4.Qxg4 Nxg4 *",
             "result": "*",
             "fen": "r1r3k1/4qpp1/5n1p/1bpp1Q2/p7/P2PP1P1/1PRN1PBP/2R3K1 b - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1r3k1/4qpp1/5n1p/1bpp1Q2/p7/P2PP1P1/1PRN1PBP/2R3K1 b - - 0 1"
     },
     {
         "id": 10367,
@@ -506,7 +534,8 @@
             "moves": "1.Nge4+ Kh8 2.Qg8+ Rxg8 3.Rxg8# *",
             "result": "*",
             "fen": "5r2/p2b1rkp/1bB2N2/1P3pN1/1q3K2/6QP/3n1P2/6R1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5r2/p2b1rkp/1bB2N2/1P3pN1/1q3K2/6QP/3n1P2/6R1 w - - 0 1"
     },
     {
         "id": 10369,
@@ -518,7 +547,7 @@
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
         "comment_count": 320,
-        "solved_count": 1250,
+        "solved_count": 1251,
         "parsed": {
             "moves": "27.Qh8+ Kxh8 28.Nxf7+ Kg8 29.Nxe5 *",
             "event": "Euwe - Alekhine World Championship Rematch",
@@ -531,6 +560,7 @@
             "eco": "E02",
             "plycount": "129",
             "fen": "6k1/4bpp1/p1b1pn2/1p2q1N1/1P5Q/2N3P1/PB2PP1P/6K1 w - - 5 27"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/4bpp1/p1b1pn2/1p2q1N1/1P5Q/2N3P1/PB2PP1P/6K1 w - - 5 27"
     }
 ]

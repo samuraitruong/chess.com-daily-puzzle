@@ -11,7 +11,8 @@
             "moves": "1.Rxh8+ Kxh8 2.Nxf7+ Kg7 3.Nxd6 *",
             "result": "*",
             "fen": "1r4kb/1p2nr2/p2qp1p1/4NpQ1/3P4/3B2P1/PP3P2/1K5R w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r4kb/1p2nr2/p2qp1p1/4NpQ1/3P4/3B2P1/PP3P2/1K5R w - - 0 1"
     },
     {
         "id": 8316,
@@ -26,7 +27,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "r2q2rk/pb3p1p/2n4Q/5N2/8/8/PP3PPP/R3R1K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r2q2rk/pb3p1p/2n4Q/5N2/8/8/PP3PPP/R3R1K1 w - - 0 1"
     },
     {
         "id": 8318,
@@ -41,7 +43,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "8/1q6/8/8/p7/k7/8/K3BR2 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/1q6/8/8/p7/k7/8/K3BR2 w - - 0 1"
     },
     {
         "id": 8320,
@@ -56,7 +59,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "7k/8/7b/4PK2/8/8/8/B7 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7k/8/7b/4PK2/8/8/8/B7 w - - 0 1"
     },
     {
         "id": 9038,
@@ -70,7 +74,8 @@
             "moves": "2. Bf7+ Kg4 3. Kg2 Qxc6 4. Bc4 Kh5 5. Be2+ Kg6 6. Ne7+ Kf7 7. Nxc6 1-0",
             "result": "1-0",
             "fen": "2q2nN1/8/2P5/3B1p1k/4pP2/4p1P1/8/5K2 w - - 0 2"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2q2nN1/8/2P5/3B1p1k/4pP2/4p1P1/8/5K2 w - - 0 2"
     },
     {
         "id": 8322,
@@ -85,7 +90,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "8/2k5/2P5/nK6/5N2/8/8/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/2k5/2P5/nK6/5N2/8/8/8 w - - 0 1"
     },
     {
         "id": 8324,
@@ -100,7 +106,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "rnbqkb1r/3nppp1/p2p3p/1p1N2B1/3NP3/7P/PPP2PP1/R2QKB1R w KQkq - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=rnbqkb1r/3nppp1/p2p3p/1p1N2B1/3NP3/7P/PPP2PP1/R2QKB1R w KQkq - 0 1"
     },
     {
         "id": 8326,
@@ -115,7 +122,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "kn6/2Q5/r1pR4/p3P3/1pK1Pq2/5r2/PPPR4/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=kn6/2Q5/r1pR4/p3P3/1pK1Pq2/5r2/PPPR4/8 w - - 0 1"
     },
     {
         "id": 8328,
@@ -130,7 +138,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "r1b1kb1r/1pqp2pp/p1n1pp2/4P3/2B2Bn1/2N2N2/PP2QPPP/R4RK1 w kq - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b1kb1r/1pqp2pp/p1n1pp2/4P3/2B2Bn1/2N2N2/PP2QPPP/R4RK1 w kq - 0 1"
     },
     {
         "id": 8330,
@@ -145,7 +154,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "2r1R3/1Qq2pkp/1n4p1/1P4N1/8/8/5P2/6K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r1R3/1Qq2pkp/1n4p1/1P4N1/8/8/5P2/6K1 w - - 0 1"
     },
     {
         "id": 8332,
@@ -160,7 +170,8 @@
             "date": "????.??.??",
             "result": "*",
             "fen": "8/2p5/6P1/7P/5k2/5PRK/8/5q2 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/2p5/6P1/7P/5k2/5PRK/8/5q2 w - - 0 1"
     },
     {
         "id": 8334,
@@ -169,13 +180,14 @@
         "date": "2019-01-11",
         "video": [],
         "comment_count": 4,
-        "solved_count": 160,
+        "solved_count": 161,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "6B1/8/1p1k4/1p1P4/1K6/7p/8/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6B1/8/1p1k4/1p1P4/1K6/7p/8/8 w - - 0 1"
     },
     {
         "id": 8336,
@@ -184,13 +196,14 @@
         "date": "2019-01-12",
         "video": [],
         "comment_count": 1,
-        "solved_count": 154,
+        "solved_count": 155,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/3Pk1p1/8/1K3Pp1/8/8/8/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/3Pk1p1/8/1K3Pp1/8/8/8/8 w - - 0 1"
     },
     {
         "id": 8340,
@@ -199,13 +212,14 @@
         "date": "2019-01-13",
         "video": [],
         "comment_count": 3,
-        "solved_count": 159,
+        "solved_count": 160,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "6k1/6pp/1p2p3/p1pN4/4P3/1qP2RPP/6BK/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/6pp/1p2p3/p1pN4/4P3/1qP2RPP/6BK/8 w - - 0 1"
     },
     {
         "id": 8338,
@@ -214,13 +228,14 @@
         "date": "2019-01-14",
         "video": [],
         "comment_count": 2,
-        "solved_count": 160,
+        "solved_count": 161,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "1k1rr1n1/ppp5/1q3b2/QP1p1pp1/1P3B2/2PBPP2/3K1P2/R6R w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1k1rr1n1/ppp5/1q3b2/QP1p1pp1/1P3B2/2PBPP2/3K1P2/R6R w - - 0 1"
     },
     {
         "id": 8342,
@@ -229,13 +244,14 @@
         "date": "2019-01-15",
         "video": [],
         "comment_count": 1,
-        "solved_count": 151,
+        "solved_count": 152,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "2kr1b1r/pppn3p/6pP/3p1nP1/8/5p2/P1qNQP1B/1RR3K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2kr1b1r/pppn3p/6pP/3p1nP1/8/5p2/P1qNQP1B/1RR3K1 w - - 0 1"
     },
     {
         "id": 8344,
@@ -244,13 +260,14 @@
         "date": "2019-01-16",
         "video": [],
         "comment_count": 1,
-        "solved_count": 155,
+        "solved_count": 156,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "4k3/5p2/8/3bq3/6Q1/8/5B2/5K2 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4k3/5p2/8/3bq3/6Q1/8/5B2/5K2 w - - 0 1"
     },
     {
         "id": 8346,
@@ -259,13 +276,14 @@
         "date": "2019-01-17",
         "video": [],
         "comment_count": 1,
-        "solved_count": 153,
+        "solved_count": 154,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "2kr4/Qpq2p2/3np1p1/7p/8/1PP3N1/5PPP/3R2K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2kr4/Qpq2p2/3np1p1/7p/8/1PP3N1/5PPP/3R2K1 w - - 0 1"
     },
     {
         "id": 8348,
@@ -274,13 +292,14 @@
         "date": "2019-01-18",
         "video": [],
         "comment_count": 1,
-        "solved_count": 148,
+        "solved_count": 149,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "5B2/2kr4/5P2/8/6P1/8/8/2K5 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5B2/2kr4/5P2/8/6P1/8/8/2K5 w - - 0 1"
     },
     {
         "id": 8350,
@@ -289,13 +308,14 @@
         "date": "2019-01-19",
         "video": [],
         "comment_count": 1,
-        "solved_count": 146,
+        "solved_count": 147,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "5R1b/2n5/8/3P4/6p1/3k4/6K1/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5R1b/2n5/8/3P4/6p1/3k4/6K1/8 w - - 0 1"
     },
     {
         "id": 8354,
@@ -304,13 +324,14 @@
         "date": "2019-01-20",
         "video": [],
         "comment_count": 1,
-        "solved_count": 151,
+        "solved_count": 152,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "r1b1kb1r/ppp2ppp/2n2n2/6B1/Q3q3/8/PPP2PPP/2KR1BNR w kq - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b1kb1r/ppp2ppp/2n2n2/6B1/Q3q3/8/PPP2PPP/2KR1BNR w kq - 0 1"
     },
     {
         "id": 8352,
@@ -319,13 +340,14 @@
         "date": "2019-01-21",
         "video": [],
         "comment_count": 1,
-        "solved_count": 154,
+        "solved_count": 155,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "4B3/7p/6p1/4k3/6PP/8/8/1K6 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4B3/7p/6p1/4k3/6PP/8/8/1K6 w - - 0 1"
     },
     {
         "id": 8356,
@@ -334,13 +356,14 @@
         "date": "2019-01-22",
         "video": [],
         "comment_count": 1,
-        "solved_count": 147,
+        "solved_count": 148,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "1k2r3/ppp2q2/P7/2Pp3p/6p1/2PPRp2/2Q2PPP/6K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1k2r3/ppp2q2/P7/2Pp3p/6p1/2PPRp2/2Q2PPP/6K1 w - - 0 1"
     },
     {
         "id": 8358,
@@ -349,13 +372,14 @@
         "date": "2019-01-23",
         "video": [],
         "comment_count": 1,
-        "solved_count": 145,
+        "solved_count": 146,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "6r1/1q2bpkp/p1N2p2/1p2pQ2/1P2P3/P1R4P/6P1/6K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6r1/1q2bpkp/p1N2p2/1p2pQ2/1P2P3/P1R4P/6P1/6K1 w - - 0 1"
     },
     {
         "id": 8360,
@@ -364,13 +388,14 @@
         "date": "2019-01-24",
         "video": [],
         "comment_count": 1,
-        "solved_count": 140,
+        "solved_count": 141,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "3qr1k1/5pp1/1p5p/r1ppPN1P/3n2R1/6P1/P1Q2PK1/R7 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3qr1k1/5pp1/1p5p/r1ppPN1P/3n2R1/6P1/P1Q2PK1/R7 w - - 0 1"
     },
     {
         "id": 8362,
@@ -379,13 +404,14 @@
         "date": "2019-01-25",
         "video": [],
         "comment_count": 1,
-        "solved_count": 142,
+        "solved_count": 143,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "2rk4/1p3bQ1/pq1p4/1B1PnPP1/3N4/1PP5/1K6/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2rk4/1p3bQ1/pq1p4/1B1PnPP1/3N4/1PP5/1K6/8 w - - 0 1"
     },
     {
         "id": 8364,
@@ -394,13 +420,14 @@
         "date": "2019-01-26",
         "video": [],
         "comment_count": 1,
-        "solved_count": 141,
+        "solved_count": 142,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/b2p1b2/K7/8/1B2k3/8/R7/8 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/b2p1b2/K7/8/1B2k3/8/R7/8 w - - 0 1"
     },
     {
         "id": 8366,
@@ -409,13 +436,14 @@
         "date": "2019-01-27",
         "video": [],
         "comment_count": 1,
-        "solved_count": 146,
+        "solved_count": 147,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "5r2/3n1pk1/p2P3p/2pNPR2/3b1B2/pr6/6K1/3R4 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5r2/3n1pk1/p2P3p/2pNPR2/3b1B2/pr6/6K1/3R4 w - - 0 1"
     },
     {
         "id": 8368,
@@ -424,13 +452,14 @@
         "date": "2019-01-28",
         "video": [],
         "comment_count": 2,
-        "solved_count": 150,
+        "solved_count": 151,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "r7/8/8/5PK1/8/1k6/8/8 w q - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r7/8/8/5PK1/8/1k6/8/8 w q - 0 1"
     },
     {
         "id": 8370,
@@ -439,13 +468,14 @@
         "date": "2019-01-29",
         "video": [],
         "comment_count": 1,
-        "solved_count": 140,
+        "solved_count": 141,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "1r4k1/pr3ppp/6b1/8/6B1/8/P4PPP/2R1R1K1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r4k1/pr3ppp/6b1/8/6B1/8/P4PPP/2R1R1K1 w - - 0 1"
     },
     {
         "id": 8372,
@@ -454,13 +484,14 @@
         "date": "2019-01-30",
         "video": [],
         "comment_count": 1,
-        "solved_count": 142,
+        "solved_count": 143,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "3r1r2/ppq1bppk/2n4p/P1pnpP2/2Np2Q1/3P2P1/1PP2PBP/R1B2RK1 w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r1r2/ppq1bppk/2n4p/P1pnpP2/2Np2Q1/3P2P1/1PP2PBP/R1B2RK1 w - - 0 1"
     },
     {
         "id": 8373,
@@ -469,12 +500,13 @@
         "date": "2019-01-31",
         "video": [],
         "comment_count": 1,
-        "solved_count": 148,
+        "solved_count": 149,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
             "result": "*",
             "fen": "r6k/P5b1/3p1n2/3qpQ1p/5p2/3B1P2/5B1P/6RK w - - 0 1"
-        }
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r6k/P5b1/3p1n2/3qpQ1p/5p2/3B1P2/5B1P/6RK w - - 0 1"
     }
 ]
