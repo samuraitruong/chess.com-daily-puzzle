@@ -22,6 +22,7 @@ function parsePgn(pgn) {
       data[matches[1].toLowerCase()] = matches[2];
     }
   }
+
   return data;
 }
 async function fetchMonth(date) {
@@ -32,7 +33,9 @@ async function fetchMonth(date) {
   const url = `https://www.chess.com/callback/puzzles/daily?start=${start}&end=${end}`;
   const { data } = await axios.get(url);
   return data.map((item) => {
-    return { ...item, parsed: parsePgn(item.pgn) };
+    const parsed = parsePgn(item.pgn);
+    const viewerUrl = "https://chess-board.fly.dev/?fen=" + parsed.fen;
+    return { ...item, parsed, viewerUrl };
   });
 }
 async function main() {
