@@ -10,7 +10,7 @@ on:
     paths:
       - "job/**"
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "0 * * * *"
 env:
   CONCURRENT_REQUESTS: 3  
 jobs:
