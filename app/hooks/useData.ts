@@ -28,6 +28,10 @@ export function useData(date: Date) {
         const finddate =
           data.find((item: any) => item.date === format(date, "yyyy-MM-dd")) ||
           {};
+        if (finddate) {
+          const player = finddate.parsed.fen.includes(" b ") ? "b" : "w";
+          finddate.viewerUrl = `https://chess-board.fly.dev?fen=${finddate.parsed.fen}&viewer=${player}`;
+        }
         setData({
           viewerUrl: "https://chess-board.fly.dev/",
           title: "No data available please select another date",
