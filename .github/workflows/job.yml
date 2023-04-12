@@ -15,17 +15,22 @@ env:
   CONCURRENT_REQUESTS: 3  
 jobs:
   sycn:
+    defaults:
+      run:
+        working-directory: job
     permissions:
       contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: setup node
+        uses: actions/setup-node@v3
         with:
           node-version: 16
           cache: 'npm'
-      - run: npm ci --prefix job
-      - run: npm start --prefix job
+          cache-dependency-path: job
+      - run: npm ci
+      - run: npm start 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update daily puzzle files"

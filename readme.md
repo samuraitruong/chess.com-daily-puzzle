@@ -1,7 +1,7 @@
 ## Introduction
 This is a simple script to fetch all daily puzzles on chess.com. 
 
-
+### Job
 ```sh
 cd job
 
@@ -18,5 +18,11 @@ To pull all available puzzle
 npm start
 ```
 
-The puzzle will fetch month by month and stored in the puzzle folder as json format.
+The puzzle will fetch month by month and stored in the puzzle folder in JSON format.
 
+### UI
+
+```sh
+cd app
+npm run dev
+```
