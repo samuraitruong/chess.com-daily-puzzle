@@ -1,12 +1,14 @@
 # This workflow will run tests using node and then publish a package to GitHub Packages when a release is created
 # For more information see: https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages
 
-name: Sync
+name: Sync-Job
 
 on:
   push:
     branches:
       - main
+    paths:
+      - "job"
   schedule:
     - cron: "0 1 * * *"
 env:
@@ -22,8 +24,8 @@ jobs:
         with:
           node-version: 16
           cache: 'npm'
-      - run: npm ci
-      - run: npm start
+      - run: npm ci --prefix job
+      - run: npm start --prefix job
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update daily puzzle files"

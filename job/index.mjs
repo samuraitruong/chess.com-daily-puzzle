@@ -3,6 +3,7 @@ import asyncPool from "tiny-async-pool";
 import moment from "moment";
 import fs from "fs";
 import axiosRetry from "axios-retry";
+import path from "path";
 
 axiosRetry(axios, {
   retries: 10,
@@ -39,6 +40,7 @@ async function fetchMonth(date) {
   });
 }
 async function main() {
+  const puzzleDir = path.resolve("../puzzle");
   const CONCURRENT_REQUESTS = (process.env.CONCURRENT_REQUESTS || 10) * 1;
   // Month has first puzzle
   const firstMonth = moment("2007-04-01");
@@ -55,8 +57,10 @@ async function main() {
     const currentMonth = moment().subtract(+month, "months").endOf("month");
     const data = await fetchMonth(currentMonth);
     console.log(currentMonth.format("MM/YYYY"), data.length);
-    const key = `puzzle/${currentMonth.format("YYYY/YYYY-MM")}.json`;
-    fs.mkdirSync(`puzzle/${currentMonth.format("YYYY")}`, { recursive: true });
+    const key = `${puzzleDir}/${currentMonth.format("YYYY/YYYY-MM")}.json`;
+    fs.mkdirSync(`${puzzleDir}/${currentMonth.format("YYYY")}`, {
+      recursive: true,
+    });
     fs.writeFileSync(key, JSON.stringify(data, null, 4));
     return data;
   };
@@ -73,9 +77,13 @@ async function main() {
     return a.id - b.id;
   });
 
-  fs.writeFileSync("puzzle/all.json", JSON.stringify(sortedPuzzle, null, 4));
   fs.writeFileSync(
-    "puzzle/all.txt",
+    `${puzzleDir}/all.json`,
+    JSON.stringify(sortedPuzzle, null, 4)
+  );
+
+  fs.writeFileSync(
+    `${puzzleDir}/all.txt`,
     sortedPuzzle.map((x) => x.parsed.fen).join("\r\n")
   );
 }

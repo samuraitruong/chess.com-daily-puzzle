@@ -3,6 +3,7 @@ This is a simple script to fetch all daily puzzles on chess.com.
 
 
 ```sh
+cd job
 
 npm install
 
