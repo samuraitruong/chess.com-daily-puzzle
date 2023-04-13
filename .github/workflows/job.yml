@@ -11,6 +11,7 @@ on:
       - "job/**"
   schedule:
     - cron: "0 * * * *"
+    - cron: "5 * * * *"
 env:
   CONCURRENT_REQUESTS: 3  
 jobs:
