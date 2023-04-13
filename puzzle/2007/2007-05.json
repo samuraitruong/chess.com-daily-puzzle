@@ -2,17 +2,17 @@
     {
         "id": 19,
         "title": "Unstoppable mate...",
-        "pgn": "[FEN \"r1qnr2k/p4p1p/1p2p3/6Qp/3RR3/2P3P1/P4PKP/8 w - - 0 1\"]\r\n[PlyCount \"9\"]\r\n\r\n1. Rg4 hxg4 2. Rxg4 Qb7+ 3. Kg1 f5 4. Qf6+ Qg7 5. Qxg7# *",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r1qnr2k/1b3p1p/1p2p3/1Pp5/6Qp/PR2R2P/5PP1/6K1 w - - 0 1\"]\r\n\r\n1. Rg3 hxg3 2. Rxg3 Be4 3. Qg7# *",
         "date": "2007-05-08",
         "video": [],
         "comment_count": 158,
-        "solved_count": 1233,
+        "solved_count": 1234,
         "parsed": {
-            "moves": "1. Rg4 hxg4 2. Rxg4 Qb7+ 3. Kg1 f5 4. Qf6+ Qg7 5. Qxg7# *",
-            "fen": "r1qnr2k/p4p1p/1p2p3/6Qp/3RR3/2P3P1/P4PKP/8 w - - 0 1",
-            "plycount": "9"
+            "moves": "1. Rg3 hxg3 2. Rxg3 Be4 3. Qg7# *",
+            "result": "*",
+            "fen": "r1qnr2k/1b3p1p/1p2p3/1Pp5/6Qp/PR2R2P/5PP1/6K1 w - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=r1qnr2k/p4p1p/1p2p3/6Qp/3RR3/2P3P1/P4PKP/8 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1qnr2k/1b3p1p/1p2p3/1Pp5/6Qp/PR2R2P/5PP1/6K1 w - - 0 1"
     },
     {
         "id": 20,
@@ -50,7 +50,7 @@
         "date": "2007-05-11",
         "video": [],
         "comment_count": 17,
-        "solved_count": 429,
+        "solved_count": 430,
         "parsed": {
             "moves": "12. Nf6+ gxf6 13. Qxf8+ Kxf8 14. Bh6+ Kg8 15. Re8# *",
             "fen": "r1b2rk1/ppp2ppp/1b6/3q4/3pN3/Q4N2/PPP2KPP/R1B1R3 w - - 0 12",
@@ -65,7 +65,7 @@
         "date": "2007-05-12",
         "video": [],
         "comment_count": 16,
-        "solved_count": 399,
+        "solved_count": 400,
         "parsed": {
             "moves": "1. Qh6 $1 1... Rag8 2. Qxh7+ 2... Rxh7 3. Rxg8# *",
             "fen": "r6k/1q1n1prp/p3pN2/1p1b4/6RQ/6P1/PP2PP1P/3R2K1 w - - 0 1"
@@ -79,7 +79,7 @@
         "date": "2007-05-13",
         "video": [],
         "comment_count": 16,
-        "solved_count": 356,
+        "solved_count": 357,
         "parsed": {
             "moves": "Ng3+ Kg4 4. h3+ Kh4 5. Qe4+ Rf4 6. Qxf4# *",
             "fen": "r1b2r2/1p1nq1bk/1np1p1pp/p7/3PN2N/1P2B3/2Q1BPPP/2RR2K1 w - - 0 1",
@@ -94,7 +94,7 @@
         "date": "2007-05-14",
         "video": [],
         "comment_count": 15,
-        "solved_count": 329,
+        "solved_count": 330,
         "parsed": {
             "moves": "3. Rh8+ Kxh8 4. Qc8+ Be8 5. Qxe8+ Kh7 6. Bg8+ Kh8 7. Bf7+ Kh7 8. Qg8# *",
             "fen": "5R2/pp4pk/1q4bp/2bB4/6Q1/PP1p4/1BP3PP/6K1 w - - 0 1",
@@ -110,7 +110,7 @@
         "date": "2007-05-15",
         "video": [],
         "comment_count": 14,
-        "solved_count": 291,
+        "solved_count": 292,
         "parsed": {
             "moves": "Qh3+ Kxg5 6. f4# *",
             "fen": "r2r1bk1/3qp2p/3pp1p1/p2n2N1/2N3Q1/BP4P1/P4PP1/2R3K1 w - - 0 1",
@@ -126,7 +126,7 @@
         "date": "2007-05-16",
         "video": [],
         "comment_count": 20,
-        "solved_count": 263,
+        "solved_count": 264,
         "parsed": {
             "moves": "Kg5 10. Nxd4 e1=Q 11. Qxg7# *",
             "fen": "4rrk1/PQ4p1/1R5p/8/3q3N/3ppPPB/4P1KP/8 w - - 0 1",
