@@ -3,13 +3,21 @@ import format from "date-fns/format";
 import { title } from "process";
 
 export interface IPuzzle {
-  fen: string;
+  fen?: string;
   title: string;
+  player: string;
   moves: string[];
+  result?: string;
+  date?: string;
 }
 const NEXT_PUBLIC_DATA_URL = process.env.NEXT_PUBLIC_DATA_URL || "/api";
-export function useData(date: Date) {
-  const [data, setData] = useState<any>(null);
+export function useDailyPuzzleData(date: Date) {
+  const [data, setData] = useState<IPuzzle>({
+    fen: undefined,
+    title: "No data found",
+    player: "White",
+    moves: [],
+  });
   const [cache, setCache] = useState<any>({});
 
   const [error, setError] = useState<any>(null);
@@ -32,22 +40,31 @@ export function useData(date: Date) {
           setCache(cache);
         }
 
-        const finddate =
-          data.find((item: any) => item.date === format(date, "yyyy-MM-dd")) ||
-          {};
+        const finddate = data.find(
+          (item: any) => item.date === format(date, "yyyy-MM-dd")
+        );
+
         if (finddate) {
-          const player = finddate.parsed.fen.includes(" b ") ? "b" : "w";
-          finddate.viewerUrl = `https://chess-board.fly.dev?fen=${finddate.parsed.fen}&viewer=${player}`;
+          const player = finddate.parsed.fen.includes(" b ")
+            ? "Black"
+            : "White";
+          const moves = finddate.parsed.moves
+            .replace(/\d+\./gi, "")
+            .replace("..", "")
+            .split(" ")
+            .filter(
+              (x: string) => x && !["*", "1-0", "0-1", "1/2-1/2"].includes(x)
+            );
+
+          setData({
+            title: finddate.title || "No puzzle found",
+            fen: finddate.parsed?.fen || "",
+            moves,
+            player,
+            result: finddate.parsed.moves,
+            date: finddate.date,
+          });
         }
-        const moves = finddate.parsed.moves
-          .split(" ")
-          .filter((x: string) => !x.includes(".") && !["*"].includes(x));
-        setData({
-          title: finddate.title || "No puzzle found",
-          fen: finddate.parsed?.fen || "",
-          moves,
-          result: finddate.parsed.moves,
-        });
       } catch (error) {
         console.log(error);
         setError(error);
@@ -56,7 +73,9 @@ export function useData(date: Date) {
         setLoading(false);
       }
     };
-    fetchData();
+    if (date) {
+      fetchData();
+    }
   }, [cache, date]);
 
   return { data, error, loading };
