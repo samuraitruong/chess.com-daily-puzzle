@@ -1,6 +1,12 @@
 import { useState, useEffect } from "react";
 import format from "date-fns/format";
+import { title } from "process";
 
+export interface IPuzzle {
+  fen: string;
+  title: string;
+  moves: string[];
+}
 const NEXT_PUBLIC_DATA_URL = process.env.NEXT_PUBLIC_DATA_URL || "/api";
 export function useData(date: Date) {
   const [data, setData] = useState<any>(null);
@@ -25,6 +31,7 @@ export function useData(date: Date) {
           cache[url] = data;
           setCache(cache);
         }
+
         const finddate =
           data.find((item: any) => item.date === format(date, "yyyy-MM-dd")) ||
           {};
@@ -32,10 +39,14 @@ export function useData(date: Date) {
           const player = finddate.parsed.fen.includes(" b ") ? "b" : "w";
           finddate.viewerUrl = `https://chess-board.fly.dev?fen=${finddate.parsed.fen}&viewer=${player}`;
         }
+        const moves = finddate.parsed.moves
+          .split(" ")
+          .filter((x: string) => !x.includes(".") && !["*"].includes(x));
         setData({
-          viewerUrl: "https://chess-board.fly.dev/",
-          title: "No data available please select another date",
-          ...finddate,
+          title: finddate.title || "No puzzle found",
+          fen: finddate.parsed?.fen || "",
+          moves,
+          result: finddate.parsed.moves,
         });
       } catch (error) {
         console.log(error);
