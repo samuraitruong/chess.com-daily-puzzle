@@ -118,8 +118,8 @@ export default function Home() {
   const currentFen = game.fen();
   const player = puzzleData?.fen?.includes(" w ") ? "White" : "Black";
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
+    <main className="flex min-h-screen flex-col items-center justify-between p-24 md:p-5">
+      <div className="z-10 w-full max-w-6xl items-center justify-between font-mono text-sm lg:flex">
         <div className="grid grid-flow-col grid-cols-2 grid-rows-1 w-full">
           <div className="col-span-9">
             <p className="text-blue-600">{puzzleData?.title}</p>
