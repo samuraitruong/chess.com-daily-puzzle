@@ -25,3 +25,14 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.day-solved {
+  color: white !important;
+  background-color: green !important;
+}
+.day-solved::after {
+  content: '✓';
+  position: absolute;
+  top: 6px;
+  font-size: 24px;
+  right: 0px;
+}

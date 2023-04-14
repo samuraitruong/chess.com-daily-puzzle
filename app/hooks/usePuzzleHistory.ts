@@ -21,6 +21,7 @@ export function usePuzzleHistory() {
   return {
     days,
     styles: { backgroundColor: "green", color: "white" },
+    classNames: { solved: "day-solved" },
     setSolved,
   };
 }

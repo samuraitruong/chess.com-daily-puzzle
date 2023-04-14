@@ -106,7 +106,8 @@ export default function Home() {
               onMonthChange={setSelected}
               disabled={disabledDays}
               modifiers={{ solved: puzzleHistory.days }}
-              modifiersStyles={{ solved: puzzleHistory.styles }}
+              // modifiersStyles={{ solved: puzzleHistory.styles }}
+              modifiersClassNames={{ solved: puzzleHistory.classNames.solved }}
             />
             <p className="text-blue-600">{message}</p>
           </div>
