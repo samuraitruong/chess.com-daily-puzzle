@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import format from "date-fns/format";
-import { title } from "process";
+import endOfMonth from "date-fns/endOfMonth";
+import addDays from "date-fns/addDays";
 
 export interface IPuzzle {
   fen?: string;
@@ -9,6 +10,7 @@ export interface IPuzzle {
   moves: string[];
   result?: string;
   date?: string;
+  disabledDays?: { from: Date; to: Date }[];
 }
 const NEXT_PUBLIC_DATA_URL = process.env.NEXT_PUBLIC_DATA_URL || "/api";
 export function useDailyPuzzleData(date: Date) {
@@ -43,6 +45,9 @@ export function useDailyPuzzleData(date: Date) {
         const finddate = data.find(
           (item: any) => item.date === format(date, "yyyy-MM-dd")
         );
+        const lastDate = data[data.length - 1].date;
+        const nextDay = addDays(new Date(lastDate), 1);
+        const disabledDays = [{ from: nextDay, to: endOfMonth(new Date()) }];
 
         if (finddate) {
           const player = finddate.parsed.fen.includes(" b ")
@@ -63,6 +68,7 @@ export function useDailyPuzzleData(date: Date) {
             player,
             result: finddate.parsed.moves,
             date: finddate.date,
+            disabledDays,
           });
         }
       } catch (error) {

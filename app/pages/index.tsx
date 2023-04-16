@@ -31,10 +31,7 @@ export default function Home() {
   const [game, setGame] = useState(new Chess());
   const [validMoves, setValidMoves] = useState<string[]>([]);
   const { data: puzzleData } = useDailyPuzzleData(date);
-  const disabledDays = useMemo(
-    () => [{ from: new Date(), to: new Date(2030, 4, 29) }],
-    []
-  );
+
   const onDateChanged = (newDate: Date) => {
     if (newDate) {
       router.push("/?date=" + format(newDate, "yyyy-MM-dd"));
@@ -111,6 +108,9 @@ export default function Home() {
       setSolved(true);
       setMessage("Solved");
       toast("Great, You solved it!", { type: "success", autoClose: false });
+      setTimeout(() => {
+        toast.dismiss();
+      }, 5000);
     }
 
     return true;
@@ -143,7 +143,7 @@ export default function Home() {
               selected={date}
               onSelect={onDateChanged as any}
               onMonthChange={onDateChanged}
-              disabled={disabledDays}
+              disabled={puzzleData.disabledDays}
               modifiers={{ solved: puzzleHistory.days }}
               // modifiersStyles={{ solved: puzzleHistory.styles }}
               modifiersClassNames={{
