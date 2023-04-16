@@ -32,7 +32,7 @@ body {
 .day-solved::after {
   content: '✓';
   position: absolute;
-  top: 6px;
-  font-size: 24px;
-  right: 0px;
+  top: -4px;
+  font-size: 12px;
+  right: 12px;
 }
