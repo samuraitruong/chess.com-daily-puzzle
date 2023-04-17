@@ -17,17 +17,17 @@
     {
         "id": 20,
         "title": "King hunt!",
-        "pgn": "[FEN \"rn3b1N/pp2k2p/4p2q/1Np4Q/3P4/8/PPP3PP/5RK1 w - - 0 1\"]\r\n[PlyCount \"7\"]\r\n\r\n{W} 1. Qxc5+ {forces mate} Kd8 (1... Kd7 2. Rf7+ Be7 (2... Kd8 3. Qc7+ Ke8 4.\r\nQc8#) 3. Rxe7+ Kd8 4. Qc7#) 2. Qc7+ Ke8 3. Qc8+ Ke7 4. Rf7# *",
+        "pgn": "[Result \"*\"]\r\n[FEN \"rn3b1N/1p2k2p/1P2p2q/2p5/p2Pb3/8/P5PP/2Q2RK1 w - - 0 1\"]\r\n\r\n1. Qxc5+ Ke8 2. Qc8+ Ke7 3. Rf7+ Kd6 4. Qc5# *",
         "date": "2007-05-09",
         "video": [],
         "comment_count": 31,
-        "solved_count": 694,
+        "solved_count": 695,
         "parsed": {
-            "moves": "Qc8#) 3. Rxe7+ Kd8 4. Qc7#) 2. Qc7+ Ke8 3. Qc8+ Ke7 4. Rf7# *",
-            "fen": "rn3b1N/pp2k2p/4p2q/1Np4Q/3P4/8/PPP3PP/5RK1 w - - 0 1",
-            "plycount": "7"
+            "moves": "1. Qxc5+ Ke8 2. Qc8+ Ke7 3. Rf7+ Kd6 4. Qc5# *",
+            "result": "*",
+            "fen": "rn3b1N/1p2k2p/1P2p2q/2p5/p2Pb3/8/P5PP/2Q2RK1 w - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=rn3b1N/pp2k2p/4p2q/1Np4Q/3P4/8/PPP3PP/5RK1 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=rn3b1N/1p2k2p/1P2p2q/2p5/p2Pb3/8/P5PP/2Q2RK1 w - - 0 1"
     },
     {
         "id": 21,
@@ -121,19 +121,18 @@
     },
     {
         "id": 28,
-        "title": "Subtle, difficult moves",
-        "pgn": "[FEN \"4rrk1/PQ4p1/1R5p/8/3q3N/3ppPPB/4P1KP/8 w - - 0 1\"]\r\n[PlyCount \"21\"]\r\n[EventDate \"1911.??.??\"]\r\n\r\n1. a8=Q $3 1... Rxa8 2. Rxh6 $3 2... Rae8 (2... gxh6 $2 3. Be6+ Kh8 4. Ng6#) 3.\r\nQb3+ Rf7 4. Re6 Rxe6 5. Bxe6 dxe2 6. Bxf7+ Kh8 7. Qb8+ Kh7 8. Qg8+ Kh6 9. Nf5+\r\nKg5 10. Nxd4 e1=Q 11. Qxg7# *",
+        "title": "Light Square Confrontation",
+        "pgn": "[Result \"*\"]\r\n[FEN \"5rk1/5ppp/R2p4/1bp3bP/2BpP3/3P1Q2/1q3PP1/6K1 w - - 0 1\"]\r\n\r\n1. Qxf7+ Rxf7 2. Ra8+ Be8 3. Rxe8# *",
         "date": "2007-05-16",
         "video": [],
-        "comment_count": 20,
-        "solved_count": 272,
+        "comment_count": 8,
+        "solved_count": 273,
         "parsed": {
-            "moves": "Kg5 10. Nxd4 e1=Q 11. Qxg7# *",
-            "fen": "4rrk1/PQ4p1/1R5p/8/3q3N/3ppPPB/4P1KP/8 w - - 0 1",
-            "plycount": "21",
-            "eventdate": "1911.??.??"
+            "moves": "1. Qxf7+ Rxf7 2. Ra8+ Be8 3. Rxe8# *",
+            "result": "*",
+            "fen": "5rk1/5ppp/R2p4/1bp3bP/2BpP3/3P1Q2/1q3PP1/6K1 w - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=4rrk1/PQ4p1/1R5p/8/3q3N/3ppPPB/4P1KP/8 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5rk1/5ppp/R2p4/1bp3bP/2BpP3/3P1Q2/1q3PP1/6K1 w - - 0 1"
     },
     {
         "id": 29,
@@ -152,18 +151,18 @@
     },
     {
         "id": 30,
-        "title": "Around and around...",
-        "pgn": "[FEN \"3rr1k1/ppp2ppp/8/5Q2/4n3/1B5R/PPP1qPP1/5RK1 b - - 0 1\"]\r\n[PlyCount \"11\"]\r\n\r\n1... Qxf1+ 2. Kxf1 Nd2+ 3. Kg1 Re1+ 4. Kh2 Nf1+ 5. Kg1 Ne3+ 6. Kh2 Nxf5 *",
+        "title": "Seizing the Moment",
+        "pgn": "[Result \"*\"]\r\n[FEN \"5r2/1P3k2/3p3P/2NPr1p1/2P5/5KR1/6P1/4R3 b - - 0 1\"]\r\n\r\n1... Kg6+ 2. Kg4 Rf4+ 3. Kh3 Rh4# *",
         "date": "2007-05-18",
         "video": [],
-        "comment_count": 8,
-        "solved_count": 236,
+        "comment_count": 6,
+        "solved_count": 237,
         "parsed": {
-            "moves": "1... Qxf1+ 2. Kxf1 Nd2+ 3. Kg1 Re1+ 4. Kh2 Nf1+ 5. Kg1 Ne3+ 6. Kh2 Nxf5 *",
-            "fen": "3rr1k1/ppp2ppp/8/5Q2/4n3/1B5R/PPP1qPP1/5RK1 b - - 0 1",
-            "plycount": "11"
+            "moves": "1... Kg6+ 2. Kg4 Rf4+ 3. Kh3 Rh4# *",
+            "result": "*",
+            "fen": "5r2/1P3k2/3p3P/2NPr1p1/2P5/5KR1/6P1/4R3 b - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=3rr1k1/ppp2ppp/8/5Q2/4n3/1B5R/PPP1qPP1/5RK1 b - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5r2/1P3k2/3p3P/2NPr1p1/2P5/5KR1/6P1/4R3 b - - 0 1"
     },
     {
         "id": 31,
