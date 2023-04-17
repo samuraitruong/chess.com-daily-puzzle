@@ -40,18 +40,18 @@
     },
     {
         "id": 46,
-        "title": "So Many Pieces Pointing at the White King...",
-        "pgn": "[FEN \"2kr1rr1/pbp2p1p/1pn3n1/2b5/2Pp3P/PN1P2P1/1PQB1PB1/R3RNK1 b - - 0 1\"]\r\n[PlyCount \"4\"]\r\n\r\n1... Nxh4 2. gxh4 Rxg2+ 3. Kxg2 Nb4+ 4. Kg1 Nxc2 *",
+        "title": "A Timely Discovery",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r2r3k/1pp2R1p/p1n3pB/4p3/P2bb3/8/BP4PP/3RK3 w - - 0 1\"]\r\n\r\n1. Bg7+ Kg8 2. Rd7+ Bd5 3. Bxd5# *",
         "date": "2007-06-03",
         "video": [],
-        "comment_count": 14,
-        "solved_count": 182,
+        "comment_count": 6,
+        "solved_count": 183,
         "parsed": {
-            "moves": "1... Nxh4 2. gxh4 Rxg2+ 3. Kxg2 Nb4+ 4. Kg1 Nxc2 *",
-            "fen": "2kr1rr1/pbp2p1p/1pn3n1/2b5/2Pp3P/PN1P2P1/1PQB1PB1/R3RNK1 b - - 0 1",
-            "plycount": "4"
+            "moves": "1. Bg7+ Kg8 2. Rd7+ Bd5 3. Bxd5# *",
+            "result": "*",
+            "fen": "r2r3k/1pp2R1p/p1n3pB/4p3/P2bb3/8/BP4PP/3RK3 w - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=2kr1rr1/pbp2p1p/1pn3n1/2b5/2Pp3P/PN1P2P1/1PQB1PB1/R3RNK1 b - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r2r3k/1pp2R1p/p1n3pB/4p3/P2bb3/8/BP4PP/3RK3 w - - 0 1"
     },
     {
         "id": 47,
@@ -192,19 +192,18 @@
     },
     {
         "id": 56,
-        "title": "Trouble on the Dark Squares",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2Q2bk1/2P2p1p/2r3pB/2q5/pp6/2nP2P1/4PP1P/1RR3K1 w KQkq - 0 1\"]\r\n\r\n1. Rxc3 bxc3 ( 1... Qxc3 2. Qxf8# ) 2. Rb8 c2 3. Qxf8+ Qxf8 4. Rxf8#\r\n*\r\n\r\n\r\n",
+        "title": "You Can Run...",
+        "pgn": "[Result \"*\"]\r\n[FEN \"1r6/2p3k1/2R3p1/2Nn4/1p1p2PK/1B1P3P/1PP4r/R7 b - - 0 1\"]\r\n\r\n1... Rh8+ 2. Kg5 Rh5+ 3. gxh5 Rg2+ 4. Kh4 g5# *",
         "date": "2007-06-13",
         "video": [],
-        "comment_count": 11,
+        "comment_count": 4,
         "solved_count": 164,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1... Rh8+ 2. Kg5 Rh5+ 3. gxh5 Rg2+ 4. Kh4 g5# *",
             "result": "*",
-            "fen": "2Q2bk1/2P2p1p/2r3pB/2q5/pp6/2nP2P1/4PP1P/1RR3K1 w KQkq - 0 1"
+            "fen": "1r6/2p3k1/2R3p1/2Nn4/1p1p2PK/1B1P3P/1PP4r/R7 b - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=2Q2bk1/2P2p1p/2r3pB/2q5/pp6/2nP2P1/4PP1P/1RR3K1 w KQkq - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r6/2p3k1/2R3p1/2Nn4/1p1p2PK/1B1P3P/1PP4r/R7 b - - 0 1"
     },
     {
         "id": 57,

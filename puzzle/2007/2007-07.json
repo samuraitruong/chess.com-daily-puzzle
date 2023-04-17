@@ -16,18 +16,17 @@
     {
         "id": 71,
         "title": "Clear Out The Defense!",
-        "pgn": "[FEN \"5r1k/p1r3p1/2p1p2p/4Pp2/1P1P2N1/P2R3P/3Q1PP1/6K1 w - - 0 1\"]\r\n[Result \"*\"]\r\n[Date \"2007.07.02\"]\r\n\r\n1. Nxh6 gxh6 ( 1... f4 2. Ng4 ) 2. Qxh6+ Rh7 ( 2... Kg8 3. Rg3+ Kf7 4. Qg7+ Ke8 5. Qxc7 Rf7 6. Qc8+ Ke7 7. Rg8 Rh7 8. Qe8# ) 3. Qxf8#\r\n*\r\n\r\n\r\n",
+        "pgn": "[Result \"*\"]\r\n[FEN \"1r2r1k1/1pRb2pp/pn1qp3/3p1p2/3P4/1PQBPNP1/1P3PP1/5RK1 w - - 0 1\"]\r\n\r\n1. Qc5 Qxc5 2. dxc5 Rec8 3. cxb6 Rxc7 4. bxc7 *",
         "date": "2007-07-02",
         "video": [],
-        "comment_count": 10,
-        "solved_count": 132,
+        "comment_count": 3,
+        "solved_count": 133,
         "parsed": {
-            "moves": "*",
-            "fen": "5r1k/p1r3p1/2p1p2p/4Pp2/1P1P2N1/P2R3P/3Q1PP1/6K1 w - - 0 1",
+            "moves": "1. Qc5 Qxc5 2. dxc5 Rec8 3. cxb6 Rxc7 4. bxc7 *",
             "result": "*",
-            "date": "2007.07.02"
+            "fen": "1r2r1k1/1pRb2pp/pn1qp3/3p1p2/3P4/1PQBPNP1/1P3PP1/5RK1 w - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=5r1k/p1r3p1/2p1p2p/4Pp2/1P1P2N1/P2R3P/3Q1PP1/6K1 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r2r1k1/1pRb2pp/pn1qp3/3p1p2/3P4/1PQBPNP1/1P3PP1/5RK1 w - - 0 1"
     },
     {
         "id": 76,
