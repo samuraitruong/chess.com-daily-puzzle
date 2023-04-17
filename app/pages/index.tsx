@@ -116,7 +116,7 @@ export default function Home() {
     return true;
   };
   const currentFen = game.fen();
-  const player = puzzleData?.fen?.includes(" w ") ? "White" : "Black";
+  const player = puzzleData?.player;
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24 md:p-5">
       <div className="z-10 w-full max-w-6xl items-center justify-between font-mono text-sm lg:flex">

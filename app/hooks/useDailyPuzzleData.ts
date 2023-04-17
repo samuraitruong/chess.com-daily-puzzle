@@ -42,18 +42,18 @@ export function useDailyPuzzleData(date: Date) {
           setCache(cache);
         }
 
-        const finddate = data.find(
+        const matchPuzzle = data.find(
           (item: any) => item.date === format(date, "yyyy-MM-dd")
         );
         const lastDate = data[data.length - 1].date;
         const nextDay = addDays(new Date(lastDate), 1);
         const disabledDays = [{ from: nextDay, to: endOfMonth(new Date()) }];
 
-        if (finddate) {
-          const player = finddate.parsed.fen.includes(" b ")
+        if (matchPuzzle) {
+          const player = matchPuzzle.parsed.fen.includes(" b ")
             ? "Black"
             : "White";
-          const moves = finddate.parsed.moves
+          const moves = matchPuzzle.parsed.moves
             .replace(/\d+\./gi, "")
             .replace("..", "")
             .split(" ")
@@ -62,12 +62,17 @@ export function useDailyPuzzleData(date: Date) {
             );
 
           setData({
-            title: finddate.title || "No puzzle found",
-            fen: finddate.parsed?.fen || "",
+            title: matchPuzzle.title || "No puzzle found",
+            fen: matchPuzzle.parsed?.fen || "",
             moves,
             player,
-            result: finddate.parsed.moves,
-            date: finddate.date,
+            result: matchPuzzle.parsed.moves,
+            date: matchPuzzle.date,
+            disabledDays,
+          });
+        } else {
+          setData({
+            ...data,
             disabledDays,
           });
         }
