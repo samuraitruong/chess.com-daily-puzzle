@@ -14,7 +14,7 @@ export interface IPuzzle {
 }
 const NEXT_PUBLIC_DATA_URL = process.env.NEXT_PUBLIC_DATA_URL || "/api";
 export function useDailyPuzzleData(date: Date) {
-  const [data, setData] = useState<IPuzzle>({
+  const [puzzle, setData] = useState<IPuzzle>({
     fen: undefined,
     title: "No data found",
     player: "White",
@@ -72,7 +72,7 @@ export function useDailyPuzzleData(date: Date) {
           });
         } else {
           setData({
-            ...data,
+            ...puzzle,
             disabledDays,
           });
         }
@@ -89,5 +89,5 @@ export function useDailyPuzzleData(date: Date) {
     }
   }, [cache, date]);
 
-  return { data, error, loading };
+  return { data: puzzle, error, loading };
 }
