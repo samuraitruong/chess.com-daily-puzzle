@@ -26,3 +26,6 @@ The puzzle will fetch month by month and stored in the puzzle folder in JSON for
 cd app
 npm run dev
 ```
+
+![image](https://user-images.githubusercontent.com/1183138/235556819-5ec05bcc-89ff-436d-bb4d-773e7b4ede3b.png)
+
