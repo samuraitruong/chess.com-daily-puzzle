@@ -10,7 +10,11 @@ axiosRetry(axios, {
   retryDelay: (retryCount) => {
     return retryCount * 1000;
   },
-  retryCondition: () => true,
+  retryCondition: (r) => {
+    if (r.response?.data?.message === "End date must be after start date")
+      return false;
+    return true;
+  },
 });
 
 function parsePgn(pgn) {
@@ -28,16 +32,29 @@ function parsePgn(pgn) {
 }
 async function fetchMonth(date) {
   const now = moment(date);
+  const thisMonth = moment().startOf("month").format("YYYY-MM-DD");
   const end = now.format("YYYY-MM-DD");
-  const start = now.startOf("month").format("YYYY-MM-DD");
+  let start = now.startOf("month").format("YYYY-MM-DD");
+  if (start === thisMonth) {
+    start = now.startOf("month").subtract(1, "day").format("YYYY-MM-DD");
+  }
 
   const url = `https://www.chess.com/callback/puzzles/daily?start=${start}&end=${end}`;
-  const { data } = await axios.get(url);
-  return data.map((item) => {
-    const parsed = parsePgn(item.pgn);
-    const viewerUrl = "https://chess-board.fly.dev/?fen=" + parsed.fen;
-    return { ...item, parsed, viewerUrl };
-  });
+  try {
+    const { data } = await axios.get(url);
+    return data
+      .filter((x) => x.date.includes(thisMonth.substring(0, 7)))
+      .map((item) => {
+        const parsed = parsePgn(item.pgn);
+        const viewerUrl = "https://chess-board.fly.dev/?fen=" + parsed.fen;
+        return { ...item, parsed, viewerUrl };
+      });
+  } catch (e) {
+    if (e.response?.data?.message === "End date must be after start date") {
+      return [];
+    }
+    throw e;
+  }
 }
 async function main() {
   const puzzleDir = path.resolve("../puzzle");
