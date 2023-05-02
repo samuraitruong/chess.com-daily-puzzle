@@ -43,7 +43,7 @@ async function fetchMonth(date) {
   try {
     const { data } = await axios.get(url);
     return data
-      .filter((x) => x.date.includes(thisMonth.substring(0, 7)))
+      .filter((x) => x.date.includes(end.substring(0, 7)))
       .map((item) => {
         const parsed = parsePgn(item.pgn);
         const viewerUrl = "https://chess-board.fly.dev/?fen=" + parsed.fen;
