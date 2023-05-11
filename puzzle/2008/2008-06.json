@@ -273,18 +273,17 @@
     {
         "id": 1924,
         "title": "Decisive Moves",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/5pp1/1q5p/p2Qp3/p3P3/1nPR3P/BP4PK/5r2 b - - 0 1\"]\r\n\r\n1...Qg1+ 2. Kg3 Qf2+ 3. Kh2 Qe1\r\n*",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2kr3r/ppp2ppp/8/8/1nB5/PN5P/1P3PP1/3RK2R b K - 0 1\"]\r\n\r\n1... Rhe8+ 2. Be2 Nc2+ 3. Kf1 Rxd1+ 4. Bxd1 Re1# *\r\n\r\n\r\n*",
         "date": "2008-06-18",
         "video": [],
         "comment_count": 1,
-        "solved_count": 44,
+        "solved_count": 45,
         "parsed": {
             "moves": "*",
-            "date": "????.??.??",
             "result": "*",
-            "fen": "6k1/5pp1/1q5p/p2Qp3/p3P3/1nPR3P/BP4PK/5r2 b - - 0 1"
+            "fen": "2kr3r/ppp2ppp/8/8/1nB5/PN5P/1P3PP1/3RK2R b K - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/5pp1/1q5p/p2Qp3/p3P3/1nPR3P/BP4PK/5r2 b - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2kr3r/ppp2ppp/8/8/1nB5/PN5P/1P3PP1/3RK2R b K - 0 1"
     },
     {
         "id": 1927,
