@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1520,
-        "solved_count": 2584104,
+        "solved_count": 2584142,
         "parsed": {
             "moves": "1... Rdxf2+ 2. Kg1 Rf1+ 3. Kg2 R6f2# *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1640,
-        "solved_count": 2538717,
+        "solved_count": 2538751,
         "parsed": {
             "moves": "1... Bxf3 2. Bxf3 Nxe5 3. Rxe5 fxe5 *",
             "result": "*",
@@ -45,7 +45,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1407,
-        "solved_count": 2548807,
+        "solved_count": 2548843,
         "parsed": {
             "moves": "1... Rd1+ 2. Kg2 Nge3+ 3. Bxe3 Nxe3+ 4. Kf3 Nxc2 *",
             "result": "*",
@@ -63,7 +63,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1370,
-        "solved_count": 2486732,
+        "solved_count": 2487163,
         "parsed": {
             "moves": "1. Rxc6 Bxc6 2. Qxc6 Qxc6 3. Ne7+ Kh8 4. Nxc6 *",
             "result": "*",
@@ -81,7 +81,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1043,
-        "solved_count": 2435527,
+        "solved_count": 2436193,
         "parsed": {
             "moves": "1. Bxb7 d2 2. Bxd2+ Nxd2 3. Bd5 Kd4 4. b6 Kxd5 5. b7 Kc6 6. b8=Q *",
             "result": "*",
@@ -99,7 +99,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 942,
-        "solved_count": 2247471,
+        "solved_count": 2248552,
         "parsed": {
             "moves": "1... g6 2. Qxh6 Nxh3+ 3. gxh3 Bg5 4. Bc1 Bxh6 *",
             "result": "*",
@@ -116,8 +116,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_light_squared_lunacy_05_07_23_e5d.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1176,
-        "solved_count": 2240979,
+        "comment_count": 1177,
+        "solved_count": 2242311,
         "parsed": {
             "moves": "1... Qxd3+ 2. Kxd3 Bb5+ 3. Nc4 Ne4 4. Qh5 Bxc4+ 5. Kc2 Be2+ 6. Kb2 Bxh5 *",
             "result": "*",
@@ -134,8 +134,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_the_king_is_a_terrible_juggler_05_08_23_r3f.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1135,
-        "solved_count": 2366277,
+        "comment_count": 1136,
+        "solved_count": 2367973,
         "parsed": {
             "moves": "1. Ba6+ Bb7 2. Bxb7+ Kxb7 3. Qxd8 *",
             "result": "*",
@@ -153,7 +153,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1410,
-        "solved_count": 2314217,
+        "solved_count": 2316486,
         "parsed": {
             "moves": "1. Nf6+ Kf8 2. Ba3# *",
             "result": "*",
@@ -171,7 +171,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 919,
-        "solved_count": 2243349,
+        "solved_count": 2246776,
         "parsed": {
             "moves": "1... Rd1+ 2. Kh2 Rxc1 3. Qe8+ Bf8 4. Nxc1 Qxc1 *",
             "result": "*",
@@ -188,13 +188,41 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_overburden_the_defense_05_11_23_e2y.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 931,
-        "solved_count": 2061082,
+        "comment_count": 941,
+        "solved_count": 2094140,
         "parsed": {
             "moves": "1... Qd4+ 2. Bf2 Rxe1+ 3. Qxe1 Qxd3 *",
             "result": "*",
             "fen": "r3r1k1/1b1n1pp1/1p1q1n2/p1P2P1p/P6B/2NB4/1P4PP/2RQR1K1 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=r3r1k1/1b1n1pp1/1p1q1n2/p1P2P1p/P6B/2NB4/1P4PP/2RQR1K1 b - - 0 1"
+    },
+    {
+        "id": 11541,
+        "title": "Who is Trapping Whom?",
+        "pgn": "[Event \"St.Petersburg UURSO\"]\r\n[Site \"St. Petersburg RUS\"]\r\n[Date \"1994.02.??\"]\r\n[Round \"5\"]\r\n[White \"Peter Svidler\"]\r\n[Black \"Vladimir P Malaniuk\"]\r\n[Result \"0-1\"]\r\n[ECO \"C47\"]\r\n[SetUp \"1\"]\r\n[FEN \"r1bqr1k1/p4pp1/5n1p/3Nb3/7B/3B4/PP3PPP/R2Q1RK1 b - - 0 16\"]\r\n[PlyCount \"9\"]\r\n[EventDate \"1994.??.??\"]\r\n\r\n16... Qxd5 17. Bxf6 Bb7 18. Bh7+ Kxh7 19. Qxd5 Bxd5 20. Bxe5 Rxe5 *",
+        "date": "2023-05-12",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_who_is_trapping_whom_05_12_23_s10p.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 26,
+        "solved_count": 21322,
+        "parsed": {
+            "moves": "16... Qxd5 17. Bxf6 Bb7 18. Bh7+ Kxh7 19. Qxd5 Bxd5 20. Bxe5 Rxe5 *",
+            "event": "St.Petersburg UURSO",
+            "site": "St. Petersburg RUS",
+            "date": "1994.02.??",
+            "round": "5",
+            "white": "Peter Svidler",
+            "black": "Vladimir P Malaniuk",
+            "result": "0-1",
+            "eco": "C47",
+            "setup": "1",
+            "fen": "r1bqr1k1/p4pp1/5n1p/3Nb3/7B/3B4/PP3PPP/R2Q1RK1 b - - 0 16",
+            "plycount": "9",
+            "eventdate": "1994.??.??"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1bqr1k1/p4pp1/5n1p/3Nb3/7B/3B4/PP3PPP/R2Q1RK1 b - - 0 16"
     }
 ]
