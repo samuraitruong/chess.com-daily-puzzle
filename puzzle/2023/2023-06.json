@@ -8,13 +8,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_closed_open_for_business_06_01_23_x9g.mp4",
             "author_id": "114a38e6-2baf-11e0-8042-000000000000"
         },
-        "comment_count": 966,
-        "solved_count": 1834429,
+        "comment_count": 975,
+        "solved_count": 1863062,
         "parsed": {
             "moves": "1. Rxa3 Rxa3 2. c7 Rc3 3. Nc5 bxc5 4. c8=Q+ *",
             "result": "*",
             "fen": "6k1/1N3p2/1pP1p1p1/3p3p/3P3P/b1r1PKP1/5P2/R7 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/1N3p2/1pP1p1p1/3p3p/3P3P/b1r1PKP1/5P2/R7 w - - 0 1"
+    },
+    {
+        "id": 11635,
+        "title": "Give and Take",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/6R1/R3B1p1/p3r1pP/7k/3p4/P5PK/5r2 b - - 0 1\"]\r\n\r\n1... Rh1+ 2. Kxh1 Kg3 3. Rxa5 Re1# *",
+        "date": "2023-06-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_give_and_take_06_02_23_l2h.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 26,
+        "solved_count": 20091,
+        "parsed": {
+            "moves": "1... Rh1+ 2. Kxh1 Kg3 3. Rxa5 Re1# *",
+            "result": "*",
+            "fen": "8/6R1/R3B1p1/p3r1pP/7k/3p4/P5PK/5r2 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/6R1/R3B1p1/p3r1pP/7k/3p4/P5PK/5r2 b - - 0 1"
     }
 ]
