@@ -9,7 +9,7 @@
             "author_id": "114a38e6-2baf-11e0-8042-000000000000"
         },
         "comment_count": 1015,
-        "solved_count": 2017105,
+        "solved_count": 2018796,
         "parsed": {
             "moves": "1. Rxa3 Rxa3 2. c7 Rc3 3. Nc5 bxc5 4. c8=Q+ *",
             "result": "*",
@@ -26,8 +26,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_give_and_take_06_02_23_l2h.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 835,
-        "solved_count": 1927278,
+        "comment_count": 836,
+        "solved_count": 1929937,
         "parsed": {
             "moves": "1... Rh1+ 2. Kxh1 Kg3 3. Rxa5 Re1# *",
             "result": "*",
@@ -41,13 +41,31 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"3n4/5PR1/k7/2p2r2/KP6/4B3/8/4b3 w - - 0 1\"]\r\n\r\n1. b5+ Kb6 2. Bxc5+ Kxc5 3. Rg5 Rxg5 4. f8=Q+ *",
         "date": "2023-06-03",
         "video": [],
-        "comment_count": 695,
-        "solved_count": 1725467,
+        "comment_count": 708,
+        "solved_count": 1751550,
         "parsed": {
             "moves": "1. b5+ Kb6 2. Bxc5+ Kxc5 3. Rg5 Rxg5 4. f8=Q+ *",
             "result": "*",
             "fen": "3n4/5PR1/k7/2p2r2/KP6/4B3/8/4b3 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=3n4/5PR1/k7/2p2r2/KP6/4B3/8/4b3 w - - 0 1"
+    },
+    {
+        "id": 11639,
+        "title": "Thinking Inside the Box",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/4N2P/K7/8/8/k7/N3p3/8 w - - 0 1\"]\r\n\r\n1. Nb4 Kxb4 2. h8=Q e1=Q 3. Qb2+ Kc5 4. Qb6+ Kc4 5. Qb5+ Kd4 6. Nf5+ Ke4 7.\r\nQe8+ Kxf5 8. Qxe1 *",
+        "date": "2023-06-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_thinking_inside_the_box_06_04_23_b2q.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 23,
+        "solved_count": 12219,
+        "parsed": {
+            "moves": "Qe8+ Kxf5 8. Qxe1 *",
+            "result": "*",
+            "fen": "8/4N2P/K7/8/8/k7/N3p3/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/4N2P/K7/8/8/k7/N3p3/8 w - - 0 1"
     }
 ]
