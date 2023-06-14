@@ -17,19 +17,18 @@
     },
     {
         "id": 2122,
-        "title": "Mate in 4",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"7k/6pp/2N1P2N/5p2/3B1P2/8/5K2/4r3 w KQkq - 0 1\"]\r\n\r\n1. Ne7 Re2+ 2. Kf3 Rf2+ 3. Bxf2 gxh6 4. Bd4#\r\n*",
+        "title": "Forcing Moves First",
+        "pgn": "[Result \"*\"]\r\n[FEN \"4r2k/1ppq1p2/5Pp1/r7/p1N3Q1/7P/PP2BPP1/n1B1K1NR b K - 0 1\"]\r\n\r\n1... Nc2+ 2. Kf1 Qd1+ 3. Bxd1 Re1# *",
         "date": "2009-01-02",
         "video": [],
         "comment_count": 2,
-        "solved_count": 52,
+        "solved_count": 53,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1... Nc2+ 2. Kf1 Qd1+ 3. Bxd1 Re1# *",
             "result": "*",
-            "fen": "7k/6pp/2N1P2N/5p2/3B1P2/8/5K2/4r3 w KQkq - 0 1"
+            "fen": "4r2k/1ppq1p2/5Pp1/r7/p1N3Q1/7P/PP2BPP1/n1B1K1NR b K - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=7k/6pp/2N1P2N/5p2/3B1P2/8/5K2/4r3 w KQkq - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4r2k/1ppq1p2/5Pp1/r7/p1N3Q1/7P/PP2BPP1/n1B1K1NR b K - 0 1"
     },
     {
         "id": 2123,
@@ -113,19 +112,18 @@
     },
     {
         "id": 2129,
-        "title": "Mate in 4",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"7k/6pp/2N1P2N/5p2/3B1P2/8/5K2/4r3 w KQkq - 0 1\"]\r\n\r\n1. Ne7 Re2+ 2. Kf3 Re3+ 3. Bxe3 gxh6 4. Bd4#\r\n*",
+        "title": "Mate in 3",
+        "pgn": "[Result \"*\"]\r\n[FEN \"Q7/1P3p2/2k1n3/2N5/3P3b/4P3/1r2b3/7K b - - 0 1\"]\r\n\r\n1... Bf3+ 2. Kg1 Rb1+ 3. Kh2 Rh1# *",
         "date": "2009-01-08",
         "video": [],
         "comment_count": 1,
-        "solved_count": 42,
+        "solved_count": 43,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1... Bf3+ 2. Kg1 Rb1+ 3. Kh2 Rh1# *",
             "result": "*",
-            "fen": "7k/6pp/2N1P2N/5p2/3B1P2/8/5K2/4r3 w KQkq - 0 1"
+            "fen": "Q7/1P3p2/2k1n3/2N5/3P3b/4P3/1r2b3/7K b - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=7k/6pp/2N1P2N/5p2/3B1P2/8/5K2/4r3 w KQkq - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=Q7/1P3p2/2k1n3/2N5/3P3b/4P3/1r2b3/7K b - - 0 1"
     },
     {
         "id": 2128,
