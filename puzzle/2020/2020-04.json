@@ -20,8 +20,8 @@
         "pgn": "[Event \"Dortmund Sparkassen\"]\r\n[Site \"Dortmund GER\"]\r\n[Date \"2014.07.13\"]\r\n[Round \"2\"]\r\n[White \"Fabiano Caruana\"]\r\n[Black \"Ruslan Ponomariov\"]\r\n[Result \"1-0\"]\r\n[FEN \"3q4/k1p2pr1/1pQ1b1P1/p2pR3/P2P4/1P1B4/K1P5/8 w - - 1 38\"]\r\n\r\n38.gxf7 Bxf7 39.Re7 Qxe7 40.Ba6 Kxa6 41.Qa8# 1-0",
         "date": "2020-04-02",
         "video": [],
-        "comment_count": 5,
-        "solved_count": 404,
+        "comment_count": 6,
+        "solved_count": 405,
         "parsed": {
             "moves": "38.gxf7 Bxf7 39.Re7 Qxe7 40.Ba6 Kxa6 41.Qa8# 1-0",
             "event": "Dortmund Sparkassen",
@@ -87,7 +87,7 @@
         "date": "2020-04-06",
         "video": [],
         "comment_count": 3,
-        "solved_count": 386,
+        "solved_count": 387,
         "parsed": {
             "moves": "1...Nf4+ 2.gxf4 Qg4+ 3.Kf1 Qxh5 *",
             "result": "*",
