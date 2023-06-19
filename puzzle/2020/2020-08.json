@@ -58,8 +58,8 @@
         "pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2020.06.29\"]\r\n[White \"Fightermann\"]\r\n[Black \"Hikaru\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"2871\"]\r\n[BlackElo \"3252\"]\r\n[FEN \"8/1p4b1/pNb3k1/P1nN2p1/2B1p1P1/2B1Pn2/5P2/5K2 b - - 6 47\"]\r\n\r\n47...Bxd5 48.Nxd5 Bxc3 49.Nxc3 Nd2+ 50.Kg2 Nxc4 0-1",
         "date": "2020-08-04",
         "video": [],
-        "comment_count": 7,
-        "solved_count": 485,
+        "comment_count": 8,
+        "solved_count": 486,
         "parsed": {
             "moves": "47...Bxd5 48.Nxd5 Bxc3 49.Nxc3 Nd2+ 50.Kg2 Nxc4 0-1",
             "event": "Live Chess",
@@ -393,7 +393,7 @@
         "date": "2020-08-25",
         "video": [],
         "comment_count": 3,
-        "solved_count": 434,
+        "solved_count": 435,
         "parsed": {
             "moves": "1...Nc3 2.Bxc3 Qxe2 3.Rxe2 Rxd1+ *",
             "result": "*",
@@ -408,7 +408,7 @@
         "date": "2020-08-26",
         "video": [],
         "comment_count": 4,
-        "solved_count": 432,
+        "solved_count": 433,
         "parsed": {
             "moves": "1.Re8+ Kh7 2.Rxc8 Rxc8 3.Qd3+ g6 4.Qxb5 *",
             "result": "*",
@@ -423,7 +423,7 @@
         "date": "2020-08-27",
         "video": [],
         "comment_count": 2,
-        "solved_count": 426,
+        "solved_count": 427,
         "parsed": {
             "moves": "1.Qh5+ g6 2.Rxd7 gxh5 3.Rxg8+ Kxd7 4.Rxa8 *",
             "result": "*",
