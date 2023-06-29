@@ -333,7 +333,7 @@
         "date": "2020-08-21",
         "video": [],
         "comment_count": 3,
-        "solved_count": 436,
+        "solved_count": 437,
         "parsed": {
             "moves": "1...g4 2.hxg4 Rxg4+ 3.fxg4 Qh1+ 4.Kf2 Qh4+ 5.Kg1 Qg3+ 0-1",
             "result": "*",
@@ -348,7 +348,7 @@
         "date": "2020-08-22",
         "video": [],
         "comment_count": 4,
-        "solved_count": 444,
+        "solved_count": 445,
         "parsed": {
             "moves": "1.Qxb2 Rxb2 2.Rxe5 dxe5 3.d6 Qxd6 4.Nxd6 *",
             "result": "*",
@@ -363,7 +363,7 @@
         "date": "2020-08-23",
         "video": [],
         "comment_count": 4,
-        "solved_count": 453,
+        "solved_count": 454,
         "parsed": {
             "moves": "1...f4+ 2.Bxf4 Rd3+ 3.Re3 Rxe3+ 4.Bxe3 Rf3+ 5.Kh2 Rxe3 *",
             "result": "*",
@@ -377,8 +377,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"rnbk1b1r/1p2p3/p2p1qpp/1BpP1p2/5N1P/2N1P3/PPPQ1PP1/2KR3R w - - 0 1\"]\r\n\r\n1.Ne4 axb5 2.Nxf6 *",
         "date": "2020-08-24",
         "video": [],
-        "comment_count": 7,
-        "solved_count": 450,
+        "comment_count": 8,
+        "solved_count": 451,
         "parsed": {
             "moves": "1.Ne4 axb5 2.Nxf6 *",
             "result": "*",
@@ -392,8 +392,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"3r2k1/pb1r2pp/1p2q3/2pnBp2/5P2/1P4P1/P2RQ1BP/3R2K1 b - - 0 1\"]\r\n\r\n1...Nc3 2.Bxc3 Qxe2 3.Rxe2 Rxd1+ *",
         "date": "2020-08-25",
         "video": [],
-        "comment_count": 3,
-        "solved_count": 440,
+        "comment_count": 4,
+        "solved_count": 441,
         "parsed": {
             "moves": "1...Nc3 2.Bxc3 Qxe2 3.Rxe2 Rxd1+ *",
             "result": "*",
@@ -407,8 +407,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"1rb3k1/5pp1/5q1p/prNp4/1P6/2P1R1Q1/5PPP/R5K1 w - - 0 1\"]\r\n\r\n1.Re8+ Kh7 2.Rxc8 Rxc8 3.Qd3+ g6 4.Qxb5 *",
         "date": "2020-08-26",
         "video": [],
-        "comment_count": 4,
-        "solved_count": 440,
+        "comment_count": 5,
+        "solved_count": 441,
         "parsed": {
             "moves": "1.Re8+ Kh7 2.Rxc8 Rxc8 3.Qd3+ g6 4.Qxb5 *",
             "result": "*",

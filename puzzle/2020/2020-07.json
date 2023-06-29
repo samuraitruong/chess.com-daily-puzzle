@@ -364,8 +364,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"8/5pk1/p1R2n1p/3p4/8/1PQ1P2q/P4K2/8 b - - 1 1\"]\r\n\r\n1...d4 2.Qxd4 Qh2+ 3.Kf3 Qh1+ 4.Kf4 Qxc6 *",
         "date": "2020-07-24",
         "video": [],
-        "comment_count": 8,
-        "solved_count": 412,
+        "comment_count": 10,
+        "solved_count": 413,
         "parsed": {
             "moves": "1...d4 2.Qxd4 Qh2+ 3.Kf3 Qh1+ 4.Kf4 Qxc6 *",
             "result": "*",
@@ -379,8 +379,8 @@
         "pgn": "[Event \"55th USSR Championship\"]\r\n[Site \"Moscow URS\"]\r\n[Date \"1988\"]\r\n[Round \"12\"]\r\n[White \"Garry Kasparov\"]\r\n[Black \"Ilya Yulyevich Smirin\"]\r\n[Result \"*\"]\r\n[ECO \"E97\"]\r\n[PlyCount \"81\"]\r\n[FEN \"2n3k1/6b1/1p1pR2p/1q1Pp3/2r1P3/6PB/8/5QK1 w - - 0 39\"]\r\n\r\n39.Rxh6 Bxh6 40.Be6+ Kh8 41.Qf6+ Kh7 42.Qf7+ Bg7 43.Bf5+ Kh8 44.Qh5+ Kg8 \r\n45.Be6+ Kf8 46.Qf7# 1-0",
         "date": "2020-07-25",
         "video": [],
-        "comment_count": 9,
-        "solved_count": 416,
+        "comment_count": 10,
+        "solved_count": 417,
         "parsed": {
             "moves": "45.Be6+ Kf8 46.Qf7# 1-0",
             "event": "55th USSR Championship",
@@ -402,8 +402,8 @@
         "pgn": "[Event \"2020 Chess.com PogChamps\"]\r\n[Site \"Group A\"]\r\n[Date \"2020.06.08\"]\r\n[Round \"2\"]\r\n[White \"erobb221\"]\r\n[Black \"NateHill\"]\r\n[Result \"*\"]\r\n[WhiteElo \"686\"]\r\n[BlackElo \"902\"]\r\n[FEN \"r2qrbk1/pbpn1ppp/1p1ppn2/8/3P1B2/2PBPNP1/PP1N1P1P/R2Q1RK1 b - - 4 11\"]\r\n\r\n11...e5 12.dxe5 dxe5 13.Bg5 e4 14.Bc2 exf3 *",
         "date": "2020-07-26",
         "video": [],
-        "comment_count": 9,
-        "solved_count": 425,
+        "comment_count": 10,
+        "solved_count": 426,
         "parsed": {
             "moves": "11...e5 12.dxe5 dxe5 13.Bg5 e4 14.Bc2 exf3 *",
             "event": "2020 Chess.com PogChamps",
