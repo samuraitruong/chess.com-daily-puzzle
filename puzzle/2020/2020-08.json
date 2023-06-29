@@ -95,8 +95,8 @@
         "pgn": "[Event \"Tata Steel Challengers\"]\r\n[Site \"Wijk aan Zee NED\"]\r\n[Date \"2015.01.18\"]\r\n[Round \"8\"]\r\n[White \"David Navara\"]\r\n[Black \"Bart Michiels\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2729\"]\r\n[BlackElo \"2563\"]\r\n[FEN \"r4r1k/1RR3pb/4p3/3p2p1/3P1B2/P5Pq/5P2/2Q3K1 w - - 0 34\"]\r\n\r\n34.Rxg7 gxf4 35.Qc7 Be4 36.Rg8+ Rxg8 37.Qe5+ Rg7 38.Qxg7# 1-0",
         "date": "2020-08-06",
         "video": [],
-        "comment_count": 5,
-        "solved_count": 481,
+        "comment_count": 6,
+        "solved_count": 482,
         "parsed": {
             "moves": "34.Rxg7 gxf4 35.Qc7 Be4 36.Rg8+ Rxg8 37.Qe5+ Rg7 38.Qxg7# 1-0",
             "event": "Tata Steel Challengers",
@@ -118,8 +118,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"2kr3r/pppbqn2/2Pp3p/3Pp1p1/4p1n1/2P2NP1/P2Q1P2/1RB3K1 w - - 0 1\"]\r\n\r\n1.Rxb7 Rdg8 2.Qb2 Kd8 3.Rb8+ Bc8 4.Rxc8+ Kxc8 5.Qb7+ *",
         "date": "2020-08-07",
         "video": [],
-        "comment_count": 5,
-        "solved_count": 474,
+        "comment_count": 6,
+        "solved_count": 475,
         "parsed": {
             "moves": "1.Rxb7 Rdg8 2.Qb2 Kd8 3.Rb8+ Bc8 4.Rxc8+ Kxc8 5.Qb7+ *",
             "result": "*",
@@ -133,8 +133,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"2q3k1/4R1p1/p3P1bp/1p2n1p1/1P1r4/P4QBK/2P3B1/8 w - - 0 1\"]\r\n\r\n1.Bxe5 g4+ 2.Qxg4 Rxg4 3.Rxg7+ Kf8 4.e7+ Ke8 5.Rg8+ Kxe7 6.Rxc8 *",
         "date": "2020-08-08",
         "video": [],
-        "comment_count": 7,
-        "solved_count": 476,
+        "comment_count": 8,
+        "solved_count": 477,
         "parsed": {
             "moves": "1.Bxe5 g4+ 2.Qxg4 Rxg4 3.Rxg7+ Kf8 4.e7+ Ke8 5.Rg8+ Kxe7 6.Rxc8 *",
             "result": "*",
@@ -148,8 +148,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"2r5/1r1nk1pp/3p1pn1/1pPPpK2/PP4P1/2RNB3/7P/2R5 b - - 0 1\"]\r\n\r\n1...Nh4+ 2.Ke4 f5+ 3.gxf5 Nf6# *",
         "date": "2020-08-09",
         "video": [],
-        "comment_count": 8,
-        "solved_count": 488,
+        "comment_count": 9,
+        "solved_count": 489,
         "parsed": {
             "moves": "1...Nh4+ 2.Ke4 f5+ 3.gxf5 Nf6# *",
             "result": "*",
