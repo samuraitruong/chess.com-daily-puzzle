@@ -184,8 +184,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"r3rb1k/pb3ppp/5p1N/2p2P1Q/1pP5/1P6/qB4PP/5RK1 w - - 0 1\"]\r\n\r\n1.Qxf7 Bd6 2.Qg8+ Rxg8 3.Nf7# *",
         "date": "2020-10-12",
         "video": [],
-        "comment_count": 4,
-        "solved_count": 551,
+        "comment_count": 5,
+        "solved_count": 552,
         "parsed": {
             "moves": "1.Qxf7 Bd6 2.Qg8+ Rxg8 3.Nf7# *",
             "result": "*",
@@ -276,8 +276,8 @@
         "pgn": "[Event \"Riga Technical University Open\"]\r\n[Site \"Riga LAT\"]\r\n[Date \"2014.08.23\"]\r\n[Round \"8.2\"]\r\n[White \"Benjamin Bok\"]\r\n[Black \"Richard Rapport\"]\r\n[Result \"*\"]\r\n[FEN \"5Bk1/1p3pp1/2p2n1p/4rq2/P3p3/2Q2nP1/BPP1RPKP/5R2 b - - 0 24\"]\r\n\r\n24...Qh3+ 25.Kxh3 Rh5+ 26.Kg2 Rxh2# *",
         "date": "2020-10-18",
         "video": [],
-        "comment_count": 4,
-        "solved_count": 534,
+        "comment_count": 5,
+        "solved_count": 535,
         "parsed": {
             "moves": "24...Qh3+ 25.Kxh3 Rh5+ 26.Kg2 Rxh2# *",
             "event": "Riga Technical University Open",
@@ -502,7 +502,7 @@
         "date": "2020-10-30",
         "video": [],
         "comment_count": 4,
-        "solved_count": 510,
+        "solved_count": 511,
         "parsed": {
             "moves": "1.Bd3+ Ke1 2.Bc3+ bxc3 3.Ne3 Nf4 4.Nc2# *",
             "date": "1921",
@@ -521,7 +521,7 @@
         "date": "2020-10-31",
         "video": [],
         "comment_count": 5,
-        "solved_count": 542,
+        "solved_count": 543,
         "parsed": {
             "moves": "1...Re2 2.Qa8+ Bc8 3.d6 Bh4 4.Rd1 Rxg2+ 5.Qxg2 Qxd1+ *",
             "result": "*",
