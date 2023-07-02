@@ -8,13 +8,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_nothing_but_net_07_01_23_f10m.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 638,
-        "solved_count": 1510120,
+        "comment_count": 642,
+        "solved_count": 1534139,
         "parsed": {
             "moves": "1. f4+ Ke4 2. Kf2 Bd1 3. Nc3# *",
             "result": "*",
             "fen": "r2nr3/1pp2pp1/7p/2PNk1P1/bP4B1/6P1/3R1P2/n5K1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=r2nr3/1pp2pp1/7p/2PNk1P1/bP4B1/6P1/3R1P2/n5K1 w - - 0 1"
+    },
+    {
+        "id": 11701,
+        "title": "Final Boss Battle",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/2q1r2k/p4Qp1/2p1P1PN/3p2bP/5R2/PP1K4/8 w - - 0 1\"]\r\n\r\n1. Qf8 Qa5+ 2. Kc2 Qa4+ 3. Kc1 Qc4+ 4. Rc3 Qf1+ 5. Qxf1 *",
+        "date": "2023-07-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_final_boss_battle_07_02_23_b0s.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 23,
+        "solved_count": 13606,
+        "parsed": {
+            "moves": "1. Qf8 Qa5+ 2. Kc2 Qa4+ 3. Kc1 Qc4+ 4. Rc3 Qf1+ 5. Qxf1 *",
+            "result": "*",
+            "fen": "8/2q1r2k/p4Qp1/2p1P1PN/3p2bP/5R2/PP1K4/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/2q1r2k/p4Qp1/2p1P1PN/3p2bP/5R2/PP1K4/8 w - - 0 1"
     }
 ]
