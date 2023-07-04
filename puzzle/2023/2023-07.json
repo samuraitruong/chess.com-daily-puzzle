@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 678,
-        "solved_count": 1674503,
+        "solved_count": 1676387,
         "parsed": {
             "moves": "1. f4+ Ke4 2. Kf2 Bd1 3. Nc3# *",
             "result": "*",
@@ -26,8 +26,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_final_boss_battle_07_02_23_b0s.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1107,
-        "solved_count": 1671425,
+        "comment_count": 1109,
+        "solved_count": 1674232,
         "parsed": {
             "moves": "1. Qf8 Qa5+ 2. Kc2 Qa4+ 3. Kc1 Qc4+ 4. Rc3 Qf1+ 5. Qxf1 *",
             "result": "*",
@@ -44,13 +44,40 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_first_things_first_07_03_23_c1b.mp4",
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
-        "comment_count": 844,
-        "solved_count": 1624272,
+        "comment_count": 851,
+        "solved_count": 1647342,
         "parsed": {
             "moves": "1. Rc8+ Kg7 2. h6# *",
             "result": "*",
             "fen": "6k1/5p1p/p5p1/6BP/8/1pR5/r1pn1PK1/8 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/5p1p/p5p1/6BP/8/1pR5/r1pn1PK1/8 w - - 0 1"
+    },
+    {
+        "id": 11713,
+        "title": "Fighting Fire with Shirov's Fireworks",
+        "pgn": "[Event \"FIDE World Cup\"]\r\n[Site \"Khanty-Mansiysk\"]\r\n[Date \"2009.11.26\"]\r\n[Round \"2.5\"]\r\n[White \"Shirov, Alexei\"]\r\n[Black \"Fedorchuk, Sergey A\"]\r\n[Result \"1-0\"]\r\n[ECO \"B42\"]\r\n[WhiteElo \"2719\"]\r\n[BlackElo \"2619\"]\r\n[FEN \"r1bqk2r/1p2nppp/p1n1pb2/3p4/2N1P3/1NPBB3/PP3PPP/R2QK2R w KQkq - 0 11\"]\r\n\r\n11. Bb6 Qd7 12. Nc5 dxc4 13. Nxd7 *",
+        "date": "2023-07-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_fighting_fire_with_shirovs_fireworks_07_04_23_y10h.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 38,
+        "solved_count": 20725,
+        "parsed": {
+            "moves": "11. Bb6 Qd7 12. Nc5 dxc4 13. Nxd7 *",
+            "event": "FIDE World Cup",
+            "site": "Khanty-Mansiysk",
+            "date": "2009.11.26",
+            "round": "2.5",
+            "white": "Shirov, Alexei",
+            "black": "Fedorchuk, Sergey A",
+            "result": "1-0",
+            "eco": "B42",
+            "whiteelo": "2719",
+            "blackelo": "2619",
+            "fen": "r1bqk2r/1p2nppp/p1n1pb2/3p4/2N1P3/1NPBB3/PP3PPP/R2QK2R w KQkq - 0 11"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1bqk2r/1p2nppp/p1n1pb2/3p4/2N1P3/1NPBB3/PP3PPP/R2QK2R w KQkq - 0 11"
     }
 ]
