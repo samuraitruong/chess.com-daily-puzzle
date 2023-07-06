@@ -391,8 +391,8 @@
         "pgn": "[Date \"1913\"]\r\n[White \"Grigoriev, Nikolai\"]\r\n[Black \"Study\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/7p/K5p1/8/k7/6PP/8 w - - 0 1\"]\r\n\r\n1.g4 Kb2 2.Kb6 Kb3 3.Kb5 Kc2 4.Kc6 Kc3 5.Kc5 Kd2 6.Kd6 Kd3 7.Kd5 Ke2 8.Ke6\r\nKe3 9.Ke5 Kf2 10.Kf6 Kf3 11.Kf5 Kg2 12.Kg6 Kh3 13.Kh5 Kxh2 14.Kxh6 Kg3 15.\r\nKxg5 *",
         "date": "2020-10-24",
         "video": [],
-        "comment_count": 6,
-        "solved_count": 524,
+        "comment_count": 7,
+        "solved_count": 525,
         "parsed": {
             "moves": "Kxg5 *",
             "date": "1913",
@@ -409,8 +409,8 @@
         "pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2020.10.07\"]\r\n[Round \"24\"]\r\n[White \"mishanick\"]\r\n[Black \"nihalsarin\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/1N6/p7/PpP5/1K2n3/8/1k6 b - - 1 80\"]\r\n\r\n80...Nf1 81.c5 Nd2# *",
         "date": "2020-10-25",
         "video": [],
-        "comment_count": 4,
-        "solved_count": 539,
+        "comment_count": 5,
+        "solved_count": 540,
         "parsed": {
             "moves": "80...Nf1 81.c5 Nd2# *",
             "event": "Live Chess",
@@ -430,8 +430,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"rn2k2r/p1p1n2p/bp2p1p1/3pPpN1/3P3q/2NBQP2/PPPK2PP/R6R b kq - 0 1\"]\r\n\r\n1...f4 2.Qe2 Bxd3 3.Qxd3 Qxg5 *",
         "date": "2020-10-26",
         "video": [],
-        "comment_count": 4,
-        "solved_count": 523,
+        "comment_count": 5,
+        "solved_count": 524,
         "parsed": {
             "moves": "1...f4 2.Qe2 Bxd3 3.Qxd3 Qxg5 *",
             "result": "*",
