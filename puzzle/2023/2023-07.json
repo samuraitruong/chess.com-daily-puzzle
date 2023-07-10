@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 721,
-        "solved_count": 1809608,
+        "solved_count": 1809638,
         "parsed": {
             "moves": "1. f4+ Ke4 2. Kf2 Bd1 3. Nc3# *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1181,
-        "solved_count": 1854556,
+        "solved_count": 1854848,
         "parsed": {
             "moves": "1. Qf8 Qa5+ 2. Kc2 Qa4+ 3. Kc1 Qc4+ 4. Rc3 Qf1+ 5. Qxf1 *",
             "result": "*",
@@ -45,7 +45,7 @@
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
         "comment_count": 902,
-        "solved_count": 1893025,
+        "solved_count": 1893509,
         "parsed": {
             "moves": "1. Rc8+ Kg7 2. h6# *",
             "result": "*",
@@ -62,8 +62,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_fighting_fire_with_shirovs_fireworks_07_04_23_y10h.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 725,
-        "solved_count": 1826602,
+        "comment_count": 727,
+        "solved_count": 1827281,
         "parsed": {
             "moves": "11. Bb6 Qd7 12. Nc5 dxc4 13. Nxd7 *",
             "event": "FIDE World Cup",
@@ -89,8 +89,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_the_queens_dream_07_05_23_k10r.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 749,
-        "solved_count": 1831121,
+        "comment_count": 750,
+        "solved_count": 1831943,
         "parsed": {
             "moves": "1... Nf2+ 2. Bxf2 Qf1+ 3. Bg1 Qf3# *",
             "result": "*",
@@ -108,7 +108,7 @@
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
         "comment_count": 857,
-        "solved_count": 1778913,
+        "solved_count": 1779981,
         "parsed": {
             "moves": "1. Be5+ Ka8 2. Qc8+ Rxc8 3. Rxc8# *",
             "result": "*",
@@ -126,7 +126,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 805,
-        "solved_count": 1712176,
+        "solved_count": 1713788,
         "parsed": {
             "moves": "1. d6 Bxg2 2. dxe7 Qxe7 3. Kxg2 *",
             "result": "*",
@@ -144,7 +144,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 641,
-        "solved_count": 1609054,
+        "solved_count": 1611773,
         "parsed": {
             "moves": "1. Qe8 Rd5 2. Re2 Qxd7 3. Re7+ Qxe7 4. Qxe7+ *",
             "result": "*",
@@ -161,13 +161,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_retracing_your_steps_07_09_23_q9n.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 858,
-        "solved_count": 1516629,
+        "comment_count": 879,
+        "solved_count": 1540382,
         "parsed": {
             "moves": "1. Rdh1 Kf8 2. Rh8+ Ke7 3. Re8+ Kf6 4. Rf8+ Ke7 5. Rf7+ Kd8 6. Rh8# *",
             "result": "*",
             "fen": "2b3k1/2r3pR/2Ppp1B1/4N3/1p1n1P2/8/1P2q3/1K1R4 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2b3k1/2r3pR/2Ppp1B1/4N3/1p1n1P2/8/1P2q3/1K1R4 w - - 0 1"
+    },
+    {
+        "id": 11723,
+        "title": "Fork Wisely",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r2qk2r/1p4pp/p1p2p2/n1b5/P2pPR2/2P3P1/1P1NQ1PP/R1B3K1 w kq - 0 1\"]\r\n\r\n1. Qh5+ g6 2. Qxc5 *",
+        "date": "2023-07-10",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_fork_wisely_07_10_23_u4t.mp4.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 32,
+        "solved_count": 21133,
+        "parsed": {
+            "moves": "1. Qh5+ g6 2. Qxc5 *",
+            "result": "*",
+            "fen": "r2qk2r/1p4pp/p1p2p2/n1b5/P2pPR2/2P3P1/1P1NQ1PP/R1B3K1 w kq - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r2qk2r/1p4pp/p1p2p2/n1b5/P2pPR2/2P3P1/1P1NQ1PP/R1B3K1 w kq - 0 1"
     }
 ]
