@@ -320,19 +320,18 @@
     },
     {
         "id": 2444,
-        "title": "Mate in 10",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2qrr1n1/3b1kp1/2pBpn1p/1p2PP2/p2P4/1BP5/P3Q1PP/4RRK1 w - - 0 1\"]\r\n\r\n1. Qh5+ Nxh5 2. fxe6+ Kg6 3. Bc2+ Kg5 4. Rf5+ Kg6 5. Rf6+ Kg5 6. Rg6+ Kh4 7. Re4+ Nf4 8. Rxf4+ Kh5 9. g3 Bxe6 10. Rh4#\r\n*",
+        "title": "Mate in 4",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/p6R/p1kpp3/2P3P1/Pr2P1Q1/2K5/2P1Nq2/8 b - - 0 1\"]\r\n\r\n1... Qe3+ 2. Kxb4 a5+ 3. Kxa5 Qxc5+ 4. Ka6 Qb6# *",
         "date": "2009-11-21",
         "video": [],
         "comment_count": 2,
-        "solved_count": 39,
+        "solved_count": 40,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1... Qe3+ 2. Kxb4 a5+ 3. Kxa5 Qxc5+ 4. Ka6 Qb6# *",
             "result": "*",
-            "fen": "2qrr1n1/3b1kp1/2pBpn1p/1p2PP2/p2P4/1BP5/P3Q1PP/4RRK1 w - - 0 1"
+            "fen": "8/p6R/p1kpp3/2P3P1/Pr2P1Q1/2K5/2P1Nq2/8 b - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=2qrr1n1/3b1kp1/2pBpn1p/1p2PP2/p2P4/1BP5/P3Q1PP/4RRK1 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/p6R/p1kpp3/2P3P1/Pr2P1Q1/2K5/2P1Nq2/8 b - - 0 1"
     },
     {
         "id": 2446,
