@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "id": 11753,
+        "title": "Which Capture Wins Material?",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2r3k1/3q1pp1/p3b2p/b3p3/N3P3/P4N1P/1P3PP1/2RQ2K1 b - - 0 1\"]\r\n\r\n1... Rxc1 2. Qxc1 Qxa4 *",
+        "date": "2023-08-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_which_capture_wins_material_08_01_23_n7e.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 13,
+        "solved_count": 13631,
+        "parsed": {
+            "moves": "1... Rxc1 2. Qxc1 Qxa4 *",
+            "result": "*",
+            "fen": "2r3k1/3q1pp1/p3b2p/b3p3/N3P3/P4N1P/1P3PP1/2RQ2K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r3k1/3q1pp1/p3b2p/b3p3/N3P3/P4N1P/1P3PP1/2RQ2K1 b - - 0 1"
+    }
+]
