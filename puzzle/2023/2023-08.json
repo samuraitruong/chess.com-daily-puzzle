@@ -8,13 +8,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_which_capture_wins_material_08_01_23_n7e.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 749,
-        "solved_count": 1421381,
+        "comment_count": 754,
+        "solved_count": 1441765,
         "parsed": {
             "moves": "1... Rxc1 2. Qxc1 Qxa4 *",
             "result": "*",
             "fen": "2r3k1/3q1pp1/p3b2p/b3p3/N3P3/P4N1P/1P3PP1/2RQ2K1 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2r3k1/3q1pp1/p3b2p/b3p3/N3P3/P4N1P/1P3PP1/2RQ2K1 b - - 0 1"
+    },
+    {
+        "id": 11763,
+        "title": "A Lasting Threat",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2kr1bnr/ppp1pppp/2n5/8/1P2N2q/3P4/P1P1QPPP/R1B2RK1 w - - 0 1\"]\r\n\r\n1. Bg5 Nd4 2. Qd1 Qxe4 3. dxe4 *",
+        "date": "2023-08-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_a_lasting_threat_08_02_23_e4b.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 13,
+        "solved_count": 13630,
+        "parsed": {
+            "moves": "1. Bg5 Nd4 2. Qd1 Qxe4 3. dxe4 *",
+            "result": "*",
+            "fen": "2kr1bnr/ppp1pppp/2n5/8/1P2N2q/3P4/P1P1QPPP/R1B2RK1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2kr1bnr/ppp1pppp/2n5/8/1P2N2q/3P4/P1P1QPPP/R1B2RK1 w - - 0 1"
     }
 ]
