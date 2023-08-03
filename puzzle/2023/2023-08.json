@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 765,
-        "solved_count": 1512271,
+        "solved_count": 1514315,
         "parsed": {
             "moves": "1... Rxc1 2. Qxc1 Qxa4 *",
             "result": "*",
@@ -26,13 +26,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_a_lasting_threat_08_02_23_e4b.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 653,
-        "solved_count": 1393180,
+        "comment_count": 663,
+        "solved_count": 1413553,
         "parsed": {
             "moves": "1. Bg5 Nd4 2. Qd1 Qxe4 3. dxe4 *",
             "result": "*",
             "fen": "2kr1bnr/ppp1pppp/2n5/8/1P2N2q/3P4/P1P1QPPP/R1B2RK1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2kr1bnr/ppp1pppp/2n5/8/1P2N2q/3P4/P1P1QPPP/R1B2RK1 w - - 0 1"
+    },
+    {
+        "id": 11765,
+        "title": "King in a Box",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2k5/pp6/2p1p2R/2P3pB/1B1n4/1PKP4/1P3r2/8 b - - 0 1\"]\r\n\r\n1... Nb5+ 2. Kc4 Rf4+ 3. d4 Rxd4# *",
+        "date": "2023-08-03",
+        "video": {
+            "url": "https://chesscom-videos.s3.amazonaws.com/videos/square/DP_king_in_a_box_08_03_23_c5e.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 24,
+        "solved_count": 15130,
+        "parsed": {
+            "moves": "1... Nb5+ 2. Kc4 Rf4+ 3. d4 Rxd4# *",
+            "result": "*",
+            "fen": "2k5/pp6/2p1p2R/2P3pB/1B1n4/1PKP4/1P3r2/8 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2k5/pp6/2p1p2R/2P3pB/1B1n4/1PKP4/1P3r2/8 b - - 0 1"
     }
 ]
