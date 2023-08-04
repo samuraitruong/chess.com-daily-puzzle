@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 771,
-        "solved_count": 1559885,
+        "solved_count": 1561309,
         "parsed": {
             "moves": "1... Rxc1 2. Qxc1 Qxa4 *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 674,
-        "solved_count": 1494037,
+        "solved_count": 1496258,
         "parsed": {
             "moves": "1. Bg5 Nd4 2. Qd1 Qxe4 3. dxe4 *",
             "result": "*",
@@ -44,13 +44,31 @@
             "url": "https://chesscom-videos.s3.amazonaws.com/videos/square/DP_king_in_a_box_08_03_23_c5e.mp4",
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
-        "comment_count": 664,
-        "solved_count": 1422580,
+        "comment_count": 672,
+        "solved_count": 1442941,
         "parsed": {
             "moves": "1... Nb5+ 2. Kc4 Rf4+ 3. d4 Rxd4# *",
             "result": "*",
             "fen": "2k5/pp6/2p1p2R/2P3pB/1B1n4/1PKP4/1P3r2/8 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2k5/pp6/2p1p2R/2P3pB/1B1n4/1PKP4/1P3r2/8 b - - 0 1"
+    },
+    {
+        "id": 11761,
+        "title": "Dude, Where's My Defense?",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2kr3r/R4Q2/1pq1n3/b6p/3R1B1P/6Pb/2P2P2/6K1 w - - 0 1\"]\r\n\r\n1. Ra8+ Qxa8 2. Rc4+ Nc5 3. Qc7# *",
+        "date": "2023-08-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_dude_wheres_my_defense_08_04_23_t7q.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 23,
+        "solved_count": 13733,
+        "parsed": {
+            "moves": "1. Ra8+ Qxa8 2. Rc4+ Nc5 3. Qc7# *",
+            "result": "*",
+            "fen": "2kr3r/R4Q2/1pq1n3/b6p/3R1B1P/6Pb/2P2P2/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2kr3r/R4Q2/1pq1n3/b6p/3R1B1P/6Pb/2P2P2/6K1 w - - 0 1"
     }
 ]
