@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_which_capture_wins_material_08_01_23_n7e.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 779,
-        "solved_count": 1591949,
+        "comment_count": 780,
+        "solved_count": 1593021,
         "parsed": {
             "moves": "1... Rxc1 2. Qxc1 Qxa4 *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 685,
-        "solved_count": 1539445,
+        "solved_count": 1540880,
         "parsed": {
             "moves": "1. Bg5 Nd4 2. Qd1 Qxe4 3. dxe4 *",
             "result": "*",
@@ -45,7 +45,7 @@
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
         "comment_count": 681,
-        "solved_count": 1516098,
+        "solved_count": 1518264,
         "parsed": {
             "moves": "1... Nb5+ 2. Kc4 Rf4+ 3. d4 Rxd4# *",
             "result": "*",
@@ -62,13 +62,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_dude_wheres_my_defense_08_04_23_t7q.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 666,
-        "solved_count": 1388093,
+        "comment_count": 671,
+        "solved_count": 1408625,
         "parsed": {
             "moves": "1. Ra8+ Qxa8 2. Rc4+ Nc5 3. Qc7# *",
             "result": "*",
             "fen": "2kr3r/R4Q2/1pq1n3/b6p/3R1B1P/6Pb/2P2P2/6K1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2kr3r/R4Q2/1pq1n3/b6p/3R1B1P/6Pb/2P2P2/6K1 w - - 0 1"
+    },
+    {
+        "id": 11769,
+        "title": "Flashy Patterns, Forcing Solution",
+        "pgn": "[Result \"1-0\"]\r\n[FEN \"rnbq2nr/p3k1pp/2p2p2/1pb1N2Q/3pP3/3P4/PPP2PPP/R1B1KB1R w KQ - 0 1\"]\r\n\r\n1. Qf7+ Kd6 2. Nc4+ bxc4 3. Bf4# 1-0",
+        "date": "2023-08-05",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_flashy_patterns_forcing_solution_08_05_23_g8d.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 21,
+        "solved_count": 10655,
+        "parsed": {
+            "moves": "1. Qf7+ Kd6 2. Nc4+ bxc4 3. Bf4# 1-0",
+            "result": "1-0",
+            "fen": "rnbq2nr/p3k1pp/2p2p2/1pb1N2Q/3pP3/3P4/PPP2PPP/R1B1KB1R w KQ - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=rnbq2nr/p3k1pp/2p2p2/1pb1N2Q/3pP3/3P4/PPP2PPP/R1B1KB1R w KQ - 0 1"
     }
 ]
