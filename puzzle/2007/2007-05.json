@@ -50,7 +50,7 @@
         "date": "2007-05-11",
         "video": [],
         "comment_count": 18,
-        "solved_count": 669,
+        "solved_count": 670,
         "parsed": {
             "moves": "12. Nf6+ gxf6 13. Qxf8+ Kxf8 14. Bh6+ Kg8 15. Re8# *",
             "fen": "r1b2rk1/ppp2ppp/1b6/3q4/3pN3/Q4N2/PPP2KPP/R1B1R3 w - - 0 12",
@@ -65,7 +65,7 @@
         "date": "2007-05-12",
         "video": [],
         "comment_count": 21,
-        "solved_count": 620,
+        "solved_count": 621,
         "parsed": {
             "moves": "1. Qh6 $1 1... Rag8 2. Qxh7+ 2... Rxh7 3. Rxg8# *",
             "fen": "r6k/1q1n1prp/p3pN2/1p1b4/6RQ/6P1/PP2PP1P/3R2K1 w - - 0 1"
@@ -79,7 +79,7 @@
         "date": "2007-05-13",
         "video": [],
         "comment_count": 20,
-        "solved_count": 561,
+        "solved_count": 562,
         "parsed": {
             "moves": "1... Ng3+ 2. hxg3 Bd3+ 3. Ke1 Rc1# *",
             "result": "*",
@@ -125,8 +125,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"5rk1/5ppp/R2p4/1bp3bP/2BpP3/3P1Q2/1q3PP1/6K1 w - - 0 1\"]\r\n\r\n1. Qxf7+ Rxf7 2. Ra8+ Be8 3. Rxe8# *",
         "date": "2007-05-16",
         "video": [],
-        "comment_count": 12,
-        "solved_count": 426,
+        "comment_count": 13,
+        "solved_count": 427,
         "parsed": {
             "moves": "1. Qxf7+ Rxf7 2. Ra8+ Be8 3. Rxe8# *",
             "result": "*",
@@ -141,7 +141,7 @@
         "date": "2007-05-17",
         "video": [],
         "comment_count": 17,
-        "solved_count": 403,
+        "solved_count": 404,
         "parsed": {
             "moves": "1. Rc7 1... Qxh5 2. Re7+ Kf8 3. Rxb7+ Ke8 4. Re7+ Kf8 5. Rxh7+ Ke8 6. Rxh5 *",
             "fen": "r2nk1r1/pb3q1p/4p3/3p2pQ/8/BP6/PP3PPP/2R1R1K1 w q - 0 1",
@@ -351,7 +351,7 @@
         "date": "2007-05-30",
         "video": [],
         "comment_count": 11,
-        "solved_count": 229,
+        "solved_count": 230,
         "parsed": {
             "moves": "1...Qxf3+ 2.Kxf3 g4+ 3.Kg2 Re2# *",
             "result": "*",
