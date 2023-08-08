@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 796,
-        "solved_count": 1657898,
+        "solved_count": 1658479,
         "parsed": {
             "moves": "1... Rxc1 2. Qxc1 Qxa4 *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 703,
-        "solved_count": 1619783,
+        "solved_count": 1620538,
         "parsed": {
             "moves": "1. Bg5 Nd4 2. Qd1 Qxe4 3. dxe4 *",
             "result": "*",
@@ -45,7 +45,7 @@
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
         "comment_count": 700,
-        "solved_count": 1619702,
+        "solved_count": 1620589,
         "parsed": {
             "moves": "1... Nb5+ 2. Kc4 Rf4+ 3. d4 Rxd4# *",
             "result": "*",
@@ -63,7 +63,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 711,
-        "solved_count": 1561765,
+        "solved_count": 1562896,
         "parsed": {
             "moves": "1. Ra8+ Qxa8 2. Rc4+ Nc5 3. Qc7# *",
             "result": "*",
@@ -81,7 +81,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 701,
-        "solved_count": 1500057,
+        "solved_count": 1501616,
         "parsed": {
             "moves": "1. Qf7+ Kd6 2. Nc4+ bxc4 3. Bf4# 1-0",
             "result": "1-0",
@@ -98,8 +98,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_where_do_you_see_yourself_in_five_moves_08_06_23_i6u.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 962,
-        "solved_count": 1505122,
+        "comment_count": 959,
+        "solved_count": 1507469,
         "parsed": {
             "moves": "1. Kc5+ e5 2. Bxe5+ d4 3. Bxd4+ Ka3 4. Nc4+ Kxb3 5. Bxa1 *",
             "result": "*",
@@ -117,12 +117,30 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 773,
-        "solved_count": 1407980,
+        "solved_count": 1428601,
         "parsed": {
             "moves": "1... Ra8 2. Qb7 Rgb8 3. Qxa8 Rxa8 *",
             "result": "*",
             "fen": "3r2r1/Q1pk1p2/2p2nqp/2Pp4/8/4PP1P/PP1B1RP1/R5K1 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=3r2r1/Q1pk1p2/2p2nqp/2Pp4/8/4PP1P/PP1B1RP1/R5K1 b - - 0 1"
+    },
+    {
+        "id": 11773,
+        "title": "Small Role, Major Impact",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/6kp/3pp1p1/Q7/PR4nP/6P1/KPqn4/8 w - - 0 1\"]\r\n\r\n1. Rb7+ Kf6 2. Qg5# *",
+        "date": "2023-08-08",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_small_role_major_impact_08_08_23_j5h.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 21,
+        "solved_count": 14868,
+        "parsed": {
+            "moves": "1. Rb7+ Kf6 2. Qg5# *",
+            "result": "*",
+            "fen": "8/6kp/3pp1p1/Q7/PR4nP/6P1/KPqn4/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/6kp/3pp1p1/Q7/PR4nP/6P1/KPqn4/8 w - - 0 1"
     }
 ]
