@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 797,
-        "solved_count": 1671898,
+        "solved_count": 1672254,
         "parsed": {
             "moves": "1... Rxc1 2. Qxc1 Qxa4 *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 708,
-        "solved_count": 1639146,
+        "solved_count": 1639657,
         "parsed": {
             "moves": "1. Bg5 Nd4 2. Qd1 Qxe4 3. dxe4 *",
             "result": "*",
@@ -44,8 +44,8 @@
             "url": "https://chesscom-videos.s3.amazonaws.com/videos/square/DP_king_in_a_box_08_03_23_c5e.mp4",
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
-        "comment_count": 704,
-        "solved_count": 1642734,
+        "comment_count": 705,
+        "solved_count": 1643483,
         "parsed": {
             "moves": "1... Nb5+ 2. Kc4 Rf4+ 3. d4 Rxd4# *",
             "result": "*",
@@ -63,7 +63,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 721,
-        "solved_count": 1589993,
+        "solved_count": 1590883,
         "parsed": {
             "moves": "1. Ra8+ Qxa8 2. Rc4+ Nc5 3. Qc7# *",
             "result": "*",
@@ -81,7 +81,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 707,
-        "solved_count": 1537279,
+        "solved_count": 1538409,
         "parsed": {
             "moves": "1. Qf7+ Kd6 2. Nc4+ bxc4 3. Bf4# 1-0",
             "result": "1-0",
@@ -99,7 +99,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 975,
-        "solved_count": 1556831,
+        "solved_count": 1558339,
         "parsed": {
             "moves": "1. Kc5+ e5 2. Bxe5+ d4 3. Bxd4+ Ka3 4. Nc4+ Kxb3 5. Bxa1 *",
             "result": "*",
@@ -116,8 +116,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_return_to_sender_08_07_23_u1h.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 800,
-        "solved_count": 1508670,
+        "comment_count": 803,
+        "solved_count": 1510897,
         "parsed": {
             "moves": "1... Ra8 2. Qb7 Rgb8 3. Qxa8 Rxa8 *",
             "result": "*",
@@ -134,13 +134,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_small_role_major_impact_08_08_23_j5h.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 664,
-        "solved_count": 1420908,
+        "comment_count": 667,
+        "solved_count": 1441141,
         "parsed": {
             "moves": "1. Rb7+ Kf6 2. Qg5# *",
             "result": "*",
             "fen": "8/6kp/3pp1p1/Q7/PR4nP/6P1/KPqn4/8 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=8/6kp/3pp1p1/Q7/PR4nP/6P1/KPqn4/8 w - - 0 1"
+    },
+    {
+        "id": 11779,
+        "title": "Rattling the Castle Gates",
+        "pgn": "[Result \"*\"]\r\n[FEN \"4rq1k/3r1p1p/3p1p2/1p1P2Q1/p1n2P2/P1P4R/1P3RPK/8 w - - 0 1\"]\r\n\r\n1. Qf5 h6 2. Qxd7 *",
+        "date": "2023-08-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_rattling_the_castle_gates_08_09_23_b10c.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 22,
+        "solved_count": 14807,
+        "parsed": {
+            "moves": "1. Qf5 h6 2. Qxd7 *",
+            "result": "*",
+            "fen": "4rq1k/3r1p1p/3p1p2/1p1P2Q1/p1n2P2/P1P4R/1P3RPK/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4rq1k/3r1p1p/3p1p2/1p1P2Q1/p1n2P2/P1P4R/1P3RPK/8 w - - 0 1"
     }
 ]
