@@ -8,13 +8,40 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_a_heavy_foot_race_09_01_23_r7u.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 719,
-        "solved_count": 1400377,
+        "comment_count": 725,
+        "solved_count": 1421473,
         "parsed": {
             "moves": "a6 h2 9. a7 h1=Q 10. a8=Q Qxa8 *",
             "result": "*",
             "fen": "8/8/7p/3R4/P3K1k1/8/8/1r6 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/7p/3R4/P3K1k1/8/8/1r6 b - - 0 1"
+    },
+    {
+        "id": 11829,
+        "title": "A Heavy Lifting Tactic",
+        "pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2020.03.12\"]\r\n[Round \"?\"]\r\n[White \"CoachJKane\"]\r\n[Black \"AndrewMaco\"]\r\n[Result \"1-0\"]\r\n[ECO \"A45\"]\r\n[WhiteElo \"2642\"]\r\n[BlackElo \"2656\"]\r\n[FEN \"r2q1rk1/pb3p2/1p2pb1Q/2pp4/3PnP2/2PBP3/PP1N2PP/R4RK1 w - - 0 17\"]\r\n\r\n17. Nxe4 dxe4 18. Rf3 Bg7 19. Rg3 Qf6 20. Qxf6 *",
+        "date": "2023-09-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_a_heavy_lifting_tactic_09_02_23_x5y.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 21,
+        "solved_count": 10704,
+        "parsed": {
+            "moves": "17. Nxe4 dxe4 18. Rf3 Bg7 19. Rg3 Qf6 20. Qxf6 *",
+            "event": "Live Chess",
+            "site": "Chess.com",
+            "date": "2020.03.12",
+            "round": "?",
+            "white": "CoachJKane",
+            "black": "AndrewMaco",
+            "result": "1-0",
+            "eco": "A45",
+            "whiteelo": "2642",
+            "blackelo": "2656",
+            "fen": "r2q1rk1/pb3p2/1p2pb1Q/2pp4/3PnP2/2PBP3/PP1N2PP/R4RK1 w - - 0 17"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r2q1rk1/pb3p2/1p2pb1Q/2pp4/3PnP2/2PBP3/PP1N2PP/R4RK1 w - - 0 17"
     }
 ]
