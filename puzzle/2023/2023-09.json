@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_a_heavy_foot_race_09_01_23_r7u.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 755,
-        "solved_count": 1490409,
+        "comment_count": 756,
+        "solved_count": 1492508,
         "parsed": {
             "moves": "a6 h2 9. a7 h1=Q 10. a8=Q Qxa8 *",
             "result": "*",
@@ -26,8 +26,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_a_heavy_lifting_tactic_09_02_23_x5y.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 793,
-        "solved_count": 1321314,
+        "comment_count": 801,
+        "solved_count": 1342525,
         "parsed": {
             "moves": "17. Nxe4 dxe4 18. Rf3 Bg7 19. Rg3 Qf6 20. Qxf6 *",
             "event": "Live Chess",
@@ -43,5 +43,31 @@
             "fen": "r2q1rk1/pb3p2/1p2pb1Q/2pp4/3PnP2/2PBP3/PP1N2PP/R4RK1 w - - 0 17"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=r2q1rk1/pb3p2/1p2pb1Q/2pp4/3PnP2/2PBP3/PP1N2PP/R4RK1 w - - 0 17"
+    },
+    {
+        "id": 11833,
+        "title": "Magnus From the Top Rope!",
+        "pgn": "[Event \"FIDE World Cup 2023\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2023.08.03\"]\r\n[Round \"2\"]\r\n[White \"Carlsen, Magnus\"]\r\n[Black \"Pantsulaia, Levan\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2835\"]\r\n[BlackElo \"2564\"]\r\n[FEN \"5k1r/p1Br1pb1/6q1/1pp2Npp/3n4/P2Q3P/1P3PP1/3RR2K w - - 0 29\"]\r\n\r\n29. Re8+ Kxe8 30. Qe4+ Ne6 31. Qa8+ Nd8 32. Qxd8+ Rxd8 33. Rxd8# 1-0",
+        "date": "2023-09-03",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_magnus_from_the_top_rope_09_03_23_m9q.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 24,
+        "solved_count": 10340,
+        "parsed": {
+            "moves": "29. Re8+ Kxe8 30. Qe4+ Ne6 31. Qa8+ Nd8 32. Qxd8+ Rxd8 33. Rxd8# 1-0",
+            "event": "FIDE World Cup 2023",
+            "site": "Chess.com",
+            "date": "2023.08.03",
+            "round": "2",
+            "white": "Carlsen, Magnus",
+            "black": "Pantsulaia, Levan",
+            "result": "1-0",
+            "whiteelo": "2835",
+            "blackelo": "2564",
+            "fen": "5k1r/p1Br1pb1/6q1/1pp2Npp/3n4/P2Q3P/1P3PP1/3RR2K w - - 0 29"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5k1r/p1Br1pb1/6q1/1pp2Npp/3n4/P2Q3P/1P3PP1/3RR2K w - - 0 29"
     }
 ]
