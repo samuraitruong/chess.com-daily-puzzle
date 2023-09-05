@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 774,
-        "solved_count": 1562750,
+        "solved_count": 1563974,
         "parsed": {
             "moves": "a6 h2 9. a7 h1=Q 10. a8=Q Qxa8 *",
             "result": "*",
@@ -26,8 +26,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_a_heavy_lifting_tactic_09_02_23_x5y.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 824,
-        "solved_count": 1460252,
+        "comment_count": 827,
+        "solved_count": 1461939,
         "parsed": {
             "moves": "17. Nxe4 dxe4 18. Rf3 Bg7 19. Rg3 Qf6 20. Qxf6 *",
             "event": "Live Chess",
@@ -54,7 +54,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 852,
-        "solved_count": 1436280,
+        "solved_count": 1438837,
         "parsed": {
             "moves": "29. Re8+ Kxe8 30. Qe4+ Ne6 31. Qa8+ Nd8 32. Qxd8+ Rxd8 33. Rxd8# 1-0",
             "event": "FIDE World Cup 2023",
@@ -79,13 +79,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_discovering_your_diagonal_dominance_09_04_23_v7k.mp4",
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
-        "comment_count": 601,
-        "solved_count": 1401576,
+        "comment_count": 609,
+        "solved_count": 1425260,
         "parsed": {
             "moves": "1. e4 Qb3 2. exd5 *",
             "result": "*",
             "fen": "4n1k1/2p2ppp/3p4/1p1b4/1P4P1/2Q2B1P/4PPK1/B2q4 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=4n1k1/2p2ppp/3p4/1p1b4/1P4P1/2Q2B1P/4PPK1/B2q4 w - - 0 1"
+    },
+    {
+        "id": 11837,
+        "title": "Zwischenzug Zigzag",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r1b3k1/1p2rqb1/p2pnpp1/2n4p/P2NPB1P/2Q2NPB/1PP2P2/R3R1K1 b - - 0 1\"]\r\n\r\n1... Nxd4 2. Bxc8 Nxf3+ 3. Qxf3 Rxc8 *",
+        "date": "2023-09-05",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_zwischenzug_zigzag_09_05_23_r4w.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 21,
+        "solved_count": 14688,
+        "parsed": {
+            "moves": "1... Nxd4 2. Bxc8 Nxf3+ 3. Qxf3 Rxc8 *",
+            "result": "*",
+            "fen": "r1b3k1/1p2rqb1/p2pnpp1/2n4p/P2NPB1P/2Q2NPB/1PP2P2/R3R1K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b3k1/1p2rqb1/p2pnpp1/2n4p/P2NPB1P/2Q2NPB/1PP2P2/R3R1K1 b - - 0 1"
     }
 ]
