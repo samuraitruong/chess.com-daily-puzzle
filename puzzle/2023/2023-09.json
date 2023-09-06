@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 785,
-        "solved_count": 1589113,
+        "solved_count": 1590029,
         "parsed": {
             "moves": "a6 h2 9. a7 h1=Q 10. a8=Q Qxa8 *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 836,
-        "solved_count": 1495487,
+        "solved_count": 1496642,
         "parsed": {
             "moves": "17. Nxe4 dxe4 18. Rf3 Bg7 19. Rg3 Qf6 20. Qxf6 *",
             "event": "Live Chess",
@@ -54,7 +54,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 868,
-        "solved_count": 1485906,
+        "solved_count": 1487483,
         "parsed": {
             "moves": "29. Re8+ Kxe8 30. Qe4+ Ne6 31. Qa8+ Nd8 32. Qxd8+ Rxd8 33. Rxd8# 1-0",
             "event": "FIDE World Cup 2023",
@@ -80,7 +80,7 @@
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
         "comment_count": 632,
-        "solved_count": 1504379,
+        "solved_count": 1506779,
         "parsed": {
             "moves": "1. e4 Qb3 2. exd5 *",
             "result": "*",
@@ -97,13 +97,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_zwischenzug_zigzag_09_05_23_r4w.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 639,
-        "solved_count": 1424328,
+        "comment_count": 652,
+        "solved_count": 1447519,
         "parsed": {
             "moves": "1... Nxd4 2. Bxc8 Nxf3+ 3. Qxf3 Rxc8 *",
             "result": "*",
             "fen": "r1b3k1/1p2rqb1/p2pnpp1/2n4p/P2NPB1P/2Q2NPB/1PP2P2/R3R1K1 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=r1b3k1/1p2rqb1/p2pnpp1/2n4p/P2NPB1P/2Q2NPB/1PP2P2/R3R1K1 b - - 0 1"
+    },
+    {
+        "id": 11075,
+        "title": "Dark Clouds Over the Light Squares",
+        "pgn": "[Result \"*\"]\r\n[FEN \"7k/5rpp/1p1np1r1/1B3p1q/3PP3/Q1R2bP1/1P3P1P/4R1K1 b - - 0 1\"]\r\n\r\n1... Qxh2+ 2. Kxh2 Rh6+ 3. Kg1 Rh1# *",
+        "date": "2023-09-06",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_dark_clouds_over_the_light_squares_09_06_23_y4g.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 37,
+        "solved_count": 15658,
+        "parsed": {
+            "moves": "1... Qxh2+ 2. Kxh2 Rh6+ 3. Kg1 Rh1# *",
+            "result": "*",
+            "fen": "7k/5rpp/1p1np1r1/1B3p1q/3PP3/Q1R2bP1/1P3P1P/4R1K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7k/5rpp/1p1np1r1/1B3p1q/3PP3/Q1R2bP1/1P3P1P/4R1K1 b - - 0 1"
     }
 ]
