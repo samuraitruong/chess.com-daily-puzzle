@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 791,
-        "solved_count": 1645529,
+        "solved_count": 1645912,
         "parsed": {
             "moves": "a6 h2 9. a7 h1=Q 10. a8=Q Qxa8 *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 849,
-        "solved_count": 1566303,
+        "solved_count": 1566833,
         "parsed": {
             "moves": "17. Nxe4 dxe4 18. Rf3 Bg7 19. Rg3 Qf6 20. Qxf6 *",
             "event": "Live Chess",
@@ -54,7 +54,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 887,
-        "solved_count": 1574274,
+        "solved_count": 1575054,
         "parsed": {
             "moves": "29. Re8+ Kxe8 30. Qe4+ Ne6 31. Qa8+ Nd8 32. Qxd8+ Rxd8 33. Rxd8# 1-0",
             "event": "FIDE World Cup 2023",
@@ -80,7 +80,7 @@
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
         "comment_count": 651,
-        "solved_count": 1619901,
+        "solved_count": 1620863,
         "parsed": {
             "moves": "1. e4 Qb3 2. exd5 *",
             "result": "*",
@@ -98,7 +98,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 679,
-        "solved_count": 1618155,
+        "solved_count": 1619355,
         "parsed": {
             "moves": "1... Nxd4 2. Bxc8 Nxf3+ 3. Qxf3 Rxc8 *",
             "result": "*",
@@ -116,7 +116,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 850,
-        "solved_count": 1587436,
+        "solved_count": 1589015,
         "parsed": {
             "moves": "1... Qxh2+ 2. Kxh2 Rh6+ 3. Kg1 Rh1# *",
             "result": "*",
@@ -134,7 +134,7 @@
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
         "comment_count": 764,
-        "solved_count": 1539062,
+        "solved_count": 1541421,
         "parsed": {
             "moves": "1. Qb6+ cxb6 2. axb6+ Kb8 3. Rd8# *",
             "result": "*",
@@ -151,8 +151,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_its_not_a_bug_its_a_forced_mate_09_08_23_a7l.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1681,
-        "solved_count": 1413485,
+        "comment_count": 1698,
+        "solved_count": 1435314,
         "parsed": {
             "moves": "24. Rxh5+ gxh5 25. Be4+ f5 26. exf6# 1-0",
             "event": "Live Chess",
@@ -168,5 +168,23 @@
             "fen": "3R3r/5pbk/1pB1p1p1/4P1Pn/8/r1p5/P4PP1/2K4R w - - 0 24"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=3R3r/5pbk/1pB1p1p1/4P1Pn/8/r1p5/P4PP1/2K4R w - - 0 24"
+    },
+    {
+        "id": 11843,
+        "title": "Finding Clarity in the Jungle",
+        "pgn": "[Result \"*\"]\r\n[FEN \"4nb1r/1q6/R1N2p1n/R2bpk1K/7Q/4PrB1/3P4/8 w - - 0 1\"]\r\n\r\n1. Nd4+ exd4 2. e4# *",
+        "date": "2023-09-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_finding_clarity_in_the_jungle_09_09_23_p2i.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 33,
+        "solved_count": 11475,
+        "parsed": {
+            "moves": "1. Nd4+ exd4 2. e4# *",
+            "result": "*",
+            "fen": "4nb1r/1q6/R1N2p1n/R2bpk1K/7Q/4PrB1/3P4/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4nb1r/1q6/R1N2p1n/R2bpk1K/7Q/4PrB1/3P4/8 w - - 0 1"
     }
 ]
