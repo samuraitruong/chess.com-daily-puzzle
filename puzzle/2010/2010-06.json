@@ -33,16 +33,15 @@
     },
     {
         "id": 2641,
-        "title": "Monticelli-Bogoljubov San Remo, 1930",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/2qr4/1r4pP/p1p2N2/P1P1N3/1PQ5/2P5/2K2R2 w - - 0 1\"]\r\n\r\n1. Ne7+ Rxe7 2. Rf8+ Kxf8 3. Qh8+ Kf7 4. Ng5#\r\n*",
+        "title": "Mate in 4",
+        "pgn": "[Result \"1-0\"]\r\n[FEN \"6k1/2qr4/1r4pP/p1p2N2/P1P1N3/1PQ5/2P5/2K2R2 w - - 0 1\"]\r\n\r\n1. Ne7+ Rxe7 2. Rf8+ Kxf8 3. Qh8+ Kf7 4. Ng5# 1-0",
         "date": "2010-06-03",
         "video": [],
         "comment_count": 3,
         "solved_count": 51,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
-            "result": "*",
+            "moves": "1. Ne7+ Rxe7 2. Rf8+ Kxf8 3. Qh8+ Kf7 4. Ng5# 1-0",
+            "result": "1-0",
             "fen": "6k1/2qr4/1r4pP/p1p2N2/P1P1N3/1PQ5/2P5/2K2R2 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/2qr4/1r4pP/p1p2N2/P1P1N3/1PQ5/2P5/2K2R2 w - - 0 1"
