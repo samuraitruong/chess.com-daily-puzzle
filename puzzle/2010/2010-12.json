@@ -466,18 +466,17 @@
     {
         "id": 2849,
         "title": "Going For It",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1b2rk1/2q1npp1/3p1b1B/4pP1Q/pp2P2P/P5R1/1PP3P1/1KN4R w - - 0 1\"]\r\n\r\n1. Bxg7 Bxg7 2. Rxg7+ Kxg7 3. Qg5+ Kh7 4. f6\r\n*",
+        "pgn": "[Result \"*\"]\r\n[FEN \"6rk/1bqN1Qpp/p7/8/3Pp3/2p3R1/PP5r/2K3R1 w - - 0 1\"]\r\n\r\n1. Qxg8+ Kxg8 2. Rxg7+ Kh8 3. Rg8# *",
         "date": "2010-12-30",
         "video": [],
         "comment_count": 2,
-        "solved_count": 49,
+        "solved_count": 50,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1. Qxg8+ Kxg8 2. Rxg7+ Kh8 3. Rg8# *",
             "result": "*",
-            "fen": "r1b2rk1/2q1npp1/3p1b1B/4pP1Q/pp2P2P/P5R1/1PP3P1/1KN4R w - - 0 1"
+            "fen": "6rk/1bqN1Qpp/p7/8/3Pp3/2p3R1/PP5r/2K3R1 w - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b2rk1/2q1npp1/3p1b1B/4pP1Q/pp2P2P/P5R1/1PP3P1/1KN4R w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6rk/1bqN1Qpp/p7/8/3Pp3/2p3R1/PP5r/2K3R1 w - - 0 1"
     },
     {
         "id": 2850,
