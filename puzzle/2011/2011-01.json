@@ -97,19 +97,18 @@
     },
     {
         "id": 2857,
-        "title": "Gorgiev, 1929",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3B4/5N1p/4kPr1/7p/4nP2/5K2/7P/8 w - - 0 1\"]\r\n\r\n1. f5+ Kxf5 2. Nh6+ Rxh6 3. f7 Ng5+ 4. Bxg5 Kxg5 5. h4+ Kg6 6. f8=B\r\n*\r\n",
+        "title": "King Hunt!",
+        "pgn": "[Result \"*\"]\r\n[FEN \"Rb2kr2/3pn3/R4q1p/2pB2p1/1rP1Q3/1P2N1P1/3N1P1P/6K1 b - - 0 1\"]\r\n\r\n1... Qxf2+ 2. Kh1 Qe1+ 3. Kg2 Rf2+ 4. Kh3 Rxh2+ 5. Kxh2 Qxg3+ 6. Kh1 Qh2# *",
         "date": "2011-01-07",
         "video": [],
         "comment_count": 2,
         "solved_count": 51,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1... Qxf2+ 2. Kh1 Qe1+ 3. Kg2 Rf2+ 4. Kh3 Rxh2+ 5. Kxh2 Qxg3+ 6. Kh1 Qh2# *",
             "result": "*",
-            "fen": "3B4/5N1p/4kPr1/7p/4nP2/5K2/7P/8 w - - 0 1"
+            "fen": "Rb2kr2/3pn3/R4q1p/2pB2p1/1rP1Q3/1P2N1P1/3N1P1P/6K1 b - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=3B4/5N1p/4kPr1/7p/4nP2/5K2/7P/8 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=Rb2kr2/3pn3/R4q1p/2pB2p1/1rP1Q3/1P2N1P1/3N1P1P/6K1 b - - 0 1"
     },
     {
         "id": 2858,
