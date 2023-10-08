@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1204,
-        "solved_count": 1563061,
+        "solved_count": 1563596,
         "parsed": {
             "moves": "Qg5+ 8. Kh3 Qg4# *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 761,
-        "solved_count": 1644663,
+        "solved_count": 1645367,
         "parsed": {
             "moves": "1. Bxc6+ Rbxc6 2. Qxd4 *",
             "result": "*",
@@ -45,7 +45,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 724,
-        "solved_count": 1598782,
+        "solved_count": 1599649,
         "parsed": {
             "moves": "1... Nxe5 2. Bxd7+ Nxd7 *",
             "result": "*",
@@ -63,7 +63,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1050,
-        "solved_count": 1579400,
+        "solved_count": 1580532,
         "parsed": {
             "moves": "1... g2 2. Rf8+ Kg5 3. a8=Q g1=N+ 4. Kg3 h4# *",
             "result": "*",
@@ -81,7 +81,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 773,
-        "solved_count": 1547873,
+        "solved_count": 1549277,
         "parsed": {
             "moves": "1. Ne7+ Kh8 2. h6 Rfe8 3. hxg7+ Kxg7 4. Rh7+ Kf8 5. Rf7# *",
             "result": "*",
@@ -99,7 +99,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1019,
-        "solved_count": 1456521,
+        "solved_count": 1458782,
         "parsed": {
             "moves": "1. Rxd5 exd5 2. Bb6 Qxb6 3. Qe8+ Rxe8 4. Rxe8# *",
             "result": "*",
@@ -116,13 +116,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_major_risk_major_gain_10_07_23_s1p.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 762,
-        "solved_count": 1315917,
+        "comment_count": 771,
+        "solved_count": 1337326,
         "parsed": {
             "moves": "1. Rd8+ Qxd8 2. Qe6+ Kh7 3. Rxh6+ gxh6 4. Qf7# *",
             "result": "*",
             "fen": "2q3kr/1b4p1/p4R1p/8/8/1p2Q2P/1PrR2P1/7K w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2q3kr/1b4p1/p4R1p/8/8/1p2Q2P/1PrR2P1/7K w - - 0 1"
+    },
+    {
+        "id": 11883,
+        "title": "Open Concept",
+        "pgn": "[Result \"0-1\"]\r\n[FEN \"1k4q1/1pr2p2/3p3r/pN1P1nn1/P1P4p/1R3P2/2Q3PP/B1R2BK1 b - - 0 1\"]\r\n\r\n1... Nh3+ 2. Kh1 Ng3+ 3. hxg3 Nf2+ 4. Qxf2 hxg3+ 5. Kg1 Rh1+ 6. Kxh1 Qh7+ 7.\r\nKg1 Qh2# *",
+        "date": "2023-10-08",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_open_concept_10_08_23_z6p.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 27,
+        "solved_count": 10924,
+        "parsed": {
+            "moves": "Kg1 Qh2# *",
+            "result": "0-1",
+            "fen": "1k4q1/1pr2p2/3p3r/pN1P1nn1/P1P4p/1R3P2/2Q3PP/B1R2BK1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1k4q1/1pr2p2/3p3r/pN1P1nn1/P1P4p/1R3P2/2Q3PP/B1R2BK1 b - - 0 1"
     }
 ]
