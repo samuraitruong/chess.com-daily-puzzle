@@ -17,19 +17,18 @@
     },
     {
         "id": 2911,
-        "title": "G.Umnov, Shakmatnaya Kompositsiya, 2000",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/1p4k1/5R2/8/8/7K/6p1/8 w - - 0 1\"]\r\n\r\n1. Rf3 g1=N+ 2. Kg2 Nxf3 3. Kxf3 Kf7 4. Ke3 Ke7 5. Kd3 Kd7 6. Kc3 Kc7 7. Kb3 Kb6 8. Kb4\r\n*",
+        "title": "Three Step Process",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2rk1b1r/ppNbp1pp/8/4B3/8/7P/PPP1B1P1/3R2Kn w - - 0 1\"]\r\n\r\n1. Rxd7+ Kxd7 2. Bb5+ Kd8 3. Ne6# *",
         "date": "2011-03-02",
         "video": [],
         "comment_count": 2,
         "solved_count": 54,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1. Rxd7+ Kxd7 2. Bb5+ Kd8 3. Ne6# *",
             "result": "*",
-            "fen": "8/1p4k1/5R2/8/8/7K/6p1/8 w - - 0 1"
+            "fen": "2rk1b1r/ppNbp1pp/8/4B3/8/7P/PPP1B1P1/3R2Kn w - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=8/1p4k1/5R2/8/8/7K/6p1/8 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2rk1b1r/ppNbp1pp/8/4B3/8/7P/PPP1B1P1/3R2Kn w - - 0 1"
     },
     {
         "id": 2912,
@@ -49,19 +48,18 @@
     },
     {
         "id": 2913,
-        "title": "D. Joseph, British Chess Magazine 1922",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3K4/kp6/p7/1P6/8/8/7P/8 w - - 0 1\"]\r\n\r\n1. b6+ Kb8 2. h4 a5 3. h5 a4 4. h6 a3 5. h7 a2 6. h8=Q a1=Q 7. Qg8 Qa2 8. Qe8 Qa4 9. Qe5+ Ka8 10. Qh8 Qe8+ 11. Qxe8\r\n*",
+        "title": "Tactical Pivot",
+        "pgn": "[Result \"*\"]\r\n[FEN \"7k/ppp2p1B/2N1b3/6Q1/4P3/2q5/P4PKP/8 b - - 0 1\"]\r\n\r\n1... Bh3+ 2. Kh1 Qf3+ 3. Kg1 Qd1# *",
         "date": "2011-03-04",
         "video": [],
         "comment_count": 3,
-        "solved_count": 54,
+        "solved_count": 55,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1... Bh3+ 2. Kh1 Qf3+ 3. Kg1 Qd1# *",
             "result": "*",
-            "fen": "3K4/kp6/p7/1P6/8/8/7P/8 w - - 0 1"
+            "fen": "7k/ppp2p1B/2N1b3/6Q1/4P3/2q5/P4PKP/8 b - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=3K4/kp6/p7/1P6/8/8/7P/8 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7k/ppp2p1B/2N1b3/6Q1/4P3/2q5/P4PKP/8 b - - 0 1"
     },
     {
         "id": 2914,

@@ -65,19 +65,18 @@
     },
     {
         "id": 2855,
-        "title": "Walking into the Line of Fire",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r2q4/4kpPQ/p2p4/1ppPr1p1/2Pb2p1/1P4P1/P5K1/R4R2 w - - 0 1\"]\r\n\r\n1. Rxf7+ Kxf7 2. g8=Q+ \r\n*",
+        "title": "A Tale of Two Promotions",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/pRP4p/6pk/3r4/1P3p2/4p2P/P4PP1/6K1 b - - 0 1\"]\r\n\r\n1... Rd1+ 2. Kh2 exf2 3. c8=Q f1=N+ 4. Kg1 Ng3+ 5. Kf2 Rf1# *",
         "date": "2011-01-05",
         "video": [],
         "comment_count": 2,
-        "solved_count": 57,
+        "solved_count": 58,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1... Rd1+ 2. Kh2 exf2 3. c8=Q f1=N+ 4. Kg1 Ng3+ 5. Kf2 Rf1# *",
             "result": "*",
-            "fen": "r2q4/4kpPQ/p2p4/1ppPr1p1/2Pb2p1/1P4P1/P5K1/R4R2 w - - 0 1"
+            "fen": "8/pRP4p/6pk/3r4/1P3p2/4p2P/P4PP1/6K1 b - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=r2q4/4kpPQ/p2p4/1ppPr1p1/2Pb2p1/1P4P1/P5K1/R4R2 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/pRP4p/6pk/3r4/1P3p2/4p2P/P4PP1/6K1 b - - 0 1"
     },
     {
         "id": 2856,
@@ -224,19 +223,18 @@
     },
     {
         "id": 2865,
-        "title": "Mate in 6",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6R1/5p1p/5bpk/8/5PQP/1pq3PK/8/8 w KQkq - 0 1\"]\r\n\r\n1. Qg5+ Bxg5 2. hxg5+ Kh5 3. Rh8 Qc8+ 4. Rxc8 f5 5. Rh8 b2 6. Rxh7#\r\n*",
+        "title": "Promotion vs Mating Net",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/2NP1p1k/6pP/6r1/p5r1/7K/1P6/3R3R b - - 0 1\"]\r\n\r\n1... f5 2. d8=Q Rh5+ 3. Qh4 Rhxh4# *",
         "date": "2011-01-15",
         "video": [],
         "comment_count": 3,
-        "solved_count": 52,
+        "solved_count": 53,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1... f5 2. d8=Q Rh5+ 3. Qh4 Rhxh4# *",
             "result": "*",
-            "fen": "6R1/5p1p/5bpk/8/5PQP/1pq3PK/8/8 w KQkq - 0 1"
+            "fen": "8/2NP1p1k/6pP/6r1/p5r1/7K/1P6/3R3R b - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=6R1/5p1p/5bpk/8/5PQP/1pq3PK/8/8 w KQkq - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/2NP1p1k/6pP/6r1/p5r1/7K/1P6/3R3R b - - 0 1"
     },
     {
         "id": 2866,
