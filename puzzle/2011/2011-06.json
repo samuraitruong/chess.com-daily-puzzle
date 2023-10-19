@@ -145,19 +145,18 @@
     },
     {
         "id": 3013,
-        "title": "White Draws",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/4KPp1/kb6/8/8/8/8/8 w KQkq - 0 1\"]\r\n\r\n1. Kf8 g5 2. Ke7 g4 3. Ke6 Bc5 4. Kd5 Kb5 5. Ke4\r\n*",
+        "title": "Black Draws",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/R1Q4p/5pk1/6p1/3P1r2/1PN1qP1P/1PP3PK/4b3 b - - 0 1\"]\r\n\r\n1... Bg3+ 2. Kxg3 Rxf3+ 3. Kh2 Rxh3+ 4. gxh3 Qf2+ *",
         "date": "2011-06-10",
         "video": [],
         "comment_count": 2,
-        "solved_count": 52,
+        "solved_count": 53,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1... Bg3+ 2. Kxg3 Rxf3+ 3. Kh2 Rxh3+ 4. gxh3 Qf2+ *",
             "result": "*",
-            "fen": "8/4KPp1/kb6/8/8/8/8/8 w KQkq - 0 1"
+            "fen": "8/R1Q4p/5pk1/6p1/3P1r2/1PN1qP1P/1PP3PK/4b3 b - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=8/4KPp1/kb6/8/8/8/8/8 w KQkq - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/R1Q4p/5pk1/6p1/3P1r2/1PN1qP1P/1PP3PK/4b3 b - - 0 1"
     },
     {
         "id": 3014,
