@@ -321,19 +321,18 @@
     },
     {
         "id": 3116,
-        "title": "Endgame Study",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/8/3pPp2/8/5K2/8/8/8 w KQkq - 0 1\"]\r\n\r\n1. Kf5 Kg7 2. e7 Kf7 3. e8=Q+ Kxe8 4. Ke6\r\n*",
+        "title": "Mate in 3",
+        "pgn": "[Result \"*\"]\r\n[FEN \"rn2kbr1/p3pp2/8/1pp3p1/3qn3/P1N4Q/1P2BPPP/R3K2R w KQq - 0 1\"]\r\n\r\n1. Qc8+ Qd8 2. Bxb5+ Nd7 3. Bxd7# *",
         "date": "2011-09-21",
         "video": [],
         "comment_count": 2,
-        "solved_count": 55,
+        "solved_count": 56,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1. Qc8+ Qd8 2. Bxb5+ Nd7 3. Bxd7# *",
             "result": "*",
-            "fen": "6k1/8/3pPp2/8/5K2/8/8/8 w KQkq - 0 1"
+            "fen": "rn2kbr1/p3pp2/8/1pp3p1/3qn3/P1N4Q/1P2BPPP/R3K2R w KQq - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/8/3pPp2/8/5K2/8/8/8 w KQkq - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=rn2kbr1/p3pp2/8/1pp3p1/3qn3/P1N4Q/1P2BPPP/R3K2R w KQq - 0 1"
     },
     {
         "id": 3117,
@@ -369,7 +368,7 @@
     },
     {
         "id": 3119,
-        "title": "Gregoriev, 1925",
+        "title": "Grigoriev, 1925",
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/7p/p7/k1P2K2/8/P7/8 w - - 0 1\"]\r\n\r\n1. a3 h5 2. Kg3 h4+ 3. Kh3 Kxa3 4. c5 a4 5. c6 Kb2 6. c7 a3 7. c8=Q\r\n*",
         "date": "2011-09-24",
         "video": [],
