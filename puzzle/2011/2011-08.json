@@ -288,18 +288,18 @@
     },
     {
         "id": 3083,
-        "title": "Mate in 3",
-        "pgn": "[Result \"*\"]\r\n[FEN \"4rr1k/1pb4p/p1n1Q1pB/3p1p2/3P4/2N2NqP/PPP5/R3RK2 w - - 0 1\"]\r\n\r\n1. Qf6+ Rxf6 2. Rxe8+ Rf8 3. Rxf8# *",
+        "title": "Mate in 4",
+        "pgn": "[Result \"*\"]\r\n[FEN \"1R6/4Npkp/3p2p1/2n1b3/4PNP1/5PK1/r6P/1q6 w - - 0 1\"]\r\n\r\n1. Rg8+ Kh6 2. Nf5+ Kg5 3. h4+ Kf6 4. g5# *",
         "date": "2011-08-19",
         "video": [],
         "comment_count": 4,
         "solved_count": 51,
         "parsed": {
-            "moves": "1. Qf6+ Rxf6 2. Rxe8+ Rf8 3. Rxf8# *",
+            "moves": "1. Rg8+ Kh6 2. Nf5+ Kg5 3. h4+ Kf6 4. g5# *",
             "result": "*",
-            "fen": "4rr1k/1pb4p/p1n1Q1pB/3p1p2/3P4/2N2NqP/PPP5/R3RK2 w - - 0 1"
+            "fen": "1R6/4Npkp/3p2p1/2n1b3/4PNP1/5PK1/r6P/1q6 w - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=4rr1k/1pb4p/p1n1Q1pB/3p1p2/3P4/2N2NqP/PPP5/R3RK2 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1R6/4Npkp/3p2p1/2n1b3/4PNP1/5PK1/r6P/1q6 w - - 0 1"
     },
     {
         "id": 3084,
@@ -366,19 +366,18 @@
     },
     {
         "id": 3088,
-        "title": "Exploits of an Open King",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r4r2/p1pk2p1/3b2np/n2Q2Nq/3PNpb1/2P5/PP4PP/R1B1R1K1 w - - 0 1\"]\r\n\r\n1. Nc5+ Kd8 2. Qxa8+ Bc8 3. Nf7+ Rxf7 4. Qxc8+ Kxc8 5. Re8#\r\n*",
+        "title": "Mate in 3",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/1pR4Q/p2nk1p1/P2bnr2/1P6/3p4/5P1P/3R2K1 b - - 0 1\"]\r\n\r\n1... Rg5+ 2. Kf1 Bg2+ 3. Ke1 Nf3# *",
         "date": "2011-08-24",
         "video": [],
         "comment_count": 2,
         "solved_count": 53,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1... Rg5+ 2. Kf1 Bg2+ 3. Ke1 Nf3# *",
             "result": "*",
-            "fen": "r4r2/p1pk2p1/3b2np/n2Q2Nq/3PNpb1/2P5/PP4PP/R1B1R1K1 w - - 0 1"
+            "fen": "8/1pR4Q/p2nk1p1/P2bnr2/1P6/3p4/5P1P/3R2K1 b - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=r4r2/p1pk2p1/3b2np/n2Q2Nq/3PNpb1/2P5/PP4PP/R1B1R1K1 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/1pR4Q/p2nk1p1/P2bnr2/1P6/3p4/5P1P/3R2K1 b - - 0 1"
     },
     {
         "id": 3089,
