@@ -177,19 +177,18 @@
     },
     {
         "id": 2982,
-        "title": "Reaching From a Distance",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1QK3kq/6p1/8/6B1/8/8/8/8 w KQkq - 0 1\"]\r\n\r\n1. Kb7+ Kh7 2. Qh2+ Kg8 3. Qa2+ Kh7 4. Qf7 Qg8 5. Qh5#\r\n*",
+        "title": "Checkmate or Bust",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/R7/4p1pk/3p2N1/3b4/B6P/1r2q1PK/5R2 w - - 0 1\"]\r\n\r\n1. Rh7+ Kxg5 2. Be7+ Bf6 3. Bxf6# *",
         "date": "2011-05-12",
         "video": [],
         "comment_count": 2,
         "solved_count": 55,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1. Rh7+ Kxg5 2. Be7+ Bf6 3. Bxf6# *",
             "result": "*",
-            "fen": "1QK3kq/6p1/8/6B1/8/8/8/8 w KQkq - 0 1"
+            "fen": "8/R7/4p1pk/3p2N1/3b4/B6P/1r2q1PK/5R2 w - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=1QK3kq/6p1/8/6B1/8/8/8/8 w KQkq - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/R7/4p1pk/3p2N1/3b4/B6P/1r2q1PK/5R2 w - - 0 1"
     },
     {
         "id": 2983,
