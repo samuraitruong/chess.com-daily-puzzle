@@ -8,13 +8,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_breaking_the_light_squared_bind_11_01_23_i5b.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 686,
-        "solved_count": 1348312,
+        "comment_count": 693,
+        "solved_count": 1367188,
         "parsed": {
             "moves": "1... Be6 2. fxe6 fxe6 3. Qd2 Bxd2+ *",
             "result": "*",
             "fen": "1rbr2k1/1p2qpp1/3p3n/bNpQnPp1/p1P1P1P1/4B3/PPN1B2R/2KR4 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=1rbr2k1/1p2qpp1/3p3n/bNpQnPp1/p1P1P1P1/4B3/PPN1B2R/2KR4 b - - 0 1"
+    },
+    {
+        "id": 11987,
+        "title": "Counterfeit Counterplay",
+        "pgn": "[Result \"*\"]\r\n[FEN \"7q/2R2r1p/r6k/3B2p1/8/4P1P1/5P2/2Q2K2 w - - 0 1\"]\r\n\r\n1. Bxf7 Ra1 2. Rc6+ Kg7 3. Qxa1+ *",
+        "date": "2023-11-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_counterfeit_counterplay_11_02_23_x8u.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 24,
+        "solved_count": 11679,
+        "parsed": {
+            "moves": "1. Bxf7 Ra1 2. Rc6+ Kg7 3. Qxa1+ *",
+            "result": "*",
+            "fen": "7q/2R2r1p/r6k/3B2p1/8/4P1P1/5P2/2Q2K2 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7q/2R2r1p/r6k/3B2p1/8/4P1P1/5P2/2Q2K2 w - - 0 1"
     }
 ]
