@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 783,
-        "solved_count": 1589393,
+        "solved_count": 1589420,
         "parsed": {
             "moves": "1... Be6 2. fxe6 fxe6 3. Qd2 Bxd2+ *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 748,
-        "solved_count": 1629215,
+        "solved_count": 1629502,
         "parsed": {
             "moves": "1. Bxf7 Ra1 2. Rc6+ Kg7 3. Qxa1+ *",
             "result": "*",
@@ -45,7 +45,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1486,
-        "solved_count": 1562410,
+        "solved_count": 1562891,
         "parsed": {
             "moves": "24... Qxg5+ 25. Kh1 Ng3+ 26. hxg3 Qh6+ 27. Kg1 Qh2# *",
             "event": "Live Chess",
@@ -70,8 +70,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_juggling_fatigue_11_04_23_z7r.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 807,
-        "solved_count": 1514146,
+        "comment_count": 808,
+        "solved_count": 1514819,
         "parsed": {
             "moves": "1. a7 Bg2 2. d7 Rd2 3. Bd5 Rxd5 4. a8=Q Rxd7 5. Qf8+ Kg5 6. Qg8+ Kf4 7. Qxg2 *",
             "result": "*",
@@ -88,8 +88,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_out_of_the_frying_pan_into_the_mating_net_11_05_23_f9s.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 881,
-        "solved_count": 1538559,
+        "comment_count": 882,
+        "solved_count": 1539386,
         "parsed": {
             "moves": "1. Qf8+ Qxf8 2. Rxf8+ Kg7 3. Bh6+ Kxh6 4. Rg8 Re6 5. Rh5+ Bxh5 6. g5# *",
             "result": "*",
@@ -106,8 +106,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_the_buzzing_bishops_sting_the_king_11_06_23_r1l.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1070,
-        "solved_count": 1594877,
+        "comment_count": 1071,
+        "solved_count": 1595904,
         "parsed": {
             "moves": "1. Bd4+ Kg8 2. Ke7# *",
             "result": "*",
@@ -124,8 +124,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_riding_the_wave_of_captures_11_07_23_r2o.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 759,
-        "solved_count": 1526139,
+        "comment_count": 760,
+        "solved_count": 1527555,
         "parsed": {
             "moves": "1... Bxe4 2. Bxb4 Bxd3 3. Bxa5 Bxe2 *",
             "result": "*",
@@ -142,8 +142,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_illusory_outpost_11_08_23_a3w.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 616,
-        "solved_count": 1438303,
+        "comment_count": 618,
+        "solved_count": 1440684,
         "parsed": {
             "moves": "1... Nxb3 2. cxb3 c6 3. Nc3 bxc3 *",
             "result": "*",
@@ -160,13 +160,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_the_space_left_behind_11_09_23_o9q.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 675,
-        "solved_count": 1367613,
+        "comment_count": 689,
+        "solved_count": 1392079,
         "parsed": {
             "moves": "1. Nd7+ Kxd5 2. gxf5 Ng4 3. e4# *",
             "result": "*",
             "fen": "8/8/1N1p3p/pB1Pkpp1/Pb4P1/3KP3/6Pn/8 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/1N1p3p/pB1Pkpp1/Pb4P1/3KP3/6Pn/8 w - - 0 1"
+    },
+    {
+        "id": 11957,
+        "title": "If I May Interject...",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2r2rk1/p3bpnp/b3p1pB/P3N3/4P1P1/P4PQ1/B3q1P1/2RR2K1 w - - 0 1\"]\r\n\r\n1. Bc4 Bxc4 2. Rd2 Qxd2 3. Bxd2 *",
+        "date": "2023-11-10",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_if_i_may_interject_11_10_23_p1x.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 23,
+        "solved_count": 18566,
+        "parsed": {
+            "moves": "1. Bc4 Bxc4 2. Rd2 Qxd2 3. Bxd2 *",
+            "result": "*",
+            "fen": "2r2rk1/p3bpnp/b3p1pB/P3N3/4P1P1/P4PQ1/B3q1P1/2RR2K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r2rk1/p3bpnp/b3p1pB/P3N3/4P1P1/P4PQ1/B3q1P1/2RR2K1 w - - 0 1"
     }
 ]
