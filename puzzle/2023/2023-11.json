@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 785,
-        "solved_count": 1590735,
+        "solved_count": 1590756,
         "parsed": {
             "moves": "1... Be6 2. fxe6 fxe6 3. Qd2 Bxd2+ *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 749,
-        "solved_count": 1630943,
+        "solved_count": 1630969,
         "parsed": {
             "moves": "1. Bxf7 Ra1 2. Rc6+ Kg7 3. Qxa1+ *",
             "result": "*",
@@ -45,7 +45,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1490,
-        "solved_count": 1571512,
+        "solved_count": 1571538,
         "parsed": {
             "moves": "24... Qxg5+ 25. Kh1 Ng3+ 26. hxg3 Qh6+ 27. Kg1 Qh2# *",
             "event": "Live Chess",
@@ -71,7 +71,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 812,
-        "solved_count": 1533861,
+        "solved_count": 1533889,
         "parsed": {
             "moves": "1. a7 Bg2 2. d7 Rd2 3. Bd5 Rxd5 4. a8=Q Rxd7 5. Qf8+ Kg5 6. Qg8+ Kf4 7. Qxg2 *",
             "result": "*",
@@ -89,7 +89,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 895,
-        "solved_count": 1569939,
+        "solved_count": 1570166,
         "parsed": {
             "moves": "1. Qf8+ Qxf8 2. Rxf8+ Kg7 3. Bh6+ Kxh6 4. Rg8 Re6 5. Rh5+ Bxh5 6. g5# *",
             "result": "*",
@@ -107,7 +107,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1082,
-        "solved_count": 1635536,
+        "solved_count": 1635936,
         "parsed": {
             "moves": "1. Bd4+ Kg8 2. Ke7# *",
             "result": "*",
@@ -125,7 +125,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 761,
-        "solved_count": 1577180,
+        "solved_count": 1577733,
         "parsed": {
             "moves": "1... Bxe4 2. Bxb4 Bxd3 3. Bxa5 Bxe2 *",
             "result": "*",
@@ -143,7 +143,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 623,
-        "solved_count": 1510399,
+        "solved_count": 1511125,
         "parsed": {
             "moves": "1... Nxb3 2. cxb3 c6 3. Nc3 bxc3 *",
             "result": "*",
@@ -161,7 +161,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 706,
-        "solved_count": 1507038,
+        "solved_count": 1508034,
         "parsed": {
             "moves": "1. Nd7+ Kxd5 2. gxf5 Ng4 3. e4# *",
             "result": "*",
@@ -179,7 +179,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 826,
-        "solved_count": 1406310,
+        "solved_count": 1407901,
         "parsed": {
             "moves": "1. Bc4 Bxc4 2. Rd2 Qxd2 3. Bxd2 *",
             "result": "*",
@@ -196,8 +196,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_danyas_royal_dance_11_11_23_q5d.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1017,
-        "solved_count": 1297026,
+        "comment_count": 1019,
+        "solved_count": 1299930,
         "parsed": {
             "moves": "28... Qa4 29. Qc1 Qd1 30. Bb5 Bxc3+ 31. Kb1 Rxb5# 0-1",
             "event": "Live Chess",
@@ -223,8 +223,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_o_smother_where_art_thou_11_12_23_h8z.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1131,
-        "solved_count": 1240952,
+        "comment_count": 1151,
+        "solved_count": 1268646,
         "parsed": {
             "moves": "Rxg8 8. Nf7# 1-0",
             "white": "Stavrietsky, A",
@@ -233,5 +233,23 @@
             "fen": "5q1k/6pp/3N1p2/8/1R2R3/K1p5/Q7/4r2r w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=5q1k/6pp/3N1p2/8/1R2R3/K1p5/Q7/4r2r w - - 0 1"
+    },
+    {
+        "id": 12003,
+        "title": "Clear Your Plate, Leave the Fork",
+        "pgn": "[Result \"*\"]\r\n[FEN \"6k1/1p1N1p1p/2p5/3nPB2/3P1q2/1P5Q/5P2/5K2 b - - 0 1\"]\r\n\r\n1... Qc1+ 2. Ke2 Nf4+ 3. Kf3 Nxh3 *",
+        "date": "2023-11-13",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_welcome_to_fork_town_11_13_23_b5n.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 41,
+        "solved_count": 24658,
+        "parsed": {
+            "moves": "1... Qc1+ 2. Ke2 Nf4+ 3. Kf3 Nxh3 *",
+            "result": "*",
+            "fen": "6k1/1p1N1p1p/2p5/3nPB2/3P1q2/1P5Q/5P2/5K2 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/1p1N1p1p/2p5/3nPB2/3P1q2/1P5Q/5P2/5K2 b - - 0 1"
     }
 ]
