@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "id": 12019,
+        "title": "Off the Beaten Path",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/4k1N1/4P3/p2K2p1/8/P6p/7n/8 w - - 0 1\"]\r\n\r\n1. Nf5+ Kf6 2. e7 Kf7 3. Kd6 Ng4 4. Nh6+ Nxh6 5. Kd7 Ng8 6. e8=Q+ *",
+        "date": "2023-12-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_off_the_beaten_path_12_01_23_98s.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 27,
+        "solved_count": 22479,
+        "parsed": {
+            "moves": "1. Nf5+ Kf6 2. e7 Kf7 3. Kd6 Ng4 4. Nh6+ Nxh6 5. Kd7 Ng8 6. e8=Q+ *",
+            "result": "*",
+            "fen": "8/4k1N1/4P3/p2K2p1/8/P6p/7n/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/4k1N1/4P3/p2K2p1/8/P6p/7n/8 w - - 0 1"
+    }
+]
