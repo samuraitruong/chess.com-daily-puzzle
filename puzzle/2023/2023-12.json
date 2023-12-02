@@ -8,13 +8,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_off_the_beaten_path_12_01_23_98s.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 798,
-        "solved_count": 1341519,
+        "comment_count": 805,
+        "solved_count": 1362721,
         "parsed": {
             "moves": "1. Nf5+ Kf6 2. e7 Kf7 3. Kd6 Ng4 4. Nh6+ Nxh6 5. Kd7 Ng8 6. e8=Q+ *",
             "result": "*",
             "fen": "8/4k1N1/4P3/p2K2p1/8/P6p/7n/8 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=8/4k1N1/4P3/p2K2p1/8/P6p/7n/8 w - - 0 1"
+    },
+    {
+        "id": 12029,
+        "title": "Outwitting the Opposition",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/8/4K2k/2P4B/3rb2R/pp6/8/8 w - - 0 1\"]\r\n\r\n1. Kf6 Bg6 2. Bg4+ Bh5 3. Rxh5# *",
+        "date": "2023-12-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_outwitting_the_opposition_12_02_23_n6n.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 29,
+        "solved_count": 16088,
+        "parsed": {
+            "moves": "1. Kf6 Bg6 2. Bg4+ Bh5 3. Rxh5# *",
+            "result": "*",
+            "fen": "8/8/4K2k/2P4B/3rb2R/pp6/8/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/4K2k/2P4B/3rb2R/pp6/8/8 w - - 0 1"
     }
 ]
