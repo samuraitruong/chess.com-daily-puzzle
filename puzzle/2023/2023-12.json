@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 874,
-        "solved_count": 1538889,
+        "solved_count": 1539935,
         "parsed": {
             "moves": "1. Nf5+ Kf6 2. e7 Kf7 3. Kd6 Ng4 4. Nh6+ Nxh6 5. Kd7 Ng8 6. e8=Q+ *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 655,
-        "solved_count": 1452885,
+        "solved_count": 1454221,
         "parsed": {
             "moves": "1. Kf6 Bg6 2. Bg4+ Bh5 3. Rxh5# *",
             "result": "*",
@@ -45,7 +45,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1131,
-        "solved_count": 1412853,
+        "solved_count": 1414659,
         "parsed": {
             "moves": "1. Qc3+ Bxc3 2. Rd6+ Qxd6 3. Ng4+ Ke6 4. f5# *",
             "result": "*",
@@ -63,7 +63,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 785,
-        "solved_count": 1446682,
+        "solved_count": 1449320,
         "parsed": {
             "moves": "11. Bxc6+ Qxc6 12. Qxg4 1-0",
             "event": "52nd Biel GM Blitz 2019",
@@ -85,8 +85,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_levys_birthday_bash_12_05_23_t9t.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1258,
-        "solved_count": 1371669,
+        "comment_count": 1272,
+        "solved_count": 1394248,
         "parsed": {
             "moves": "38. Ne7+ Rxe7 39. Rf8# 1-0",
             "event": "Live Chess",
@@ -102,5 +102,23 @@
             "fen": "4r1k1/7p/2N1N1p1/3p4/3P4/P5B1/1q4PP/5R1K w - - 0 38"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=4r1k1/7p/2N1N1p1/3p4/3P4/P5B1/1q4PP/5R1K w - - 0 38"
+    },
+    {
+        "id": 11991,
+        "title": "Provocative Bishop, Loose Underpinning",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r1bq1rk1/pp3ppp/B4n2/b1p1p3/8/P1N2Q1P/1PPP1PP1/R1B1R1K1 b - - 0 1\"]\r\n\r\n1... Bxc3 2. dxc3 e4 3. Qg3 bxa6 *",
+        "date": "2023-12-06",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_provocative_bishop_loose_underpinning_12_06_23_v2b.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 15,
+        "solved_count": 20716,
+        "parsed": {
+            "moves": "1... Bxc3 2. dxc3 e4 3. Qg3 bxa6 *",
+            "result": "*",
+            "fen": "r1bq1rk1/pp3ppp/B4n2/b1p1p3/8/P1N2Q1P/1PPP1PP1/R1B1R1K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1bq1rk1/pp3ppp/B4n2/b1p1p3/8/P1N2Q1P/1PPP1PP1/R1B1R1K1 b - - 0 1"
     }
 ]
