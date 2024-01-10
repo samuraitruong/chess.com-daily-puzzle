@@ -287,19 +287,18 @@
     },
     {
         "id": 3452,
-        "title": "Mate in 7",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1b3nr/pp1p1pp1/n4k1p/3PpN2/4P3/1Q3PP1/PP1B2R1/2KR1B1q w - - 0 1\"]\r\n\r\n1. Qa3 Nc5 2. Qxc5 Kg6 3. Qf8 Rh7 4. Nd6 Kh5 5. Rh2+ Qxh2 6. g4+ Kg6 7. Qxf7#\r\n*",
+        "title": "Mate in 4",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/1b6/2B4p/7P/8/8/5Kpp/4N2k w - - 0 1\"]\r\n\r\n1. Nxg2 Bxc6 2. Ne3 Be4 3. Nf1 Bg2 4. Ng3# *",
         "date": "2012-05-18",
         "video": [],
         "comment_count": 2,
-        "solved_count": 28,
+        "solved_count": 29,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1. Nxg2 Bxc6 2. Ne3 Be4 3. Nf1 Bg2 4. Ng3# *",
             "result": "*",
-            "fen": "r1b3nr/pp1p1pp1/n4k1p/3PpN2/4P3/1Q3PP1/PP1B2R1/2KR1B1q w - - 0 1"
+            "fen": "8/1b6/2B4p/7P/8/8/5Kpp/4N2k w - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b3nr/pp1p1pp1/n4k1p/3PpN2/4P3/1Q3PP1/PP1B2R1/2KR1B1q w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/1b6/2B4p/7P/8/8/5Kpp/4N2k w - - 0 1"
     },
     {
         "id": 3454,
