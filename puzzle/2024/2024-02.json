@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "id": 12125,
+        "title": "Exploiting a Loose Rook",
+        "pgn": "[Event \"Amsterdam OHRA-B\"]\r\n[Site \"Amsterdam NED\"]\r\n[Date \"2023.12.07\"]\r\n[Round \"9\"]\r\n[White \"Loek van Wely\"]\r\n[Black \"Zsuzsa Polgar\"]\r\n[Result \"0-1\"]\r\n[FEN \"1r6/5ppp/6k1/4P3/6B1/2pRb1P1/4r2P/R6K b - - 0 28\"]\r\n\r\n28... c2 29. Bxe2 Rb1+ 30. Rxb1 cxb1=Q+ *",
+        "date": "2024-02-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_exploiting_a_loose_rook_02_01_24_v2a.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 23,
+        "solved_count": 20266,
+        "parsed": {
+            "moves": "28... c2 29. Bxe2 Rb1+ 30. Rxb1 cxb1=Q+ *",
+            "event": "Amsterdam OHRA-B",
+            "site": "Amsterdam NED",
+            "date": "2023.12.07",
+            "round": "9",
+            "white": "Loek van Wely",
+            "black": "Zsuzsa Polgar",
+            "result": "0-1",
+            "fen": "1r6/5ppp/6k1/4P3/6B1/2pRb1P1/4r2P/R6K b - - 0 28"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r6/5ppp/6k1/4P3/6B1/2pRb1P1/4r2P/R6K b - - 0 28"
+    }
+]
