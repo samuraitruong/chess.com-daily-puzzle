@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_exploiting_a_loose_rook_02_01_24_v2a.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 601,
-        "solved_count": 1308826,
+        "comment_count": 617,
+        "solved_count": 1331229,
         "parsed": {
             "moves": "28... c2 29. Bxe2 Rb1+ 30. Rxb1 cxb1=Q+ *",
             "event": "Amsterdam OHRA-B",
@@ -22,5 +22,23 @@
             "fen": "1r6/5ppp/6k1/4P3/6B1/2pRb1P1/4r2P/R6K b - - 0 28"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=1r6/5ppp/6k1/4P3/6B1/2pRb1P1/4r2P/R6K b - - 0 28"
+    },
+    {
+        "id": 12095,
+        "title": "Around the World in Five Moves",
+        "pgn": "[Result \"*\"]\r\n[FEN \"q6r/1bR1p1k1/1B3bp1/1p3p2/1P3Pnr/1B1PN1N1/3RQ1P1/6K1 b - - 0 1\"]\r\n\r\n1... Rh1+ 2. Nxh1 Rxh1+ 3. Kxh1 Qh8+ 4. Kg1 Qh2+ 5. Kf1 Qh1# *",
+        "date": "2024-02-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_around_the_world_in_five_moves_02_02_24_m10e.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 27,
+        "solved_count": 19932,
+        "parsed": {
+            "moves": "1... Rh1+ 2. Nxh1 Rxh1+ 3. Kxh1 Qh8+ 4. Kg1 Qh2+ 5. Kf1 Qh1# *",
+            "result": "*",
+            "fen": "q6r/1bR1p1k1/1B3bp1/1p3p2/1P3Pnr/1B1PN1N1/3RQ1P1/6K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=q6r/1bR1p1k1/1B3bp1/1p3p2/1P3Pnr/1B1PN1N1/3RQ1P1/6K1 b - - 0 1"
     }
 ]
