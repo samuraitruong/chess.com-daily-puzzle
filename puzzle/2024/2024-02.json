@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 651,
-        "solved_count": 1461473,
+        "solved_count": 1462530,
         "parsed": {
             "moves": "28... c2 29. Bxe2 Rb1+ 30. Rxb1 cxb1=Q+ *",
             "event": "Amsterdam OHRA-B",
@@ -33,7 +33,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 798,
-        "solved_count": 1401995,
+        "solved_count": 1403562,
         "parsed": {
             "moves": "1... Rh1+ 2. Nxh1 Rxh1+ 3. Kxh1 Qh8+ 4. Kg1 Qh2+ 5. Kf1 Qh1# *",
             "result": "*",
@@ -51,7 +51,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 790,
-        "solved_count": 1300884,
+        "solved_count": 1303676,
         "parsed": {
             "moves": "1. Nec2+ Ka5 2. Kc5 Qe8 3. Nc6+ Ka4 4. Bb5+ Kb3 5. N6d4+ Kb2 6. Bxe8 *",
             "result": "*",
@@ -68,8 +68,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_sealing_the_kings_fate_02_04_24_o3s.mp4",
             "author_id": "b4a34522-cece-11dd-803f-000000000000"
         },
-        "comment_count": 669,
-        "solved_count": 1249412,
+        "comment_count": 677,
+        "solved_count": 1272465,
         "parsed": {
             "moves": "40. d6 Qxd6 41. Qg8+ Ke7 42. Qe8+ Rxe8 43. fxe8=Q# 1-0",
             "event": "Pan-Am Intercollegiate",
@@ -82,5 +82,32 @@
             "fen": "1q1r1k2/5P1Q/2p2bBp/p2P4/1pP3P1/1P3p2/P4P2/6K1 w - - 0 40"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=1q1r1k2/5P1Q/2p2bBp/p2P4/1pP3P1/1P3p2/P4P2/6K1 w - - 0 40"
+    },
+    {
+        "id": 12155,
+        "title": "Do Bishops Only Attack One Color?",
+        "pgn": "[Event \"New York MCC\"]\r\n[Site \"New York\"]\r\n[Date \"1994.??.??\"]\r\n[Round \"5\"]\r\n[White \"Gurevich, Ilya\"]\r\n[Black \"Leveille, Francois\"]\r\n[Result \"1-0\"]\r\n[ECO \"C10\"]\r\n[WhiteElo \"2585\"]\r\n[BlackElo \"2370\"]\r\n[FEN \"r1b1k2r/4bp2/p3pn1p/1p1qB1p1/3p2P1/3B1N2/PPP1QP1P/R4KR1 w kq - 0 16\"]\r\n\r\n16. Bxf6 Bxf6 17. Be4 Qd6 18. Bxa8 1-0",
+        "date": "2024-02-05",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_do_bishops_only_attack_one_color_02_05_24_h1n.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 27,
+        "solved_count": 20861,
+        "parsed": {
+            "moves": "16. Bxf6 Bxf6 17. Be4 Qd6 18. Bxa8 1-0",
+            "event": "New York MCC",
+            "site": "New York",
+            "date": "1994.??.??",
+            "round": "5",
+            "white": "Gurevich, Ilya",
+            "black": "Leveille, Francois",
+            "result": "1-0",
+            "eco": "C10",
+            "whiteelo": "2585",
+            "blackelo": "2370",
+            "fen": "r1b1k2r/4bp2/p3pn1p/1p1qB1p1/3p2P1/3B1N2/PPP1QP1P/R4KR1 w kq - 0 16"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b1k2r/4bp2/p3pn1p/1p1qB1p1/3p2P1/3B1N2/PPP1QP1P/R4KR1 w kq - 0 16"
     }
 ]
