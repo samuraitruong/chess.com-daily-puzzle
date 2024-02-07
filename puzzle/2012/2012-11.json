@@ -353,19 +353,18 @@
     },
     {
         "id": 3828,
-        "title": "Mate in 5",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5rk1/pp5p/3NP3/2B1R3/n1P3p1/6P1/P5KP/5r2 w - - 0 1\"]\r\n\r\n1. Rg5+ Kh8 2. Bd4+ R1f6 3. e7 h6 4. exf8=Q+ Kh7 5. Qg7#\r\n*",
+        "title": "Mate in 3",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/8/p6R/5p1P/4rkp1/8/6PK/8 b - - 0 1\"]\r\n\r\n1... g3+ 2. Kh3 Re1 3. Rxa6 Rh1# *",
         "date": "2012-11-23",
         "video": [],
         "comment_count": 2,
-        "solved_count": 75,
+        "solved_count": 76,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1... g3+ 2. Kh3 Re1 3. Rxa6 Rh1# *",
             "result": "*",
-            "fen": "5rk1/pp5p/3NP3/2B1R3/n1P3p1/6P1/P5KP/5r2 w - - 0 1"
+            "fen": "8/8/p6R/5p1P/4rkp1/8/6PK/8 b - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=5rk1/pp5p/3NP3/2B1R3/n1P3p1/6P1/P5KP/5r2 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/p6R/5p1P/4rkp1/8/6PK/8 b - - 0 1"
     },
     {
         "id": 3830,
