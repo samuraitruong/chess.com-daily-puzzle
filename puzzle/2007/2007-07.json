@@ -356,7 +356,7 @@
         "date": "2007-07-23",
         "video": [],
         "comment_count": 10,
-        "solved_count": 224,
+        "solved_count": 225,
         "parsed": {
             "moves": "1. Qxf8+ Kxf8 2. Rd8+ Nxd8 3. Rxd8#",
             "fen": "4Qbk1/1pr2p1p/1qn2Pp1/3R4/4P3/p7/PPP1B2P/1K1R4 w - - 0 1",
@@ -370,8 +370,8 @@
         "pgn": "[SetUp \"1\"]\r\n[FEN \"2bqnbn1/r4p1k/pp1p2pp/2pP4/P1P2Q2/2NB2PP/1P1N1P1B/4R1K1 w - - 0 1\"]\r\n[PlyCount \"5\"]\r\n\r\n1. Bxg6+ $1 Kxg6 (1... fxg6 2. Qxf8 $18) 2. Qe4+ Kg7 3. Qxe8 $18 *",
         "date": "2007-07-24",
         "video": [],
-        "comment_count": 11,
-        "solved_count": 219,
+        "comment_count": 12,
+        "solved_count": 220,
         "parsed": {
             "moves": "1. Bxg6+ $1 Kxg6 (1... fxg6 2. Qxf8 $18) 2. Qe4+ Kg7 3. Qxe8 $18 *",
             "setup": "1",
