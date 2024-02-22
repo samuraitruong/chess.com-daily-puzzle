@@ -66,7 +66,7 @@
         "date": "2007-08-05",
         "video": [],
         "comment_count": 10,
-        "solved_count": 195,
+        "solved_count": 196,
         "parsed": {
             "moves": "1. Qxh5+ Bxh5 2. f7#",
             "fen": "r1q2r1k/p4b2/1p3P2/3p3p/1P1B1P2/2PB4/P3Q2P/6RK w - - 0 1"
@@ -80,7 +80,7 @@
         "date": "2007-08-06",
         "video": [],
         "comment_count": 10,
-        "solved_count": 193,
+        "solved_count": 194,
         "parsed": {
             "moves": "*",
             "fen": "r1b1k2r/ppp2ppp/2p5/8/3Qn1q1/8/PPPB2PP/2KR1B1R w kq - 0 1",
@@ -97,7 +97,7 @@
         "date": "2007-08-07",
         "video": [],
         "comment_count": 10,
-        "solved_count": 196,
+        "solved_count": 197,
         "parsed": {
             "moves": "1. Rc1 Qxa3 2. Rxc8+ Kd7 3. Rc7+ Kd8 4. bxa3 *",
             "fen": "2r1k2r/1p3ppp/4b3/p1q5/5B2/Q4P2/PP3P1P/3RR1K1 w k - 0 1"
@@ -348,8 +348,8 @@
         "pgn": "[FEN \"1nr3k1/p4pbp/1n1Rp1p1/2pb2N1/5B2/P5PB/1P3P1P/R5K1 w - - 0 1\"]\r\n[PlyCount \"19\"]\r\n[Result \"*\"]\r\n\r\n1. Nxe6 $3 fxe6 ( 1... Bxe6 2. Rxe6 $1 ) 2. Rxd5 $1 exd5 3. Bxc8 Nxc8 4. Bxb8 Bxb2 5. Rb1 $1 Bxa3 6. Rb7 c4 7. Be5 Bf8 8. Kf1 Ne7 9. Bd6 Kf7 10. Rxa7 { ...and white will clean up the pawns and push on the kingside. }\r\n*\r\n\r\n\r\n",
         "date": "2007-08-24",
         "video": [],
-        "comment_count": 9,
-        "solved_count": 168,
+        "comment_count": 10,
+        "solved_count": 169,
         "parsed": {
             "moves": "*",
             "fen": "1nr3k1/p4pbp/1n1Rp1p1/2pb2N1/5B2/P5PB/1P3P1P/R5K1 w - - 0 1",
