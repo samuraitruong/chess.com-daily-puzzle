@@ -8,13 +8,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_getting_out_of_your_own_way_03_01_24_d6w.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1001,
-        "solved_count": 1234400,
+        "comment_count": 1012,
+        "solved_count": 1254984,
         "parsed": {
             "moves": "1... Bh4 2. Qxh4 Qf1+ 3. Kxf1 Bc4+ 4. Ke1 Rf1# *",
             "result": "*",
             "fen": "3r1rk1/pp3bpp/q4b2/4p3/4P3/1PP3Q1/P1NB2PP/R3K1NR b KQ - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=3r1rk1/pp3bpp/q4b2/4p3/4P3/1PP3Q1/P1NB2PP/R3K1NR b KQ - 0 1"
+    },
+    {
+        "id": 12199,
+        "title": "Royal Meet and Greet",
+        "pgn": "[Result \"*\"]\r\n[FEN \"6k1/pppN1ppp/8/1P6/1PP3Q1/5rPK/3q4/8 w - - 0 1\"]\r\n\r\n1. Nf6+ Kf8 2. Qc8+ Ke7 3. Ng8+ Kd6 4. Qd8+ Ke5 5. Qxd2 *",
+        "date": "2024-03-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_royal_meet_and_greet_03_02_24_f8k.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 34,
+        "solved_count": 16378,
+        "parsed": {
+            "moves": "1. Nf6+ Kf8 2. Qc8+ Ke7 3. Ng8+ Kd6 4. Qd8+ Ke5 5. Qxd2 *",
+            "result": "*",
+            "fen": "6k1/pppN1ppp/8/1P6/1PP3Q1/5rPK/3q4/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/pppN1ppp/8/1P6/1PP3Q1/5rPK/3q4/8 w - - 0 1"
     }
 ]
