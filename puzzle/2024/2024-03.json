@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_getting_out_of_your_own_way_03_01_24_d6w.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1091,
-        "solved_count": 1412867,
+        "comment_count": 1092,
+        "solved_count": 1413895,
         "parsed": {
             "moves": "1... Bh4 2. Qxh4 Qf1+ 3. Kxf1 Bc4+ 4. Ke1 Rf1# *",
             "result": "*",
@@ -26,8 +26,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_royal_meet_and_greet_03_02_24_f8k.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 745,
-        "solved_count": 1379557,
+        "comment_count": 746,
+        "solved_count": 1380891,
         "parsed": {
             "moves": "1. Nf6+ Kf8 2. Qc8+ Ke7 3. Ng8+ Kd6 4. Qd8+ Ke5 5. Qxd2 *",
             "result": "*",
@@ -44,8 +44,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_minor_piece_magic_03_03_24_c7q.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1253,
-        "solved_count": 1359796,
+        "comment_count": 1254,
+        "solved_count": 1361563,
         "parsed": {
             "moves": "1. Bd6+ Ka4 2. Bd1 Qh5 3. Nb5 Qxb5+ 4. Ka1 Qc6 5. c4# 1-0",
             "date": "2023",
@@ -65,8 +65,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_a_fork_jams_the_communication_03_04_24_s10x.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 874,
-        "solved_count": 1403155,
+        "comment_count": 875,
+        "solved_count": 1405684,
         "parsed": {
             "moves": "1. Nd5+ Kb7 2. Rxa7+ Kxa7 3. Nxe7 *",
             "result": "*",
@@ -83,13 +83,40 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_loose_piece_finish_line_03_05_24_k10k.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 589,
-        "solved_count": 1309632,
+        "comment_count": 604,
+        "solved_count": 1331480,
         "parsed": {
             "moves": "1... Qg6+ 2. Kh1 Qe4+ 3. Bf3 Rxf3 4. Rxf3 Qxf3+ *",
             "result": "*",
             "fen": "5r1k/1p2b2p/p1q4p/Q2pP3/P2P3P/8/2P1B2P/5RK1 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=5r1k/1p2b2p/p1q4p/Q2pP3/P2P3P/8/2P1B2P/5RK1 b - - 0 1"
+    },
+    {
+        "id": 12223,
+        "title": "Maurice's Birthday Bombshell",
+        "pgn": "[Event \"Continental op 45'\"]\r\n[Site \"Los Angeles\"]\r\n[Date \"2000.07.28\"]\r\n[Round \"5\"]\r\n[White \"Ashley, Maurice\"]\r\n[Black \"Van Buskirk, Charles Anthony\"]\r\n[Result \"1-0\"]\r\n[FEN \"6k1/p1r2p1p/4p1pB/1p1nP3/4q3/2P5/PP3QPP/2KR4 w - - 0 30\"]\r\n[ECO \"B65\"]\r\n[WhiteElo \"2482\"]\r\n[BlackElo \"2307\"]\r\n\r\n30. Qf6 Nxf6 31. Rd8+ Ne8 32. Rxe8# 1-0",
+        "date": "2024-03-06",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_maurices_birthday_bombshell_03_06_24_a1m.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 38,
+        "solved_count": 24244,
+        "parsed": {
+            "moves": "30. Qf6 Nxf6 31. Rd8+ Ne8 32. Rxe8# 1-0",
+            "event": "Continental op 45'",
+            "site": "Los Angeles",
+            "date": "2000.07.28",
+            "round": "5",
+            "white": "Ashley, Maurice",
+            "black": "Van Buskirk, Charles Anthony",
+            "result": "1-0",
+            "fen": "6k1/p1r2p1p/4p1pB/1p1nP3/4q3/2P5/PP3QPP/2KR4 w - - 0 30",
+            "eco": "B65",
+            "whiteelo": "2482",
+            "blackelo": "2307"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/p1r2p1p/4p1pB/1p1nP3/4q3/2P5/PP3QPP/2KR4 w - - 0 30"
     }
 ]
