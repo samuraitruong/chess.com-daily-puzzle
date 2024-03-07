@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1099,
-        "solved_count": 1433310,
+        "solved_count": 1434044,
         "parsed": {
             "moves": "1... Bh4 2. Qxh4 Qf1+ 3. Kxf1 Bc4+ 4. Ke1 Rf1# *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 752,
-        "solved_count": 1404559,
+        "solved_count": 1405407,
         "parsed": {
             "moves": "1. Nf6+ Kf8 2. Qc8+ Ke7 3. Ng8+ Kd6 4. Qd8+ Ke5 5. Qxd2 *",
             "result": "*",
@@ -44,8 +44,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_minor_piece_magic_03_03_24_c7q.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1268,
-        "solved_count": 1392884,
+        "comment_count": 1269,
+        "solved_count": 1394072,
         "parsed": {
             "moves": "1. Bd6+ Ka4 2. Bd1 Qh5 3. Nb5 Qxb5+ 4. Ka1 Qc6 5. c4# 1-0",
             "date": "2023",
@@ -66,7 +66,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 874,
-        "solved_count": 1447617,
+        "solved_count": 1449163,
         "parsed": {
             "moves": "1. Nd5+ Kb7 2. Rxa7+ Kxa7 3. Nxe7 *",
             "result": "*",
@@ -84,7 +84,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 625,
-        "solved_count": 1404036,
+        "solved_count": 1406418,
         "parsed": {
             "moves": "1... Qg6+ 2. Kh1 Qe4+ 3. Bf3 Rxf3 4. Rxf3 Qxf3+ *",
             "result": "*",
@@ -101,8 +101,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_maurices_birthday_bombshell_03_06_24_a1m.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 795,
-        "solved_count": 1294744,
+        "comment_count": 811,
+        "solved_count": 1317304,
         "parsed": {
             "moves": "30. Qf6 Nxf6 31. Rd8+ Ne8 32. Rxe8# 1-0",
             "event": "Continental op 45'",
@@ -118,5 +118,23 @@
             "blackelo": "2307"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/p1r2p1p/4p1pB/1p1nP3/4q3/2P5/PP3QPP/2KR4 w - - 0 30"
+    },
+    {
+        "id": 12149,
+        "title": "Revealing the Key Weakness",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3q3r/pp4pk/1nr1Q2p/8/1P6/2PbN2B/5PP1/2R1K2R w K - 0 1\"]\r\n\r\n1. Bf5+ Bxf5 2. Rxh6+ gxh6 3. Qf7# *",
+        "date": "2024-03-07",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_revealing_the_key_weakness_03_07_24_l8d.mp4",
+            "author_id": "b4a34522-cece-11dd-803f-000000000000"
+        },
+        "comment_count": 24,
+        "solved_count": 17862,
+        "parsed": {
+            "moves": "1. Bf5+ Bxf5 2. Rxh6+ gxh6 3. Qf7# *",
+            "result": "*",
+            "fen": "3q3r/pp4pk/1nr1Q2p/8/1P6/2PbN2B/5PP1/2R1K2R w K - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3q3r/pp4pk/1nr1Q2p/8/1P6/2PbN2B/5PP1/2R1K2R w K - 0 1"
     }
 ]
