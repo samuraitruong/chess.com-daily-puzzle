@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1105,
-        "solved_count": 1457651,
+        "solved_count": 1457940,
         "parsed": {
             "moves": "1... Bh4 2. Qxh4 Qf1+ 3. Kxf1 Bc4+ 4. Ke1 Rf1# *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 767,
-        "solved_count": 1436474,
+        "solved_count": 1436906,
         "parsed": {
             "moves": "1. Nf6+ Kf8 2. Qc8+ Ke7 3. Ng8+ Kd6 4. Qd8+ Ke5 5. Qxd2 *",
             "result": "*",
@@ -44,8 +44,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_minor_piece_magic_03_03_24_c7q.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1294,
-        "solved_count": 1433398,
+        "comment_count": 1295,
+        "solved_count": 1434022,
         "parsed": {
             "moves": "1. Bd6+ Ka4 2. Bd1 Qh5 3. Nb5 Qxb5+ 4. Ka1 Qc6 5. c4# 1-0",
             "date": "2023",
@@ -66,7 +66,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 895,
-        "solved_count": 1497080,
+        "solved_count": 1497806,
         "parsed": {
             "moves": "1. Nd5+ Kb7 2. Rxa7+ Kxa7 3. Nxe7 *",
             "result": "*",
@@ -84,7 +84,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 632,
-        "solved_count": 1471223,
+        "solved_count": 1472088,
         "parsed": {
             "moves": "1... Qg6+ 2. Kh1 Qe4+ 3. Bf3 Rxf3 4. Rxf3 Qxf3+ *",
             "result": "*",
@@ -102,7 +102,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 824,
-        "solved_count": 1422368,
+        "solved_count": 1423564,
         "parsed": {
             "moves": "30. Qf6 Nxf6 31. Rd8+ Ne8 32. Rxe8# 1-0",
             "event": "Continental op 45'",
@@ -128,8 +128,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_revealing_the_key_weakness_03_07_24_l8d.mp4",
             "author_id": "b4a34522-cece-11dd-803f-000000000000"
         },
-        "comment_count": 725,
-        "solved_count": 1374715,
+        "comment_count": 727,
+        "solved_count": 1376694,
         "parsed": {
             "moves": "1. Bf5+ Bxf5 2. Rxh6+ gxh6 3. Qf7# *",
             "result": "*",
@@ -146,13 +146,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_knight_knight_sleep_tight_03_08_24_g1j.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 657,
-        "solved_count": 1234600,
+        "comment_count": 671,
+        "solved_count": 1255110,
         "parsed": {
             "moves": "1. Nfg5 fxg5 2. Nf6 Bxf6 3. Be4 Nbd6 4. Qxh7# *",
             "result": "*",
             "fen": "2rq1r1k/1p1bbp1p/p3pp1Q/1n6/1PnPN3/P4NP1/1BR1PPBP/6K1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2rq1r1k/1p1bbp1p/p3pp1Q/1n6/1PnPN3/P4NP1/1BR1PPBP/6K1 w - - 0 1"
+    },
+    {
+        "id": 12207,
+        "title": "Bishops Illuminate the Path",
+        "pgn": "[Result \"1-0\"]\r\n[FEN \"2kr3r/1p1n2p1/pbp3np/5N2/q3PB1P/2Q2PPB/P1R5/7K w - - 0 1\"]\r\n\r\n1. Ne7+ Nxe7 2. Qe5 Nf5 3. Bxf5 Qxc2 4. Qb8# 1-0",
+        "date": "2024-03-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_bishops_illuminate_the_path_03_09_24_y2y.mp4",
+            "author_id": "b4a34522-cece-11dd-803f-000000000000"
+        },
+        "comment_count": 24,
+        "solved_count": 15287,
+        "parsed": {
+            "moves": "1. Ne7+ Nxe7 2. Qe5 Nf5 3. Bxf5 Qxc2 4. Qb8# 1-0",
+            "result": "1-0",
+            "fen": "2kr3r/1p1n2p1/pbp3np/5N2/q3PB1P/2Q2PPB/P1R5/7K w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2kr3r/1p1n2p1/pbp3np/5N2/q3PB1P/2Q2PPB/P1R5/7K w - - 0 1"
     }
 ]
