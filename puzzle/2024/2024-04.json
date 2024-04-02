@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_swipe_left_swipe_right_swipe_left_04_01_24_c5j.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1703,
-        "solved_count": 1264206,
+        "comment_count": 1721,
+        "solved_count": 1284558,
         "parsed": {
             "moves": "Nf4+ Kc5 8. Ke4 d5+ 9. Ke5 Bf6+ 10. Ke6 Nd8+ 11. Kd7 d2 12. Nd3# 1-0",
             "date": "1922",
@@ -19,5 +19,23 @@
             "fen": "8/1nq5/bppp4/1p1k1K1N/1rrp3b/2pp2p1/8/n7 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=8/1nq5/bppp4/1p1k1K1N/1rrp3b/2pp2p1/8/n7 w - - 0 1"
+    },
+    {
+        "id": 12287,
+        "title": "It's Not April 1st, It's a Feature!",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r7/1r3pbk/6p1/pp2q2p/4p2P/PNN1Q1P1/1PP2P2/2KR3R b - - 0 1\"]\r\n\r\n1... Bh6 2. f4 exf3 3. Qxh6+ Kxh6 *",
+        "date": "2024-04-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_its_not_april_1st_its_a_feature_04_02_24_d1w.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 33,
+        "solved_count": 16604,
+        "parsed": {
+            "moves": "1... Bh6 2. f4 exf3 3. Qxh6+ Kxh6 *",
+            "result": "*",
+            "fen": "r7/1r3pbk/6p1/pp2q2p/4p2P/PNN1Q1P1/1PP2P2/2KR3R b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r7/1r3pbk/6p1/pp2q2p/4p2P/PNN1Q1P1/1PP2P2/2KR3R b - - 0 1"
     }
 ]
