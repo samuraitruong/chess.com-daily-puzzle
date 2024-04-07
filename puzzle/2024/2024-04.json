@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1927,
-        "solved_count": 1487048,
+        "solved_count": 1487755,
         "parsed": {
             "moves": "Nf4+ Kc5 8. Ke4 d5+ 9. Ke5 Bf6+ 10. Ke6 Nd8+ 11. Kd7 d2 12. Nd3# 1-0",
             "date": "1922",
@@ -30,7 +30,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1297,
-        "solved_count": 1444257,
+        "solved_count": 1445070,
         "parsed": {
             "moves": "1... Bh6 2. f4 exf3 3. Qxh6+ Kxh6 *",
             "result": "*",
@@ -47,8 +47,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_who_will_challenge_the_world_champion_04_03_24_p1a.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 714,
-        "solved_count": 1436855,
+        "comment_count": 715,
+        "solved_count": 1437872,
         "parsed": {
             "moves": "1. Bd7 Rbxd7 2. Qe8# 1-0",
             "event": "Shenzhen Masters",
@@ -73,7 +73,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 905,
-        "solved_count": 1382432,
+        "solved_count": 1383794,
         "parsed": {
             "moves": "37... Qf4 38. Qxf4 Re1+ 39. Qf1 Rxf1# 0-1",
             "event": "Live Chess",
@@ -100,7 +100,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 769,
-        "solved_count": 1330915,
+        "solved_count": 1333049,
         "parsed": {
             "moves": "20. Rxd4 Qxd4 21. Re8+ Nxe8 22. Ne6+ Ke7 23. Nxd4 1-0",
             "event": "Live Chess",
@@ -125,8 +125,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_candidate_highlight_gukeshs_grand_entrance_04_06_24_g7m.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 936,
-        "solved_count": 1219912,
+        "comment_count": 947,
+        "solved_count": 1238941,
         "parsed": {
             "moves": "30. Rc8+ Qxc8 31. Nxe7# 1-0",
             "event": "Sharjah Masters 3rd",
@@ -142,5 +142,30 @@
             "fen": "6kb/3qpp1p/pp1pbnpB/4rNQ1/1P6/P5PB/5P1P/2R3K1 w - - 0 30"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=6kb/3qpp1p/pp1pbnpB/4rNQ1/1P6/P5PB/5P1P/2R3K1 w - - 0 30"
+    },
+    {
+        "id": 12271,
+        "title": "Candidate Highlight: Pragg's Precision",
+        "pgn": "[Event \"Chessable Masters\"]\r\n[Site \"chess24.com INT\"]\r\n[Date \"2022.05.24\"]\r\n[Round \"9.1\"]\r\n[White \"R Praggnanandhaa\"]\r\n[Black \"Anish Giri\"]\r\n[Result \"1-0\"]\r\n[ECO \"D87\"]\r\n[FEN \"2r2r1k/p1q1Q2p/1p3ppP/3Rn3/8/5B2/P4PP1/4R1K1 w - - 0 30\"]\r\n\r\n30. Rexe5 fxe5 31. Rd7 Qc1+ 32. Bd1 Qxh6 33. Qxe5+ Qg7 34. Qxg7# 1-0",
+        "date": "2024-04-07",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_candidate_highlight_praggs_precision_04_07_24_n10k.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 25,
+        "solved_count": 9561,
+        "parsed": {
+            "moves": "30. Rexe5 fxe5 31. Rd7 Qc1+ 32. Bd1 Qxh6 33. Qxe5+ Qg7 34. Qxg7# 1-0",
+            "event": "Chessable Masters",
+            "site": "chess24.com INT",
+            "date": "2022.05.24",
+            "round": "9.1",
+            "white": "R Praggnanandhaa",
+            "black": "Anish Giri",
+            "result": "1-0",
+            "eco": "D87",
+            "fen": "2r2r1k/p1q1Q2p/1p3ppP/3Rn3/8/5B2/P4PP1/4R1K1 w - - 0 30"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r2r1k/p1q1Q2p/1p3ppP/3Rn3/8/5B2/P4PP1/4R1K1 w - - 0 30"
     }
 ]
