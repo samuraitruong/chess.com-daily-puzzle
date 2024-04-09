@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_swipe_left_swipe_right_swipe_left_04_01_24_c5j.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1956,
-        "solved_count": 1514523,
+        "comment_count": 1957,
+        "solved_count": 1514861,
         "parsed": {
             "moves": "Nf4+ Kc5 8. Ke4 d5+ 9. Ke5 Bf6+ 10. Ke6 Nd8+ 11. Kd7 d2 12. Nd3# 1-0",
             "date": "1922",
@@ -30,7 +30,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1306,
-        "solved_count": 1478532,
+        "solved_count": 1479016,
         "parsed": {
             "moves": "1... Bh6 2. f4 exf3 3. Qxh6+ Kxh6 *",
             "result": "*",
@@ -47,8 +47,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_who_will_challenge_the_world_champion_04_03_24_p1a.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 722,
-        "solved_count": 1478934,
+        "comment_count": 723,
+        "solved_count": 1479616,
         "parsed": {
             "moves": "1. Bd7 Rbxd7 2. Qe8# 1-0",
             "event": "Shenzhen Masters",
@@ -73,7 +73,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 915,
-        "solved_count": 1435839,
+        "solved_count": 1436689,
         "parsed": {
             "moves": "37... Qf4 38. Qxf4 Re1+ 39. Qf1 Rxf1# 0-1",
             "event": "Live Chess",
@@ -100,7 +100,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 787,
-        "solved_count": 1405001,
+        "solved_count": 1406139,
         "parsed": {
             "moves": "20. Rxd4 Qxd4 21. Re8+ Nxe8 22. Ne6+ Ke7 23. Nxd4 1-0",
             "event": "Live Chess",
@@ -126,7 +126,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1001,
-        "solved_count": 1356081,
+        "solved_count": 1357601,
         "parsed": {
             "moves": "30. Rc8+ Qxc8 31. Nxe7# 1-0",
             "event": "Sharjah Masters 3rd",
@@ -153,7 +153,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 760,
-        "solved_count": 1309280,
+        "solved_count": 1311591,
         "parsed": {
             "moves": "30. Rexe5 fxe5 31. Rd7 Qc1+ 32. Bd1 Qxh6 33. Qxe5+ Qg7 34. Qxg7# 1-0",
             "event": "Chessable Masters",
@@ -177,13 +177,41 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_candidates_rest_day_x-ray_marks_the_mate_04_08_24_r7k.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 735,
-        "solved_count": 1394924,
+        "comment_count": 742,
+        "solved_count": 1415706,
         "parsed": {
             "moves": "1... Qd1+ 2. Kf2 Qe1# *",
             "result": "*",
             "fen": "4r1k1/1Q3p1p/6pB/p7/3P4/5R1P/P1q3P1/5K2 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=4r1k1/1Q3p1p/6pB/p7/3P4/5R1P/P1q3P1/5K2 b - - 0 1"
+    },
+    {
+        "id": 12269,
+        "title": "Candidate Highlight: Fabi's Fireworks",
+        "pgn": "[Event \"Russian Team Championship\"]\r\n[Site \"Dagomys RUS\"]\r\n[Date \"2010.04.05\"]\r\n[Round \"5\"]\r\n[White \"Vladimir Potkin\"]\r\n[Black \"Fabiano Caruana\"]\r\n[Result \"0-1\"]\r\n[ECO \"D12\"]\r\n[WhiteElo \"2606\"]\r\n[BlackElo \"2680\"]\r\n[FEN \"r4rk1/5ppp/8/2np2P1/3R3P/2B1qP2/pP6/K2QR3 b - - 0 30\"]\r\n[PlyCount \"3\"]\r\n\r\n30... Qc1+ 31. Qxc1 Nb3# 0-1",
+        "date": "2024-04-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_candidate_highlight_fabis_fireworks_04_09_24_v9l.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 25,
+        "solved_count": 18732,
+        "parsed": {
+            "moves": "30... Qc1+ 31. Qxc1 Nb3# 0-1",
+            "event": "Russian Team Championship",
+            "site": "Dagomys RUS",
+            "date": "2010.04.05",
+            "round": "5",
+            "white": "Vladimir Potkin",
+            "black": "Fabiano Caruana",
+            "result": "0-1",
+            "eco": "D12",
+            "whiteelo": "2606",
+            "blackelo": "2680",
+            "fen": "r4rk1/5ppp/8/2np2P1/3R3P/2B1qP2/pP6/K2QR3 b - - 0 30",
+            "plycount": "3"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r4rk1/5ppp/8/2np2P1/3R3P/2B1qP2/pP6/K2QR3 b - - 0 30"
     }
 ]
