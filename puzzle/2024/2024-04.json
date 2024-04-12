@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1962,
-        "solved_count": 1517316,
+        "solved_count": 1517337,
         "parsed": {
             "moves": "Nf4+ Kc5 8. Ke4 d5+ 9. Ke5 Bf6+ 10. Ke6 Nd8+ 11. Kd7 d2 12. Nd3# 1-0",
             "date": "1922",
@@ -30,7 +30,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1309,
-        "solved_count": 1490883,
+        "solved_count": 1490909,
         "parsed": {
             "moves": "1... Bh6 2. f4 exf3 3. Qxh6+ Kxh6 *",
             "result": "*",
@@ -48,7 +48,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 731,
-        "solved_count": 1506193,
+        "solved_count": 1506224,
         "parsed": {
             "moves": "1. Bd7 Rbxd7 2. Qe8# 1-0",
             "event": "Shenzhen Masters",
@@ -73,7 +73,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 924,
-        "solved_count": 1481155,
+        "solved_count": 1481460,
         "parsed": {
             "moves": "37... Qf4 38. Qxf4 Re1+ 39. Qf1 Rxf1# 0-1",
             "event": "Live Chess",
@@ -100,7 +100,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 800,
-        "solved_count": 1464181,
+        "solved_count": 1464664,
         "parsed": {
             "moves": "20. Rxd4 Qxd4 21. Re8+ Nxe8 22. Ne6+ Ke7 23. Nxd4 1-0",
             "event": "Live Chess",
@@ -126,7 +126,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1009,
-        "solved_count": 1430139,
+        "solved_count": 1430826,
         "parsed": {
             "moves": "30. Rc8+ Qxc8 31. Nxe7# 1-0",
             "event": "Sharjah Masters 3rd",
@@ -153,7 +153,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 786,
-        "solved_count": 1410341,
+        "solved_count": 1411173,
         "parsed": {
             "moves": "30. Rexe5 fxe5 31. Rd7 Qc1+ 32. Bd1 Qxh6 33. Qxe5+ Qg7 34. Qxg7# 1-0",
             "event": "Chessable Masters",
@@ -178,7 +178,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 782,
-        "solved_count": 1562921,
+        "solved_count": 1563982,
         "parsed": {
             "moves": "1... Qd1+ 2. Kf2 Qe1# *",
             "result": "*",
@@ -195,8 +195,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_candidate_highlight_fabis_fireworks_04_09_24_v9l.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 840,
-        "solved_count": 1443970,
+        "comment_count": 841,
+        "solved_count": 1445417,
         "parsed": {
             "moves": "30... Qc1+ 31. Qxc1 Nb3# 0-1",
             "event": "Russian Team Championship",
@@ -223,8 +223,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_candidate_highlight_vidits_clincher_04_10_24_r7q.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 670,
-        "solved_count": 1415735,
+        "comment_count": 671,
+        "solved_count": 1417997,
         "parsed": {
             "moves": "33... f3+ 34. Ke3 Bxd3 35. Rxd3 f2 36. Rxd8 f1=Q 0-1",
             "event": "Sigeman & Co",
@@ -250,8 +250,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_candidate_highlight_nijats_mating_attack_04_11_24_r2q.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 852,
-        "solved_count": 1302050,
+        "comment_count": 858,
+        "solved_count": 1323455,
         "parsed": {
             "moves": "1. Qh5 h6 2. Qxh6+ gxh6 3. Rh7# 1-0",
             "event": "Titled Tuesday",
@@ -263,5 +263,32 @@
             "fen": "2rrqb1k/p4Rpp/bp1p4/4n1N1/4P3/P7/BB3PPP/3Q2K1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2rrqb1k/p4Rpp/bp1p4/4n1N1/4P3/P7/BB3PPP/3Q2K1 w - - 0 1"
+    },
+    {
+        "id": 12279,
+        "title": "Candidate Highlight: Firouzja's Flashy Mate",
+        "pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2019.04.02\"]\r\n[Round \"?\"]\r\n[White \"Oleg_Papayan\"]\r\n[Black \"Firouzja2003\"]\r\n[Result \"0-1\"]\r\n[ECO \"B50\"]\r\n[WhiteElo \"2501\"]\r\n[BlackElo \"3086\"]\r\n[FEN \"5rk1/4Qb2/p1N2q1b/1p1Pp3/1P1p2p1/P2P2pP/6B1/5R1K b - - 0 36\"]\r\n\r\n36... Qxf1+ 37. Bxf1 Bxd5+ 38. Bg2 Rf1# 0-1",
+        "date": "2024-04-12",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_candidate_highlight_firouzjas_flashy_mate_04_12_24_f7b.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 25,
+        "solved_count": 17831,
+        "parsed": {
+            "moves": "36... Qxf1+ 37. Bxf1 Bxd5+ 38. Bg2 Rf1# 0-1",
+            "event": "Live Chess",
+            "site": "Chess.com",
+            "date": "2019.04.02",
+            "round": "?",
+            "white": "Oleg_Papayan",
+            "black": "Firouzja2003",
+            "result": "0-1",
+            "eco": "B50",
+            "whiteelo": "2501",
+            "blackelo": "3086",
+            "fen": "5rk1/4Qb2/p1N2q1b/1p1Pp3/1P1p2p1/P2P2pP/6B1/5R1K b - - 0 36"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5rk1/4Qb2/p1N2q1b/1p1Pp3/1P1p2p1/P2P2pP/6B1/5R1K b - - 0 36"
     }
 ]
