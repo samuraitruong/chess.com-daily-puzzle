@@ -1,1 +1,29 @@
-[]
+[
+    {
+        "id": 12295,
+        "title": "Titled Tuesday Puzzle Rush",
+        "pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2020.06.16\"]\r\n[Round \"?\"]\r\n[White \"ChessQueen\"]\r\n[Black \"Eltaj_Safarli\"]\r\n[Result \"0-1\"]\r\n[ECO \"C76\"]\r\n[WhiteElo \"2675\"]\r\n[BlackElo \"2974\"]\r\n[FEN \"1k6/1pp5/p1b2p1b/2q1p2p/P3P1nN/1BP5/1PQ2PKP/3R4 b - - 0 31\"]\r\n\r\n31... Bxe4+ 32. Qxe4 Qxf2+ 33. Kh1 Qxh2# 0-1",
+        "date": "2024-05-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_titled_tuesday_puzzle_rush_05_01_24_w10p.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 31,
+        "solved_count": 17476,
+        "parsed": {
+            "moves": "31... Bxe4+ 32. Qxe4 Qxf2+ 33. Kh1 Qxh2# 0-1",
+            "event": "Live Chess",
+            "site": "Chess.com",
+            "date": "2020.06.16",
+            "round": "?",
+            "white": "ChessQueen",
+            "black": "Eltaj_Safarli",
+            "result": "0-1",
+            "eco": "C76",
+            "whiteelo": "2675",
+            "blackelo": "2974",
+            "fen": "1k6/1pp5/p1b2p1b/2q1p2p/P3P1nN/1BP5/1PQ2PKP/3R4 b - - 0 31"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1k6/1pp5/p1b2p1b/2q1p2p/P3P1nN/1BP5/1PQ2PKP/3R4 b - - 0 31"
+    }
+]
