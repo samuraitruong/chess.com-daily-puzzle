@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_titled_tuesday_puzzle_rush_05_01_24_w10p.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 949,
-        "solved_count": 1350946,
+        "comment_count": 956,
+        "solved_count": 1373966,
         "parsed": {
             "moves": "31... Bxe4+ 32. Qxe4 Qxf2+ 33. Kh1 Qxh2# 0-1",
             "event": "Live Chess",
@@ -25,5 +25,23 @@
             "fen": "1k6/1pp5/p1b2p1b/2q1p2p/P3P1nN/1BP5/1PQ2PKP/3R4 b - - 0 31"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=1k6/1pp5/p1b2p1b/2q1p2p/P3P1nN/1BP5/1PQ2PKP/3R4 b - - 0 31"
+    },
+    {
+        "id": 12333,
+        "title": "Lighten Up",
+        "pgn": "[Result \"1-0\"]\r\n[FEN \"r1b1kbr1/3n1p2/4pP1p/p7/1p1N1B1p/2q1Q3/P1P1B1PP/1R3K1R w q - 0 1\"]\r\n\r\n1. Qxe6+ fxe6 2. Bh5+ Kd8 3. Nxe6# *",
+        "date": "2024-05-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_lighten_up_05_02_24_r3z.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 23,
+        "solved_count": 16123,
+        "parsed": {
+            "moves": "1. Qxe6+ fxe6 2. Bh5+ Kd8 3. Nxe6# *",
+            "result": "1-0",
+            "fen": "r1b1kbr1/3n1p2/4pP1p/p7/1p1N1B1p/2q1Q3/P1P1B1PP/1R3K1R w q - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b1kbr1/3n1p2/4pP1p/p7/1p1N1B1p/2q1Q3/P1P1B1PP/1R3K1R w q - 0 1"
     }
 ]
