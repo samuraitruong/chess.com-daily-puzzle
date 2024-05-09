@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1001,
-        "solved_count": 1603156,
+        "solved_count": 1603554,
         "parsed": {
             "moves": "31... Bxe4+ 32. Qxe4 Qxf2+ 33. Kh1 Qxh2# 0-1",
             "event": "Live Chess",
@@ -36,7 +36,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 904,
-        "solved_count": 1585136,
+        "solved_count": 1585690,
         "parsed": {
             "moves": "1. Qxe6+ fxe6 2. Bh5+ Kd8 3. Nxe6# *",
             "result": "1-0",
@@ -53,8 +53,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_coach_pastar_pulverises_the_defense_05_03_24_c5b.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 851,
-        "solved_count": 1530045,
+        "comment_count": 853,
+        "solved_count": 1530834,
         "parsed": {
             "moves": "1... Qb7 2. Qxb7 Rd1+ 3. Nf1 Ne2+ 4. Kh1 Rxf1# 0-1",
             "white": "IM Slaven Pastar",
@@ -74,7 +74,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 915,
-        "solved_count": 1491948,
+        "solved_count": 1492911,
         "parsed": {
             "moves": "1. Nxa7+ Bxa7 2. Rxc6+ bxc6 3. Ba6# *",
             "result": "*",
@@ -92,7 +92,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 779,
-        "solved_count": 1493077,
+        "solved_count": 1494300,
         "parsed": {
             "moves": "1-0",
             "event": "TUR-chT2",
@@ -119,7 +119,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 804,
-        "solved_count": 1558402,
+        "solved_count": 1560009,
         "parsed": {
             "moves": "38... Qc2+ 39. Kd4 Qxf2+ 40. Ke4 Qxa7 0-1",
             "event": "Live Chess",
@@ -145,8 +145,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_johanvas_circuit_overload_05_07_24_y7x.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 995,
-        "solved_count": 1485413,
+        "comment_count": 996,
+        "solved_count": 1487861,
         "parsed": {
             "moves": "1... Bc5 2. Bxc2 Bxe3+ 0-1",
             "white": "JohanVA",
@@ -165,13 +165,37 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_attachment_detachment_05_08_24_a10h.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 923,
-        "solved_count": 1358731,
+        "comment_count": 928,
+        "solved_count": 1379349,
         "parsed": {
             "moves": "1. Rf8+ Qxf8 2. Bh7+ Kxh7 3. Qxf8 *",
             "result": "*",
             "fen": "rn4k1/2p1q1p1/4p2p/p2pP2b/3P3P/P2B2P1/3B1R2/5Q1K w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=rn4k1/2p1q1p1/4p2p/p2pP2b/3P3P/P2B2P1/3B1R2/5Q1K w - - 0 1"
+    },
+    {
+        "id": 12381,
+        "title": "Can You Spare a Tempo?",
+        "pgn": "[Event \"Match/Nation YUG-HUN (6-4) (4-6)\"]\r\n[Site \"Pula\"]\r\n[Date \"1971.09.12\"]\r\n[Round \"1.5\"]\r\n[White \"Forintos, Gyozo Victor\"]\r\n[Black \"Minic, Dragoljub\"]\r\n[Result \"0-1\"]\r\n[FEN \"r1N2k1r/1p3p2/p2p4/2pP2p1/P2bq1p1/2P2PP1/4B1K1/R2Q1R2 b - - 0 24\"]\r\n\r\n24... Rh2+ 25. Kxh2 Qh7+ 26. Kg2 Qh3# 0-1",
+        "date": "2024-05-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_can_you_spare_a_tempo_05_09_24_g10d.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 29,
+        "solved_count": 19523,
+        "parsed": {
+            "moves": "24... Rh2+ 25. Kxh2 Qh7+ 26. Kg2 Qh3# 0-1",
+            "event": "Match/Nation YUG-HUN (6-4) (4-6)",
+            "site": "Pula",
+            "date": "1971.09.12",
+            "round": "1.5",
+            "white": "Forintos, Gyozo Victor",
+            "black": "Minic, Dragoljub",
+            "result": "0-1",
+            "fen": "r1N2k1r/1p3p2/p2p4/2pP2p1/P2bq1p1/2P2PP1/4B1K1/R2Q1R2 b - - 0 24"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1N2k1r/1p3p2/p2p4/2pP2p1/P2bq1p1/2P2PP1/4B1K1/R2Q1R2 b - - 0 24"
     }
 ]
