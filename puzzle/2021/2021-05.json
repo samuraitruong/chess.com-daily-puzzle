@@ -5,8 +5,8 @@
         "pgn": "[Event \"Aalborg\"]\r\n[Site \"Aalborg Int.\"]\r\n[Date \"1993\"]\r\n[Round \"1\"]\r\n[White \"Hector, Jonny\"]\r\n[Black \"Sobjerg, Erik\"]\r\n[Result \"*\"]\r\n[WhiteElo \"2470\"]\r\n[BlackElo \"2270\"]\r\n[FEN \"2R2Nk1/pb3p2/3r1P1p/6pP/6P1/2P5/2K5/8 w - - 15 48\"]\r\n\r\n48.Rb8 Be4+ 49.Kc1 Rxf6 50.Nd7+ Kg7 51.Rg8+ Kxg8 52.Nxf6+ Kg7 53.Nxe4 *",
         "date": "2021-05-01",
         "video": [],
-        "comment_count": 21,
-        "solved_count": 2047,
+        "comment_count": 22,
+        "solved_count": 2048,
         "parsed": {
             "moves": "48.Rb8 Be4+ 49.Kc1 Rxf6 50.Nd7+ Kg7 51.Rg8+ Kxg8 52.Nxf6+ Kg7 53.Nxe4 *",
             "event": "Aalborg",
@@ -28,8 +28,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/4nqp1/p2b1p2/1p2pN1p/6Q1/2B5/PPP2PPP/R3R1K1 w - - 0 1\"]\r\n\r\n1.Nh6+ Kh7 2.Nxf7 hxg4 3.Nxd6 *",
         "date": "2021-05-02",
         "video": [],
-        "comment_count": 12,
-        "solved_count": 1935,
+        "comment_count": 13,
+        "solved_count": 1936,
         "parsed": {
             "moves": "1.Nh6+ Kh7 2.Nxf7 hxg4 3.Nxd6 *",
             "result": "*",
@@ -43,8 +43,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"r4r1k/7p/2p2q2/p1N5/2Q5/1P2pPPb/P1P4P/3RR1K1 b - - 0 1\"]\r\n\r\n1...Qxf3 2.Qe2 Qf2+ 3.Qxf2 exf2+ *",
         "date": "2021-05-03",
         "video": [],
-        "comment_count": 13,
-        "solved_count": 1962,
+        "comment_count": 14,
+        "solved_count": 1963,
         "parsed": {
             "moves": "1...Qxf3 2.Qe2 Qf2+ 3.Qxf2 exf2+ *",
             "result": "*",
@@ -242,7 +242,7 @@
         "date": "2021-05-16",
         "video": [],
         "comment_count": 21,
-        "solved_count": 1798,
+        "solved_count": 1799,
         "parsed": {
             "moves": "1...Rb1+ 2.Rc1 Qf1+ 3.Rxf1 Rxf1# 1-0",
             "result": "*",
@@ -257,7 +257,7 @@
         "date": "2021-05-17",
         "video": [],
         "comment_count": 11,
-        "solved_count": 1776,
+        "solved_count": 1777,
         "parsed": {
             "moves": "1.Qd5+ Kd7 2.Qf5+ Ke7 3.Qf7# *",
             "result": "*",
@@ -272,7 +272,7 @@
         "date": "2021-05-18",
         "video": [],
         "comment_count": 20,
-        "solved_count": 1755,
+        "solved_count": 1756,
         "parsed": {
             "moves": "1.Qd7+ Nfxd7 2.Ne6# *",
             "result": "*",
