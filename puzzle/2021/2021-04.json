@@ -252,7 +252,7 @@
         "date": "2021-04-17",
         "video": [],
         "comment_count": 17,
-        "solved_count": 1628,
+        "solved_count": 1629,
         "parsed": {
             "moves": "h1=Q 8.a8=Q+ Kf4 9.Qxh1 *",
             "date": "1929",
@@ -269,8 +269,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"rnbq1rk1/ppp3pp/8/3pPp2/4n3/PPN1b2P/1BP2PP1/R2QKBNR w KQ - 0 1\"]\r\n\r\n1.Nxe4 fxe4 2.fxe3 Qh4+ 3.Kd2 *",
         "date": "2021-04-18",
         "video": [],
-        "comment_count": 6,
-        "solved_count": 1656,
+        "comment_count": 7,
+        "solved_count": 1658,
         "parsed": {
             "moves": "1.Nxe4 fxe4 2.fxe3 Qh4+ 3.Kd2 *",
             "result": "*",
@@ -284,8 +284,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"r7/P3k3/2p1p3/2NpP3/3PpK2/4P3/4b3/R7 b - - 1 1\"]\r\n\r\n1...Rg8 2.Nxe6 Kxe6 3.Rg1 Rxg1 4.a8=Q Rg4# 0-1",
         "date": "2021-04-19",
         "video": [],
-        "comment_count": 8,
-        "solved_count": 1635,
+        "comment_count": 9,
+        "solved_count": 1637,
         "parsed": {
             "moves": "1...Rg8 2.Nxe6 Kxe6 3.Rg1 Rxg1 4.a8=Q Rg4# 0-1",
             "result": "*",
@@ -300,7 +300,7 @@
         "date": "2021-04-20",
         "video": [],
         "comment_count": 11,
-        "solved_count": 1618,
+        "solved_count": 1619,
         "parsed": {
             "moves": "1.Nxc7+ Qxc7 2.Qf7+ Kd8 3.Qf8# *",
             "result": "*",
