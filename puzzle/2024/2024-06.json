@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 806,
-        "solved_count": 1495111,
+        "solved_count": 1496175,
         "parsed": {
             "moves": "1. Kh2 Qxf3 2. g3+ Qxg3+ 3. fxg3# 1-0",
             "event": "U2000 A46: London System - Round 1",
@@ -33,7 +33,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 825,
-        "solved_count": 1511037,
+        "solved_count": 1512369,
         "parsed": {
             "moves": "1. Bd8+ Kg4 2. Be2+ Kg3 3. Bc7+ Rf4 4. Bd1 h2+ 5. Kh1 Kh3 6. Bxf4 1-0",
             "white": "Rinck, H.",
@@ -52,8 +52,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_whos_got_your_back_06_03_24_p2w.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 885,
-        "solved_count": 1559176,
+        "comment_count": 886,
+        "solved_count": 1560854,
         "parsed": {
             "moves": "10. Bxc6+ bxc6 11. Qxd4 1-0",
             "event": "Chess Olympiad Qualifying Group 3",
@@ -74,8 +74,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_off_the_rook_06_04_24_j1u.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 857,
-        "solved_count": 1471823,
+        "comment_count": 858,
+        "solved_count": 1474336,
         "parsed": {
             "moves": "56... Ra1+ 57. Kh2 Ng3 58. Rc3 Rh1# 0-1",
             "event": "World Cup ACP 3rd",
@@ -101,13 +101,37 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_tactical_gg_06_05_24_i9j.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 850,
-        "solved_count": 1380239,
+        "comment_count": 863,
+        "solved_count": 1402140,
         "parsed": {
             "moves": "1... Qxh3+ 2. Qxh3 Nxf2# *",
             "result": "*",
             "fen": "7k/3q1p2/2Rb1prp/pB1p2r1/Pp1N4/3n1Q1P/1P1N1PP1/6RK b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=7k/3q1p2/2Rb1prp/pB1p2r1/Pp1N4/3n1Q1P/1P1N1PP1/6RK b - - 0 1"
+    },
+    {
+        "id": 12457,
+        "title": "A Patient Discovery",
+        "pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2014.02.01\"]\r\n[Round \"?\"]\r\n[White \"denizkaraman\"]\r\n[Black \"ilija_i_oblomov\"]\r\n[Result \"*\"]\r\n[FEN \"r1b2rk1/ppq1bp1p/4p1p1/8/3R2Q1/2PB4/P1P2PPP/R1B3K1 b - - 0 1\"]\r\n\r\n1... Qxc3 2. Rb1 e5 3. Qe2 Qxd4 *",
+        "date": "2024-06-06",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_a_patient_discovery_06_06_24_i7w.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 27,
+        "solved_count": 19750,
+        "parsed": {
+            "moves": "1... Qxc3 2. Rb1 e5 3. Qe2 Qxd4 *",
+            "event": "Live Chess",
+            "site": "Chess.com",
+            "date": "2014.02.01",
+            "round": "?",
+            "white": "denizkaraman",
+            "black": "ilija_i_oblomov",
+            "result": "*",
+            "fen": "r1b2rk1/ppq1bp1p/4p1p1/8/3R2Q1/2PB4/P1P2PPP/R1B3K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b2rk1/ppq1bp1p/4p1p1/8/3R2Q1/2PB4/P1P2PPP/R1B3K1 b - - 0 1"
     }
 ]
