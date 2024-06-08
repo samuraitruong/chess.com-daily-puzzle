@@ -80,8 +80,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"6rk/2p2prp/p2p4/4p3/1PPb4/P2P2Pq/R4PBP/3Q1RK1 b - - 1 1\"]\r\n\r\n1...Rxg3 2.hxg3 Qxg3 3.Qf3 Qxf3 *",
         "date": "2021-04-06",
         "video": [],
-        "comment_count": 10,
-        "solved_count": 1700,
+        "comment_count": 11,
+        "solved_count": 1701,
         "parsed": {
             "moves": "1...Rxg3 2.hxg3 Qxg3 3.Qf3 Qxf3 *",
             "result": "*",
@@ -95,8 +95,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"5r2/1Q3R2/3p3p/4p1pk/1P1n4/6PP/4q1P1/6K1 b - - 0 1\"]\r\n\r\n1...Qe3+ 2.Kh2 Ne2 3.Qf3+ Qxf3 *",
         "date": "2021-04-07",
         "video": [],
-        "comment_count": 7,
-        "solved_count": 1681,
+        "comment_count": 8,
+        "solved_count": 1683,
         "parsed": {
             "moves": "1...Qe3+ 2.Kh2 Ne2 3.Qf3+ Qxf3 *",
             "result": "*",
@@ -110,8 +110,8 @@
         "pgn": "[Event \"Tal Memorial (Rapid)\"]\r\n[Site \"Jurmala LAT\"]\r\n[Date \"2017.03.04\"]\r\n[Round \"3.2\"]\r\n[White \"Jakob Vang Glud\"]\r\n[Black \"Viktor Laznicka\"]\r\n[Result \"*\"]\r\n[FEN \"2r1r1k1/2Qn1Rpn/8/p2B4/3B2p1/7P/8/3q2K1 w - - 0 39\"]\r\n\r\n39.Rf1+ Kh8 40.Bxg7+ Kxg7 41.Qxd7+ Kh8 42.Rxd1 *",
         "date": "2021-04-08",
         "video": [],
-        "comment_count": 6,
-        "solved_count": 1661,
+        "comment_count": 7,
+        "solved_count": 1662,
         "parsed": {
             "moves": "39.Rf1+ Kh8 40.Bxg7+ Kxg7 41.Qxd7+ Kh8 42.Rxd1 *",
             "event": "Tal Memorial (Rapid)",
@@ -131,8 +131,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"2kr3r/pppb2pp/3p4/3Np1q1/2B1P3/4P1Pn/PPPQ2KP/5R2 w - - 0 1\"]\r\n\r\n1.Qa5 Kb8 2.Qxc7+ Ka8 3.Nb6+ axb6 4.Bd5 Bc8 5.Rf7 *",
         "date": "2021-04-09",
         "video": [],
-        "comment_count": 11,
-        "solved_count": 1656,
+        "comment_count": 12,
+        "solved_count": 1657,
         "parsed": {
             "moves": "1.Qa5 Kb8 2.Qxc7+ Ka8 3.Nb6+ axb6 4.Bd5 Bc8 5.Rf7 *",
             "result": "*",
@@ -207,7 +207,7 @@
         "date": "2021-04-14",
         "video": [],
         "comment_count": 11,
-        "solved_count": 1618,
+        "solved_count": 1619,
         "parsed": {
             "moves": "1...Rxg2 2.Kxg2 Qg6+ 3.Kf1 Ng3+ 4.fxg3 Qxd3 *",
             "result": "*",
