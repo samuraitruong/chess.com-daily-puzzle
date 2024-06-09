@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 826,
-        "solved_count": 1543463,
+        "solved_count": 1543785,
         "parsed": {
             "moves": "1. Kh2 Qxf3 2. g3+ Qxg3+ 3. fxg3# 1-0",
             "event": "U2000 A46: London System - Round 1",
@@ -33,7 +33,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 836,
-        "solved_count": 1569613,
+        "solved_count": 1570069,
         "parsed": {
             "moves": "1. Bd8+ Kg4 2. Be2+ Kg3 3. Bc7+ Rf4 4. Bd1 h2+ 5. Kh1 Kh3 6. Bxf4 1-0",
             "white": "Rinck, H.",
@@ -53,7 +53,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 897,
-        "solved_count": 1629211,
+        "solved_count": 1629792,
         "parsed": {
             "moves": "10. Bxc6+ bxc6 11. Qxd4 1-0",
             "event": "Chess Olympiad Qualifying Group 3",
@@ -75,7 +75,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 876,
-        "solved_count": 1562255,
+        "solved_count": 1562973,
         "parsed": {
             "moves": "56... Ra1+ 57. Kh2 Ng3 58. Rc3 Rh1# 0-1",
             "event": "World Cup ACP 3rd",
@@ -101,8 +101,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_tactical_gg_06_05_24_i9j.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 914,
-        "solved_count": 1538483,
+        "comment_count": 915,
+        "solved_count": 1539379,
         "parsed": {
             "moves": "1... Qxh3+ 2. Qxh3 Nxf2# *",
             "result": "*",
@@ -120,7 +120,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1395,
-        "solved_count": 1475996,
+        "solved_count": 1477221,
         "parsed": {
             "moves": "1... Qxc3 2. Rb1 e5 3. Qe2 Qxd4 *",
             "event": "Live Chess",
@@ -144,7 +144,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 868,
-        "solved_count": 1414629,
+        "solved_count": 1416645,
         "parsed": {
             "moves": "35... Rb7 36. Qxa5 Rb1+ 37. Be1 Rxe1+ 38. Qxe1 Nd3 39. Qd2 Rc1+ 40. Qxc1 Nxc1 *",
             "event": "USSR Ch",
@@ -167,13 +167,39 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_major_piece_tightrope_06_08_24_h5w.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 680,
-        "solved_count": 1267376,
+        "comment_count": 691,
+        "solved_count": 1288291,
         "parsed": {
             "moves": "1... Rh5+ 2. Kxh5 Rh3+ 3. Kg6 Qe4+ 4. Kf6 Rf3# *",
             "result": "*",
             "fen": "5k2/p1Q3R1/3p3p/r7/q5PK/5r2/P4P1P/3R4 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=5k2/p1Q3R1/3p3p/r7/q5PK/5r2/P4P1P/3R4 b - - 0 1"
+    },
+    {
+        "id": 12407,
+        "title": "Kane's Royal Icebreaker",
+        "pgn": "[Event \"?\"]\r\n[Site \"?\"]\r\n[Date \"2024.04.19\"]\r\n[Round \"?\"]\r\n[White \"Jeremy Kane\"]\r\n[Black \"Puzzle\"]\r\n[Result \"1-0\"]\r\n[SetUp \"1\"]\r\n[FEN \"r2r4/p4Qbk/1qn3pp/4P3/2Bpb2P/5N2/PPP3P1/1K3R1R w - - 0 1\"]\r\n[PlyCount \"13\"]\r\n\r\n1. Ng5+ Kh8 2. Qxg7+ Kxg7 3. Rf7+ Kg8 4. Rd7+ Kf8 5. Nh7+ Ke8 6. Nf6+ Kf8 7.\r\nRf7# 1-0",
+        "date": "2024-06-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_kanes_kingside_crush_06_09_24_v1l.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 31,
+        "solved_count": 12333,
+        "parsed": {
+            "moves": "Rf7# 1-0",
+            "event": "?",
+            "site": "?",
+            "date": "2024.04.19",
+            "round": "?",
+            "white": "Jeremy Kane",
+            "black": "Puzzle",
+            "result": "1-0",
+            "setup": "1",
+            "fen": "r2r4/p4Qbk/1qn3pp/4P3/2Bpb2P/5N2/PPP3P1/1K3R1R w - - 0 1",
+            "plycount": "13"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r2r4/p4Qbk/1qn3pp/4P3/2Bpb2P/5N2/PPP3P1/1K3R1R w - - 0 1"
     }
 ]
