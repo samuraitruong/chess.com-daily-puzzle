@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 826,
-        "solved_count": 1544393,
+        "solved_count": 1544414,
         "parsed": {
             "moves": "1. Kh2 Qxf3 2. g3+ Qxg3+ 3. fxg3# 1-0",
             "event": "U2000 A46: London System - Round 1",
@@ -33,7 +33,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 836,
-        "solved_count": 1577595,
+        "solved_count": 1577829,
         "parsed": {
             "moves": "1. Bd8+ Kg4 2. Be2+ Kg3 3. Bc7+ Rf4 4. Bd1 h2+ 5. Kh1 Kh3 6. Bxf4 1-0",
             "white": "Rinck, H.",
@@ -53,7 +53,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 901,
-        "solved_count": 1640843,
+        "solved_count": 1641209,
         "parsed": {
             "moves": "10. Bxc6+ bxc6 11. Qxd4 1-0",
             "event": "Chess Olympiad Qualifying Group 3",
@@ -75,7 +75,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 879,
-        "solved_count": 1576091,
+        "solved_count": 1576610,
         "parsed": {
             "moves": "56... Ra1+ 57. Kh2 Ng3 58. Rc3 Rh1# 0-1",
             "event": "World Cup ACP 3rd",
@@ -102,7 +102,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 920,
-        "solved_count": 1555503,
+        "solved_count": 1556161,
         "parsed": {
             "moves": "1... Qxh3+ 2. Qxh3 Nxf2# *",
             "result": "*",
@@ -120,7 +120,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1405,
-        "solved_count": 1499173,
+        "solved_count": 1500060,
         "parsed": {
             "moves": "1... Qxc3 2. Rb1 e5 3. Qe2 Qxd4 *",
             "event": "Live Chess",
@@ -144,7 +144,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 872,
-        "solved_count": 1449035,
+        "solved_count": 1450353,
         "parsed": {
             "moves": "35... Rb7 36. Qxa5 Rb1+ 37. Be1 Rxe1+ 38. Qxe1 Nd3 39. Qd2 Rc1+ 40. Qxc1 Nxc1 *",
             "event": "USSR Ch",
@@ -167,8 +167,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_major_piece_tightrope_06_08_24_h5w.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 703,
-        "solved_count": 1352553,
+        "comment_count": 704,
+        "solved_count": 1354802,
         "parsed": {
             "moves": "1... Rh5+ 2. Kxh5 Rh3+ 3. Kg6 Qe4+ 4. Kf6 Rf3# *",
             "result": "*",
@@ -185,8 +185,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_kanes_kingside_crush_06_09_24_v1l.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1050,
-        "solved_count": 1262733,
+        "comment_count": 1071,
+        "solved_count": 1284395,
         "parsed": {
             "moves": "Rf7# 1-0",
             "event": "?",
@@ -201,5 +201,23 @@
             "plycount": "13"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=r2r4/p4Qbk/1qn3pp/4P3/2Bpb2P/5N2/PPP3P1/1K3R1R w - - 0 1"
+    },
+    {
+        "id": 12439,
+        "title": "Rook and Knight Unite!",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r1b2b2/p1pk3r/1pnp3p/3N1pp1/1PP5/2P2PB1/P5PP/R3RK2 w - - 0 1\"]\r\n\r\n1. Nf6+ Kd8 2. Re8# *",
+        "date": "2024-06-10",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_rook_and_knight_unite_06_10_24_v1j.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 39,
+        "solved_count": 20270,
+        "parsed": {
+            "moves": "1. Nf6+ Kd8 2. Re8# *",
+            "result": "*",
+            "fen": "r1b2b2/p1pk3r/1pnp3p/3N1pp1/1PP5/2P2PB1/P5PP/R3RK2 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b2b2/p1pk3r/1pnp3p/3N1pp1/1PP5/2P2PB1/P5PP/R3RK2 w - - 0 1"
     }
 ]
