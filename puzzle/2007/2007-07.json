@@ -336,18 +336,18 @@
     },
     {
         "id": 98,
-        "title": "One, Two, Three, Four, Show his Queen out the Back",
-        "pgn": "[FEN \"r2qr1k1/ppp2p1p/3p1p1B/2b1p3/2B1P3/3P1P1b/PPP2P1P/R2Q1R1K w - - 0 13\"]\r\n[PlyCount \"7\"]\r\n\r\n13. Rg1+ Kh8 14. Bg7+ Kg8 15. Bxf6+ Kf8 16. Bxd8 *",
+        "title": "Mate in Four, Out the Door!",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3r1k1B/1b3p1p/1p1qp2n/pQp5/2P1P3/1PN5/P4KPP/R4BNR b - - 0 1\"]\r\n\r\n1... Qf4+ 2. Nf3 Ng4+ 3. Ke1 Qe3+ 4. Be2 Qf2# *",
         "date": "2007-07-22",
         "video": [],
         "comment_count": 10,
-        "solved_count": 271,
+        "solved_count": 272,
         "parsed": {
-            "moves": "13. Rg1+ Kh8 14. Bg7+ Kg8 15. Bxf6+ Kf8 16. Bxd8 *",
-            "fen": "r2qr1k1/ppp2p1p/3p1p1B/2b1p3/2B1P3/3P1P1b/PPP2P1P/R2Q1R1K w - - 0 13",
-            "plycount": "7"
+            "moves": "1... Qf4+ 2. Nf3 Ng4+ 3. Ke1 Qe3+ 4. Be2 Qf2# *",
+            "result": "*",
+            "fen": "3r1k1B/1b3p1p/1p1qp2n/pQp5/2P1P3/1PN5/P4KPP/R4BNR b - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=r2qr1k1/ppp2p1p/3p1p1B/2b1p3/2B1P3/3P1P1b/PPP2P1P/R2Q1R1K w - - 0 13"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r1k1B/1b3p1p/1p1qp2n/pQp5/2P1P3/1PN5/P4KPP/R4BNR b - - 0 1"
     },
     {
         "id": 97,
