@@ -464,18 +464,17 @@
     },
     {
         "id": 4576,
-        "title": "Extended Calculation and Vision",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"rn1q1rk1/2p3p1/1p2p2p/3bNp1Q/4NbR1/3B4/PPP2PPP/R5K1 w - - 0 1\"]\r\n\r\n1. Rxf4 fxe4 2. Nf7 Qe8 3. Nxh6+ gxh6 4. Rg4+ Kh7 5. Qe5 Qf7 6. Rxe4 Bxe4 7. Bxe4+ Kg8 8. Qg3+ Qg7 9. Qxg7+ Kxg7 10. Bxa8\r\n*",
+        "title": "Mate in 4",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/1pp2ppp/1bn1p3/p3B3/1P3P2/P3PB1q/3NK3/R5R1 w - - 0 1\"]\r\n\r\n1. Rxg7+ Kh8 2. Rg8+ Kxg8 3. Rg1+ Qg3 4. Rxg3# *",
         "date": "2013-11-30",
         "video": [],
         "comment_count": 3,
         "solved_count": 110,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1. Rxg7+ Kh8 2. Rg8+ Kxg8 3. Rg1+ Qg3 4. Rxg3# *",
             "result": "*",
-            "fen": "rn1q1rk1/2p3p1/1p2p2p/3bNp1Q/4NbR1/3B4/PPP2PPP/R5K1 w - - 0 1"
+            "fen": "r4rk1/1pp2ppp/1bn1p3/p3B3/1P3P2/P3PB1q/3NK3/R5R1 w - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=rn1q1rk1/2p3p1/1p2p2p/3bNp1Q/4NbR1/3B4/PPP2PPP/R5K1 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r4rk1/1pp2ppp/1bn1p3/p3B3/1P3P2/P3PB1q/3NK3/R5R1 w - - 0 1"
     }
 ]
