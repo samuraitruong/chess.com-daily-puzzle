@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "id": 12463,
+        "title": "A Minor Communication Issue",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r1b2rk1/1pp2pp1/1p1p2qp/8/3NPPn1/P1P3P1/1P2B2P/R2Q1RK1 w - - 0 1\"]\r\n\r\n1. f5 Qg5 2. Bxg4 *",
+        "date": "2024-07-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_ghosting_a_piece_07_01_24_y2e.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 24,
+        "solved_count": 18852,
+        "parsed": {
+            "moves": "1. f5 Qg5 2. Bxg4 *",
+            "result": "*",
+            "fen": "r1b2rk1/1pp2pp1/1p1p2qp/8/3NPPn1/P1P3P1/1P2B2P/R2Q1RK1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b2rk1/1pp2pp1/1p1p2qp/8/3NPPn1/P1P3P1/1P2B2P/R2Q1RK1 w - - 0 1"
+    }
+]
