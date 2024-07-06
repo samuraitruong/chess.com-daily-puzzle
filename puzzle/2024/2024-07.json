@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 861,
-        "solved_count": 1523516,
+        "solved_count": 1524364,
         "parsed": {
             "moves": "1. f5 Qg5 2. Bxg4 *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 714,
-        "solved_count": 1465043,
+        "solved_count": 1466098,
         "parsed": {
             "moves": "1... Bd7+ 2. Ka3 Bc5+ 3. Qxc5+ bxc5 *",
             "result": "*",
@@ -44,8 +44,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_which_fork_should_you_charge_07_03_24_o2v.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 756,
-        "solved_count": 1429540,
+        "comment_count": 757,
+        "solved_count": 1430924,
         "parsed": {
             "moves": "1. g5 Nh5 2. Qxd7 Qxd7 3. Rxd7 *",
             "result": "*",
@@ -62,8 +62,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_enjoy_the_fireworks!_07_04_24_2ce.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 959,
-        "solved_count": 1383942,
+        "comment_count": 960,
+        "solved_count": 1386195,
         "parsed": {
             "moves": "1. Re8+ Kh7 2. Rxh6+ gxh6 3. Rh8# 1-0",
             "result": "1-0",
@@ -80,13 +80,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_checkmate_stampede_07_05_24_psc.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 785,
-        "solved_count": 1255061,
+        "comment_count": 797,
+        "solved_count": 1274333,
         "parsed": {
             "moves": "1... Nge4+ 2. Kh2 Nxf3+ 3. Kh1 Nf2# *",
             "result": "*",
             "fen": "6r1/pp6/3N4/2p3nk/P7/2PB1P1P/1P1n2K1/3R4 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=6r1/pp6/3N4/2p3nk/P7/2PB1P1P/1P1n2K1/3R4 b - - 0 1"
+    },
+    {
+        "id": 12465,
+        "title": "Tactical Ripple Effect",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3rr2k/3q1bpp/p4p2/1pbp1Q2/3N1P2/1P2P1P1/P1P3BP/R3R1K1 b - - 0 1\"]\r\n\r\n1... Rxe3 2. Qxd7 Rxe1+ 3. Rxe1 Bxd4+ 4. Kf1 Rxd7 *",
+        "date": "2024-07-06",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_tactical_ripple_effect_07_06_24_r4j.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 26,
+        "solved_count": 13388,
+        "parsed": {
+            "moves": "1... Rxe3 2. Qxd7 Rxe1+ 3. Rxe1 Bxd4+ 4. Kf1 Rxd7 *",
+            "result": "*",
+            "fen": "3rr2k/3q1bpp/p4p2/1pbp1Q2/3N1P2/1P2P1P1/P1P3BP/R3R1K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3rr2k/3q1bpp/p4p2/1pbp1Q2/3N1P2/1P2P1P1/P1P3BP/R3R1K1 b - - 0 1"
     }
 ]
