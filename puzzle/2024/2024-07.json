@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 866,
-        "solved_count": 1556312,
+        "solved_count": 1556734,
         "parsed": {
             "moves": "1. f5 Qg5 2. Bxg4 *",
             "result": "*",
@@ -26,8 +26,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_a_fork_in_the_shadows_07_02_24_903.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 723,
-        "solved_count": 1504598,
+        "comment_count": 724,
+        "solved_count": 1505171,
         "parsed": {
             "moves": "1... Bd7+ 2. Ka3 Bc5+ 3. Qxc5+ bxc5 *",
             "result": "*",
@@ -45,7 +45,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 768,
-        "solved_count": 1478938,
+        "solved_count": 1479646,
         "parsed": {
             "moves": "1. g5 Nh5 2. Qxd7 Qxd7 3. Rxd7 *",
             "result": "*",
@@ -62,8 +62,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_enjoy_the_fireworks!_07_04_24_2ce.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 981,
-        "solved_count": 1452231,
+        "comment_count": 982,
+        "solved_count": 1453150,
         "parsed": {
             "moves": "1. Re8+ Kh7 2. Rxh6+ gxh6 3. Rh8# 1-0",
             "result": "1-0",
@@ -80,8 +80,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_checkmate_stampede_07_05_24_psc.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 846,
-        "solved_count": 1384124,
+        "comment_count": 847,
+        "solved_count": 1385501,
         "parsed": {
             "moves": "1... Nge4+ 2. Kh2 Nxf3+ 3. Kh1 Nf2# *",
             "result": "*",
@@ -98,8 +98,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_tactical_ripple_effect_07_06_24_r4j.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 751,
-        "solved_count": 1327922,
+        "comment_count": 753,
+        "solved_count": 1330231,
         "parsed": {
             "moves": "1... Rxe3 2. Qxd7 Rxe1+ 3. Rxe1 Bxd4+ 4. Kf1 Rxd7 *",
             "result": "*",
@@ -116,8 +116,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_major_attack_minor_finesse_07_07_24_ndt.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 623,
-        "solved_count": 1252275,
+        "comment_count": 639,
+        "solved_count": 1272539,
         "parsed": {
             "moves": "1... Rxg3+ 2. fxg3 Nf4+ 3. Rxf4 Qxg3+ 4. Kh1 Qh3+ 5. Kg1 Rg3+ 6. Kf2 Qg2# 0-1",
             "white": "himavanth0010",
@@ -126,5 +126,23 @@
             "fen": "4N1rk/4Q2p/5R1n/8/8/rq4Pn/3P1PK1/4R3 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=4N1rk/4Q2p/5R1n/8/8/rq4Pn/3P1PK1/4R3 b - - 0 1"
+    },
+    {
+        "id": 12467,
+        "title": "Can Rooks See Diagonals?",
+        "pgn": "[Result \"*\"]\r\n[FEN \"6rk/2p1Q1p1/4N2p/pb6/1p1P4/1P2q2P/2P2RP1/6K1 b - - 0 1\"]\r\n\r\n1... Qe1+ 2. Kh2 Qxf2 *",
+        "date": "2024-07-08",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_can_rooks_see_diagonals_07_08_24_j5f.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 39,
+        "solved_count": 21135,
+        "parsed": {
+            "moves": "1... Qe1+ 2. Kh2 Qxf2 *",
+            "result": "*",
+            "fen": "6rk/2p1Q1p1/4N2p/pb6/1p1P4/1P2q2P/2P2RP1/6K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6rk/2p1Q1p1/4N2p/pb6/1p1P4/1P2q2P/2P2RP1/6K1 b - - 0 1"
     }
 ]
