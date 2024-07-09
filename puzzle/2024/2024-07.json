@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 867,
-        "solved_count": 1570499,
+        "solved_count": 1570851,
         "parsed": {
             "moves": "1. f5 Qg5 2. Bxg4 *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 731,
-        "solved_count": 1523895,
+        "solved_count": 1524416,
         "parsed": {
             "moves": "1... Bd7+ 2. Ka3 Bc5+ 3. Qxc5+ bxc5 *",
             "result": "*",
@@ -45,7 +45,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 773,
-        "solved_count": 1501983,
+        "solved_count": 1502708,
         "parsed": {
             "moves": "1. g5 Nh5 2. Qxd7 Qxd7 3. Rxd7 *",
             "result": "*",
@@ -63,7 +63,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 986,
-        "solved_count": 1480971,
+        "solved_count": 1481834,
         "parsed": {
             "moves": "1. Re8+ Kh7 2. Rxh6+ gxh6 3. Rh8# 1-0",
             "result": "1-0",
@@ -81,7 +81,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 851,
-        "solved_count": 1421801,
+        "solved_count": 1422902,
         "parsed": {
             "moves": "1... Nge4+ 2. Kh2 Nxf3+ 3. Kh1 Nf2# *",
             "result": "*",
@@ -99,7 +99,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 759,
-        "solved_count": 1382467,
+        "solved_count": 1383986,
         "parsed": {
             "moves": "1... Rxe3 2. Qxd7 Rxe1+ 3. Rxe1 Bxd4+ 4. Kf1 Rxd7 *",
             "result": "*",
@@ -117,7 +117,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 664,
-        "solved_count": 1364915,
+        "solved_count": 1367369,
         "parsed": {
             "moves": "1... Rxg3+ 2. fxg3 Nf4+ 3. Rxf4 Qxg3+ 4. Kh1 Qh3+ 5. Kg1 Rg3+ 6. Kf2 Qg2# 0-1",
             "white": "himavanth0010",
@@ -136,13 +136,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_can_rooks_see_diagonals_07_08_24_j5f.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 977,
-        "solved_count": 1368075,
+        "comment_count": 988,
+        "solved_count": 1387448,
         "parsed": {
             "moves": "1... Qe1+ 2. Kh2 Qxf2 *",
             "result": "*",
             "fen": "6rk/2p1Q1p1/4N2p/pb6/1p1P4/1P2q2P/2P2RP1/6K1 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=6rk/2p1Q1p1/4N2p/pb6/1p1P4/1P2q2P/2P2RP1/6K1 b - - 0 1"
+    },
+    {
+        "id": 12367,
+        "title": "Calculate Twice, Pin Once",
+        "pgn": "[Result \"*\"]\r\n[FEN \"6k1/2q2pb1/5np1/p2B3p/Pp6/1P3NP1/5PP1/3Q2K1 b - - 0 1\"]\r\n\r\n1... Qd7 2. Bxf7+ Qxf7 *",
+        "date": "2024-07-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_calculate_twice_pin_once_07_09_24_20b.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 28,
+        "solved_count": 17080,
+        "parsed": {
+            "moves": "1... Qd7 2. Bxf7+ Qxf7 *",
+            "result": "*",
+            "fen": "6k1/2q2pb1/5np1/p2B3p/Pp6/1P3NP1/5PP1/3Q2K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/2q2pb1/5np1/p2B3p/Pp6/1P3NP1/5PP1/3Q2K1 b - - 0 1"
     }
 ]
