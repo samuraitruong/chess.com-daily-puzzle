@@ -5,8 +5,8 @@
         "pgn": "[Event \"FIDE Online Steinitz Memorial\"]\r\n[Date \"2020.05.16\"]\r\n[Round \"10\"]\r\n[White \"Peter Svidler\"]\r\n[Black \"Magnus Carlsen\"]\r\n[Result \"*\"]\r\n[WhiteElo \"2723\"]\r\n[BlackElo \"2863\"]\r\n[FEN \"1R6/3r2pk/p5Rp/1b1p3P/1bpB4/6P1/5P2/6K1 w - - 2 47\"]\r\n\r\n47.f4 c3 48.Rxh6+ Kxh6 49.Rh8# 1-0",
         "date": "2020-10-01",
         "video": [],
-        "comment_count": 5,
-        "solved_count": 1131,
+        "comment_count": 6,
+        "solved_count": 1132,
         "parsed": {
             "moves": "47.f4 c3 48.Rxh6+ Kxh6 49.Rh8# 1-0",
             "event": "FIDE Online Steinitz Memorial",
@@ -277,7 +277,7 @@
         "date": "2020-10-18",
         "video": [],
         "comment_count": 6,
-        "solved_count": 924,
+        "solved_count": 925,
         "parsed": {
             "moves": "24...Qh3+ 25.Kxh3 Rh5+ 26.Kg2 Rxh2# *",
             "event": "Riga Technical University Open",
