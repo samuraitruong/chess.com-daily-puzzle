@@ -6,7 +6,7 @@
         "date": "2020-03-01",
         "video": [],
         "comment_count": 8,
-        "solved_count": 778,
+        "solved_count": 779,
         "parsed": {
             "moves": "39...Rb1 40.Rd7+ Ke5 41.Rdd1 a1=Q 42.Rxb1 Qxa4 *",
             "result": "*",
@@ -116,7 +116,7 @@
         "date": "2020-03-08",
         "video": [],
         "comment_count": 4,
-        "solved_count": 694,
+        "solved_count": 695,
         "parsed": {
             "moves": "1...Ke7 2.Kc6 Kd8 3.Kd5 h3 4.Kc6 h2 *",
             "result": "*",
@@ -221,7 +221,7 @@
         "date": "2020-03-15",
         "video": [],
         "comment_count": 4,
-        "solved_count": 679,
+        "solved_count": 680,
         "parsed": {
             "moves": "1.Rxc2 Rxc2 2.Qe8+ Kh7 3.Qe4+ f5 4.Qxc2 *",
             "result": "*",
@@ -295,8 +295,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"5rk1/5R2/3NQ2b/1N1n4/q5P1/1p5P/1B4r1/3K4 b - - 0 1\"]\r\n\r\n1...Nc3+ 2.Ke1 Re2+ 3.Qxe2 Nxe2 *",
         "date": "2020-03-20",
         "video": [],
-        "comment_count": 4,
-        "solved_count": 657,
+        "comment_count": 5,
+        "solved_count": 658,
         "parsed": {
             "moves": "1...Nc3+ 2.Ke1 Re2+ 3.Qxe2 Nxe2 *",
             "result": "*",
@@ -310,8 +310,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"r2q1k2/pppb1Pp1/2n4p/6N1/2r4P/8/PK1R2Q1/7R w - - 0 1\"]\r\n\r\n1.Nh7+ Kxf7 2.Rf1+ Kg8 3.Rxd7 Qxd7 4.Nf6+ Kh8 5.Nxd7 *",
         "date": "2020-03-21",
         "video": [],
-        "comment_count": 6,
-        "solved_count": 652,
+        "comment_count": 7,
+        "solved_count": 653,
         "parsed": {
             "moves": "1.Nh7+ Kxf7 2.Rf1+ Kg8 3.Rxd7 Qxd7 4.Nf6+ Kh8 5.Nxd7 *",
             "result": "*",
@@ -326,7 +326,7 @@
         "date": "2020-03-22",
         "video": [],
         "comment_count": 4,
-        "solved_count": 648,
+        "solved_count": 649,
         "parsed": {
             "moves": "1...Qa1+ 2.Kb3 Rb1+ 3.Bxb1 Qxb1# *",
             "result": "*",
@@ -443,7 +443,7 @@
         "date": "2020-03-29",
         "video": [],
         "comment_count": 5,
-        "solved_count": 645,
+        "solved_count": 646,
         "parsed": {
             "moves": "14.Nd5 Qxd1 15.Nxe7+ Kh8 16.Rxd1 1-0",
             "event": "Spice Cup",
