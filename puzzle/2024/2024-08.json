@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "id": 12493,
+        "title": "About That Promotion...",
+        "pgn": "[White \"BryanCFB\"]\r\n[Black \"Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"8/6P1/1k2p3/p2pP3/P1pKnP2/2P4p/1P6/8 b - - 0 1\"]\r\n\r\n1... Ng3 2. g8=Q Nf5# 0-1",
+        "date": "2024-08-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_about_that_promotion_08_01_24_z7q.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 21,
+        "solved_count": 16299,
+        "parsed": {
+            "moves": "1... Ng3 2. g8=Q Nf5# 0-1",
+            "white": "BryanCFB",
+            "black": "Puzzle Inspiration",
+            "result": "0-1",
+            "fen": "8/6P1/1k2p3/p2pP3/P1pKnP2/2P4p/1P6/8 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/6P1/1k2p3/p2pP3/P1pKnP2/2P4p/1P6/8 b - - 0 1"
+    }
+]
