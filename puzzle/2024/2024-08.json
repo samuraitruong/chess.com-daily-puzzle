@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_about_that_promotion_08_01_24_z7q.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 922,
-        "solved_count": 1282689,
+        "comment_count": 928,
+        "solved_count": 1301216,
         "parsed": {
             "moves": "1... Ng3 2. g8=Q Nf5# 0-1",
             "white": "BryanCFB",
@@ -18,5 +18,23 @@
             "fen": "8/6P1/1k2p3/p2pP3/P1pKnP2/2P4p/1P6/8 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=8/6P1/1k2p3/p2pP3/P1pKnP2/2P4p/1P6/8 b - - 0 1"
+    },
+    {
+        "id": 12427,
+        "title": "Why the Long Face?",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3qk1nr/1pp2ppp/1r2b3/p3P3/2P4Q/P4N1P/1b3PP1/R1B1KB1R w KQk - 0 1\"]\r\n\r\n1. Qxd8+ Kxd8 2. Bxb2 Rxb2 3. O-O-O+ Kc8 4. Kxb2 *",
+        "date": "2024-08-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_why_the_long_face_08_02_24_e5y.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 39,
+        "solved_count": 17439,
+        "parsed": {
+            "moves": "1. Qxd8+ Kxd8 2. Bxb2 Rxb2 3. O-O-O+ Kc8 4. Kxb2 *",
+            "result": "*",
+            "fen": "3qk1nr/1pp2ppp/1r2b3/p3P3/2P4Q/P4N1P/1b3PP1/R1B1KB1R w KQk - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3qk1nr/1pp2ppp/1r2b3/p3P3/2P4Q/P4N1P/1b3PP1/R1B1KB1R w KQk - 0 1"
     }
 ]
