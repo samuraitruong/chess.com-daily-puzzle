@@ -318,8 +318,8 @@
         "pgn": "[FEN \"5r1k/p6p/1p3pp1/2nQ1N2/4Pq1P/5P2/P5P1/3R2K1 w - - 0 1\"]\r\n[PlyCount \"9\"]\r\n\r\n1. Qf7 1... Ne6 (1... Qh6 2. Rd8 Rxd8 3. Qxf6+ Qg7 4. Qxg7#) 2. Rd8 2... Qc1+ 3. Kh2 Qc7+ 4. Qxc7 Nxc7\r\n5. Rxf8# *",
         "date": "2007-08-22",
         "video": [],
-        "comment_count": 10,
-        "solved_count": 219,
+        "comment_count": 11,
+        "solved_count": 220,
         "parsed": {
             "moves": "5. Rxf8# *",
             "fen": "5r1k/p6p/1p3pp1/2nQ1N2/4Pq1P/5P2/P5P1/3R2K1 w - - 0 1",
@@ -333,8 +333,8 @@
         "pgn": "[FEN \"r1b2rk1/4qpbp/p1nppnp1/5PB1/1p2P2Q/2NB1N2/PPP3PP/R4R1K w - - 0 1\"]\r\n[Result \"*\"]\r\n\r\n1. e5 $1 Nxe5 ( 1... dxe5 2. Ne4 { and the knight on f6 is lost }  ) ( 1... bxc3 2. exf6 Qd7 3. fxg7 Kxg7 4. Bf6+ Kg8 5. Qh6 { and checkmate }  ) 2. Nxe5 bxc3 ( 2... dxe5 3. Ne4 { and once again the knight on f6 is lost! }  ) 3. Ng4 { and black cannot save the knight on f6 }\r\n*\r\n\r\n\r\n",
         "date": "2007-08-23",
         "video": [],
-        "comment_count": 9,
-        "solved_count": 216,
+        "comment_count": 10,
+        "solved_count": 217,
         "parsed": {
             "moves": "*",
             "fen": "r1b2rk1/4qpbp/p1nppnp1/5PB1/1p2P2Q/2NB1N2/PPP3PP/R4R1K w - - 0 1",
@@ -348,8 +348,8 @@
         "pgn": "[FEN \"1nr3k1/p4pbp/1n1Rp1p1/2pb2N1/5B2/P5PB/1P3P1P/R5K1 w - - 0 1\"]\r\n[PlyCount \"19\"]\r\n[Result \"*\"]\r\n\r\n1. Nxe6 $3 fxe6 ( 1... Bxe6 2. Rxe6 $1 ) 2. Rxd5 $1 exd5 3. Bxc8 Nxc8 4. Bxb8 Bxb2 5. Rb1 $1 Bxa3 6. Rb7 c4 7. Be5 Bf8 8. Kf1 Ne7 9. Bd6 Kf7 10. Rxa7 { ...and white will clean up the pawns and push on the kingside. }\r\n*\r\n\r\n\r\n",
         "date": "2007-08-24",
         "video": [],
-        "comment_count": 11,
-        "solved_count": 209,
+        "comment_count": 12,
+        "solved_count": 210,
         "parsed": {
             "moves": "*",
             "fen": "1nr3k1/p4pbp/1n1Rp1p1/2pb2N1/5B2/P5PB/1P3P1P/R5K1 w - - 0 1",
@@ -364,8 +364,8 @@
         "pgn": "[FEN \"r2r1k2/pbq1bpp1/1pp1pn1p/4N2N/2PP4/3Q4/PPB2PPP/R3R1K1 w - - 0 1\"]\r\n[Result \"*\"]\r\n\r\n\r\n1. Qg3 $1 Ne8 ( 1... Nxh5 2. Ng6+ ) 2. Nxg7 $3 Rxd4 ( 2... Nxg7 3. Ng6+ ) 3. Nxe8 Kxe8 4. Qg8+ Bf8 5. Nxf7 Qxf7 6. Rxe6+ Kd7 7. Qxf7+\r\n*\r\n\r\n\r\n",
         "date": "2007-08-25",
         "video": [],
-        "comment_count": 11,
-        "solved_count": 209,
+        "comment_count": 12,
+        "solved_count": 210,
         "parsed": {
             "moves": "*",
             "fen": "r2r1k2/pbq1bpp1/1pp1pn1p/4N2N/2PP4/3Q4/PPB2PPP/R3R1K1 w - - 0 1",
@@ -379,8 +379,8 @@
         "pgn": "[FEN \"7k/5r2/1p3q2/p1pQ4/2P3R1/4P2P/7K/8 w - - 0 1\"]\r\n[PlyCount \"5\"]\r\n[Result \"*\"]\r\n\r\n1. Qh5+ Rh7 2. Qe8+ Qf8 $8 3. Qxf8#\r\n*\r\n\r\n\r\n",
         "date": "2007-08-26",
         "video": [],
-        "comment_count": 9,
-        "solved_count": 213,
+        "comment_count": 10,
+        "solved_count": 214,
         "parsed": {
             "moves": "*",
             "fen": "7k/5r2/1p3q2/p1pQ4/2P3R1/4P2P/7K/8 w - - 0 1",
@@ -395,8 +395,8 @@
         "pgn": "[FEN \"2r5/3n1p2/1k1rp1p1/1PNp3p/2nP1P2/1RNK4/R5PP/8 w - - 0 1\"]\r\n\r\n1. Ra6+ Kc7 2. Ra7+ Kd8 ( 2... Kb6 3. Rb7+ Ka5 4. b6 { And mate cannot be stopped!  }  ) ( 2... Kb8 3. Rxd7 Rxd7 4. Nxd7+ { And white is up an extra piece. }  ) 3. Nb7+ Ke7 4. Nxd6 Kxd6 { White has won the exchange (knight for rook) and controls the open A file. }\r\n*\r\n\r\n\r\n",
         "date": "2007-08-27",
         "video": [],
-        "comment_count": 9,
-        "solved_count": 210,
+        "comment_count": 10,
+        "solved_count": 211,
         "parsed": {
             "moves": "*",
             "fen": "2r5/3n1p2/1k1rp1p1/1PNp3p/2nP1P2/1RNK4/R5PP/8 w - - 0 1"
@@ -409,8 +409,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"6k1/pp5q/4p3/4P3/3rn1K1/PP2Q1P1/8/4R3 b - - 0 1\"]\r\n\r\n1... Qf5+ 2. Kh4 Nf6+ 3. Qxd4 Qh5#\r\n*\r\n\r\n\r\n",
         "date": "2007-08-28",
         "video": [],
-        "comment_count": 10,
-        "solved_count": 210,
+        "comment_count": 11,
+        "solved_count": 211,
         "parsed": {
             "moves": "*",
             "result": "*",
