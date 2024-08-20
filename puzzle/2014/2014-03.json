@@ -65,19 +65,18 @@
     },
     {
         "id": 4768,
-        "title": "Suckered In",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r1B3/1p5p/8/p3Qpk1/1bP5/8/P4KPP/2r5 w - - 0 1\"]\r\n\r\n1. h4+ Kxh4 2. Qf4#\r\n*",
+        "title": "Sorry, We're Closed",
+        "pgn": "[Result \"1-0\"]\r\n[FEN \"r3rk2/5p1R/p1p5/3pB3/p1pP4/4b3/1P5P/1K3B2 w - - 0 1\"]\r\n\r\n1. Bf6 Bxd4 2. Rh8# 1-0",
         "date": "2014-03-05",
         "video": [],
         "comment_count": 4,
-        "solved_count": 123,
+        "solved_count": 124,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
-            "result": "*",
-            "fen": "2r1B3/1p5p/8/p3Qpk1/1bP5/8/P4KPP/2r5 w - - 0 1"
+            "moves": "1. Bf6 Bxd4 2. Rh8# 1-0",
+            "result": "1-0",
+            "fen": "r3rk2/5p1R/p1p5/3pB3/p1pP4/4b3/1P5P/1K3B2 w - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=2r1B3/1p5p/8/p3Qpk1/1bP5/8/P4KPP/2r5 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r3rk2/5p1R/p1p5/3pB3/p1pP4/4b3/1P5P/1K3B2 w - - 0 1"
     },
     {
         "id": 4770,
