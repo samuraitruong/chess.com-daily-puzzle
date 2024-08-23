@@ -5,8 +5,8 @@
         "pgn": "[Event \"Dubna\"]\r\n[Site \"Dubna URS\"]\r\n[Date \"1973.12.10\"]\r\n[Round \"5\"]\r\n[White \"Mikhail Tal\"]\r\n[Black \"Igor V Platonov\"]\r\n[Result \"1-0\"]\r\n[FEN \"5r1k/1p1b1p1p/p2ppb2/5P1B/1q6/1Pr3R1/2PQ2PP/5R1K w - - 2 23\"]\r\n\r\n23.Qh6 Rxg3 24.Bg6 Rxg6 25.fxg6 fxg6 26.Qxf8# 1-0",
         "date": "2020-05-01",
         "video": [],
-        "comment_count": 7,
-        "solved_count": 831,
+        "comment_count": 8,
+        "solved_count": 832,
         "parsed": {
             "moves": "23.Qh6 Rxg3 24.Bg6 Rxg6 25.fxg6 fxg6 26.Qxf8# 1-0",
             "event": "Dubna",
@@ -26,8 +26,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"r1kr4/p2nQppp/2pB4/1PR5/8/5pP1/q7/6K1 w - - 0 1\"]\r\n\r\n1.Rxc6+ Kb7 2.Rc7+ Kb6 3.Rb7+ Kxb7 4.Qe4+ Kb6 5.Qc6+ Ka5 6.Qa6# *",
         "date": "2020-05-02",
         "video": [],
-        "comment_count": 4,
-        "solved_count": 761,
+        "comment_count": 5,
+        "solved_count": 762,
         "parsed": {
             "moves": "1.Rxc6+ Kb7 2.Rc7+ Kb6 3.Rb7+ Kxb7 4.Qe4+ Kb6 5.Qc6+ Ka5 6.Qa6# *",
             "result": "*",
@@ -41,8 +41,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/1ppqppbp/1n4p1/p2Pn3/4P2P/2N1BP2/PP2BP2/R2QK2R w KQ - 0 1\"]\r\n\r\n1.Bxb6 cxb6 2.f4 Nc6 3.dxc6 *",
         "date": "2020-05-03",
         "video": [],
-        "comment_count": 6,
-        "solved_count": 750,
+        "comment_count": 7,
+        "solved_count": 751,
         "parsed": {
             "moves": "1.Bxb6 cxb6 2.f4 Nc6 3.dxc6 *",
             "result": "*",
