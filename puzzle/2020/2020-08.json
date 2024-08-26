@@ -5,8 +5,8 @@
         "pgn": "[Event \"14th Asian Continental w\"]\r\n[Site \"Al-Ain UAE\"]\r\n[Date \"2015.08.08\"]\r\n[Round \"7.1\"]\r\n[White \"Hejazipour, Mitra\"]\r\n[Black \"Vijayalakshmi, Subbaraman\"]\r\n[Result \"*\"]\r\n[WhiteElo \"2321\"]\r\n[BlackElo \"2341\"]\r\n[FEN \"8/P5k1/1N6/5pp1/P7/2R3PK/1r5P/4n3 b - - 2 55\"]\r\n\r\n55...g4+ 56.Kh4 Nf3+ 57.Rxf3 Kg6 58.h3 Rh2 59.Rxf5 Kxf5 60.a8=Q Rxh3# *",
         "date": "2020-08-01",
         "video": [],
-        "comment_count": 13,
-        "solved_count": 959,
+        "comment_count": 14,
+        "solved_count": 960,
         "parsed": {
             "moves": "55...g4+ 56.Kh4 Nf3+ 57.Rxf3 Kg6 58.h3 Rh2 59.Rxf5 Kxf5 60.a8=Q Rxh3# *",
             "event": "14th Asian Continental w",
@@ -303,7 +303,7 @@
         "date": "2020-08-19",
         "video": [],
         "comment_count": 9,
-        "solved_count": 815,
+        "solved_count": 816,
         "parsed": {
             "moves": "1...Qxh3+ 2.gxh3 Nf2+ 3.Kg1 Nxh3# *",
             "result": "*",
@@ -318,7 +318,7 @@
         "date": "2020-08-20",
         "video": [],
         "comment_count": 5,
-        "solved_count": 813,
+        "solved_count": 814,
         "parsed": {
             "moves": "1...Kg6 2.Qe6+ Rf6 3.Qxf6+ Kxf6 4.Rxa8 f2+ 5.Kf1 Qh1+ 6.Kxf2 Qxa1 *",
             "result": "*",
@@ -333,7 +333,7 @@
         "date": "2020-08-21",
         "video": [],
         "comment_count": 5,
-        "solved_count": 815,
+        "solved_count": 816,
         "parsed": {
             "moves": "1...g4 2.hxg4 Rxg4+ 3.fxg4 Qh1+ 4.Kf2 Qh4+ 5.Kg1 Qg3+ 0-1",
             "result": "*",
