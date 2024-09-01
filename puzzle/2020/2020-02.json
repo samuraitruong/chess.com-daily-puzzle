@@ -427,8 +427,8 @@
         "pgn": "[Site \"Sibenik\"]\r\n[Date \"2014.04.06\"]\r\n[Round \"6\"]\r\n[White \"Miso Cebalo\"]\r\n[Black \"Evgeni Vasiukov\"]\r\n[Result \"1-0\"]\r\n[SetUp \"1\"]\r\n[FEN \"r1bq3r/pp1n2bp/2pp1kp1/4ppN1/3P1B1P/2N1PQ2/PPP2PP1/R3K2R w KQ - 0 12\"]\r\n\r\n12. Qd5 Qe7 13. Nxh7+ Rxh7 14. Bg5# 1-0",
         "date": "2020-02-26",
         "video": [],
-        "comment_count": 4,
-        "solved_count": 642,
+        "comment_count": 5,
+        "solved_count": 643,
         "parsed": {
             "moves": "12. Qd5 Qe7 13. Nxh7+ Rxh7 14. Bg5# 1-0",
             "site": "Sibenik",
@@ -448,8 +448,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"2r3k1/pp3pp1/5n1p/3B1Q2/8/1P4P1/2q1PP1P/3R2K1 w - - 0 1\"]\r\n\r\n1.Bxf7+ Kxf7 2.Rd7+ Kf8 3.Rd8+ Kf7 4.Qxc8 *",
         "date": "2020-02-27",
         "video": [],
-        "comment_count": 3,
-        "solved_count": 646,
+        "comment_count": 4,
+        "solved_count": 647,
         "parsed": {
             "moves": "1.Bxf7+ Kxf7 2.Rd7+ Kf8 3.Rd8+ Kf7 4.Qxc8 *",
             "result": "*",
@@ -463,8 +463,8 @@
         "pgn": "[Event \"French Championship\"]\r\n[Site \"Aix-les-Bains FRA\"]\r\n[Date \"2007.08.23\"]\r\n[Round \"10\"]\r\n[White \"Robert Fontaine\"]\r\n[Black \"Maxime Vachier-Lagrave\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"2567\"]\r\n[BlackElo \"2595\"]\r\n[ECO \"A89\"]\r\n[EventDate \"2007.08.13\"]\r\n[PlyCount \"78\"]\r\n[FEN \"8/p1p2k2/2Q3p1/3P1b2/8/1P3BK1/P3Pp1r/6b1 b - - 5 35\"]\r\n\r\n35...f1=N+ 36.Kf4 Rh4+ 37.Kg5 Be3+ 38.Kxh4 g5+ 39.Kh5 Ng3+ 40.Kh6 g4# 0-1",
         "date": "2020-02-28",
         "video": [],
-        "comment_count": 5,
-        "solved_count": 638,
+        "comment_count": 6,
+        "solved_count": 639,
         "parsed": {
             "moves": "35...f1=N+ 36.Kf4 Rh4+ 37.Kg5 Be3+ 38.Kxh4 g5+ 39.Kh5 Ng3+ 40.Kh6 g4# 0-1",
             "event": "French Championship",
@@ -489,8 +489,8 @@
         "pgn": "[Result \"0-1\"]\r\n[FEN \"1r3rk1/1p6/p2P3p/P3p3/5np1/2BPPp1q/R6P/1Q1B1RK1 b - - 0 1\"]\r\n\r\n1...f2+ 2.Rfxf2 Qg2+ 3.Rxg2 Nh3+ 4.Kh1 Rf1+ 5.Rg1 Rxg1# 0-1",
         "date": "2020-02-29",
         "video": [],
-        "comment_count": 11,
-        "solved_count": 753,
+        "comment_count": 12,
+        "solved_count": 754,
         "parsed": {
             "moves": "1...f2+ 2.Rfxf2 Qg2+ 3.Rxg2 Nh3+ 4.Kh1 Rf1+ 5.Rg1 Rxg1# 0-1",
             "result": "0-1",
