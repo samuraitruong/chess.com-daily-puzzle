@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 847,
-        "solved_count": 1515763,
+        "solved_count": 1516514,
         "parsed": {
             "moves": "1... Qd4+ 2. Kc6 Qd6+ 3. Kb7 Bc8+ 4. Kxa8 Qc6+ 5. Kxa7 Qb7# 0-1",
             "white": "D_Jinny",
@@ -29,7 +29,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 827,
-        "solved_count": 1656632,
+        "solved_count": 1657507,
         "parsed": {
             "moves": "1... g5+ 2. Kg4 h5+ 3. Kxg5 Rxf3 0-1",
             "white": "NoviceChessChannel",
@@ -49,7 +49,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 991,
-        "solved_count": 1559123,
+        "solved_count": 1560222,
         "parsed": {
             "moves": "24. Qxh7+ Kxh7 25. hxg6+ Kxg6 26. Rh6+ Kxg5 27. R1h5# 1-0",
             "event": "ch-Commonwealth 2019",
@@ -76,7 +76,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 887,
-        "solved_count": 1545466,
+        "solved_count": 1546882,
         "parsed": {
             "moves": "1. g6 g3 2. g7 g2 3. g8=Q g1=Q 4. Qxg1+ 1-0",
             "white": "Lapin Study",
@@ -95,8 +95,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_double_check_the_fork_09_05_24_r5v.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1033,
-        "solved_count": 1450400,
+        "comment_count": 1035,
+        "solved_count": 1452569,
         "parsed": {
             "moves": "1... exf2+ 2. Kh1 Ng3+ 3. Kh2 Nxf1+ 4. Kh1 Qh2# 0-1",
             "event": "Twin Ports Chess Club Game",
@@ -118,8 +118,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_pinderella_story_09_06_24_x6f.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 892,
-        "solved_count": 1324793,
+        "comment_count": 906,
+        "solved_count": 1345181,
         "parsed": {
             "moves": "25. Qh3+ Rdd7 26. Qxd7+ Rxd7 27. Bxg6 1-0",
             "event": "Spain",
@@ -135,5 +135,25 @@
             "fen": "2krB3/pbp2r2/1p1b2q1/6Bp/2pp4/4Q3/PP3PPP/R3R1K1 w - - 0 25"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2krB3/pbp2r2/1p1b2q1/6Bp/2pp4/4Q3/PP3PPP/R3R1K1 w - - 0 25"
+    },
+    {
+        "id": 12579,
+        "title": "When In Doubt, Don't Sac Your Queen!",
+        "pgn": "[White \"When In Doubt\"]\r\n[Black \"Don't Sac Your Queen!\"]\r\n[Result \"1-0\"]\r\n[FEN \"1q2r3/p3R1pk/1p3pNp/3p1P1Q/b1pP4/P6P/1P4P1/7K w - - 0 1\"]\r\n\r\n1. Nf8+ Kh8 2. Qg6 Rxe7 3. Qh7# 1-0",
+        "date": "2024-09-07",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_when_in_doubt_dont_sac_your_queen_09_07_24_h8b.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 36,
+        "solved_count": 15612,
+        "parsed": {
+            "moves": "1. Nf8+ Kh8 2. Qg6 Rxe7 3. Qh7# 1-0",
+            "white": "When In Doubt",
+            "black": "Don't Sac Your Queen!",
+            "result": "1-0",
+            "fen": "1q2r3/p3R1pk/1p3pNp/3p1P1Q/b1pP4/P6P/1P4P1/7K w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1q2r3/p3R1pk/1p3pNp/3p1P1Q/b1pP4/P6P/1P4P1/7K w - - 0 1"
     }
 ]
