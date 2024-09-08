@@ -6,7 +6,7 @@
         "date": "2007-05-08",
         "video": [],
         "comment_count": 306,
-        "solved_count": 3016,
+        "solved_count": 3017,
         "parsed": {
             "moves": "1. Rg3 hxg3 2. Rxg3 Be4 3. Qg7# *",
             "result": "*",
@@ -21,7 +21,7 @@
         "date": "2007-05-09",
         "video": [],
         "comment_count": 56,
-        "solved_count": 1784,
+        "solved_count": 1785,
         "parsed": {
             "moves": "1. Qxc5+ Ke8 2. Qc8+ Ke7 3. Rf7+ Kd6 4. Qc5# *",
             "result": "*",
@@ -35,8 +35,8 @@
         "pgn": "[FEN \"8/4q3/2p5/2n5/p4Q2/4N3/4k3/1K6 w - - 0 1\"]\r\n\r\n1. Qf1+ Kd2 {The knight is immune...} 2. Qd1+ Kc3 (2... Kxe3 3. Qe1+) 3.\r\nQc2+ Kb4 (3... Kd4 {Allows the royal fork!} 4. Nf5+) 4. Qb2+ Nb3 (4... Ka5 5. Nc4+ Ka6\r\n6. Qb6#) 5. Qa3+ {The key to the puzzle!} Kc3 (5... Kxa3 $4 6. Nc2#) 6. Qxe7 *",
         "date": "2007-05-10",
         "video": [],
-        "comment_count": 50,
-        "solved_count": 1431,
+        "comment_count": 51,
+        "solved_count": 1432,
         "parsed": {
             "moves": "6. Qb6#) 5. Qa3+ {The key to the puzzle!} Kc3 (5... Kxa3 $4 6. Nc2#) 6. Qxe7 *",
             "fen": "8/4q3/2p5/2n5/p4Q2/4N3/4k3/1K6 w - - 0 1"
@@ -50,7 +50,7 @@
         "date": "2007-05-11",
         "video": [],
         "comment_count": 27,
-        "solved_count": 1173,
+        "solved_count": 1174,
         "parsed": {
             "moves": "12. Nf6+ gxf6 13. Qxf8+ Kxf8 14. Bh6+ Kg8 15. Re8# *",
             "fen": "r1b2rk1/ppp2ppp/1b6/3q4/3pN3/Q4N2/PPP2KPP/R1B1R3 w - - 0 12",
@@ -65,7 +65,7 @@
         "date": "2007-05-12",
         "video": [],
         "comment_count": 27,
-        "solved_count": 1087,
+        "solved_count": 1088,
         "parsed": {
             "moves": "1. Qh6 $1 1... Rag8 2. Qxh7+ 2... Rxh7 3. Rxg8# *",
             "fen": "r6k/1q1n1prp/p3pN2/1p1b4/6RQ/6P1/PP2PP1P/3R2K1 w - - 0 1"
@@ -201,7 +201,7 @@
         "date": "2007-05-21",
         "video": [],
         "comment_count": 20,
-        "solved_count": 661,
+        "solved_count": 662,
         "parsed": {
             "moves": "4... Bc8+ 5. Kh4 5... Nf3# *",
             "fen": "r7/1bb2p1k/p1n2rpp/1p1q4/1PpP4/P3BNP1/3QBPKP/R4R2 b - - 0 1",
@@ -216,7 +216,7 @@
         "date": "2007-05-22",
         "video": [],
         "comment_count": 15,
-        "solved_count": 643,
+        "solved_count": 644,
         "parsed": {
             "moves": "1... Bxd4+ 2. Qxd4 Ne2+ 3. Kf1 (3. Nxe2 Qe1#) 3... Nxd4 *",
             "fen": "rn2k2r/ppp2ppp/4B3/2b1N3/3P1p1q/2N3n1/PPP3PP/R1BQ2KR b kq - 0 1",
