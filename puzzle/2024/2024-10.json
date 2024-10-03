@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 890,
-        "solved_count": 1518979,
+        "solved_count": 1521799,
         "parsed": {
             "moves": "1. Rf6+ Kg5 2. h4# *",
             "result": "*",
@@ -26,8 +26,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_offensive_tackles_create_touchdown_dance_10_02_24_f7i.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 853,
-        "solved_count": 1422766,
+        "comment_count": 871,
+        "solved_count": 1444849,
         "parsed": {
             "moves": "1. e6 fxe6 2. f6 gxf6 3. g6 Kd6 4. g7 Ke7 5. g8=Q *",
             "white": "EnPassantFork",
@@ -36,5 +36,32 @@
             "fen": "8/5pp1/2k5/1p2PPP1/1P6/KPp5/8/8 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=8/5pp1/2k5/1p2PPP1/1P6/KPp5/8/8 w - - 0 1"
+    },
+    {
+        "id": 12583,
+        "title": "Judit's Pawn Finds a Way",
+        "pgn": "[Event \"It OHRA\"]\r\n[Site \"Amsterdam (Netherlands)\"]\r\n[Date \"1990.??.??\"]\r\n[Round \"?\"]\r\n[White \"Bertholee Rob\"]\r\n[Black \"Judit Polgar\"]\r\n[Result \"0-1\"]\r\n[SetUp \"1\"]\r\n[FEN \"6k1/R5p1/5p1p/7P/3r2P1/Pp3PK1/8/8 b - - 0 35\"]\r\n[PlyCount \"5\"]\r\n[EventDate \"1990.??.??\"]\r\n\r\n35... Rb4 36. axb4 b2 37. Re7 b1=Q 0-1",
+        "date": "2024-10-03",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_judits_pawn_finds_a_way_10_03_24_i5p.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 42,
+        "solved_count": 19393,
+        "parsed": {
+            "moves": "35... Rb4 36. axb4 b2 37. Re7 b1=Q 0-1",
+            "event": "It OHRA",
+            "site": "Amsterdam (Netherlands)",
+            "date": "1990.??.??",
+            "round": "?",
+            "white": "Bertholee Rob",
+            "black": "Judit Polgar",
+            "result": "0-1",
+            "setup": "1",
+            "fen": "6k1/R5p1/5p1p/7P/3r2P1/Pp3PK1/8/8 b - - 0 35",
+            "plycount": "5",
+            "eventdate": "1990.??.??"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/R5p1/5p1p/7P/3r2P1/Pp3PK1/8/8 b - - 0 35"
     }
 ]
