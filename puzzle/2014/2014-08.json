@@ -1,19 +1,18 @@
 [
     {
         "id": 5066,
-        "title": "Cserna-Pogats 1986",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1bqrbk1/5ppp/pn1p4/2pP1NPP/1p2NP2/8/PP2P1B1/2RQ1RK1 w - - 0 1\"]\r\n\r\n1. Nh6+ gxh6 2. Nf6+ Kh8 3. Qd3 Qxf6 4. gxf6\r\n*",
+        "title": "Mate in 3",
+        "pgn": "[Result \"*\"]\r\n[FEN \"5r1k/1p1Q4/2p4q/P5N1/1P2rpK1/8/6PP/R2R4 b - - 0 1\"]\r\n\r\n1... f3+ 2. Nxe4 Rf4+ 3. Kg3 Qh4# *",
         "date": "2014-08-01",
         "video": [],
         "comment_count": 7,
-        "solved_count": 171,
+        "solved_count": 173,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1... f3+ 2. Nxe4 Rf4+ 3. Kg3 Qh4# *",
             "result": "*",
-            "fen": "r1bqrbk1/5ppp/pn1p4/2pP1NPP/1p2NP2/8/PP2P1B1/2RQ1RK1 w - - 0 1"
+            "fen": "5r1k/1p1Q4/2p4q/P5N1/1P2rpK1/8/6PP/R2R4 b - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=r1bqrbk1/5ppp/pn1p4/2pP1NPP/1p2NP2/8/PP2P1B1/2RQ1RK1 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5r1k/1p1Q4/2p4q/P5N1/1P2rpK1/8/6PP/R2R4 b - - 0 1"
     },
     {
         "id": 5068,
