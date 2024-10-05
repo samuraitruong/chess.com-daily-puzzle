@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 911,
-        "solved_count": 1607603,
+        "solved_count": 1608713,
         "parsed": {
             "moves": "1. Rf6+ Kg5 2. h4# *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 908,
-        "solved_count": 1579575,
+        "solved_count": 1581016,
         "parsed": {
             "moves": "1. e6 fxe6 2. f6 gxf6 3. g6 Kd6 4. g7 Ke7 5. g8=Q *",
             "white": "EnPassantFork",
@@ -47,7 +47,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 879,
-        "solved_count": 1494952,
+        "solved_count": 1497254,
         "parsed": {
             "moves": "35... Rb4 36. axb4 b2 37. Re7 b1=Q 0-1",
             "event": "It OHRA",
@@ -73,13 +73,33 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_h-file_dreams_come_true_10_04_24_a3b.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 939,
-        "solved_count": 1324199,
+        "comment_count": 959,
+        "solved_count": 1345033,
         "parsed": {
             "moves": "1. Bf8+ Rxf8 2. Rd3 Rg8 3. Rh3# *",
             "result": "*",
             "fen": "r2r4/1p1R3p/5p1k/b1B1Pp2/p1n2P2/P7/1P5P/1K4R1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=r2r4/1p1R3p/5p1k/b1B1Pp2/p1n2P2/P7/1P5P/1K4R1 w - - 0 1"
+    },
+    {
+        "id": 12619,
+        "title": "Chess Boxing with the King",
+        "pgn": "[White \"Checkmatemaster7\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"1q1r4/2p1R2R/p5p1/1b4k1/1p6/3p4/PP3PPP/6K1 w - - 0 39\"]\r\n\r\n39. h4+ Kg4 40. Re4+ Kf5 41. Rhe7 Qb6 42. g4+ Kf6 43. g5+ Kf5 44. R7e5# 1-0",
+        "date": "2024-10-05",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_chess_boxing_with_the_king_10_05_24_t10w.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 26,
+        "solved_count": 15969,
+        "parsed": {
+            "moves": "39. h4+ Kg4 40. Re4+ Kf5 41. Rhe7 Qb6 42. g4+ Kf6 43. g5+ Kf5 44. R7e5# 1-0",
+            "white": "Checkmatemaster7",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "1q1r4/2p1R2R/p5p1/1b4k1/1p6/3p4/PP3PPP/6K1 w - - 0 39"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1q1r4/2p1R2R/p5p1/1b4k1/1p6/3p4/PP3PPP/6K1 w - - 0 39"
     }
 ]
