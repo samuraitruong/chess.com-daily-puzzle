@@ -5,8 +5,8 @@
         "pgn": "[FEN \"2r5/p6p/5pp1/Pb1kp3/1P1p4/2rN1P2/2P1R1PP/3KR3 b - - 0 1\"]\r\n\r\n1... Bxd3 2. cxd3 Rc1+ 3. Kd2 R8c2#",
         "date": "2007-07-01",
         "video": [],
-        "comment_count": 21,
-        "solved_count": 431,
+        "comment_count": 22,
+        "solved_count": 432,
         "parsed": {
             "moves": "1... Bxd3 2. cxd3 Rc1+ 3. Kd2 R8c2#",
             "fen": "2r5/p6p/5pp1/Pb1kp3/1P1p4/2rN1P2/2P1R1PP/3KR3 b - - 0 1"
@@ -19,8 +19,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"1r2r1k1/1pRb2pp/pn1qp3/3p1p2/3P4/1PQBPNP1/1P3PP1/5RK1 w - - 0 1\"]\r\n\r\n1. Qc5 Qxc5 2. dxc5 Rec8 3. cxb6 Rxc7 4. bxc7 *",
         "date": "2007-07-02",
         "video": [],
-        "comment_count": 7,
-        "solved_count": 403,
+        "comment_count": 8,
+        "solved_count": 404,
         "parsed": {
             "moves": "1. Qc5 Qxc5 2. dxc5 Rec8 3. cxb6 Rxc7 4. bxc7 *",
             "result": "*",
@@ -35,7 +35,7 @@
         "date": "2007-07-03",
         "video": [],
         "comment_count": 15,
-        "solved_count": 391,
+        "solved_count": 392,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
@@ -50,8 +50,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"rn2k3/6Rr/bp2p2B/p2pN3/2pP2Pq/P1Pn4/5P2/R5K1 w q - 0 1\"]\r\n\r\n1. Rg8+ Ke7 2. Bf8+ Kd8 3. Bd6# *",
         "date": "2007-07-04",
         "video": [],
-        "comment_count": 5,
-        "solved_count": 390,
+        "comment_count": 6,
+        "solved_count": 391,
         "parsed": {
             "moves": "1. Rg8+ Ke7 2. Bf8+ Kd8 3. Bd6# *",
             "result": "*",
@@ -65,8 +65,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"rnbq1r2/pp2kpp1/4pb1p/1B2N2Q/3pN3/8/PPP3PP/R4RK1 w - - 0 1\"]\r\n\r\n1. Qxf7+ Rxf7 2. Ng6#\r\n*\r\n\r\n\r\n",
         "date": "2007-07-05",
         "video": [],
-        "comment_count": 13,
-        "solved_count": 380,
+        "comment_count": 14,
+        "solved_count": 381,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
@@ -81,8 +81,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"rn2k2r/pp3p1p/3b4/qNpPpN2/8/8/PPP3PP/R2QK2R w KQkq - 0 1\"]\r\n\r\n1. b4 ( 1. Qd2 Bc7 { And everything holds... }  ) Qxb4+ ( 1... Qxb5 2. Nxd6+ Ke7 3. Nxb5 ) 2. c3 Qe4+ { Has to keep checking - the bishop is in trouble! }  3. Qe2 Qxe2+ ( 3... Qxf5 4. Nxd6+ Kf8 5. Nxf5 ) 4. Kxe2 Be7 5. Nc7+ Kd7 6. Nxa8 { And white is up a rook! }\r\n*\r\n\r\n\r\n",
         "date": "2007-07-06",
         "video": [],
-        "comment_count": 15,
-        "solved_count": 382,
+        "comment_count": 16,
+        "solved_count": 383,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
@@ -97,8 +97,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r5k1/pb3ppp/3B2n1/7Q/8/8/q4PPP/3RR2K w - - 0 1\"]\r\n\r\n1. Qb5 Ba6 ( 1... Qa6 2. Re8+ Nf8 3. Qxa6 Bxa6 4. Rxa8 h6 5. Rxf8+ Kh7 ) 2. Re8+ Nf8 3. Rxa8 Bxb5 4. Rxf8#\r\n*\r\n\r\n\r\n",
         "date": "2007-07-07",
         "video": [],
-        "comment_count": 15,
-        "solved_count": 380,
+        "comment_count": 16,
+        "solved_count": 381,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
@@ -113,8 +113,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r4rk1/p3ppbp/np1p2p1/3P4/qP1NP3/4BP2/3Q2PP/2RR2K1 w - - 0 1\"]\r\n\r\n1. Ra1 Qxb4 ( 1... Qd7 2. Rxa6 ) 2. Rxa6 Qxd2 3. Rxd2\r\n*\r\n\r\n\r\n",
         "date": "2007-07-08",
         "video": [],
-        "comment_count": 14,
-        "solved_count": 376,
+        "comment_count": 15,
+        "solved_count": 377,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
@@ -130,7 +130,7 @@
         "date": "2007-07-09",
         "video": [],
         "comment_count": 11,
-        "solved_count": 366,
+        "solved_count": 367,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
@@ -145,8 +145,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2k5/1ppr2p1/p1n3bp/7q/3prP2/PP1B2Q1/1KPBR2P/3R4 w KQkq - 0 1\"]\r\n\r\n1. Rde1 { Threatening the rook }  ( 1. Bxe4 { ?? Bad move! }  1... Qxe2 2. Qxg6 Qxd1 ) 1... Rxe2 ( 1... Rde7 2. Bxe4 Bxe4 3. Rxe4 Rxe4 4. Rxe4 { And white has won a piece. }  ) 2. Bxe2 ( 2. Rxe2 Bxd3 3. cxd3 Qxe2 ) Qf5 3. Bd3 Qf6 4. Qxg6 { And white has an extra piece. }\r\n*\r\n\r\n\r\n",
         "date": "2007-07-10",
         "video": [],
-        "comment_count": 14,
-        "solved_count": 362,
+        "comment_count": 15,
+        "solved_count": 363,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
@@ -161,8 +161,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r3rk2/2b3pn/1p6/1Pp1N3/2N1bP2/1Q1P2q1/1B2B3/1K1R4 w - - 0 1\"]\r\n\r\n1. Nd6 { Threating mate and the bishop on e4. }  1... Bg6 2. Nf5 Qg2 { Giving up mate instead of the queen. }  ( 2... Bxf5 3. Qf7# ) 3. Nd7#\r\n*\r\n\r\n\r\n",
         "date": "2007-07-11",
         "video": [],
-        "comment_count": 15,
-        "solved_count": 357,
+        "comment_count": 16,
+        "solved_count": 358,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
@@ -178,7 +178,7 @@
         "date": "2007-07-12",
         "video": [],
         "comment_count": 12,
-        "solved_count": 352,
+        "solved_count": 353,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
@@ -194,7 +194,7 @@
         "date": "2007-07-13",
         "video": [],
         "comment_count": 11,
-        "solved_count": 343,
+        "solved_count": 344,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
@@ -209,8 +209,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1r4k1/1p2nrbR/p2qp1p1/4NpQ1/3P4/3B2P1/PP3P2/1K5R w - - 0 1\"]\r\n\r\n1. Rh8+ Bxh8 2. Rxh8+ Kxh8 ( 2... Kg7 3. Qh6+ Kf6 4. Qh4+ g5 ( 4... Kg7 5. Qh7+ Kf6 6. Qxf7+ Kg5 7. f4# ) 5. Qh6+ Ng6 6. Qxg6+ Ke7 7. Qxf7# ) 3. Nxf7+ Kg7 4. Nxd6 { And white is up too much... }\r\n*\r\n\r\n\r\n",
         "date": "2007-07-14",
         "video": [],
-        "comment_count": 12,
-        "solved_count": 341,
+        "comment_count": 13,
+        "solved_count": 342,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
@@ -226,7 +226,7 @@
         "date": "2007-07-15",
         "video": [],
         "comment_count": 12,
-        "solved_count": 341,
+        "solved_count": 342,
         "parsed": {
             "moves": "*",
             "date": "????.??.??",
