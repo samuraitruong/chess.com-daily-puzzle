@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 935,
-        "solved_count": 1665885,
+        "solved_count": 1666506,
         "parsed": {
             "moves": "1. Rf6+ Kg5 2. h4# *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 917,
-        "solved_count": 1649948,
+        "solved_count": 1650791,
         "parsed": {
             "moves": "1. e6 fxe6 2. f6 gxf6 3. g6 Kd6 4. g7 Ke7 5. g8=Q *",
             "white": "EnPassantFork",
@@ -47,7 +47,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 886,
-        "solved_count": 1588679,
+        "solved_count": 1589680,
         "parsed": {
             "moves": "35... Rb4 36. axb4 b2 37. Re7 b1=Q 0-1",
             "event": "It OHRA",
@@ -74,7 +74,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 988,
-        "solved_count": 1490923,
+        "solved_count": 1492196,
         "parsed": {
             "moves": "1. Bf8+ Rxf8 2. Rd3 Rg8 3. Rh3# *",
             "result": "*",
@@ -92,7 +92,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 775,
-        "solved_count": 1422925,
+        "solved_count": 1424748,
         "parsed": {
             "moves": "39. h4+ Kg4 40. Re4+ Kf5 41. Rhe7 Qb6 42. g4+ Kf6 43. g5+ Kf5 44. R7e5# 1-0",
             "white": "Checkmatemaster7",
@@ -111,8 +111,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_all_zugzwang_no_hope_10_06_24_b9s.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1054,
-        "solved_count": 1424865,
+        "comment_count": 1055,
+        "solved_count": 1427548,
         "parsed": {
             "moves": "11. Qd7+ Qb5 12. Qxg4+ Qb4 13. Qd7+ Qb5 14. Qd4+ Qb4 15. Qd3 Qc5 16. Qb3# 1-0",
             "white": "Prokes",
@@ -131,13 +131,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_back_rank_blues_10_07_24_o7f.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 950,
-        "solved_count": 1440203,
+        "comment_count": 963,
+        "solved_count": 1461999,
         "parsed": {
             "moves": "1. Ng5+ Kg8 2. Qxc8+ *",
             "result": "*",
             "fen": "2r4r/pQ1npkbp/1q1p1np1/5p2/2pP4/P1P1BN2/1P2BPPP/1R3RK1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2r4r/pQ1npkbp/1q1p1np1/5p2/2pP4/P1P1BN2/1P2BPPP/1R3RK1 w - - 0 1"
+    },
+    {
+        "id": 12629,
+        "title": "Welcome to the Dark Squares!",
+        "pgn": "[Result \"*\"]\r\n[FEN \"1b3r2/4qk1p/p1b1p2P/2p5/2P1P2P/PnN5/5r2/B2Q2RK w - - 0 1\"]\r\n\r\n1. Qh5+ Kf6 2. Nd5# *",
+        "date": "2024-10-08",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_welcome_to_the_dark_squares_10_08_24_e3r.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 39,
+        "solved_count": 20607,
+        "parsed": {
+            "moves": "1. Qh5+ Kf6 2. Nd5# *",
+            "result": "*",
+            "fen": "1b3r2/4qk1p/p1b1p2P/2p5/2P1P2P/PnN5/5r2/B2Q2RK w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1b3r2/4qk1p/p1b1p2P/2p5/2P1P2P/PnN5/5r2/B2Q2RK w - - 0 1"
     }
 ]
