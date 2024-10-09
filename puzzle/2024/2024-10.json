@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 935,
-        "solved_count": 1677882,
+        "solved_count": 1678251,
         "parsed": {
             "moves": "1. Rf6+ Kg5 2. h4# *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 921,
-        "solved_count": 1666415,
+        "solved_count": 1666879,
         "parsed": {
             "moves": "1. e6 fxe6 2. f6 gxf6 3. g6 Kd6 4. g7 Ke7 5. g8=Q *",
             "white": "EnPassantFork",
@@ -46,8 +46,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_judits_pawn_finds_a_way_10_03_24_i5p.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 891,
-        "solved_count": 1608766,
+        "comment_count": 893,
+        "solved_count": 1609398,
         "parsed": {
             "moves": "35... Rb4 36. axb4 b2 37. Re7 b1=Q 0-1",
             "event": "It OHRA",
@@ -74,7 +74,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1000,
-        "solved_count": 1516077,
+        "solved_count": 1516877,
         "parsed": {
             "moves": "1. Bf8+ Rxf8 2. Rd3 Rg8 3. Rh3# *",
             "result": "*",
@@ -92,7 +92,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 783,
-        "solved_count": 1458200,
+        "solved_count": 1459308,
         "parsed": {
             "moves": "39. h4+ Kg4 40. Re4+ Kf5 41. Rhe7 Qb6 42. g4+ Kf6 43. g5+ Kf5 44. R7e5# 1-0",
             "white": "Checkmatemaster7",
@@ -111,8 +111,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_all_zugzwang_no_hope_10_06_24_b9s.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1066,
-        "solved_count": 1474815,
+        "comment_count": 1069,
+        "solved_count": 1476347,
         "parsed": {
             "moves": "11. Qd7+ Qb5 12. Qxg4+ Qb4 13. Qd7+ Qb5 14. Qd4+ Qb4 15. Qd3 Qc5 16. Qb3# 1-0",
             "white": "Prokes",
@@ -131,8 +131,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_back_rank_blues_10_07_24_o7f.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 990,
-        "solved_count": 1538987,
+        "comment_count": 991,
+        "solved_count": 1541268,
         "parsed": {
             "moves": "1. Ng5+ Kg8 2. Qxc8+ *",
             "result": "*",
@@ -149,13 +149,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_welcome_to_the_dark_squares_10_08_24_e3r.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1086,
-        "solved_count": 1400517,
+        "comment_count": 1107,
+        "solved_count": 1422448,
         "parsed": {
             "moves": "1. Qh5+ Kf6 2. Nd5# *",
             "result": "*",
             "fen": "1b3r2/4qk1p/p1b1p2P/2p5/2P1P2P/PnN5/5r2/B2Q2RK w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=1b3r2/4qk1p/p1b1p2P/2p5/2P1P2P/PnN5/5r2/B2Q2RK w - - 0 1"
+    },
+    {
+        "id": 12633,
+        "title": "Checkmate Vibes",
+        "pgn": "[Result \"*\"]\r\n[FEN \"4rb1k/p2b2rp/1q3Q2/5p2/P1B1n2R/1P5P/2P3P1/2B2R1K w - - 0 1\"]\r\n\r\n1. Rxh7+ Kxh7 2. Qh4+ Kg6 3. Qh6# *",
+        "date": "2024-10-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_checkmate_vibes_10_09_24_r4c.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 40,
+        "solved_count": 22017,
+        "parsed": {
+            "moves": "1. Rxh7+ Kxh7 2. Qh4+ Kg6 3. Qh6# *",
+            "result": "*",
+            "fen": "4rb1k/p2b2rp/1q3Q2/5p2/P1B1n2R/1P5P/2P3P1/2B2R1K w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4rb1k/p2b2rp/1q3Q2/5p2/P1B1n2R/1P5P/2P3P1/2B2R1K w - - 0 1"
     }
 ]
