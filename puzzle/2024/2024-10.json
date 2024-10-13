@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 937,
-        "solved_count": 1681244,
+        "solved_count": 1681262,
         "parsed": {
             "moves": "1. Rf6+ Kg5 2. h4# *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 924,
-        "solved_count": 1679391,
+        "solved_count": 1679408,
         "parsed": {
             "moves": "1. e6 fxe6 2. f6 gxf6 3. g6 Kd6 4. g7 Ke7 5. g8=Q *",
             "white": "EnPassantFork",
@@ -47,7 +47,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 898,
-        "solved_count": 1636985,
+        "solved_count": 1637003,
         "parsed": {
             "moves": "35... Rb4 36. axb4 b2 37. Re7 b1=Q 0-1",
             "event": "It OHRA",
@@ -74,7 +74,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1011,
-        "solved_count": 1562829,
+        "solved_count": 1562850,
         "parsed": {
             "moves": "1. Bf8+ Rxf8 2. Rd3 Rg8 3. Rh3# *",
             "result": "*",
@@ -92,7 +92,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 792,
-        "solved_count": 1530835,
+        "solved_count": 1531177,
         "parsed": {
             "moves": "39. h4+ Kg4 40. Re4+ Kf5 41. Rhe7 Qb6 42. g4+ Kf6 43. g5+ Kf5 44. R7e5# 1-0",
             "white": "Checkmatemaster7",
@@ -112,7 +112,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1103,
-        "solved_count": 1569535,
+        "solved_count": 1570008,
         "parsed": {
             "moves": "11. Qd7+ Qb5 12. Qxg4+ Qb4 13. Qd7+ Qb5 14. Qd4+ Qb4 15. Qd3 Qc5 16. Qb3# 1-0",
             "white": "Prokes",
@@ -132,7 +132,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1015,
-        "solved_count": 1660598,
+        "solved_count": 1661263,
         "parsed": {
             "moves": "1. Ng5+ Kg8 2. Qxc8+ *",
             "result": "*",
@@ -150,7 +150,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1189,
-        "solved_count": 1605610,
+        "solved_count": 1606459,
         "parsed": {
             "moves": "1. Qh5+ Kf6 2. Nd5# *",
             "result": "*",
@@ -168,7 +168,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 921,
-        "solved_count": 1563595,
+        "solved_count": 1564660,
         "parsed": {
             "moves": "1. Rxh7+ Kxh7 2. Qh4+ Kg6 3. Qh6# *",
             "result": "*",
@@ -186,7 +186,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1399,
-        "solved_count": 1548614,
+        "solved_count": 1550059,
         "parsed": {
             "moves": "17. Nh6+ Kh8 18. Rg8+ Rxg8 19. Nf7# 1-0",
             "event": "Let's Play",
@@ -213,7 +213,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1102,
-        "solved_count": 1474402,
+        "solved_count": 1476702,
         "parsed": {
             "moves": "1. Nd7+ Ka8 2. Kc7 Nc6 3. Nxc8 Ne7 4. Ndb6# *",
             "result": "*",
@@ -230,8 +230,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_biks_checkmate_trick_10_12_24_c8m.mp4",
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
-        "comment_count": 856,
-        "solved_count": 1305444,
+        "comment_count": 868,
+        "solved_count": 1326560,
         "parsed": {
             "moves": "1... Ra3+ 2. Kb1 Ra1+ 3. Kxa1 b3 4. Bd4 Rd1# 0-1",
             "white": "Bikfoot",
@@ -240,5 +240,27 @@
             "fen": "2k5/2p2nB1/6R1/5p1P/ppP2N2/4rP1N/KP1r2P1/8 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2k5/2p2nB1/6R1/5p1P/ppP2N2/4rP1N/KP1r2P1/8 b - - 0 1"
+    },
+    {
+        "id": 12675,
+        "title": "Squaring Off Against a Passed Pawn",
+        "pgn": "[Event \"Bohemia\"]\r\n[Date \"1923.??.??\"]\r\n[White \"Reti, Richard\"]\r\n[Black \"Study\"]\r\n[Result \"1-0\"]\r\n[FEN \"8/8/8/3K4/2B5/6p1/7k/5R2 w - - 0 1\"]\r\n\r\n1. Rf3 g2 2. Bf1 g1=Q 3. Rh3# 1-0",
+        "date": "2024-10-13",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_squareoffagainstpassedpawn_10_13_24_h3n.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 27,
+        "solved_count": 15393,
+        "parsed": {
+            "moves": "1. Rf3 g2 2. Bf1 g1=Q 3. Rh3# 1-0",
+            "event": "Bohemia",
+            "date": "1923.??.??",
+            "white": "Reti, Richard",
+            "black": "Study",
+            "result": "1-0",
+            "fen": "8/8/8/3K4/2B5/6p1/7k/5R2 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/8/3K4/2B5/6p1/7k/5R2 w - - 0 1"
     }
 ]
