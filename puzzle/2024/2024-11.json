@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "id": 12667,
+        "title": "Forcing Moves Finesse",
+        "pgn": "[Result \"*\"]\r\n[FEN \"5r1k/1pp4p/3p3P/2nP2R1/1PP5/p1qnQ3/P3Br2/1K4R1 w - - 0 1\"]\r\n\r\n1. Rg8+ Rxg8 2. Rxg8+ Kxg8 3. Qg5+ Kf8 4. Qd8+ Kf7 5. Bh5# *",
+        "date": "2024-11-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_forcing_moves_finesse_11_01_24_g7e.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 24,
+        "solved_count": 14788,
+        "parsed": {
+            "moves": "1. Rg8+ Rxg8 2. Rxg8+ Kxg8 3. Qg5+ Kf8 4. Qd8+ Kf7 5. Bh5# *",
+            "result": "*",
+            "fen": "5r1k/1pp4p/3p3P/2nP2R1/1PP5/p1qnQ3/P3Br2/1K4R1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5r1k/1pp4p/3p3P/2nP2R1/1PP5/p1qnQ3/P3Br2/1K4R1 w - - 0 1"
+    }
+]
