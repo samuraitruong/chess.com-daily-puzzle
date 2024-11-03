@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 874,
-        "solved_count": 1473586,
+        "solved_count": 1475578,
         "parsed": {
             "moves": "1. Rg8+ Rxg8 2. Rxg8+ Kxg8 3. Qg5+ Kf8 4. Qd8+ Kf7 5. Bh5# *",
             "result": "*",
@@ -26,13 +26,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_setting_the_tactical_stage_11_02_24_z6m.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 829,
-        "solved_count": 1317343,
+        "comment_count": 839,
+        "solved_count": 1335004,
         "parsed": {
             "moves": "1... Bb4 2. Qxb4 c5 3. Qxb5 Qg2# 0-1",
             "result": "0-1",
             "fen": "k1r4r/pq2bp2/2p1p2p/Qp2P1p1/3P4/2N4b/PP1B1P1P/2R1RNK1 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=k1r4r/pq2bp2/2p1p2p/Qp2P1p1/3P4/2N4b/PP1B1P1P/2R1RNK1 b - - 0 1"
+    },
+    {
+        "id": 12687,
+        "title": "Blinding the Defense",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/1n3P2/pp3r1p/k7/1N6/1P6/3R2P1/2K5 w - - 0 1\"]\r\n\r\n1. Rf2 Rxf2 2. Nc6+ Kb5 3. Nd4+ Kb4 4. Nf3 Kc3 5. Kd1 Nc5 6. f8=Q *",
+        "date": "2024-11-03",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_blinding_the_defense_11_03_24_h9s.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 21,
+        "solved_count": 9770,
+        "parsed": {
+            "moves": "1. Rf2 Rxf2 2. Nc6+ Kb5 3. Nd4+ Kb4 4. Nf3 Kc3 5. Kd1 Nc5 6. f8=Q *",
+            "result": "*",
+            "fen": "8/1n3P2/pp3r1p/k7/1N6/1P6/3R2P1/2K5 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/1n3P2/pp3r1p/k7/1N6/1P6/3R2P1/2K5 w - - 0 1"
     }
 ]
