@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_h-file_suspicions_12_01_24_q8v.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1005,
-        "solved_count": 1451634,
+        "comment_count": 1006,
+        "solved_count": 1453425,
         "parsed": {
             "moves": "1. Rxg6+ hxg6 2. Qh7+ Kxh7 3. Ng5+ Kg8 4. Nh6+ Kf8 5. Nh7# 1-0",
             "white": "himavanth0010",
@@ -28,8 +28,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_fork_first_capture_later_12_02_24_j9b.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1062,
-        "solved_count": 1501024,
+        "comment_count": 1063,
+        "solved_count": 1503752,
         "parsed": {
             "moves": "1... f4 2. Bxc5 fxg3+ 3. Kxg3 bxc5 0-1",
             "white": "JohanVA",
@@ -48,8 +48,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_step_closer_please_12_03_24_m7s.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 718,
-        "solved_count": 1448085,
+        "comment_count": 728,
+        "solved_count": 1472559,
         "parsed": {
             "moves": "1. Bxd7 Qxd7 2. Nf6+ gxf6 3. Qxd7 1-0",
             "white": "JohanVA",
@@ -58,5 +58,23 @@
             "fen": "2rq1rk1/1ppb1pp1/p1n4p/2bN1B2/P7/3Q2B1/1PP2PPP/R4RK1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2rq1rk1/1ppb1pp1/p1n4p/2bN1B2/P7/3Q2B1/1PP2PPP/R4RK1 w - - 0 1"
+    },
+    {
+        "id": 12755,
+        "title": "Swipe Left...",
+        "pgn": "[Result \"*\"]\r\n[FEN \"6rk/3b2p1/1q2R2p/3pB2P/1b4Q1/1PnP2P1/r2N1PBK/8 w - - 0 1\"]\r\n\r\n1. Rxb6 Bxg4 2. Rxh6# *",
+        "date": "2024-12-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_swipe_left_12_04_24_u5n.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 25,
+        "solved_count": 30499,
+        "parsed": {
+            "moves": "1. Rxb6 Bxg4 2. Rxh6# *",
+            "result": "*",
+            "fen": "6rk/3b2p1/1q2R2p/3pB2P/1b4Q1/1PnP2P1/r2N1PBK/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6rk/3b2p1/1q2R2p/3pB2P/1b4Q1/1PnP2P1/r2N1PBK/8 w - - 0 1"
     }
 ]
