@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1022,
-        "solved_count": 1485528,
+        "solved_count": 1486901,
         "parsed": {
             "moves": "1. Rxg6+ hxg6 2. Qh7+ Kxh7 3. Ng5+ Kg8 4. Nh6+ Kf8 5. Nh7# 1-0",
             "white": "himavanth0010",
@@ -29,7 +29,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1071,
-        "solved_count": 1548359,
+        "solved_count": 1550125,
         "parsed": {
             "moves": "1... f4 2. Bxc5 fxg3+ 3. Kxg3 bxc5 0-1",
             "white": "JohanVA",
@@ -48,8 +48,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_step_closer_please_12_03_24_m7s.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 734,
-        "solved_count": 1551741,
+        "comment_count": 733,
+        "solved_count": 1554589,
         "parsed": {
             "moves": "1. Bxd7 Qxd7 2. Nf6+ gxf6 3. Qxd7 1-0",
             "white": "JohanVA",
@@ -68,13 +68,36 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_swipe_left_12_04_24_u5n.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1108,
-        "solved_count": 1378819,
+        "comment_count": 1117,
+        "solved_count": 1403205,
         "parsed": {
             "moves": "1. Rxb6 Bxg4 2. Rxh6# *",
             "result": "*",
             "fen": "6rk/3b2p1/1q2R2p/3pB2P/1b4Q1/1PnP2P1/r2N1PBK/8 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=6rk/3b2p1/1q2R2p/3pB2P/1b4Q1/1PnP2P1/r2N1PBK/8 w - - 0 1"
+    },
+    {
+        "id": 12741,
+        "title": "😱Gotham's Birthday Bash 🥳",
+        "pgn": "[Event \"Late-Titled-Tuesday-Blitz-March-12-2024\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2024.03.12\"]\r\n[White \"Divljasvinja14\"]\r\n[Black \"GothamChess (Ra8 Removed)\"]\r\n[Result \"0-1\"]\r\n[FEN \"4k2r/ppp2pb1/3p2p1/3Pp1B1/2P1P1n1/2N3q1/PP1QR1B1/R4K2 b k - 0 1\"]\r\n\r\n1... Nh2+ 2. Kg1 Nf3+ 3. Kf1 Rh1+ 4. Bxh1 Qg1# 0-1",
+        "date": "2024-12-05",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_gothams_birthday_bash_12_05_24_c3b.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 51,
+        "solved_count": 30611,
+        "parsed": {
+            "moves": "1... Nh2+ 2. Kg1 Nf3+ 3. Kf1 Rh1+ 4. Bxh1 Qg1# 0-1",
+            "event": "Late-Titled-Tuesday-Blitz-March-12-2024",
+            "site": "Chess.com",
+            "date": "2024.03.12",
+            "white": "Divljasvinja14",
+            "black": "GothamChess (Ra8 Removed)",
+            "result": "0-1",
+            "fen": "4k2r/ppp2pb1/3p2p1/3Pp1B1/2P1P1n1/2N3q1/PP1QR1B1/R4K2 b k - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4k2r/ppp2pb1/3p2p1/3Pp1B1/2P1P1n1/2N3q1/PP1QR1B1/R4K2 b k - 0 1"
     }
 ]
