@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1043,
-        "solved_count": 1564983,
+        "solved_count": 1565028,
         "parsed": {
             "moves": "1. Rxg6+ hxg6 2. Qh7+ Kxh7 3. Ng5+ Kg8 4. Nh6+ Kf8 5. Nh7# 1-0",
             "white": "himavanth0010",
@@ -29,7 +29,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1108,
-        "solved_count": 1658082,
+        "solved_count": 1658528,
         "parsed": {
             "moves": "1... f4 2. Bxc5 fxg3+ 3. Kxg3 bxc5 0-1",
             "white": "JohanVA",
@@ -48,8 +48,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_step_closer_please_12_03_24_m7s.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 768,
-        "solved_count": 1695095,
+        "comment_count": 767,
+        "solved_count": 1695785,
         "parsed": {
             "moves": "1. Bxd7 Qxd7 2. Nf6+ gxf6 3. Qxd7 1-0",
             "white": "JohanVA",
@@ -69,7 +69,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1173,
-        "solved_count": 1610794,
+        "solved_count": 1611718,
         "parsed": {
             "moves": "1. Rxb6 Bxg4 2. Rxh6# *",
             "result": "*",
@@ -87,7 +87,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 2042,
-        "solved_count": 1607427,
+        "solved_count": 1608562,
         "parsed": {
             "moves": "1... Nh2+ 2. Kg1 Nf3+ 3. Kf1 Rh1+ 4. Bxh1 Qg1# 0-1",
             "event": "Late-Titled-Tuesday-Blitz-March-12-2024",
@@ -110,7 +110,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1166,
-        "solved_count": 1558682,
+        "solved_count": 1560180,
         "parsed": {
             "moves": "1. Ng6+ Kh7 2. Nf8+ Kh8 3. Qxh6+ gxh6 4. Rh7# 1-0",
             "white": "Thvnderstone",
@@ -130,7 +130,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 901,
-        "solved_count": 1454709,
+        "solved_count": 1456833,
         "parsed": {
             "moves": "1. Nxf6+ gxf6 2. Nd7 Qc6 3. Nxf6+ Kg7 4. Nh5+ Kh8 5. Qf6+ Kg8 6. Qg7# 1-0",
             "white": "Enpassantfork",
@@ -150,7 +150,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1328,
-        "solved_count": 1448949,
+        "solved_count": 1452210,
         "parsed": {
             "moves": "1. b7 Kc7 2. Nd7 Kxb7 3. Kf2 Rb3 4. Nc5+ Kc6 5. Nxb3 1-0",
             "white": "Sussmann, Peter",
@@ -169,8 +169,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_hikarus_harmonious_birthday_mate_12_09_24_z3w.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1178,
-        "solved_count": 1477972,
+        "comment_count": 1193,
+        "solved_count": 1503001,
         "parsed": {
             "moves": "29... Rh2+ 30. Kg1 Nf3+ 31. Kf1 Rxf2# 0-1",
             "event": "Live Chess",
@@ -186,5 +186,23 @@
             "fen": "N1k4r/pp2pp2/3P1b2/1Q2n3/4P1n1/P5P1/1P3PK1/R1BR4 b - - 0 29"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=N1k4r/pp2pp2/3P1b2/1Q2n3/4P1n1/P5P1/1P3PK1/R1BR4 b - - 0 29"
+    },
+    {
+        "id": 12751,
+        "title": "Check for the Best Move",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/1k4p1/pP1p3p/8/8/2Q2bPq/5P1P/6K1 w - - 0 1\"]\r\n\r\n1. Qc7+ Ka8 2. Qa7# *",
+        "date": "2024-12-10",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_check_for_the_best_move_12_10_24_a1b.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 44,
+        "solved_count": 34281,
+        "parsed": {
+            "moves": "1. Qc7+ Ka8 2. Qa7# *",
+            "result": "*",
+            "fen": "8/1k4p1/pP1p3p/8/8/2Q2bPq/5P1P/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/1k4p1/pP1p3p/8/8/2Q2bPq/5P1P/6K1 w - - 0 1"
     }
 ]
