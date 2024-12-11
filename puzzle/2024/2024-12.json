@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1043,
-        "solved_count": 1566078,
+        "solved_count": 1566120,
         "parsed": {
             "moves": "1. Rxg6+ hxg6 2. Qh7+ Kxh7 3. Ng5+ Kg8 4. Nh6+ Kf8 5. Nh7# 1-0",
             "white": "himavanth0010",
@@ -29,7 +29,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1108,
-        "solved_count": 1659737,
+        "solved_count": 1659782,
         "parsed": {
             "moves": "1... f4 2. Bxc5 fxg3+ 3. Kxg3 bxc5 0-1",
             "white": "JohanVA",
@@ -49,7 +49,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 769,
-        "solved_count": 1709877,
+        "solved_count": 1710411,
         "parsed": {
             "moves": "1. Bxd7 Qxd7 2. Nf6+ gxf6 3. Qxd7 1-0",
             "white": "JohanVA",
@@ -69,7 +69,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1184,
-        "solved_count": 1632586,
+        "solved_count": 1633303,
         "parsed": {
             "moves": "1. Rxb6 Bxg4 2. Rxh6# *",
             "result": "*",
@@ -86,8 +86,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_gothams_birthday_bash_12_05_24_c3b.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2051,
-        "solved_count": 1634664,
+        "comment_count": 2052,
+        "solved_count": 1635680,
         "parsed": {
             "moves": "1... Nh2+ 2. Kg1 Nf3+ 3. Kf1 Rh1+ 4. Bxh1 Qg1# 0-1",
             "event": "Late-Titled-Tuesday-Blitz-March-12-2024",
@@ -110,7 +110,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1172,
-        "solved_count": 1593044,
+        "solved_count": 1594249,
         "parsed": {
             "moves": "1. Ng6+ Kh7 2. Nf8+ Kh8 3. Qxh6+ gxh6 4. Rh7# 1-0",
             "white": "Thvnderstone",
@@ -130,7 +130,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 916,
-        "solved_count": 1502208,
+        "solved_count": 1503824,
         "parsed": {
             "moves": "1. Nxf6+ gxf6 2. Nd7 Qc6 3. Nxf6+ Kg7 4. Nh5+ Kh8 5. Qf6+ Kg8 6. Qg7# 1-0",
             "white": "Enpassantfork",
@@ -149,8 +149,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_sus_rook_12_08_24_f2l.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1354,
-        "solved_count": 1515187,
+        "comment_count": 1355,
+        "solved_count": 1517324,
         "parsed": {
             "moves": "1. b7 Kc7 2. Nd7 Kxb7 3. Kf2 Rb3 4. Nc5+ Kc6 5. Nxb3 1-0",
             "white": "Sussmann, Peter",
@@ -169,8 +169,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_hikarus_harmonious_birthday_mate_12_09_24_z3w.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1241,
-        "solved_count": 1602428,
+        "comment_count": 1242,
+        "solved_count": 1605597,
         "parsed": {
             "moves": "29... Rh2+ 30. Kg1 Nf3+ 31. Kf1 Rxf2# 0-1",
             "event": "Live Chess",
@@ -196,13 +196,40 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_check_for_the_best_move_12_10_24_a1b.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1697,
-        "solved_count": 1462671,
+        "comment_count": 1718,
+        "solved_count": 1486443,
         "parsed": {
             "moves": "1. Qc7+ Ka8 2. Qa7# *",
             "result": "*",
             "fen": "8/1k4p1/pP1p3p/8/8/2Q2bPq/5P1P/6K1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=8/1k4p1/pP1p3p/8/8/2Q2bPq/5P1P/6K1 w - - 0 1"
+    },
+    {
+        "id": 12763,
+        "title": "Vishy's Birthday King Hunt 🎁",
+        "pgn": "[Event \"Sao Paulo\"]\r\n[Site \"Sao Paulo\"]\r\n[Date \"2004.08.23\"]\r\n[Round \"7\"]\r\n[White \"Vescovi, Giovanni P\"]\r\n[Black \"Anand, Viswanathan\"]\r\n[Result \"0-1\"]\r\n[ECO \"D17\"]\r\n[WhiteElo \"2648\"]\r\n[BlackElo \"2782\"]\r\n[FEN \"5Qbk/1p6/2p4p/5Kp1/P3n3/4B2P/1P4B1/3q4 b - - 0 37\"]\r\n\r\n37... Qd7+ 38. Kg6 Qe6+ 39. Kh5 Ng3# 0-1",
+        "date": "2024-12-11",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_vishys_birthday_king_hunt_12_11_24_e8a.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 29,
+        "solved_count": 28582,
+        "parsed": {
+            "moves": "37... Qd7+ 38. Kg6 Qe6+ 39. Kh5 Ng3# 0-1",
+            "event": "Sao Paulo",
+            "site": "Sao Paulo",
+            "date": "2004.08.23",
+            "round": "7",
+            "white": "Vescovi, Giovanni P",
+            "black": "Anand, Viswanathan",
+            "result": "0-1",
+            "eco": "D17",
+            "whiteelo": "2648",
+            "blackelo": "2782",
+            "fen": "5Qbk/1p6/2p4p/5Kp1/P3n3/4B2P/1P4B1/3q4 b - - 0 37"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5Qbk/1p6/2p4p/5Kp1/P3n3/4B2P/1P4B1/3q4 b - - 0 37"
     }
 ]
