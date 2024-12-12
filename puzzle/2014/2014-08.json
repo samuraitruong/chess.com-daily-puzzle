@@ -239,19 +239,18 @@
     },
     {
         "id": 5098,
-        "title": "Aizenshtadt - Margolis, Leningrad 1957",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"4r1k1/R5pp/3Q1pq1/pP6/4P3/B6P/2b3PK/8 w - - 0 1\"]\r\n\r\n1. Ra8 Qf7 2. Qc6 Qc7+ 3. Qxc7\r\n*",
+        "title": "Check, Check, Mate",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2q1k3/7Q/4p3/pb4p1/1B1K1P2/8/PPP3PP/RN6 b - - 0 1\"]\r\n\r\n1... Qc4+ 2. Ke5 Qxf4+ 3. Kxe6 Bc4# *",
         "date": "2014-08-16",
         "video": [],
         "comment_count": 2,
-        "solved_count": 142,
+        "solved_count": 143,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1... Qc4+ 2. Ke5 Qxf4+ 3. Kxe6 Bc4# *",
             "result": "*",
-            "fen": "4r1k1/R5pp/3Q1pq1/pP6/4P3/B6P/2b3PK/8 w - - 0 1"
+            "fen": "2q1k3/7Q/4p3/pb4p1/1B1K1P2/8/PPP3PP/RN6 b - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=4r1k1/R5pp/3Q1pq1/pP6/4P3/B6P/2b3PK/8 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2q1k3/7Q/4p3/pb4p1/1B1K1P2/8/PPP3PP/RN6 b - - 0 1"
     },
     {
         "id": 5100,
