@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1431,
-        "solved_count": 1714682,
+        "solved_count": 1716269,
         "parsed": {
             "moves": "1... Qxb1+ 2. Qxb1 Rxb1+ 3. Rxb1 Rxb1+ 4. Kxb1 f1=Q+ *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1101,
-        "solved_count": 1700489,
+        "solved_count": 1702251,
         "parsed": {
             "moves": "1. Nf5+ gxf5 2. Qg5# 1-0",
             "white": "EnPassantFork",
@@ -47,7 +47,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 894,
-        "solved_count": 1668986,
+        "solved_count": 1671084,
         "parsed": {
             "moves": "45. Rb7+ Kh6 46. Rxb8 Rd7 47. Be3+ 1-0",
             "event": "Chess.com Titled Tuesday",
@@ -69,8 +69,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_free_to_move_in_a_mating_net_01_04_25_w8x.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 907,
-        "solved_count": 1599763,
+        "comment_count": 908,
+        "solved_count": 1602454,
         "parsed": {
             "moves": "1. Rd8+ Ng8 2. Rxg8+ Kxg8 3. Qd8+ Kh7 4. Ng5+ Kh6 5. Qh8+ Rh7 6. Qxh7# 1-0",
             "white": "himavanth0010",
@@ -90,7 +90,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1121,
-        "solved_count": 1566885,
+        "solved_count": 1570794,
         "parsed": {
             "moves": "Qxb7 *",
             "result": "*",
@@ -107,8 +107,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_nemos_birthday_checkmate_01_06_25_i7m.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1081,
-        "solved_count": 1602013,
+        "comment_count": 1093,
+        "solved_count": 1629726,
         "parsed": {
             "moves": "28. Re8+ Kg7 29. Qh6# 1-0",
             "event": "Live Chess",
@@ -123,5 +123,29 @@
             "fen": "6k1/pp3p1p/1q3bp1/2nr4/2p2Q2/P1P2P2/1PN3PP/2B1R2K w - - 0 28"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/pp3p1p/1q3bp1/2nr4/2p2Q2/P1P2P2/1PN3PP/2B1R2K w - - 0 28"
+    },
+    {
+        "id": 12817,
+        "title": "Anna-Maja's Fancy Footwork 🎈",
+        "pgn": "[Event \"Chess.com Blitz\"]\r\n[Date \"2024.12.24\"]\r\n[White \"Happy Birthday, Anna-Maja!\"]\r\n[Black \"annamaja (Blitz Inspiration)\"]\r\n[Result \"*\"]\r\n[WhiteElo \"2396\"]\r\n[BlackElo \"2423\"]\r\n[FEN \"r1b2rk1/5ppp/pq2p3/1pnpN3/1P2PP2/3B4/P1P2QPP/2KR3R b - - 0 1\"]\r\n\r\n1... Nb3+ 2. axb3 Qxf2 *",
+        "date": "2025-01-07",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_anna_majas_fancy_footwork_01_07_25_h6v.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 61,
+        "solved_count": 31482,
+        "parsed": {
+            "moves": "1... Nb3+ 2. axb3 Qxf2 *",
+            "event": "Chess.com Blitz",
+            "date": "2024.12.24",
+            "white": "Happy Birthday, Anna-Maja!",
+            "black": "annamaja (Blitz Inspiration)",
+            "result": "*",
+            "whiteelo": "2396",
+            "blackelo": "2423",
+            "fen": "r1b2rk1/5ppp/pq2p3/1pnpN3/1P2PP2/3B4/P1P2QPP/2KR3R b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b2rk1/5ppp/pq2p3/1pnpN3/1P2PP2/3B4/P1P2QPP/2KR3R b - - 0 1"
     }
 ]
