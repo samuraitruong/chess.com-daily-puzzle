@@ -177,19 +177,18 @@
     },
     {
         "id": 5396,
-        "title": "Come Forward",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1b4r/3n1q1p/4k3/pp2PpB1/3PN3/5P1K/PPP4P/R2Q2R1 w - - 0 1\"]\r\n\r\n1. d5+ Kxe5 2. f4+ Kxe4 3. Re1\r\n*",
+        "title": "Mate in 4",
+        "pgn": "[Result \"*\"]\r\n[FEN \"1r1k3r/2p2pp1/1b1p3p/BQ1P1n2/P7/6PB/2P2q1P/1R2R2K b - - 0 1\"]\r\n\r\n1... Qf3+ 2. Bg2 Nxg3+ 3. hxg3 Qh5+ 4. Bh3 Qxh3# *",
         "date": "2015-01-12",
         "video": [],
         "comment_count": 6,
         "solved_count": 213,
         "parsed": {
-            "moves": "*",
-            "date": "????.??.??",
+            "moves": "1... Qf3+ 2. Bg2 Nxg3+ 3. hxg3 Qh5+ 4. Bh3 Qxh3# *",
             "result": "*",
-            "fen": "r1b4r/3n1q1p/4k3/pp2PpB1/3PN3/5P1K/PPP4P/R2Q2R1 w - - 0 1"
+            "fen": "1r1k3r/2p2pp1/1b1p3p/BQ1P1n2/P7/6PB/2P2q1P/1R2R2K b - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b4r/3n1q1p/4k3/pp2PpB1/3PN3/5P1K/PPP4P/R2Q2R1 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r1k3r/2p2pp1/1b1p3p/BQ1P1n2/P7/6PB/2P2q1P/1R2R2K b - - 0 1"
     },
     {
         "id": 5398,
