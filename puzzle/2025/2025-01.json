@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1443,
-        "solved_count": 1763848,
+        "solved_count": 1764596,
         "parsed": {
             "moves": "1... Qxb1+ 2. Qxb1 Rxb1+ 3. Rxb1 Rxb1+ 4. Kxb1 f1=Q+ *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1123,
-        "solved_count": 1760722,
+        "solved_count": 1761676,
         "parsed": {
             "moves": "1. Nf5+ gxf5 2. Qg5# 1-0",
             "white": "EnPassantFork",
@@ -47,7 +47,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 901,
-        "solved_count": 1739971,
+        "solved_count": 1741269,
         "parsed": {
             "moves": "45. Rb7+ Kh6 46. Rxb8 Rd7 47. Be3+ 1-0",
             "event": "Chess.com Titled Tuesday",
@@ -69,8 +69,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_free_to_move_in_a_mating_net_01_04_25_w8x.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 924,
-        "solved_count": 1685832,
+        "comment_count": 925,
+        "solved_count": 1687358,
         "parsed": {
             "moves": "1. Rd8+ Ng8 2. Rxg8+ Kxg8 3. Qd8+ Kh7 4. Ng5+ Kh6 5. Qh8+ Rh7 6. Qxh7# 1-0",
             "white": "himavanth0010",
@@ -90,7 +90,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1150,
-        "solved_count": 1679505,
+        "solved_count": 1681336,
         "parsed": {
             "moves": "Qxb7 *",
             "result": "*",
@@ -108,7 +108,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1129,
-        "solved_count": 1790485,
+        "solved_count": 1792710,
         "parsed": {
             "moves": "28. Re8+ Kg7 29. Qh6# 1-0",
             "event": "Live Chess",
@@ -133,8 +133,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_anna_majas_fancy_footwork_01_07_25_h6v.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 996,
-        "solved_count": 1647329,
+        "comment_count": 995,
+        "solved_count": 1650783,
         "parsed": {
             "moves": "1... Nb3+ 2. axb3 Qxf2 *",
             "event": "Chess.com Blitz",
@@ -157,13 +157,33 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_see_you_laterally_01_08_25_f10w.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 899,
-        "solved_count": 1522133,
+        "comment_count": 918,
+        "solved_count": 1548438,
         "parsed": {
             "moves": "1... Rxb4+ 2. cxb4 Qa3+ 3. Kb1 Qa1# *",
             "result": "*",
             "fen": "r2n1k2/2QP1ppB/7p/1r6/1P3B2/2P4q/1KR4P/2R5 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=r2n1k2/2QP1ppB/7p/1r6/1P3B2/2P4q/1KR4P/2R5 b - - 0 1"
+    },
+    {
+        "id": 12839,
+        "title": "The Road to h8",
+        "pgn": "[White \"GuyLemieux\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"2rr2k1/5pB1/bq3P2/p3p3/8/2PB2R1/P2Qn1PP/7K w - - 0 27\"]\r\n\r\n27. Bh7+ Kxh7 28. Qh6+ Kg8 29. Qh8# 1-0",
+        "date": "2025-01-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_the_road_to_h8_01_09_25_x6k.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 44,
+        "solved_count": 30739,
+        "parsed": {
+            "moves": "27. Bh7+ Kxh7 28. Qh6+ Kg8 29. Qh8# 1-0",
+            "white": "GuyLemieux",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "2rr2k1/5pB1/bq3P2/p3p3/8/2PB2R1/P2Qn1PP/7K w - - 0 27"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2rr2k1/5pB1/bq3P2/p3p3/8/2PB2R1/P2Qn1PP/7K w - - 0 27"
     }
 ]
