@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1444,
-        "solved_count": 1767095,
+        "solved_count": 1767140,
         "parsed": {
             "moves": "1... Qxb1+ 2. Qxb1 Rxb1+ 3. Rxb1 Rxb1+ 4. Kxb1 f1=Q+ *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1128,
-        "solved_count": 1780263,
+        "solved_count": 1780306,
         "parsed": {
             "moves": "1. Nf5+ gxf5 2. Qg5# 1-0",
             "white": "EnPassantFork",
@@ -47,7 +47,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 907,
-        "solved_count": 1779773,
+        "solved_count": 1780299,
         "parsed": {
             "moves": "45. Rb7+ Kh6 46. Rxb8 Rd7 47. Be3+ 1-0",
             "event": "Chess.com Titled Tuesday",
@@ -70,7 +70,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 939,
-        "solved_count": 1736263,
+        "solved_count": 1736925,
         "parsed": {
             "moves": "1. Rd8+ Ng8 2. Rxg8+ Kxg8 3. Qd8+ Kh7 4. Ng5+ Kh6 5. Qh8+ Rh7 6. Qxh7# 1-0",
             "white": "himavanth0010",
@@ -89,8 +89,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_one_target_leads_to_another_01_05_25_l4e.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1171,
-        "solved_count": 1740631,
+        "comment_count": 1172,
+        "solved_count": 1741512,
         "parsed": {
             "moves": "Qxb7 *",
             "result": "*",
@@ -107,8 +107,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_nemos_birthday_checkmate_01_06_25_i7m.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1146,
-        "solved_count": 1865285,
+        "comment_count": 1147,
+        "solved_count": 1866353,
         "parsed": {
             "moves": "28. Re8+ Kg7 29. Qh6# 1-0",
             "event": "Live Chess",
@@ -134,7 +134,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1014,
-        "solved_count": 1748363,
+        "solved_count": 1749672,
         "parsed": {
             "moves": "1... Nb3+ 2. axb3 Qxf2 *",
             "event": "Chess.com Blitz",
@@ -158,7 +158,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 969,
-        "solved_count": 1700884,
+        "solved_count": 1702682,
         "parsed": {
             "moves": "1... Rxb4+ 2. cxb4 Qa3+ 3. Kb1 Qa1# *",
             "result": "*",
@@ -176,7 +176,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 940,
-        "solved_count": 1680514,
+        "solved_count": 1683293,
         "parsed": {
             "moves": "27. Bh7+ Kxh7 28. Qh6+ Kg8 29. Qh8# 1-0",
             "white": "GuyLemieux",
@@ -195,8 +195,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_fionas_surprise_party_01_10_25_m4k.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1092,
-        "solved_count": 1446106,
+        "comment_count": 1103,
+        "solved_count": 1470433,
         "parsed": {
             "moves": "16. Rb1 Bxb1 17. Rxb1 Qa2 18. Bb3 Qxb1+ 19. Nxb1 1-0",
             "white": "Happy Birthday, Fiona!",
@@ -205,5 +205,28 @@
             "fen": "3r1rk1/3n1pb1/2n3pp/ppB1p3/4P3/N1P1QN1P/bqB2PP1/3RR1K1 w - - 0 16"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=3r1rk1/3n1pb1/2n3pp/ppB1p3/4P3/N1P1QN1P/bqB2PP1/3RR1K1 w - - 0 16"
+    },
+    {
+        "id": 12841,
+        "title": "Step Up to the Mate",
+        "pgn": "[Event \"It (cat.11)\"]\r\n[Site \"Liepaya (Latvia)\"]\r\n[Date \"2004.08.01\"]\r\n[White \"Arturs Neiksans\"]\r\n[Black \"Hannes Stefansson\"]\r\n[Result \"0-1\"]\r\n[FEN \"5rk1/1ppq2p1/p2p1r2/4p3/1P2PP2/2P1QP2/1P1N1RK1/5R2 b - - 0 24\"]\r\n\r\n24... Rg6+ 25. Kh1 Qh3+ 26. Rh2 Qxh2+ 27. Kxh2 Kf7 28. Qe1 Rh8+ 29. Qh4 Rxh4#\r\n0-1",
+        "date": "2025-01-11",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_step_up_to_the_mate_01_11_25_u3u.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 27,
+        "solved_count": 21946,
+        "parsed": {
+            "moves": "0-1",
+            "event": "It (cat.11)",
+            "site": "Liepaya (Latvia)",
+            "date": "2004.08.01",
+            "white": "Arturs Neiksans",
+            "black": "Hannes Stefansson",
+            "result": "0-1",
+            "fen": "5rk1/1ppq2p1/p2p1r2/4p3/1P2PP2/2P1QP2/1P1N1RK1/5R2 b - - 0 24"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5rk1/1ppq2p1/p2p1r2/4p3/1P2PP2/2P1QP2/1P1N1RK1/5R2 b - - 0 24"
     }
 ]
