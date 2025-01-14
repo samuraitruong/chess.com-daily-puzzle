@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1447,
-        "solved_count": 1769604,
+        "solved_count": 1769636,
         "parsed": {
             "moves": "1... Qxb1+ 2. Qxb1 Rxb1+ 3. Rxb1 Rxb1+ 4. Kxb1 f1=Q+ *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1129,
-        "solved_count": 1782839,
+        "solved_count": 1782864,
         "parsed": {
             "moves": "1. Nf5+ gxf5 2. Qg5# 1-0",
             "white": "EnPassantFork",
@@ -47,7 +47,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 907,
-        "solved_count": 1782973,
+        "solved_count": 1782996,
         "parsed": {
             "moves": "45. Rb7+ Kh6 46. Rxb8 Rd7 47. Be3+ 1-0",
             "event": "Chess.com Titled Tuesday",
@@ -70,7 +70,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 940,
-        "solved_count": 1752271,
+        "solved_count": 1752290,
         "parsed": {
             "moves": "1. Rd8+ Ng8 2. Rxg8+ Kxg8 3. Qd8+ Kh7 4. Ng5+ Kh6 5. Qh8+ Rh7 6. Qxh7# 1-0",
             "white": "himavanth0010",
@@ -90,7 +90,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1191,
-        "solved_count": 1771713,
+        "solved_count": 1771744,
         "parsed": {
             "moves": "Qxb7 *",
             "result": "*",
@@ -108,7 +108,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1163,
-        "solved_count": 1917124,
+        "solved_count": 1917601,
         "parsed": {
             "moves": "28. Re8+ Kg7 29. Qh6# 1-0",
             "event": "Live Chess",
@@ -134,7 +134,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1033,
-        "solved_count": 1814113,
+        "solved_count": 1814752,
         "parsed": {
             "moves": "1... Nb3+ 2. axb3 Qxf2 *",
             "event": "Chess.com Blitz",
@@ -158,7 +158,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 993,
-        "solved_count": 1782745,
+        "solved_count": 1783648,
         "parsed": {
             "moves": "1... Rxb4+ 2. cxb4 Qa3+ 3. Kb1 Qa1# *",
             "result": "*",
@@ -175,8 +175,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_the_road_to_h8_01_09_25_x6k.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 971,
-        "solved_count": 1790776,
+        "comment_count": 973,
+        "solved_count": 1791868,
         "parsed": {
             "moves": "27. Bh7+ Kxh7 28. Qh6+ Kg8 29. Qh8# 1-0",
             "white": "GuyLemieux",
@@ -196,7 +196,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1155,
-        "solved_count": 1645628,
+        "solved_count": 1647064,
         "parsed": {
             "moves": "16. Rb1 Bxb1 17. Rxb1 Qa2 18. Bb3 Qxb1+ 19. Nxb1 1-0",
             "white": "Happy Birthday, Fiona!",
@@ -216,7 +216,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 748,
-        "solved_count": 1587585,
+        "solved_count": 1589597,
         "parsed": {
             "moves": "0-1",
             "event": "It (cat.11)",
@@ -239,7 +239,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 869,
-        "solved_count": 1526878,
+        "solved_count": 1530041,
         "parsed": {
             "moves": "1... Qh4 2. g3 Ng5+ 3. Kg2 Qh3+ 4. Kg1 Bxf1 5. Qxf1 Nf3# 0-1",
             "white": "Daily Puzzle Inspiration",
@@ -257,13 +257,40 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_an_inescapable_capture_01_13_25_b5w.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1096,
-        "solved_count": 1578256,
+        "comment_count": 1121,
+        "solved_count": 1605037,
         "parsed": {
             "moves": "1. Qa4# 1-0",
             "result": "1-0",
             "fen": "1r2k2r/p3pq1p/1b2N1p1/3p4/5Q2/B1P5/P5Pn/K7 w k - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=1r2k2r/p3pq1p/1b2N1p1/3p4/5Q2/B1P5/P5Pn/K7 w k - 0 1"
+    },
+    {
+        "id": 12809,
+        "title": "Grandmaster Puzzle Rush",
+        "pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2024.10.01\"]\r\n[Round \"?\"]\r\n[White \"GMHess\"]\r\n[Black \"penguingm1\"]\r\n[Result \"1-0\"]\r\n[ECO \"A01\"]\r\n[WhiteElo \"2900\"]\r\n[BlackElo \"2999\"]\r\n[FEN \"4r1k1/p4pb1/3qb1p1/np2B1P1/7R/Pn2P1N1/5PB1/1K5R w - - 0 27\"]\r\n\r\n27. Rh8+ Bxh8 28. Rxh8# 1-0",
+        "date": "2025-01-14",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_grandmaster_puzzle_rush_01_14_25_t4v.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 60,
+        "solved_count": 31664,
+        "parsed": {
+            "moves": "27. Rh8+ Bxh8 28. Rxh8# 1-0",
+            "event": "Live Chess",
+            "site": "Chess.com",
+            "date": "2024.10.01",
+            "round": "?",
+            "white": "GMHess",
+            "black": "penguingm1",
+            "result": "1-0",
+            "eco": "A01",
+            "whiteelo": "2900",
+            "blackelo": "2999",
+            "fen": "4r1k1/p4pb1/3qb1p1/np2B1P1/7R/Pn2P1N1/5PB1/1K5R w - - 0 27"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4r1k1/p4pb1/3qb1p1/np2B1P1/7R/Pn2P1N1/5PB1/1K5R w - - 0 27"
     }
 ]
