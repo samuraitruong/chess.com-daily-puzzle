@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "id": 12867,
+        "title": "Pawn Points Toward the Path",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/6kp/1p1p1r2/1P1Pp3/4q3/P3P1pP/1B2Q1P1/6RK b - - 0 1\"]\r\n\r\n1... Rh6 2. Rc1 Rxh3+ 3. Kg1 Rh1+ 4. Kxh1 Qh4+ 5. Kg1 Qh2+ 6. Kf1 Qh1# *",
+        "date": "2025-02-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_pawn_points_toward_the_path_02_01_25_u2n.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 42,
+        "solved_count": 20290,
+        "parsed": {
+            "moves": "1... Rh6 2. Rc1 Rxh3+ 3. Kg1 Rh1+ 4. Kxh1 Qh4+ 5. Kg1 Qh2+ 6. Kf1 Qh1# *",
+            "result": "*",
+            "fen": "8/6kp/1p1p1r2/1P1Pp3/4q3/P3P1pP/1B2Q1P1/6RK b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/6kp/1p1p1r2/1P1Pp3/4q3/P3P1pP/1B2Q1P1/6RK b - - 0 1"
+    }
+]
