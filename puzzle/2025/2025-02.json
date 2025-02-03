@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 809,
-        "solved_count": 1441917,
+        "solved_count": 1445158,
         "parsed": {
             "moves": "1... Rh6 2. Rc1 Rxh3+ 3. Kg1 Rh1+ 4. Kxh1 Qh4+ 5. Kg1 Qh2+ 6. Kf1 Qh1# *",
             "result": "*",
@@ -26,13 +26,34 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_mate_in_one_fourget_about_it_02_02_25_e7v.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 781,
-        "solved_count": 1361463,
+        "comment_count": 788,
+        "solved_count": 1387480,
         "parsed": {
             "moves": "1... Ne2+ 2. Rxe2 Rf1+ 3. Kxf1 Qh1+ 4. Kf2 Ng4# *",
             "result": "*",
             "fen": "2k2r2/2p5/2q5/p1p1n3/P1P2n1B/1R4Pp/1Q1R4/6K1 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2k2r2/2p5/2q5/p1p1n3/P1P2n1B/1R4Pp/1Q1R4/6K1 b - - 0 1"
+    },
+    {
+        "id": 12857,
+        "title": "Does a Grandmaster React?",
+        "pgn": "[Event \"Chess.com Blitz\"]\r\n[White \"AGM2023\"]\r\n[Black \"GMHess (Ng8 removed)\"]\r\n[Result \"1-0\"]\r\n[FEN \"7r/1bq1ppk1/3R2pp/8/Bpn3PP/5P2/P1P2Q2/1KN3NR b - - 0 1\"]\r\n\r\n1... Na3+ 2. Kb2 Qc3# 1-0",
+        "date": "2025-02-03",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_does_a_grandmaster_react_02_03_25_f6l.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 49,
+        "solved_count": 30455,
+        "parsed": {
+            "moves": "1... Na3+ 2. Kb2 Qc3# 1-0",
+            "event": "Chess.com Blitz",
+            "white": "AGM2023",
+            "black": "GMHess (Ng8 removed)",
+            "result": "1-0",
+            "fen": "7r/1bq1ppk1/3R2pp/8/Bpn3PP/5P2/P1P2Q2/1KN3NR b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7r/1bq1ppk1/3R2pp/8/Bpn3PP/5P2/P1P2Q2/1KN3NR b - - 0 1"
     }
 ]
