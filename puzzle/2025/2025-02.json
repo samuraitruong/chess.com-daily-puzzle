@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_pawn_points_toward_the_path_02_01_25_u2n.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 826,
-        "solved_count": 1555910,
+        "comment_count": 827,
+        "solved_count": 1557435,
         "parsed": {
             "moves": "1... Rh6 2. Rc1 Rxh3+ 3. Kg1 Rh1+ 4. Kxh1 Qh4+ 5. Kg1 Qh2+ 6. Kf1 Qh1# *",
             "result": "*",
@@ -26,8 +26,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_mate_in_one_fourget_about_it_02_02_25_e7v.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 841,
-        "solved_count": 1566716,
+        "comment_count": 842,
+        "solved_count": 1568654,
         "parsed": {
             "moves": "1... Ne2+ 2. Rxe2 Rf1+ 3. Kxf1 Qh1+ 4. Kf2 Ng4# *",
             "result": "*",
@@ -45,7 +45,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1173,
-        "solved_count": 1751905,
+        "solved_count": 1754773,
         "parsed": {
             "moves": "1... Na3+ 2. Kb2 Qc3# 1-0",
             "event": "Chess.com Blitz",
@@ -65,8 +65,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_a_royal_night_out_02_04_25_j3j.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 949,
-        "solved_count": 1473422,
+        "comment_count": 964,
+        "solved_count": 1498847,
         "parsed": {
             "moves": "38. Qxf7+ Kxf7 39. Ne5+ Ke6 40. Nxc6 1-0",
             "event": "Isle of Wight Open 2024",
@@ -77,5 +77,25 @@
             "fen": "3r1nk1/5np1/2q4p/p2p1Q2/2pP2N1/4PP2/P5RP/5BK1 w - - 0 38"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=3r1nk1/5np1/2q4p/p2p1Q2/2pP2N1/4PP2/P5RP/5BK1 w - - 0 38"
+    },
+    {
+        "id": 12881,
+        "title": "Fancy Prance",
+        "pgn": "[White \"Bikfoot\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"2r1r1k1/4qpbp/ppnQ1np1/2p1p3/1PP1P3/P1N1BBPP/5P2/3RR1K1 b - - 4 18\"]\r\n\r\n18... Nd4 19. Qxe7 Nxf3+ 20. Kg2 Nxe1+ 21. Rxe1 Rxe7 0-1",
+        "date": "2025-02-05",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_fancy_prance_02_05_25_i10h.mp4",
+            "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
+        },
+        "comment_count": 33,
+        "solved_count": 27308,
+        "parsed": {
+            "moves": "18... Nd4 19. Qxe7 Nxf3+ 20. Kg2 Nxe1+ 21. Rxe1 Rxe7 0-1",
+            "white": "Bikfoot",
+            "black": "Daily Puzzle Inspiration",
+            "result": "0-1",
+            "fen": "2r1r1k1/4qpbp/ppnQ1np1/2p1p3/1PP1P3/P1N1BBPP/5P2/3RR1K1 b - - 4 18"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r1r1k1/4qpbp/ppnQ1np1/2p1p3/1PP1P3/P1N1BBPP/5P2/3RR1K1 b - - 4 18"
     }
 ]
