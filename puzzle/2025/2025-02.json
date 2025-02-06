@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 837,
-        "solved_count": 1585593,
+        "solved_count": 1586737,
         "parsed": {
             "moves": "1... Rh6 2. Rc1 Rxh3+ 3. Kg1 Rh1+ 4. Kxh1 Qh4+ 5. Kg1 Qh2+ 6. Kf1 Qh1# *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 853,
-        "solved_count": 1604931,
+        "solved_count": 1606343,
         "parsed": {
             "moves": "1... Ne2+ 2. Rxe2 Rf1+ 3. Kxf1 Qh1+ 4. Kf2 Ng4# *",
             "result": "*",
@@ -45,7 +45,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1191,
-        "solved_count": 1803131,
+        "solved_count": 1804949,
         "parsed": {
             "moves": "1... Na3+ 2. Kb2 Qc3# 1-0",
             "event": "Chess.com Blitz",
@@ -65,8 +65,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_a_royal_night_out_02_04_25_j3j.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 996,
-        "solved_count": 1586703,
+        "comment_count": 997,
+        "solved_count": 1589565,
         "parsed": {
             "moves": "38. Qxf7+ Kxf7 39. Ne5+ Ke6 40. Nxc6 1-0",
             "event": "Isle of Wight Open 2024",
@@ -87,8 +87,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_fancy_prance_02_05_25_i10h.mp4",
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
-        "comment_count": 1142,
-        "solved_count": 1448468,
+        "comment_count": 1155,
+        "solved_count": 1473648,
         "parsed": {
             "moves": "18... Nd4 19. Qxe7 Nxf3+ 20. Kg2 Nxe1+ 21. Rxe1 Rxe7 0-1",
             "white": "Bikfoot",
@@ -97,5 +97,25 @@
             "fen": "2r1r1k1/4qpbp/ppnQ1np1/2p1p3/1PP1P3/P1N1BBPP/5P2/3RR1K1 b - - 4 18"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2r1r1k1/4qpbp/ppnQ1np1/2p1p3/1PP1P3/P1N1BBPP/5P2/3RR1K1 b - - 4 18"
+    },
+    {
+        "id": 12851,
+        "title": "Diagonal Squeeze",
+        "pgn": "[White \"GuyLemieux\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"r2kb3/N1p1np1p/3p1Q2/8/2PPp1B1/1q3P2/2r1N1PP/4B1K1 w - - 0 1\"]\r\n\r\n1. Qxd6+ cxd6 2. Ba5+ Qb6 3. Bxb6# 1-0",
+        "date": "2025-02-06",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_diagonal_squeeze_02_06_25_i10l.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 30,
+        "solved_count": 27676,
+        "parsed": {
+            "moves": "1. Qxd6+ cxd6 2. Ba5+ Qb6 3. Bxb6# 1-0",
+            "white": "GuyLemieux",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "r2kb3/N1p1np1p/3p1Q2/8/2PPp1B1/1q3P2/2r1N1PP/4B1K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r2kb3/N1p1np1p/3p1Q2/8/2PPp1B1/1q3P2/2r1N1PP/4B1K1 w - - 0 1"
     }
 ]
