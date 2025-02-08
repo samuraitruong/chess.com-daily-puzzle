@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 849,
-        "solved_count": 1626175,
+        "solved_count": 1626694,
         "parsed": {
             "moves": "1... Rh6 2. Rc1 Rxh3+ 3. Kg1 Rh1+ 4. Kxh1 Qh4+ 5. Kg1 Qh2+ 6. Kf1 Qh1# *",
             "result": "*",
@@ -27,7 +27,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 862,
-        "solved_count": 1653675,
+        "solved_count": 1654405,
         "parsed": {
             "moves": "1... Ne2+ 2. Rxe2 Rf1+ 3. Kxf1 Qh1+ 4. Kf2 Ng4# *",
             "result": "*",
@@ -44,8 +44,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_does_a_grandmaster_react_02_03_25_f6l.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1189,
-        "solved_count": 1862086,
+        "comment_count": 1190,
+        "solved_count": 1862912,
         "parsed": {
             "moves": "1... Na3+ 2. Kb2 Qc3# 1-0",
             "event": "Chess.com Blitz",
@@ -65,8 +65,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_a_royal_night_out_02_04_25_j3j.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 991,
-        "solved_count": 1668816,
+        "comment_count": 992,
+        "solved_count": 1669871,
         "parsed": {
             "moves": "38. Qxf7+ Kxf7 39. Ne5+ Ke6 40. Nxc6 1-0",
             "event": "Isle of Wight Open 2024",
@@ -87,8 +87,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_fancy_prance_02_05_25_i10h.mp4",
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
-        "comment_count": 1167,
-        "solved_count": 1605739,
+        "comment_count": 1169,
+        "solved_count": 1607174,
         "parsed": {
             "moves": "18... Nd4 19. Qxe7 Nxf3+ 20. Kg2 Nxe1+ 21. Rxe1 Rxe7 0-1",
             "white": "Bikfoot",
@@ -107,8 +107,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_diagonal_squeeze_02_06_25_i10l.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 758,
-        "solved_count": 1561585,
+        "comment_count": 761,
+        "solved_count": 1563995,
         "parsed": {
             "moves": "1. Qxd6+ cxd6 2. Ba5+ Qb6 3. Bxb6# 1-0",
             "white": "GuyLemieux",
@@ -127,13 +127,41 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_crafty_captures_02_07_25_j10z.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 769,
-        "solved_count": 1388466,
+        "comment_count": 782,
+        "solved_count": 1412508,
         "parsed": {
             "moves": "1. Nxe5 Nxe5 2. Bxd5+ Kh8 3. Rxe5 Qxd1 4. Rxe8+ Rxe8 5. Rxd1 *",
             "result": "*",
             "fen": "r3r1k1/pp4pp/1bn2p2/3bp3/1B1p2qP/P2P1NP1/5PBK/2RQR3 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=r3r1k1/pp4pp/1bn2p2/3bp3/1B1p2qP/P2P1NP1/5PBK/2RQR3 w - - 0 1"
+    },
+    {
+        "id": 12905,
+        "title": "Bik Chain Reaction",
+        "pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2025.01.14\"]\r\n[Round \"?\"]\r\n[White \"Bikfoot\"]\r\n[Black \"kirillju\"]\r\n[Result \"1-0\"]\r\n[SetUp \"1\"]\r\n[FEN \"4r1k1/pR5p/3p2pB/2pP4/2P1nnB1/6qP/8/5Q1K w - - 0 32\"]\r\n[ECO \"A45\"]\r\n[WhiteElo \"2230\"]\r\n[BlackElo \"2217\"]\r\n\r\n32. Be6+ Rxe6 33. Rb8+ Kf7 34. Qxf4+ Qxf4 35. dxe6+ Kxe6 36. Bxf4 1-0",
+        "date": "2025-02-08",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_bik_chain_reaction_02_08_25_m7j.mp4",
+            "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
+        },
+        "comment_count": 27,
+        "solved_count": 21159,
+        "parsed": {
+            "moves": "32. Be6+ Rxe6 33. Rb8+ Kf7 34. Qxf4+ Qxf4 35. dxe6+ Kxe6 36. Bxf4 1-0",
+            "event": "Live Chess",
+            "site": "Chess.com",
+            "date": "2025.01.14",
+            "round": "?",
+            "white": "Bikfoot",
+            "black": "kirillju",
+            "result": "1-0",
+            "setup": "1",
+            "fen": "4r1k1/pR5p/3p2pB/2pP4/2P1nnB1/6qP/8/5Q1K w - - 0 32",
+            "eco": "A45",
+            "whiteelo": "2230",
+            "blackelo": "2217"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4r1k1/pR5p/3p2pB/2pP4/2P1nnB1/6qP/8/5Q1K w - - 0 32"
     }
 ]
