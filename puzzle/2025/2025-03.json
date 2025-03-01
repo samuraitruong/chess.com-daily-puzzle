@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "id": 12928,
+        "title": "Tactical Winds of Fortune",
+        "pgn": "[White \" AstroCatTBC\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"*\"]\r\n[FEN \"1rk4r/2p2p2/4p1n1/RBB4q/2P1P1p1/8/5PPN/3R2K1 w - - 0 1\"]\r\n\r\n1. Bd7+ Kd8 2. Bxe6+ Ke8 3. Bd7+ Kd8 4. Bxg4+ Ke8 5. Bxh5 *",
+        "date": "2025-03-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_tactical_winds_of_fortune_03_01_25_t2v.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 43,
+        "solved_count": 22833,
+        "parsed": {
+            "moves": "1. Bd7+ Kd8 2. Bxe6+ Ke8 3. Bd7+ Kd8 4. Bxg4+ Ke8 5. Bxh5 *",
+            "white": " AstroCatTBC",
+            "black": "Daily Puzzle Inspiration",
+            "result": "*",
+            "fen": "1rk4r/2p2p2/4p1n1/RBB4q/2P1P1p1/8/5PPN/3R2K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1rk4r/2p2p2/4p1n1/RBB4q/2P1P1p1/8/5PPN/3R2K1 w - - 0 1"
+    }
+]
