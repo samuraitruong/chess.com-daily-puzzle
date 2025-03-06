@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 928,
-        "solved_count": 1609106,
+        "solved_count": 1610477,
         "parsed": {
             "moves": "1. Bd7+ Kd8 2. Bxe6+ Ke8 3. Bd7+ Kd8 4. Bxg4+ Ke8 5. Bxh5 *",
             "white": " AstroCatTBC",
@@ -29,7 +29,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 2156,
-        "solved_count": 1645814,
+        "solved_count": 1647510,
         "parsed": {
             "moves": "1. a6 Ne6 2. Bd8 h2 3. a7 Nc7 4. Bxc7 h1=Q 5. a8=B+ Kg4 6. Bxh1 1-0",
             "date": "1922",
@@ -49,8 +49,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_check_carefully_03_03_25_f8g.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 820,
-        "solved_count": 1786700,
+        "comment_count": 821,
+        "solved_count": 1788881,
         "parsed": {
             "moves": "1. Qa3+ Qc5 2. Qxc5# *",
             "result": "*",
@@ -67,8 +67,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_discover_the_royal_path_03_04_25_n7i.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 816,
-        "solved_count": 1600801,
+        "comment_count": 817,
+        "solved_count": 1604272,
         "parsed": {
             "moves": "1... Rc2+ 2. Kd1 Rc5+ 3. Kd2 Rxa5 *",
             "result": "*",
@@ -85,8 +85,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_open_net_03_05_25_s5o.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 819,
-        "solved_count": 1504022,
+        "comment_count": 832,
+        "solved_count": 1530732,
         "parsed": {
             "moves": "45... Rh1+ 46. Kg2 R7h2+ 47. Kf3 Rf1# 0-1",
             "white": "EnPassantFork",
@@ -95,5 +95,25 @@
             "fen": "2Q5/5p1r/1p1b1Pk1/p7/P3PpPr/1PR5/2P5/6K1 b - - 0 45"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2Q5/5p1r/1p1b1Pk1/p7/P3PpPr/1PR5/2P5/6K1 b - - 0 45"
+    },
+    {
+        "id": 12934,
+        "title": "Maurice's Birthday Fireworks 🎉",
+        "pgn": "[White \"GM Ashley Composition\"]\r\n[Black \"Happy Birthday, Maurice!\"]\r\n[Result \"1-0\"]\r\n[FEN \"5N2/4Qp2/7p/4np1k/6b1/4P1q1/1P4N1/6K1 w - - 0 1\"]\r\n\r\n1. Qh4+ Qxh4 2. Nf4+ Kg5 3. Nh7# 1-0",
+        "date": "2025-03-06",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_maurices_birthday_fireworks_03_06_25_h8t.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 46,
+        "solved_count": 29860,
+        "parsed": {
+            "moves": "1. Qh4+ Qxh4 2. Nf4+ Kg5 3. Nh7# 1-0",
+            "white": "GM Ashley Composition",
+            "black": "Happy Birthday, Maurice!",
+            "result": "1-0",
+            "fen": "5N2/4Qp2/7p/4np1k/6b1/4P1q1/1P4N1/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5N2/4Qp2/7p/4np1k/6b1/4P1q1/1P4N1/6K1 w - - 0 1"
     }
 ]
