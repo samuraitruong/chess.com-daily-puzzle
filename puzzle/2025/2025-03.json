@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 956,
-        "solved_count": 1665968,
+        "solved_count": 1666409,
         "parsed": {
             "moves": "1. Bd7+ Kd8 2. Bxe6+ Ke8 3. Bd7+ Kd8 4. Bxg4+ Ke8 5. Bxh5 *",
             "white": " AstroCatTBC",
@@ -29,7 +29,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 2213,
-        "solved_count": 1716797,
+        "solved_count": 1717368,
         "parsed": {
             "moves": "1. a6 Ne6 2. Bd8 h2 3. a7 Nc7 4. Bxc7 h1=Q 5. a8=B+ Kg4 6. Bxh1 1-0",
             "date": "1922",
@@ -50,7 +50,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 838,
-        "solved_count": 1871841,
+        "solved_count": 1872609,
         "parsed": {
             "moves": "1. Qa3+ Qc5 2. Qxc5# *",
             "result": "*",
@@ -67,8 +67,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_discover_the_royal_path_03_04_25_n7i.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 842,
-        "solved_count": 1715413,
+        "comment_count": 843,
+        "solved_count": 1716341,
         "parsed": {
             "moves": "1... Rc2+ 2. Kd1 Rc5+ 3. Kd2 Rxa5 *",
             "result": "*",
@@ -86,7 +86,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 887,
-        "solved_count": 1699685,
+        "solved_count": 1700827,
         "parsed": {
             "moves": "45... Rh1+ 46. Kg2 R7h2+ 47. Kf3 Rf1# 0-1",
             "white": "EnPassantFork",
@@ -106,7 +106,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 918,
-        "solved_count": 1640990,
+        "solved_count": 1642576,
         "parsed": {
             "moves": "1. Qh4+ Qxh4 2. Nf4+ Kg5 3. Nh7# 1-0",
             "white": "GM Ashley Composition",
@@ -126,7 +126,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 848,
-        "solved_count": 1505379,
+        "solved_count": 1508096,
         "parsed": {
             "moves": "16... Nc5+ 17. Kb4 Nc2+ 18. Kb5 Nd4+ 19. Ka5 b6+ 20. Kb4 a5+ 21. Ka3 Nc2# 0-1",
             "white": "checkmatemaster7",
@@ -145,8 +145,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_stunt_double_attack_03_08_25_u7j.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 860,
-        "solved_count": 1363965,
+        "comment_count": 878,
+        "solved_count": 1388125,
         "parsed": {
             "moves": "1. Nd5 Bf6 2. Ne7+ Bxe7 3. Rc8+ Bd8 4. Rxd8+ Qe8 5. Rxe8# 1-0",
             "white": "BryanCFB",
@@ -155,5 +155,23 @@
             "fen": "6k1/4b1pp/p3p1q1/Pp6/3Pb3/2N4P/1P3RP1/2R3K1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/4b1pp/p3p1q1/Pp6/3Pb3/2N4P/1P3RP1/2R3K1 w - - 0 1"
+    },
+    {
+        "id": 12962,
+        "title": "Discover At Your Own Risk",
+        "pgn": "[Result \"1-0\"]\r\n[FEN \"7R/k3Np2/2Kp4/4b3/1P2B3/1q6/4r3/2R5 w - - 0 1\"]\r\n\r\n1. Ra8+ Kxa8 2. Kb6+ d5 3. Rc8+ Bb8 4. Nxd5 Qxb4+ 5. Nxb4+ Rxe4 6. Nc6 Rc4 7.\r\nRxb8# 1-0",
+        "date": "2025-03-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_discover_at_your_own_risk_03_09_25_q10b.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 35,
+        "solved_count": 18788,
+        "parsed": {
+            "moves": "Rxb8# 1-0",
+            "result": "1-0",
+            "fen": "7R/k3Np2/2Kp4/4b3/1P2B3/1q6/4r3/2R5 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7R/k3Np2/2Kp4/4b3/1P2B3/1q6/4r3/2R5 w - - 0 1"
     }
 ]
