@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 958,
-        "solved_count": 1668020,
+        "solved_count": 1668045,
         "parsed": {
             "moves": "1. Bd7+ Kd8 2. Bxe6+ Ke8 3. Bd7+ Kd8 4. Bxg4+ Ke8 5. Bxh5 *",
             "white": " AstroCatTBC",
@@ -29,7 +29,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 2221,
-        "solved_count": 1727024,
+        "solved_count": 1727045,
         "parsed": {
             "moves": "1. a6 Ne6 2. Bd8 h2 3. a7 Nc7 4. Bxc7 h1=Q 5. a8=B+ Kg4 6. Bxh1 1-0",
             "date": "1922",
@@ -50,7 +50,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 845,
-        "solved_count": 1896063,
+        "solved_count": 1896460,
         "parsed": {
             "moves": "1. Qa3+ Qc5 2. Qxc5# *",
             "result": "*",
@@ -67,8 +67,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_discover_the_royal_path_03_04_25_n7i.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 847,
-        "solved_count": 1748080,
+        "comment_count": 848,
+        "solved_count": 1748570,
         "parsed": {
             "moves": "1... Rc2+ 2. Kd1 Rc5+ 3. Kd2 Rxa5 *",
             "result": "*",
@@ -86,7 +86,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 900,
-        "solved_count": 1739652,
+        "solved_count": 1740354,
         "parsed": {
             "moves": "45... Rh1+ 46. Kg2 R7h2+ 47. Kf3 Rf1# 0-1",
             "white": "EnPassantFork",
@@ -106,7 +106,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 929,
-        "solved_count": 1693691,
+        "solved_count": 1694574,
         "parsed": {
             "moves": "1. Qh4+ Qxh4 2. Nf4+ Kg5 3. Nh7# 1-0",
             "white": "GM Ashley Composition",
@@ -125,8 +125,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_forward_march_backwards_checkmate_03_07_25_l5b.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 869,
-        "solved_count": 1584863,
+        "comment_count": 871,
+        "solved_count": 1586076,
         "parsed": {
             "moves": "16... Nc5+ 17. Kb4 Nc2+ 18. Kb5 Nd4+ 19. Ka5 b6+ 20. Kb4 a5+ 21. Ka3 Nc2# 0-1",
             "white": "checkmatemaster7",
@@ -145,8 +145,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_stunt_double_attack_03_08_25_u7j.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 926,
-        "solved_count": 1524147,
+        "comment_count": 927,
+        "solved_count": 1525865,
         "parsed": {
             "moves": "1. Nd5 Bf6 2. Ne7+ Bxe7 3. Rc8+ Bd8 4. Rxd8+ Qe8 5. Rxe8# 1-0",
             "white": "BryanCFB",
@@ -165,8 +165,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_discover_at_your_own_risk_03_09_25_q10b.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 902,
-        "solved_count": 1448407,
+        "comment_count": 903,
+        "solved_count": 1451305,
         "parsed": {
             "moves": "Rxb8# 1-0",
             "result": "1-0",
@@ -183,13 +183,31 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_attacker_without_a_defender_03_10_25_o2l.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 692,
-        "solved_count": 1480165,
+        "comment_count": 697,
+        "solved_count": 1502362,
         "parsed": {
             "moves": "1. Qh8+ Ka7 2. Qxh5 *",
             "result": "*",
             "fen": "1k6/1qp5/p3p3/Pp4pb/1P1Q4/3P1RP1/2P4P/7K w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=1k6/1qp5/p3p3/Pp4pb/1P1Q4/3P1RP1/2P4P/7K w - - 0 1"
+    },
+    {
+        "id": 12956,
+        "title": "Back Rank Angle",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r4k2/8/2p3Rp/1n1pNr1P/p2Pb3/5n2/PP1B4/2K5 w - - 0 1\"]\r\n\r\n1. Bb4+ Ke8 2. Rg8+ Rf8 3. Rxf8# *",
+        "date": "2025-03-11",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-03-11_Back-Rank-Angle_Fiona-Steil-Antoni_114.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 23,
+        "solved_count": 14713,
+        "parsed": {
+            "moves": "1. Bb4+ Ke8 2. Rg8+ Rf8 3. Rxf8# *",
+            "result": "*",
+            "fen": "r4k2/8/2p3Rp/1n1pNr1P/p2Pb3/5n2/PP1B4/2K5 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r4k2/8/2p3Rp/1n1pNr1P/p2Pb3/5n2/PP1B4/2K5 w - - 0 1"
     }
 ]
