@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-01_DONT-CHECKMATE-IN-ONE_Fiona-Steil-Antoni_15R.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2844,
-        "solved_count": 1445996,
+        "comment_count": 2877,
+        "solved_count": 1469548,
         "parsed": {
             "moves": "1. Rc6+ 1-0",
             "date": "2025.04.01",
@@ -19,5 +19,23 @@
             "fen": "B5KR/1r5B/6R1/2b1p1p1/2P1k1P1/1p2P2p/1P2P2P/3N1N2 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=B5KR/1r5B/6R1/2b1p1p1/2P1k1P1/1p2P2p/1P2P2P/3N1N2 w - - 0 1"
+    },
+    {
+        "id": 12982,
+        "title": "Mad Hops",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2q1r1r1/1b3Q2/ppnk1b2/3pN3/3P1P1p/2N5/PP4PP/5RK1 w - - 0 1\"]\r\n\r\n1. Ne4+ dxe4 2. Nc4# *",
+        "date": "2025-04-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-02_Mad-Hops_Kostya-Kavutskiy_5QH.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 24,
+        "solved_count": 21095,
+        "parsed": {
+            "moves": "1. Ne4+ dxe4 2. Nc4# *",
+            "result": "*",
+            "fen": "2q1r1r1/1b3Q2/ppnk1b2/3pN3/3P1P1p/2N5/PP4PP/5RK1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2q1r1r1/1b3Q2/ppnk1b2/3pN3/3P1P1p/2N5/PP4PP/5RK1 w - - 0 1"
     }
 ]
