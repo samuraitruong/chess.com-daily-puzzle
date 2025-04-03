@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-01_DONT-CHECKMATE-IN-ONE_Fiona-Steil-Antoni_15R.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 3041,
-        "solved_count": 1556421,
+        "comment_count": 3045,
+        "solved_count": 1558968,
         "parsed": {
             "moves": "1. Rc6+ 1-0",
             "date": "2025.04.01",
@@ -29,13 +29,33 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-02_Mad-Hops_Kostya-Kavutskiy_5QH.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 724,
-        "solved_count": 1422095,
+        "comment_count": 733,
+        "solved_count": 1444895,
         "parsed": {
             "moves": "1. Ne4+ dxe4 2. Nc4# *",
             "result": "*",
             "fen": "2q1r1r1/1b3Q2/ppnk1b2/3pN3/3P1P1p/2N5/PP4PP/5RK1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2q1r1r1/1b3Q2/ppnk1b2/3pN3/3P1P1p/2N5/PP4PP/5RK1 w - - 0 1"
+    },
+    {
+        "id": 12964,
+        "title": "Translucent Light Squares",
+        "pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"*\"]\r\n[FEN \"2r2rk1/pb3pp1/1p2n2p/q5P1/4BP2/1P2P3/P1N3QP/1R4RK b - - 0 1\"]\r\n\r\n1... Rxc2 2. Qxc2 Qf5 3. Bxb7 Qxc2 *",
+        "date": "2025-04-03",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-03_Translucent-Light-Squares_Fiona-Steil-Antoni_2OM.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 27,
+        "solved_count": 21181,
+        "parsed": {
+            "moves": "1... Rxc2 2. Qxc2 Qf5 3. Bxb7 Qxc2 *",
+            "white": "JohanVA",
+            "black": "Daily Puzzle Inspiration",
+            "result": "*",
+            "fen": "2r2rk1/pb3pp1/1p2n2p/q5P1/4BP2/1P2P3/P1N3QP/1R4RK b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r2rk1/pb3pp1/1p2n2p/q5P1/4BP2/1P2P3/P1N3QP/1R4RK b - - 0 1"
     }
 ]
