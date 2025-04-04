@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-01_DONT-CHECKMATE-IN-ONE_Fiona-Steil-Antoni_15R.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 3122,
-        "solved_count": 1601567,
+        "comment_count": 3127,
+        "solved_count": 1602949,
         "parsed": {
             "moves": "1. Rc6+ 1-0",
             "date": "2025.04.01",
@@ -30,7 +30,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 749,
-        "solved_count": 1522073,
+        "solved_count": 1524324,
         "parsed": {
             "moves": "1. Ne4+ dxe4 2. Nc4# *",
             "result": "*",
@@ -47,8 +47,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-03_Translucent-Light-Squares_Fiona-Steil-Antoni_2OM.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 859,
-        "solved_count": 1379491,
+        "comment_count": 874,
+        "solved_count": 1401621,
         "parsed": {
             "moves": "1... Rxc2 2. Qxc2 Qf5 3. Bxb7 Qxc2 *",
             "white": "JohanVA",
@@ -57,5 +57,27 @@
             "fen": "2r2rk1/pb3pp1/1p2n2p/q5P1/4BP2/1P2P3/P1N3QP/1R4RK b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2r2rk1/pb3pp1/1p2n2p/q5P1/4BP2/1P2P3/P1N3QP/1R4RK b - - 0 1"
+    },
+    {
+        "id": 12974,
+        "title": "Discovering the Winning Move Order",
+        "pgn": "[Event \"Oslo Schakselskaps Jubilee\"]\r\n[Date \"1984\"]\r\n[White \"Anatoly Karpov (h2 pawn removed)\"]\r\n[Black \"Simen Agdestein\"]\r\n[Result \"1-0\"]\r\n[FEN \"5kr1/5p2/8/1Q1bPp2/8/P5P1/q1rBBK2/3R4 w - - 0 32\"]\r\n\r\n32. Qxd5 Qxd5 33. Bh6+ Ke7 34. Rxd5 1-0",
+        "date": "2025-04-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-04_Discovering-the-Winning-Move-Order_Fiona-Steil-Antoni_2OM.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 23,
+        "solved_count": 20485,
+        "parsed": {
+            "moves": "32. Qxd5 Qxd5 33. Bh6+ Ke7 34. Rxd5 1-0",
+            "event": "Oslo Schakselskaps Jubilee",
+            "date": "1984",
+            "white": "Anatoly Karpov (h2 pawn removed)",
+            "black": "Simen Agdestein",
+            "result": "1-0",
+            "fen": "5kr1/5p2/8/1Q1bPp2/8/P5P1/q1rBBK2/3R4 w - - 0 32"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5kr1/5p2/8/1Q1bPp2/8/P5P1/q1rBBK2/3R4 w - - 0 32"
     }
 ]
