@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 3197,
-        "solved_count": 1631523,
+        "solved_count": 1632457,
         "parsed": {
             "moves": "1. Rc6+ 1-0",
             "date": "2025.04.01",
@@ -30,7 +30,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 758,
-        "solved_count": 1564534,
+        "solved_count": 1565799,
         "parsed": {
             "moves": "1. Ne4+ dxe4 2. Nc4# *",
             "result": "*",
@@ -47,8 +47,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-03_Translucent-Light-Squares_Fiona-Steil-Antoni_2OM.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 911,
-        "solved_count": 1479007,
+        "comment_count": 914,
+        "solved_count": 1481132,
         "parsed": {
             "moves": "1... Rxc2 2. Qxc2 Qf5 3. Bxb7 Qxc2 *",
             "white": "JohanVA",
@@ -67,8 +67,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-04_Discovering-the-Winning-Move-Order_Fiona-Steil-Antoni_2OM.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 709,
-        "solved_count": 1363525,
+        "comment_count": 718,
+        "solved_count": 1384482,
         "parsed": {
             "moves": "32. Qxd5 Qxd5 33. Bh6+ Ke7 34. Rxd5 1-0",
             "event": "Oslo Schakselskaps Jubilee",
@@ -79,5 +79,25 @@
             "fen": "5kr1/5p2/8/1Q1bPp2/8/P5P1/q1rBBK2/3R4 w - - 0 32"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=5kr1/5p2/8/1Q1bPp2/8/P5P1/q1rBBK2/3R4 w - - 0 32"
+    },
+    {
+        "id": 12992,
+        "title": "Majestic Pit Stop, Piece Drop",
+        "pgn": "[White \"chesstiger787\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"5bk1/5p1p/1q1rb1p1/1p6/p4B2/2QR1BP1/2P2P1P/6K1 w - - 0 1\"]\r\n\r\n1. Qf6 Bg7 2. Rxd6 Qxd6 3. Qxg7+ Kxg7 4. Bxd6 1-0",
+        "date": "2025-04-05",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-05_Majestic-Pit-Stop-Mic-Drop_Kostya-Kavutskiy_2OM.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 25,
+        "solved_count": 14045,
+        "parsed": {
+            "moves": "1. Qf6 Bg7 2. Rxd6 Qxd6 3. Qxg7+ Kxg7 4. Bxd6 1-0",
+            "white": "chesstiger787",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "5bk1/5p1p/1q1rb1p1/1p6/p4B2/2QR1BP1/2P2P1P/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5bk1/5p1p/1q1rb1p1/1p6/p4B2/2QR1BP1/2P2P1P/6K1 w - - 0 1"
     }
 ]
