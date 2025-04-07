@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-01_DONT-CHECKMATE-IN-ONE_Fiona-Steil-Antoni_15R.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 3279,
-        "solved_count": 1665860,
+        "comment_count": 3280,
+        "solved_count": 1666430,
         "parsed": {
             "moves": "1. Rc6+ 1-0",
             "date": "2025.04.01",
@@ -30,7 +30,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 760,
-        "solved_count": 1606610,
+        "solved_count": 1607282,
         "parsed": {
             "moves": "1. Ne4+ dxe4 2. Nc4# *",
             "result": "*",
@@ -48,7 +48,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 940,
-        "solved_count": 1540395,
+        "solved_count": 1541337,
         "parsed": {
             "moves": "1... Rxc2 2. Qxc2 Qf5 3. Bxb7 Qxc2 *",
             "white": "JohanVA",
@@ -68,7 +68,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 745,
-        "solved_count": 1491068,
+        "solved_count": 1492535,
         "parsed": {
             "moves": "32. Qxd5 Qxd5 33. Bh6+ Ke7 34. Rxd5 1-0",
             "event": "Oslo Schakselskaps Jubilee",
@@ -89,8 +89,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-05_Majestic-Pit-Stop-Mic-Drop_Kostya-Kavutskiy_2OM.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 757,
-        "solved_count": 1364569,
+        "comment_count": 758,
+        "solved_count": 1367320,
         "parsed": {
             "moves": "1. Qf6 Bg7 2. Rxd6 Qxd6 3. Qxg7+ Kxg7 4. Bxd6 1-0",
             "white": "chesstiger787",
@@ -110,7 +110,7 @@
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
         "comment_count": 1189,
-        "solved_count": 1303289,
+        "solved_count": 1326182,
         "parsed": {
             "moves": "1. Qf7+ Kxf7 2. Bd5+ Be6 3. Rxe6 Rc1+ 4. Re1# 1-0",
             "white": "Wouter Bik",
@@ -119,5 +119,23 @@
             "fen": "2r3k1/1Q4bp/1p1B1pp1/5b2/P7/6P1/1q4BP/4R2K w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2r3k1/1Q4bp/1p1B1pp1/5b2/P7/6P1/1q4BP/4R2K w - - 0 1"
+    },
+    {
+        "id": 13042,
+        "title": "Trip to the Light Squares",
+        "pgn": "[Result \"1-0\"]\r\n[FEN \"1k1r3r/2p1qppp/1pB2b2/p1pP1b2/4p3/4P2P/PPP3P1/1K1R1Q1R w - - 1 22\"]\r\n\r\n22. Qa6 Bc8 23. Qa8# 1-0",
+        "date": "2025-04-07",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-07_Trip-to-the-Light-Squares_Dane-Mattson_2OM.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 34,
+        "solved_count": 23065,
+        "parsed": {
+            "moves": "22. Qa6 Bc8 23. Qa8# 1-0",
+            "result": "1-0",
+            "fen": "1k1r3r/2p1qppp/1pB2b2/p1pP1b2/4p3/4P2P/PPP3P1/1K1R1Q1R w - - 1 22"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1k1r3r/2p1qppp/1pB2b2/p1pP1b2/4p3/4P2P/PPP3P1/1K1R1Q1R w - - 1 22"
     }
 ]
