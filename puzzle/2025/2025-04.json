@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 3319,
-        "solved_count": 1698620,
+        "solved_count": 1698992,
         "parsed": {
             "moves": "1. Rc6+ 1-0",
             "date": "2025.04.01",
@@ -30,7 +30,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 770,
-        "solved_count": 1645989,
+        "solved_count": 1646444,
         "parsed": {
             "moves": "1. Ne4+ dxe4 2. Nc4# *",
             "result": "*",
@@ -48,7 +48,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 961,
-        "solved_count": 1588990,
+        "solved_count": 1589699,
         "parsed": {
             "moves": "1... Rxc2 2. Qxc2 Qf5 3. Bxb7 Qxc2 *",
             "white": "JohanVA",
@@ -68,7 +68,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 760,
-        "solved_count": 1557020,
+        "solved_count": 1557912,
         "parsed": {
             "moves": "32. Qxd5 Qxd5 33. Bh6+ Ke7 34. Rxd5 1-0",
             "event": "Oslo Schakselskaps Jubilee",
@@ -90,7 +90,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 779,
-        "solved_count": 1466151,
+        "solved_count": 1467412,
         "parsed": {
             "moves": "1. Qf6 Bg7 2. Rxd6 Qxd6 3. Qxg7+ Kxg7 4. Bxd6 1-0",
             "white": "chesstiger787",
@@ -109,8 +109,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-06_Forcing-Moves-Rebound_Wouter-Bik_2OM.mp4",
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
-        "comment_count": 1292,
-        "solved_count": 1491734,
+        "comment_count": 1294,
+        "solved_count": 1493398,
         "parsed": {
             "moves": "1. Qf7+ Kxf7 2. Bd5+ Be6 3. Rxe6 Rc1+ 4. Re1# 1-0",
             "white": "Wouter Bik",
@@ -130,7 +130,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 996,
-        "solved_count": 1583300,
+        "solved_count": 1585821,
         "parsed": {
             "moves": "22. Qa6 Bc8 23. Qa8# 1-0",
             "result": "1-0",
@@ -147,8 +147,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-08_Magnetic-Touchdown_Fiona-Steil-Antoni_2OM.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 832,
-        "solved_count": 1416387,
+        "comment_count": 841,
+        "solved_count": 1438771,
         "parsed": {
             "moves": "26. Qf8+ Kxf8 27. Re8# 1-0",
             "white": "goniners",
@@ -157,5 +157,25 @@
             "fen": "6k1/1b1r1pp1/pq5p/5N2/2p2P1P/QP1r2P1/P3R2K/4R3 w - - 0 26"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/1b1r1pp1/pq5p/5N2/2p2P1P/QP1r2P1/P3R2K/4R3 w - - 0 26"
+    },
+    {
+        "id": 13000,
+        "title": "Promising Light Squared Alignment",
+        "pgn": "[White \"EnPassantFork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"k2r4/1p3b2/1p1p2p1/1q1r4/5P1P/PP3K1P/1Q4B1/1R1R4 b - - 2 33\"]\r\n\r\n33... Rxd1 34. Rxd1 Qh5+ 35. Kf2 Qxd1 0-1",
+        "date": "2025-04-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-09_Promising-Light-Squared-Alignment_Kostya-Kavutskiy_2OM.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 20,
+        "solved_count": 20156,
+        "parsed": {
+            "moves": "33... Rxd1 34. Rxd1 Qh5+ 35. Kf2 Qxd1 0-1",
+            "white": "EnPassantFork",
+            "black": "Daily Puzzle Inspiration",
+            "result": "0-1",
+            "fen": "k2r4/1p3b2/1p1p2p1/1q1r4/5P1P/PP3K1P/1Q4B1/1R1R4 b - - 2 33"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=k2r4/1p3b2/1p1p2p1/1q1r4/5P1P/PP3K1P/1Q4B1/1R1R4 b - - 2 33"
     }
 ]
