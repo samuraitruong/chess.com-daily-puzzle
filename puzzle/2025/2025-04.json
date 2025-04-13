@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 3333,
-        "solved_count": 1701696,
+        "solved_count": 1701718,
         "parsed": {
             "moves": "1. Rc6+ 1-0",
             "date": "2025.04.01",
@@ -30,7 +30,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 771,
-        "solved_count": 1658356,
+        "solved_count": 1658382,
         "parsed": {
             "moves": "1. Ne4+ dxe4 2. Nc4# *",
             "result": "*",
@@ -48,7 +48,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 974,
-        "solved_count": 1616532,
+        "solved_count": 1616553,
         "parsed": {
             "moves": "1... Rxc2 2. Qxc2 Qf5 3. Bxb7 Qxc2 *",
             "white": "JohanVA",
@@ -68,7 +68,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 777,
-        "solved_count": 1603203,
+        "solved_count": 1603227,
         "parsed": {
             "moves": "32. Qxd5 Qxd5 33. Bh6+ Ke7 34. Rxd5 1-0",
             "event": "Oslo Schakselskaps Jubilee",
@@ -90,7 +90,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 803,
-        "solved_count": 1536039,
+        "solved_count": 1536319,
         "parsed": {
             "moves": "1. Qf6 Bg7 2. Rxd6 Qxd6 3. Qxg7+ Kxg7 4. Bxd6 1-0",
             "white": "chesstiger787",
@@ -110,7 +110,7 @@
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
         "comment_count": 1360,
-        "solved_count": 1583910,
+        "solved_count": 1584284,
         "parsed": {
             "moves": "1. Qf7+ Kxf7 2. Bd5+ Be6 3. Rxe6 Rc1+ 4. Re1# 1-0",
             "white": "Wouter Bik",
@@ -130,7 +130,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1041,
-        "solved_count": 1701514,
+        "solved_count": 1702053,
         "parsed": {
             "moves": "22. Qa6 Bc8 23. Qa8# 1-0",
             "result": "1-0",
@@ -148,7 +148,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 894,
-        "solved_count": 1617476,
+        "solved_count": 1618126,
         "parsed": {
             "moves": "26. Qf8+ Kxf8 27. Re8# 1-0",
             "white": "goniners",
@@ -168,7 +168,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 844,
-        "solved_count": 1545002,
+        "solved_count": 1545800,
         "parsed": {
             "moves": "33... Rxd1 34. Rxd1 Qh5+ 35. Kf2 Qxd1 0-1",
             "white": "EnPassantFork",
@@ -188,7 +188,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 820,
-        "solved_count": 1516992,
+        "solved_count": 1518108,
         "parsed": {
             "moves": "18. Rb7+ Bxb7 19. Ne6+ Kc8 20. Rd8# 1-0",
             "result": "1-0",
@@ -205,8 +205,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-11_Decisive-Leap_Fiona-Steil-Antoni_2OM.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 723,
-        "solved_count": 1440365,
+        "comment_count": 724,
+        "solved_count": 1442334,
         "parsed": {
             "moves": "1. Qxf7+ Kxf7 2. Ne7+ Bf4 3. Rxf4# 1-0",
             "white": "badbigdog",
@@ -225,8 +225,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-12_Follow-the-Forcing-Moves_Wouter-Bik_2OM.mp4",
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
-        "comment_count": 802,
-        "solved_count": 1248562,
+        "comment_count": 811,
+        "solved_count": 1269216,
         "parsed": {
             "moves": "0-1",
             "white": "Bikfoot",
@@ -235,5 +235,25 @@
             "fen": "5rk1/3Q3R/p4bpn/4p3/2b1R1P1/2N4P/PP3BK1/2q5 b - - 6 29"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=5rk1/3Q3R/p4bpn/4p3/2b1R1P1/2N4P/PP3BK1/2q5 b - - 6 29"
+    },
+    {
+        "id": 13020,
+        "title": "Cash In or Crash In?",
+        "pgn": "[White \"himavanth0010\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"4rr1k/PQ4p1/8/7p/2p2pqP/p4N2/4B1P1/2B2K1R b - - 0 1\"]\r\n\r\n1... Rxe2 2. Kxe2 Qxg2+ 3. Kd1 Rd8+ 4. Bd2 Rxd2+ 5. Nxd2 Qxb7 0-1",
+        "date": "2025-04-13",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-04-13_Crash-In-Cash-In_Dane-Mattson_2OM.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 27,
+        "solved_count": 15120,
+        "parsed": {
+            "moves": "1... Rxe2 2. Kxe2 Qxg2+ 3. Kd1 Rd8+ 4. Bd2 Rxd2+ 5. Nxd2 Qxb7 0-1",
+            "white": "himavanth0010",
+            "black": "Daily Puzzle Inspiration",
+            "result": "0-1",
+            "fen": "4rr1k/PQ4p1/8/7p/2p2pqP/p4N2/4B1P1/2B2K1R b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4rr1k/PQ4p1/8/7p/2p2pqP/p4N2/4B1P1/2B2K1R b - - 0 1"
     }
 ]
