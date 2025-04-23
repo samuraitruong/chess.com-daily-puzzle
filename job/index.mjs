@@ -17,10 +17,100 @@ axiosRetry(axios, {
   },
 });
 
+function extractMainLine(rawInput) {
+  return rawInput
+    .replace(/\r?\n|\r/g, " ") // Remove newlines
+    .replace(/\{[^}]*\}/g, "") // Remove comments
+    .replace(/\([^)]*\)/g, "") // Remove variations in parentheses
+    .replace(/\$\d+/g, "") // Remove annotations like $4
+    .replace(/\*/g, "") // Remove game end marker
+    .replace(/\d+\s*\.\.\./g, "") // Remove move numbers like 2...
+    .replace(/\d+\s*\./g, "") // Remove move numbers like 2.
+    .replace(/\s+/g, " ") // Collapse multiple spaces
+    .trim()
+    .split(" ")
+    .filter(Boolean); // Remove any empty elements
+}
+
+function extractMoves(rawInput) {
+  console.log("===== RAW INPUT =====");
+  console.log(rawInput);
+  console.log("=====================\n");
+
+  // STEP 1: Normalize everything early
+  let preCleaned = rawInput
+    .replace(/\([^)]*\)/g, "")
+    .replace(/\r?\n|\r/g, " ") // Remove newlines early
+    .replace(/\s+/g, " ") // Collapse multiple spaces
+    .replace(/\{[^}]*\}/g, "") // Remove comments
+    .replace(/\$\d+/g, "") // Remove $N annotations
+    .replace(/\*/g, "") // Remove game end marker
+    .replace(/\d+\s*\.\.\./g, "") // Remove black move numbers like 2...
+    .replace(/\d+\s*\./g, "") // Remove white move numbers like 2.
+    .trim();
+
+  console.log("===== PRE-CLEANED STRING =====");
+  console.log(preCleaned);
+  console.log("==============================\n");
+
+  let index = 0;
+
+  function parseLine() {
+    const stack = [[]];
+
+    while (index < preCleaned.length) {
+      const char = preCleaned[index];
+
+      if (char === "(") {
+        index++; // skip (
+        const variations = parseLine(); // recursively parse variation
+        const newStack = [];
+
+        for (let seq of stack) {
+          for (let variation of variations) {
+            newStack.push([...seq, ...variation]);
+          }
+        }
+
+        stack.push(...newStack);
+      } else if (char === ")") {
+        index++; // skip )
+        break;
+      } else {
+        const match = preCleaned.slice(index).match(/^[^\s()]+/);
+        if (!match) break;
+
+        const move = match[0];
+        for (let seq of stack) {
+          seq.push(move);
+        }
+
+        index += move.length;
+        while (preCleaned[index] === " ") index++;
+      }
+    }
+
+    return stack;
+  }
+
+  const result = parseLine();
+
+  console.log("===== PARSED VARIATIONS =====");
+  result.forEach((line, i) => {
+    console.log(`Line ${i + 1}: ${line.join(" ")}`);
+  });
+  console.log("==============================\n");
+
+  return result;
+}
+
 function parsePgn(pgn) {
+  const pos = pgn.lastIndexOf("]");
+
   const lines = pgn.split("\r\n").filter((x) => x !== "");
-  const moves = lines.pop();
-  const data = { moves };
+  const raw = pgn.substring(pos + 1).trim();
+  const moves = extractMainLine(raw);
+  const data = { moves, raw };
   for (const line of lines) {
     const matches = line.match(/\[(.*)\s"(.*)"\]/i);
     if (matches) {
@@ -71,7 +161,13 @@ async function main() {
   let allPuzzle = [];
 
   const processMonth = async (month) => {
-    const currentMonth = moment().subtract(+month, "months").endOf("month");
+    let currentMonth =
+      process.env.DEBUG_MONTH ||
+      moment().subtract(+month, "months").endOf("month");
+
+    if (process.env.DEBUG_MONTH) {
+      currentMonth = moment(process.env.DEBUG_MONTH).endOf("month");
+    }
     const data = await fetchMonth(currentMonth);
     console.log(currentMonth.format("MM/YYYY"), data.length);
     const key = `${puzzleDir}/${currentMonth.format("YYYY/YYYY-MM")}.json`;

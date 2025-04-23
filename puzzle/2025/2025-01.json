@@ -9,9 +9,22 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1461,
+<<<<<<< HEAD
         "solved_count": 1789077,
+=======
+        "solved_count": 1789080,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1... Qxb1+ 2. Qxb1 Rxb1+ 3. Rxb1 Rxb1+ 4. Kxb1 f1=Q+ *",
+            "moves": [
+                "Qxb1+",
+                "Qxb1",
+                "Rxb1+",
+                "Rxb1",
+                "Rxb1+",
+                "Kxb1",
+                "f1=Q+"
+            ],
+            "raw": "1... Qxb1+ 2. Qxb1 Rxb1+ 3. Rxb1 Rxb1+ 4. Kxb1 f1=Q+ *",
             "result": "*",
             "fen": "1r4k1/p5p1/1r5p/7P/P7/1qP1R3/5p2/KBQR4 b - - 0 1"
         },
@@ -27,9 +40,19 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1138,
+<<<<<<< HEAD
         "solved_count": 1800857,
+=======
+        "solved_count": 1800859,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1. Nf5+ gxf5 2. Qg5# 1-0",
+            "moves": [
+                "Nf5+",
+                "gxf5",
+                "Qg5#",
+                "1-0"
+            ],
+            "raw": "1. Nf5+ gxf5 2. Qg5# 1-0",
             "white": "EnPassantFork",
             "black": "Daily Puzzle Inspiration",
             "result": "1-0",
@@ -47,9 +70,21 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 910,
+<<<<<<< HEAD
         "solved_count": 1800106,
+=======
+        "solved_count": 1800107,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "45. Rb7+ Kh6 46. Rxb8 Rd7 47. Be3+ 1-0",
+            "moves": [
+                "Rb7+",
+                "Kh6",
+                "Rxb8",
+                "Rd7",
+                "Be3+",
+                "1-0"
+            ],
+            "raw": "45. Rb7+ Kh6 46. Rxb8 Rd7 47. Be3+ 1-0",
             "event": "Chess.com Titled Tuesday",
             "site": "Chess.com",
             "date": "2021.09.21",
@@ -70,9 +105,27 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 940,
+<<<<<<< HEAD
         "solved_count": 1768954,
+=======
+        "solved_count": 1768955,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1. Rd8+ Ng8 2. Rxg8+ Kxg8 3. Qd8+ Kh7 4. Ng5+ Kh6 5. Qh8+ Rh7 6. Qxh7# 1-0",
+            "moves": [
+                "Rd8+",
+                "Ng8",
+                "Rxg8+",
+                "Kxg8",
+                "Qd8+",
+                "Kh7",
+                "Ng5+",
+                "Kh6",
+                "Qh8+",
+                "Rh7",
+                "Qxh7#",
+                "1-0"
+            ],
+            "raw": "1. Rd8+ Ng8 2. Rxg8+ Kxg8 3. Qd8+ Kh7 4. Ng5+ Kh6 5. Qh8+ Rh7 6. Qxh7# 1-0",
             "white": "himavanth0010",
             "black": "Daily Puzzle Inspiration",
             "result": "1-0",
@@ -90,9 +143,28 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1192,
+<<<<<<< HEAD
         "solved_count": 1788102,
+=======
+        "solved_count": 1788104,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "Qxb7 *",
+            "moves": [
+                "Qxf7+",
+                "Kh6",
+                "Qxh7+",
+                "Kxg5",
+                "h4+",
+                "Kf4",
+                "Qh6+",
+                "Ke4",
+                "Qxe3+",
+                "Kd5",
+                "Qf3+",
+                "Ke6",
+                "Qxb7"
+            ],
+            "raw": "1. Qxf7+ Kh6 2. Qxh7+ Kxg5 3. h4+ Kf4 4. Qh6+ Ke4 5. Qxe3+ Kd5 6. Qf3+ Ke6 7.\r\nQxb7 *",
             "result": "*",
             "fen": "2r1r3/1q1p1pkp/1p4p1/4PpN1/Pp1P4/1QP1n3/5PPP/2R3K1 w - - 0 1"
         },
@@ -108,9 +180,19 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1167,
+<<<<<<< HEAD
         "solved_count": 1933977,
+=======
+        "solved_count": 1933979,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "28. Re8+ Kg7 29. Qh6# 1-0",
+            "moves": [
+                "Re8+",
+                "Kg7",
+                "Qh6#",
+                "1-0"
+            ],
+            "raw": "28. Re8+ Kg7 29. Qh6# 1-0",
             "event": "Live Chess",
             "site": "Chess.com",
             "date": "2024.12.15",
@@ -134,9 +216,18 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1042,
+<<<<<<< HEAD
         "solved_count": 1844173,
+=======
+        "solved_count": 1844174,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1... Nb3+ 2. axb3 Qxf2 *",
+            "moves": [
+                "Nb3+",
+                "axb3",
+                "Qxf2"
+            ],
+            "raw": "1... Nb3+ 2. axb3 Qxf2 *",
             "event": "Chess.com Blitz",
             "date": "2024.12.24",
             "white": "Happy Birthday, Anna-Maja!",
@@ -158,9 +249,20 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1011,
+<<<<<<< HEAD
         "solved_count": 1831978,
+=======
+        "solved_count": 1831980,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1... Rxb4+ 2. cxb4 Qa3+ 3. Kb1 Qa1# *",
+            "moves": [
+                "Rxb4+",
+                "cxb4",
+                "Qa3+",
+                "Kb1",
+                "Qa1#"
+            ],
+            "raw": "1... Rxb4+ 2. cxb4 Qa3+ 3. Kb1 Qa1# *",
             "result": "*",
             "fen": "r2n1k2/2QP1ppB/7p/1r6/1P3B2/2P4q/1KR4P/2R5 b - - 0 1"
         },
@@ -176,9 +278,21 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 990,
+<<<<<<< HEAD
         "solved_count": 1863039,
+=======
+        "solved_count": 1863041,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "27. Bh7+ Kxh7 28. Qh6+ Kg8 29. Qh8# 1-0",
+            "moves": [
+                "Bh7+",
+                "Kxh7",
+                "Qh6+",
+                "Kg8",
+                "Qh8#",
+                "1-0"
+            ],
+            "raw": "27. Bh7+ Kxh7 28. Qh6+ Kg8 29. Qh8# 1-0",
             "white": "GuyLemieux",
             "black": "Daily Puzzle Inspiration",
             "result": "1-0",
@@ -196,9 +310,23 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1164,
+<<<<<<< HEAD
         "solved_count": 1747781,
+=======
+        "solved_count": 1747783,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "16. Rb1 Bxb1 17. Rxb1 Qa2 18. Bb3 Qxb1+ 19. Nxb1 1-0",
+            "moves": [
+                "Rb1",
+                "Bxb1",
+                "Rxb1",
+                "Qa2",
+                "Bb3",
+                "Qxb1+",
+                "Nxb1",
+                "1-0"
+            ],
+            "raw": "16. Rb1 Bxb1 17. Rxb1 Qa2 18. Bb3 Qxb1+ 19. Nxb1 1-0",
             "white": "Happy Birthday, Fiona!",
             "black": "Daily Puzzle Inspiration",
             "result": "1-0",
@@ -216,9 +344,27 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 778,
+<<<<<<< HEAD
         "solved_count": 1726206,
+=======
+        "solved_count": 1726207,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "0-1",
+            "moves": [
+                "Rg6+",
+                "Kh1",
+                "Qh3+",
+                "Rh2",
+                "Qxh2+",
+                "Kxh2",
+                "Kf7",
+                "Qe1",
+                "Rh8+",
+                "Qh4",
+                "Rxh4#",
+                "0-1"
+            ],
+            "raw": "24... Rg6+ 25. Kh1 Qh3+ 26. Rh2 Qxh2+ 27. Kxh2 Kf7 28. Qe1 Rh8+ 29. Qh4 Rxh4#\r\n0-1",
             "event": "It (cat.11)",
             "site": "Liepaya (Latvia)",
             "date": "2004.08.01",
@@ -239,9 +385,25 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 915,
+<<<<<<< HEAD
         "solved_count": 1722136,
+=======
+        "solved_count": 1722138,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1... Qh4 2. g3 Ng5+ 3. Kg2 Qh3+ 4. Kg1 Bxf1 5. Qxf1 Nf3# 0-1",
+            "moves": [
+                "Qh4",
+                "g3",
+                "Ng5+",
+                "Kg2",
+                "Qh3+",
+                "Kg1",
+                "Bxf1",
+                "Qxf1",
+                "Nf3#",
+                "0-1"
+            ],
+            "raw": "1... Qh4 2. g3 Ng5+ 3. Kg2 Qh3+ 4. Kg1 Bxf1 5. Qxf1 Nf3# 0-1",
             "white": "Daily Puzzle Inspiration",
             "result": "0-1",
             "fen": "N2q2kr/pp3ppp/4p3/1b1p4/3PnB2/4PK2/P2b1PPP/R2Q1B1R b - - 0 1"
@@ -258,9 +420,17 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1212,
+<<<<<<< HEAD
         "solved_count": 1889824,
+=======
+        "solved_count": 1889826,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1. Qa4# 1-0",
+            "moves": [
+                "Qa4#",
+                "1-0"
+            ],
+            "raw": "1. Qa4# 1-0",
             "result": "1-0",
             "fen": "1r2k2r/p3pq1p/1b2N1p1/3p4/5Q2/B1P5/P5Pn/K7 w k - 0 1"
         },
@@ -276,9 +446,19 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1593,
+<<<<<<< HEAD
         "solved_count": 1834423,
+=======
+        "solved_count": 1834425,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "27. Rh8+ Bxh8 28. Rxh8# 1-0",
+            "moves": [
+                "Rh8+",
+                "Bxh8",
+                "Rxh8#",
+                "1-0"
+            ],
+            "raw": "27. Rh8+ Bxh8 28. Rxh8# 1-0",
             "event": "Live Chess",
             "site": "Chess.com",
             "date": "2024.10.01",
@@ -303,9 +483,20 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1764,
+<<<<<<< HEAD
         "solved_count": 1795484,
+=======
+        "solved_count": 1795487,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1... b5+ 2. cxb6 Nb7 3. b5 Nc5# *",
+            "moves": [
+                "b5+",
+                "cxb6",
+                "Nb7",
+                "b5",
+                "Nc5#"
+            ],
+            "raw": "1... b5+ 2. cxb6 Nb7 3. b5 Nc5# *",
             "result": "*",
             "fen": "3n4/1p6/6p1/B1P2pP1/KPk2P2/P7/8/8 b - - 0 1"
         },
@@ -321,9 +512,20 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1134,
+<<<<<<< HEAD
         "solved_count": 1740057,
+=======
+        "solved_count": 1740061,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1. Rxh6+ Kxh6 2. Qh5+ Kg7 3. Nxe4 *",
+            "moves": [
+                "Rxh6+",
+                "Kxh6",
+                "Qh5+",
+                "Kg7",
+                "Nxe4"
+            ],
+            "raw": "1. Rxh6+ Kxh6 2. Qh5+ Kg7 3. Nxe4 *",
             "result": "*",
             "fen": "1r4rb/p3n2k/4p2p/2p5/R2pqP2/1NP3NR/1P5P/3Q2K1 w - - 0 1"
         },
@@ -339,9 +541,21 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 810,
+<<<<<<< HEAD
         "solved_count": 1681906,
+=======
+        "solved_count": 1681910,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "21. Nf5 gxf5 22. Bxf5+ Kd6 23. Qxd7# 1-0",
+            "moves": [
+                "Nf5",
+                "gxf5",
+                "Bxf5+",
+                "Kd6",
+                "Qxd7#",
+                "1-0"
+            ],
+            "raw": "21. Nf5 gxf5 22. Bxf5+ Kd6 23. Qxd7# 1-0",
             "white": "Gorgonops",
             "black": "Daily Puzzle Inspiration",
             "result": "1-0",
@@ -359,9 +573,19 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1140,
+<<<<<<< HEAD
         "solved_count": 1667956,
+=======
+        "solved_count": 1667960,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1. Qa5 Bb7 2. Nf5# 1-0",
+            "moves": [
+                "Qa5",
+                "Bb7",
+                "Nf5#",
+                "1-0"
+            ],
+            "raw": "1. Qa5 Bb7 2. Nf5# 1-0",
             "event": "1859 Study",
             "white": "Sam Loyd",
             "black": "Daily Puzzle Inspiration",
@@ -380,9 +604,26 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1091,
+<<<<<<< HEAD
         "solved_count": 1719157,
+=======
+        "solved_count": 1719161,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1. b3+ Ka5 2. Bg5 g1=Q 3. Bd2+ Kb6 4. Be3+ Qxe3 5. Nd5+ Kc5 6. Nxe3 *",
+            "moves": [
+                "b3+",
+                "Ka5",
+                "Bg5",
+                "g1=Q",
+                "Bd2+",
+                "Kb6",
+                "Be3+",
+                "Qxe3",
+                "Nd5+",
+                "Kc5",
+                "Nxe3"
+            ],
+            "raw": "1. b3+ Ka5 2. Bg5 g1=Q 3. Bd2+ Kb6 4. Be3+ Qxe3 5. Nd5+ Kc5 6. Nxe3 *",
             "result": "*",
             "fen": "3B4/p1N5/8/8/k7/8/1PK3p1/8 w - - 0 1"
         },
@@ -398,9 +639,18 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1258,
+<<<<<<< HEAD
         "solved_count": 1834313,
+=======
+        "solved_count": 1834315,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1. Kf6 c1=Q 2. Nd7# *",
+            "moves": [
+                "Kf6",
+                "c1=Q",
+                "Nd7#"
+            ],
+            "raw": "1. Kf6 c1=Q 2. Nd7# *",
             "result": "*",
             "fen": "5k2/5P2/6p1/4N1K1/8/8/2p5/1b6 w - - 0 1"
         },
@@ -416,9 +666,20 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 2165,
+<<<<<<< HEAD
         "solved_count": 1729610,
+=======
+        "solved_count": 1729613,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1. Bxe4 fxe4 2. Qd5+ Kh8 3. Qxc6 *",
+            "moves": [
+                "Bxe4",
+                "fxe4",
+                "Qd5+",
+                "Kh8",
+                "Qxc6"
+            ],
+            "raw": "1. Bxe4 fxe4 2. Qd5+ Kh8 3. Qxc6 *",
             "result": "*",
             "fen": "1r1q1rk1/7p/p1np4/1p2pp1p/1P2b3/P2BN3/1P3PPP/R2QK2R w KQ - 0 1"
         },
@@ -434,9 +695,21 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1170,
+<<<<<<< HEAD
         "solved_count": 1689045,
+=======
+        "solved_count": 1689046,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1. Ba3+ Ne7 2. Nxh7+ Kg8 3. Qxe5 1-0",
+            "moves": [
+                "Ba3+",
+                "Ne7",
+                "Nxh7+",
+                "Kg8",
+                "Qxe5",
+                "1-0"
+            ],
+            "raw": "1. Ba3+ Ne7 2. Nxh7+ Kg8 3. Qxe5 1-0",
             "white": "JohanVA",
             "black": "Daily Puzzle Inspiration",
             "result": "1-0",
@@ -454,9 +727,21 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1030,
+<<<<<<< HEAD
         "solved_count": 1533043,
+=======
+        "solved_count": 1533044,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1. Ba3+ Kg8 2. Qf7+ Nxf7 3. exf7# 1-0",
+            "moves": [
+                "Ba3+",
+                "Kg8",
+                "Qf7+",
+                "Nxf7",
+                "exf7#",
+                "1-0"
+            ],
+            "raw": "1. Ba3+ Kg8 2. Qf7+ Nxf7 3. exf7# 1-0",
             "white": "JohanVA",
             "black": "Daily Puzzle Inspiration Take Two",
             "result": "1-0",
@@ -474,9 +759,21 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 778,
+<<<<<<< HEAD
         "solved_count": 1707719,
+=======
+        "solved_count": 1707720,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1. Rc2 Qxf5 2. Qxh8+ Qf8 3. Qxf8# 1-0",
+            "moves": [
+                "Rc2",
+                "Qxf5",
+                "Qxh8+",
+                "Qf8",
+                "Qxf8#",
+                "1-0"
+            ],
+            "raw": "1. Rc2 Qxf5 2. Qxh8+ Qf8 3. Qxf8# 1-0",
             "white": "EnPassantFork",
             "black": "Daily Puzzle Inspiration",
             "result": "1-0",
@@ -494,9 +791,25 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 884,
+<<<<<<< HEAD
         "solved_count": 1656547,
+=======
+        "solved_count": 1656548,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1. Qe8+ Nf8 2. Nh6+ gxh6 3. Qxf8+ Kxf8 4. Bxh6+ Kg8 5. Re8# 1-0",
+            "moves": [
+                "Qe8+",
+                "Nf8",
+                "Nh6+",
+                "gxh6",
+                "Qxf8+",
+                "Kxf8",
+                "Bxh6+",
+                "Kg8",
+                "Re8#",
+                "1-0"
+            ],
+            "raw": "1. Qe8+ Nf8 2. Nh6+ gxh6 3. Qxf8+ Kxf8 4. Bxh6+ Kg8 5. Re8# 1-0",
             "white": "d_jinny",
             "black": "Daily Puzzle Inspiration",
             "result": "1-0",
@@ -514,9 +827,23 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 920,
+<<<<<<< HEAD
         "solved_count": 1691496,
+=======
+        "solved_count": 1691497,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1... Qf2+ 2. Ke5 Qb2+ 3. Rd4 Qh2+ 4. Kd5 c6# 0-1",
+            "moves": [
+                "Qf2+",
+                "Ke5",
+                "Qb2+",
+                "Rd4",
+                "Qh2+",
+                "Kd5",
+                "c6#",
+                "0-1"
+            ],
+            "raw": "1... Qf2+ 2. Ke5 Qb2+ 3. Rd4 Qh2+ 4. Kd5 c6# 0-1",
             "white": "Daily Puzzle Inspiration",
             "result": "0-1",
             "fen": "3R4/2pR1ppk/1p4r1/p4Q1P/2P1PKp1/1P2P3/8/4q3 b - - 0 1"
@@ -533,9 +860,18 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 964,
+<<<<<<< HEAD
         "solved_count": 1823820,
+=======
+        "solved_count": 1823821,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1. Bxb7 Nxf3+ 2. Bxf3 *",
+            "moves": [
+                "Bxb7",
+                "Nxf3+",
+                "Bxf3"
+            ],
+            "raw": "1. Bxb7 Nxf3+ 2. Bxf3 *",
             "result": "*",
             "fen": "2rq1rk1/1bp1bpp1/p2p1n1p/1p1Bn3/8/2N2NP1/PPPQ1P1P/R1B1R1K1 w - - 0 1"
         },
@@ -551,9 +887,21 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1262,
+<<<<<<< HEAD
         "solved_count": 1776702,
+=======
+        "solved_count": 1776703,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1... Rh8+ 2. Kg2 Qe2+ 3. Kg3 Qh2# 0-1",
+            "moves": [
+                "Rh8+",
+                "Kg2",
+                "Qe2+",
+                "Kg3",
+                "Qh2#",
+                "0-1"
+            ],
+            "raw": "1... Rh8+ 2. Kg2 Qe2+ 3. Kg3 Qh2# 0-1",
             "white": "AstrocatTBC",
             "black": "Daily Puzzle Inspiration",
             "result": "0-1",
@@ -571,9 +919,20 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1184,
+<<<<<<< HEAD
         "solved_count": 1748030,
+=======
+        "solved_count": 1748032,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1. Qxc8+ Bxc8 2. Bc4+ Kh8 3. Rf8# *",
+            "moves": [
+                "Qxc8+",
+                "Bxc8",
+                "Bc4+",
+                "Kh8",
+                "Rf8#"
+            ],
+            "raw": "1. Qxc8+ Bxc8 2. Bc4+ Kh8 3. Rf8# *",
             "result": "*",
             "fen": "2r3k1/pQ4pp/4b3/qn2p3/8/1PP1bR2/P5PP/5B1K w - - 0 1"
         },
@@ -589,9 +948,21 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1190,
+<<<<<<< HEAD
         "solved_count": 1759122,
+=======
+        "solved_count": 1759124,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1. Nxe6+ Ke8 2. Rf8+ Rxf8 3. Qxf8# 1-0",
+            "moves": [
+                "Nxe6+",
+                "Ke8",
+                "Rf8+",
+                "Rxf8",
+                "Qxf8#",
+                "1-0"
+            ],
+            "raw": "1. Nxe6+ Ke8 2. Rf8+ Rxf8 3. Qxf8# 1-0",
             "white": "DogbrainLT + JohanVA Collab",
             "black": "Daily Puzzle Inspiration!",
             "result": "1-0",
@@ -609,9 +980,19 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1216,
+<<<<<<< HEAD
         "solved_count": 1676475,
+=======
+        "solved_count": 1676477,
+>>>>>>> 2e4d868856 (fix wrong parsing for analysis lines)
         "parsed": {
-            "moves": "1... Nb3 2. Nxb3 Kxd7 0-1",
+            "moves": [
+                "Nb3",
+                "Nxb3",
+                "Kxd7",
+                "0-1"
+            ],
+            "raw": "1... Nb3 2. Nxb3 Kxd7 0-1",
             "white": "Daily Puzzle Inspiration",
             "black": "Happy Birthday Wenjun, Ju",
             "result": "0-1",

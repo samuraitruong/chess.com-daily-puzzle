@@ -11,7 +11,13 @@
         "comment_count": 526,
         "solved_count": 6217,
         "parsed": {
-            "moves": "46.Nc5 g4 47.Ne6# 1-0",
+            "moves": [
+                "Nc5",
+                "g4",
+                "Ne6#",
+                "1-0"
+            ],
+            "raw": "46.Nc5 g4 47.Ne6# 1-0",
             "event": "GCT Blitz Paris 2016",
             "site": "Paris FRA",
             "date": "2016.06.12",
@@ -34,7 +40,17 @@
         "comment_count": 431,
         "solved_count": 5892,
         "parsed": {
-            "moves": "28.Nf5+ exf5 29.exf6+ Kf8 30.Rxc6 Rxc6 31.Rd8# 1-0",
+            "moves": [
+                "Nf5+",
+                "exf5",
+                "exf6+",
+                "Kf8",
+                "Rxc6",
+                "Rxc6",
+                "Rd8#",
+                "1-0"
+            ],
+            "raw": "28.Nf5+ exf5 29.exf6+ Kf8 30.Rxc6 Rxc6 31.Rd8# 1-0",
             "event": "Zurich",
             "site": "Zurich SUI",
             "date": "1959.05.21",
@@ -58,7 +74,18 @@
         "comment_count": 386,
         "solved_count": 5830,
         "parsed": {
-            "moves": "1...Nxc3 2.Kxc3 d4+ 3.Kb2 d3 4.Kc1 d2+ 5.Kxd2 b2 *",
+            "moves": [
+                "Nxc3",
+                "Kxc3",
+                "d4+",
+                "Kb2",
+                "d3",
+                "Kc1",
+                "d2+",
+                "Kxd2",
+                "b2"
+            ],
+            "raw": "1...Nxc3 2.Kxc3 d4+ 3.Kb2 d3 4.Kc1 d2+ 5.Kxd2 b2 *",
             "result": "*",
             "fen": "6k1/5p1p/p5p1/1n1p2P1/5P1P/1pB5/1Kb5/R7 b - - 0 1"
         },
@@ -76,7 +103,15 @@
         "comment_count": 383,
         "solved_count": 5782,
         "parsed": {
-            "moves": "25...Ra3 26.Rd1 Qxd1+ 27.Bxd1 Rxa7 0-1",
+            "moves": [
+                "Ra3",
+                "Rd1",
+                "Qxd1+",
+                "Bxd1",
+                "Rxa7",
+                "0-1"
+            ],
+            "raw": "25...Ra3 26.Rd1 Qxd1+ 27.Bxd1 Rxa7 0-1",
             "event": "GRENKE Chess Classic",
             "site": "Karlsruhe GER",
             "date": "2018.03.31",
@@ -100,7 +135,18 @@
         "comment_count": 360,
         "solved_count": 5695,
         "parsed": {
-            "moves": "1.Ra3 Kxa3 2.axb5 a4 3.b6 Kb2 4.b7 a3 5.b8=Q+ *",
+            "moves": [
+                "Ra3",
+                "Kxa3",
+                "axb5",
+                "a4",
+                "b6",
+                "Kb2",
+                "b7",
+                "a3",
+                "b8=Q+"
+            ],
+            "raw": "1.Ra3 Kxa3 2.axb5 a4 3.b6 Kb2 4.b7 a3 5.b8=Q+ *",
             "date": "1903",
             "white": "Gruenfeld",
             "black": "Study",
@@ -121,7 +167,21 @@
         "comment_count": 497,
         "solved_count": 5799,
         "parsed": {
-            "moves": "1.Rg1+ Kb2 2.Rg7 Bh3 3.Rh7 Bf1 4.Rb7+ Ka3 5.Kf2 Bh3 6.Rxb8 1-0",
+            "moves": [
+                "Rg1+",
+                "Kb2",
+                "Rg7",
+                "Bh3",
+                "Rh7",
+                "Bf1",
+                "Rb7+",
+                "Ka3",
+                "Kf2",
+                "Bh3",
+                "Rxb8",
+                "1-0"
+            ],
+            "raw": "1.Rg1+ Kb2 2.Rg7 Bh3 3.Rh7 Bf1 4.Rb7+ Ka3 5.Kf2 Bh3 6.Rxb8 1-0",
             "site": "Shakhmatny Listok",
             "date": "1927",
             "white": "Kaminer, Sergey",
@@ -143,7 +203,13 @@
         "comment_count": 482,
         "solved_count": 5705,
         "parsed": {
-            "moves": "21.Qf5+ Qxf5 22.exf5# 1-0",
+            "moves": [
+                "Qf5+",
+                "Qxf5",
+                "exf5#",
+                "1-0"
+            ],
+            "raw": "21.Qf5+ Qxf5 22.exf5# 1-0",
             "event": "Rapid-transit match",
             "site": "New York, NY USA",
             "date": "1909.03.31",
@@ -169,7 +235,15 @@
         "comment_count": 387,
         "solved_count": 5648,
         "parsed": {
-            "moves": "24.Bxf7+ Kh8 25.Qg6 Bf8 26.Qg8# 1-0",
+            "moves": [
+                "Bxf7+",
+                "Kh8",
+                "Qg6",
+                "Bf8",
+                "Qg8#",
+                "1-0"
+            ],
+            "raw": "24.Bxf7+ Kh8 25.Qg6 Bf8 26.Qg8# 1-0",
             "event": "Match for Masters Title",
             "site": "Moscow",
             "date": "1947.??.??",
@@ -193,7 +267,12 @@
         "comment_count": 411,
         "solved_count": 5609,
         "parsed": {
-            "moves": "1...Qc5 2.Rxc5 Rxf1# *",
+            "moves": [
+                "Qc5",
+                "Rxc5",
+                "Rxf1#"
+            ],
+            "raw": "1...Qc5 2.Rxc5 Rxf1# *",
             "result": "*",
             "fen": "8/bp2qp1k/p5pp/3P4/8/1P6/P2Q2PP/2R1rN1K b - - 0 1"
         },
@@ -211,7 +290,16 @@
         "comment_count": 414,
         "solved_count": 5609,
         "parsed": {
-            "moves": "1.Qd8+ Rf8 2.Rh8+ Kxh8 3.Qh4+ Kg8 4.Qh7# *",
+            "moves": [
+                "Qd8+",
+                "Rf8",
+                "Rh8+",
+                "Kxh8",
+                "Qh4+",
+                "Kg8",
+                "Qh7#"
+            ],
+            "raw": "1.Qd8+ Rf8 2.Rh8+ Kxh8 3.Qh4+ Kg8 4.Qh7# *",
             "result": "*",
             "fen": "6k1/1bQ3p1/1r2qrP1/p6R/4Pp2/3P4/P1PK1P2/8 w - - 0 1"
         },
@@ -229,7 +317,18 @@
         "comment_count": 418,
         "solved_count": 5604,
         "parsed": {
-            "moves": "1.Rg8+ Kf5 2.gxh6 Kf4 3.Rg4+ Kf3 4.Rg3+ Ke2 5.Rxd3 *",
+            "moves": [
+                "Rg8+",
+                "Kf5",
+                "gxh6",
+                "Kf4",
+                "Rg4+",
+                "Kf3",
+                "Rg3+",
+                "Ke2",
+                "Rxd3"
+            ],
+            "raw": "1.Rg8+ Kf5 2.gxh6 Kf4 3.Rg4+ Kf3 4.Rg3+ Ke2 5.Rxd3 *",
             "result": "*",
             "fen": "2R5/3r1p2/4pBkp/3pP1P1/7K/P2b4/8/8 w - - 0 1"
         },
@@ -247,7 +346,17 @@
         "comment_count": 397,
         "solved_count": 5540,
         "parsed": {
-            "moves": "1...Rd1+ 2.Ke2 Rd5 3.Qxd5 Nf4+ 4.Kf3 Nxd5 0-1",
+            "moves": [
+                "Rd1+",
+                "Ke2",
+                "Rd5",
+                "Qxd5",
+                "Nf4+",
+                "Kf3",
+                "Nxd5",
+                "0-1"
+            ],
+            "raw": "1...Rd1+ 2.Ke2 Rd5 3.Qxd5 Nf4+ 4.Kf3 Nxd5 0-1",
             "event": "Cairns Cup",
             "site": "St Louis, MO USA",
             "date": "2020.02.11",
@@ -273,7 +382,19 @@
         "comment_count": 409,
         "solved_count": 5647,
         "parsed": {
-            "moves": "22.Bxg6 Kh8 23.Bg7+ Kxg7 24.Bxf7+ Kh8 25.Qg6 Bf8 26.Qg8# 1-0",
+            "moves": [
+                "Bxg6",
+                "Kh8",
+                "Bg7+",
+                "Kxg7",
+                "Bxf7+",
+                "Kh8",
+                "Qg6",
+                "Bf8",
+                "Qg8#",
+                "1-0"
+            ],
+            "raw": "22.Bxg6 Kh8 23.Bg7+ Kxg7 24.Bxf7+ Kh8 25.Qg6 Bf8 26.Qg8# 1-0",
             "event": "Match for Masters Title",
             "site": "Moscow",
             "date": "1947",
@@ -296,7 +417,14 @@
         "comment_count": 505,
         "solved_count": 5609,
         "parsed": {
-            "moves": "1...Rxb1+ 2.Kxb1 e3+ 3.Kc1 exf2 *",
+            "moves": [
+                "Rxb1+",
+                "Kxb1",
+                "e3+",
+                "Kc1",
+                "exf2"
+            ],
+            "raw": "1...Rxb1+ 2.Kxb1 e3+ 3.Kc1 exf2 *",
             "result": "*",
             "fen": "1r1r3k/p5pb/7p/7P/P2Bp3/2P5/3P1R2/1RK5 b - - 0 1"
         },
@@ -314,7 +442,12 @@
         "comment_count": 439,
         "solved_count": 5487,
         "parsed": {
-            "moves": "1.Rxe7 Qxe7 2.Ba3 *",
+            "moves": [
+                "Rxe7",
+                "Qxe7",
+                "Ba3"
+            ],
+            "raw": "1.Rxe7 Qxe7 2.Ba3 *",
             "result": "*",
             "fen": "1r1q1k1r/1b2bppp/p4n2/Np1p4/3p4/1PP1RP2/2B1Q1PP/R1B3K1 w - - 0 1"
         },
@@ -332,7 +465,16 @@
         "comment_count": 356,
         "solved_count": 5467,
         "parsed": {
-            "moves": "1.hxg6 fxg6 2.Qxh7+ Kxh7 3.Rh1+ Bh3 4.Rxh3# *",
+            "moves": [
+                "hxg6",
+                "fxg6",
+                "Qxh7+",
+                "Kxh7",
+                "Rh1+",
+                "Bh3",
+                "Rxh3#"
+            ],
+            "raw": "1.hxg6 fxg6 2.Qxh7+ Kxh7 3.Rh1+ Bh3 4.Rxh3# *",
             "white": "Vera Menchik",
             "black": "George Thomas (Position Manipulated)",
             "result": "*",
@@ -352,7 +494,15 @@
         "comment_count": 408,
         "solved_count": 5467,
         "parsed": {
-            "moves": "35.Nxf6+ Kxf6 36.d7 Qd8 37.Rd6# 1-0",
+            "moves": [
+                "Nxf6+",
+                "Kxf6",
+                "d7",
+                "Qd8",
+                "Rd6#",
+                "1-0"
+            ],
+            "raw": "35.Nxf6+ Kxf6 36.d7 Qd8 37.Rd6# 1-0",
             "event": "French Championship",
             "site": "Val d'Isere FRA",
             "date": "2002.08.23",
@@ -376,7 +526,21 @@
         "comment_count": 382,
         "solved_count": 5478,
         "parsed": {
-            "moves": "39.Ne7 c2+ 40.Kc1 Rxe7 41.Qxe7 Qc7 42.Rxh7+ Kg8 43.Qxc7 Rxc7 44.Rxc7 1-0",
+            "moves": [
+                "Ne7",
+                "c2+",
+                "Kc1",
+                "Rxe7",
+                "Qxe7",
+                "Qc7",
+                "Rxh7+",
+                "Kg8",
+                "Qxc7",
+                "Rxc7",
+                "Rxc7",
+                "1-0"
+            ],
+            "raw": "39.Ne7 c2+ 40.Kc1 Rxe7 41.Qxe7 Qc7 42.Rxh7+ Kg8 43.Qxc7 Rxc7 44.Rxc7 1-0",
             "event": "World Rapid Women 2018",
             "site": "St Petersburg RUS",
             "date": "2018.12.26",
@@ -400,7 +564,19 @@
         "comment_count": 353,
         "solved_count": 5450,
         "parsed": {
-            "moves": "35.Rxg7+ Bxg7 36.Rc8+ Kf7 37.Qh5+ Ke7 38.Qe8+ Kd6 39.Qd8# 1-0",
+            "moves": [
+                "Rxg7+",
+                "Bxg7",
+                "Rc8+",
+                "Kf7",
+                "Qh5+",
+                "Ke7",
+                "Qe8+",
+                "Kd6",
+                "Qd8#",
+                "1-0"
+            ],
+            "raw": "35.Rxg7+ Bxg7 36.Rc8+ Kf7 37.Qh5+ Ke7 38.Qe8+ Kd6 39.Qd8# 1-0",
             "event": "Moscow",
             "site": "Moscow URS",
             "date": "1967.06.03",
@@ -424,7 +600,16 @@
         "comment_count": 456,
         "solved_count": 5643,
         "parsed": {
-            "moves": "1...Ke7 2.c5 c6 3.bxc6 bxc6 4.d5 f6# *",
+            "moves": [
+                "Ke7",
+                "c5",
+                "c6",
+                "bxc6",
+                "bxc6",
+                "d5",
+                "f6#"
+            ],
+            "raw": "1...Ke7 2.c5 c6 3.bxc6 bxc6 4.d5 f6# *",
             "result": "*",
             "fen": "8/1ppk1p2/1b2n1p1/pP2K3/2PPP3/1N6/1PN4P/8 b - - 0 1"
         },
@@ -442,7 +627,14 @@
         "comment_count": 336,
         "solved_count": 5456,
         "parsed": {
-            "moves": "1...Qb6 2.Qxb6 Nxe2+ 3.Kh2 cxb6 *",
+            "moves": [
+                "Qb6",
+                "Qxb6",
+                "Nxe2+",
+                "Kh2",
+                "cxb6"
+            ],
+            "raw": "1...Qb6 2.Qxb6 Nxe2+ 3.Kh2 cxb6 *",
             "result": "*",
             "fen": "5r1k/2p3p1/6qp/p3p3/4P3/1P2Q1nP/2P1N1P1/R5K1 b - - 0 1"
         },
@@ -460,7 +652,14 @@
         "comment_count": 433,
         "solved_count": 5441,
         "parsed": {
-            "moves": "1...Rxf3 2.Qxc5 Rxf1+ 3.Kxf1 bxc5 *",
+            "moves": [
+                "Rxf3",
+                "Qxc5",
+                "Rxf1+",
+                "Kxf1",
+                "bxc5"
+            ],
+            "raw": "1...Rxf3 2.Qxc5 Rxf1+ 3.Kxf1 bxc5 *",
             "result": "*",
             "fen": "4rrk1/6bp/pp4p1/2qPp3/2P5/P2P1BP1/5Q2/4RRK1 b - - 0 1"
         },
@@ -478,7 +677,15 @@
         "comment_count": 503,
         "solved_count": 5403,
         "parsed": {
-            "moves": "30.Qh8+ Bxh8 31.Rxh8+ Kg7 32.R1h7# 1-0",
+            "moves": [
+                "Qh8+",
+                "Bxh8",
+                "Rxh8+",
+                "Kg7",
+                "R1h7#",
+                "1-0"
+            ],
+            "raw": "30.Qh8+ Bxh8 31.Rxh8+ Kg7 32.R1h7# 1-0",
             "event": "18th Sants Open 2016",
             "site": "Barcelona ESP",
             "date": "2016.08.19",
@@ -502,7 +709,18 @@
         "comment_count": 418,
         "solved_count": 5483,
         "parsed": {
-            "moves": "1...Qxg2+ 2.Kxg2 Rg7+ 3.Ng5 Rxg5+ 4.Kh1 Rf3 5.Qd3 Rxd3 *",
+            "moves": [
+                "Qxg2+",
+                "Kxg2",
+                "Rg7+",
+                "Ng5",
+                "Rxg5+",
+                "Kh1",
+                "Rf3",
+                "Qd3",
+                "Rxd3"
+            ],
+            "raw": "1...Qxg2+ 2.Kxg2 Rg7+ 3.Ng5 Rxg5+ 4.Kh1 Rf3 5.Qd3 Rxd3 *",
             "result": "*",
             "fen": "5rk1/1pp2r2/p2bp1qp/3p4/1P1P3p/P1P2N1P/5PP1/RQ3RK1 b - - 0 1"
         },
@@ -520,7 +738,14 @@
         "comment_count": 378,
         "solved_count": 5476,
         "parsed": {
-            "moves": "1.Qxc8+ Ke7 2.Qxb7+ Nd7 3.Nxd2 *",
+            "moves": [
+                "Qxc8+",
+                "Ke7",
+                "Qxb7+",
+                "Nd7",
+                "Nxd2"
+            ],
+            "raw": "1.Qxc8+ Ke7 2.Qxb7+ Nd7 3.Nxd2 *",
             "result": "*",
             "fen": "rnb1k2r/pp3ppp/8/q2p4/3P4/4PN2/P1Qn1PPP/R3KB1R w KQkq - 0 1"
         },
@@ -538,7 +763,17 @@
         "comment_count": 397,
         "solved_count": 5487,
         "parsed": {
-            "moves": "28...Qxg2+ 29.Kxg2 Rd2+ 30.Kg3 Rg2+ 31.Kf4 Rf8+ 0-1",
+            "moves": [
+                "Qxg2+",
+                "Kxg2",
+                "Rd2+",
+                "Kg3",
+                "Rg2+",
+                "Kf4",
+                "Rf8+",
+                "0-1"
+            ],
+            "raw": "28...Qxg2+ 29.Kxg2 Rd2+ 30.Kg3 Rg2+ 31.Kf4 Rf8+ 0-1",
             "event": "Chess Olympiad",
             "site": "Lucerne SUI",
             "date": "1982.11.04",
@@ -562,7 +797,22 @@
         "comment_count": 386,
         "solved_count": 5644,
         "parsed": {
-            "moves": "1.a5 Bf8 2.Kd5 Bh6 3.g5+ Bxg5 4.Ke4 Bh4 5.Kf3 Be1 6.a6 Bb4 7.a7 *",
+            "moves": [
+                "a5",
+                "Bf8",
+                "Kd5",
+                "Bh6",
+                "g5+",
+                "Bxg5",
+                "Ke4",
+                "Bh4",
+                "Kf3",
+                "Be1",
+                "a6",
+                "Bb4",
+                "a7"
+            ],
+            "raw": "1.a5 Bf8 2.Kd5 Bh6 3.g5+ Bxg5 4.Ke4 Bh4 5.Kf3 Be1 6.a6 Bb4 7.a7 *",
             "white": "Otten, H.",
             "black": "Study",
             "result": "*",
@@ -582,7 +832,12 @@
         "comment_count": 698,
         "solved_count": 5671,
         "parsed": {
-            "moves": "1.Qe4 Kg1 2.Qe1# *",
+            "moves": [
+                "Qe4",
+                "Kg1",
+                "Qe1#"
+            ],
+            "raw": "1.Qe4 Kg1 2.Qe1# *",
             "result": "*",
             "fen": "8/8/3K4/8/8/5Q2/6pp/7k w - - 0 1"
         },

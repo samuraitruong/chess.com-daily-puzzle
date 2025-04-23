@@ -54,9 +54,9 @@ export function useDailyPuzzleData(date: Date) {
             ? "Black"
             : "White";
           const moves = matchPuzzle.parsed.moves
-            .replace(/\d+\./gi, "")
-            .replace("..", "")
-            .split(" ")
+            //.replace(/\d+\./gi, "")
+            //.replace("..", "")
+            //.split(" ")
             .filter(
               (x: string) => x && !["*", "1-0", "0-1", "1/2-1/2"].includes(x)
             );

@@ -11,7 +11,18 @@
         "comment_count": 248,
         "solved_count": 3342,
         "parsed": {
-            "moves": "51.Rh7+ Kg4 52.Rh4+ gxh4 53.Qg6+ Kf3 54.Qh5+ Kxf2 55.Qxd1 *",
+            "moves": [
+                "Rh7+",
+                "Kg4",
+                "Rh4+",
+                "gxh4",
+                "Qg6+",
+                "Kf3",
+                "Qh5+",
+                "Kxf2",
+                "Qxd1"
+            ],
+            "raw": "51.Rh7+ Kg4 52.Rh4+ gxh4 53.Qg6+ Kf3 54.Qh5+ Kxf2 55.Qxd1 *",
             "event": "Amplico ch-EUR Rapid",
             "site": "Warsaw POL",
             "date": "2012.12.15",
@@ -37,7 +48,20 @@
         "comment_count": 250,
         "solved_count": 3118,
         "parsed": {
-            "moves": "1.Qd6+ Kh5 2.g4+ Kxg4 3.Qg3+ Kh5 4.Qh3+ Kg6 5.Qh7+ Kf6 6.Qg7# *",
+            "moves": [
+                "Qd6+",
+                "Kh5",
+                "g4+",
+                "Kxg4",
+                "Qg3+",
+                "Kh5",
+                "Qh3+",
+                "Kg6",
+                "Qh7+",
+                "Kf6",
+                "Qg7#"
+            ],
+            "raw": "1.Qd6+ Kh5 2.g4+ Kxg4 3.Qg3+ Kh5 4.Qh3+ Kg6 5.Qh7+ Kf6 6.Qg7# *",
             "result": "*",
             "fen": "8/4R3/6k1/3b1pp1/1p3Q2/1P4P1/5P1K/3q4 w - - 0 1"
         },
@@ -55,7 +79,24 @@
         "comment_count": 293,
         "solved_count": 3124,
         "parsed": {
-            "moves": "Kxb1 8.fxg5 *",
+            "moves": [
+                "Rg5",
+                "hxg5",
+                "h6",
+                "b2",
+                "h7",
+                "b1=Q",
+                "h8=Q+",
+                "Ka2",
+                "Qa8+",
+                "Kb2",
+                "Qxb7+",
+                "Kc2",
+                "Qxb1+",
+                "Kxb1",
+                "fxg5"
+            ],
+            "raw": "1.Rg5 hxg5 2.h6 b2 3.h7 b1=Q 4.h8=Q+ Ka2 5.Qa8+ Kb2 6.Qxb7+ Kc2 7.Qxb1+ \r\nKxb1 8.fxg5 *",
             "date": "1915",
             "round": "?",
             "white": "Kissling",
@@ -77,7 +118,12 @@
         "comment_count": 291,
         "solved_count": 3138,
         "parsed": {
-            "moves": "1...Nxh5 2.Bxd8 Nxg3 *",
+            "moves": [
+                "Nxh5",
+                "Bxd8",
+                "Nxg3"
+            ],
+            "raw": "1...Nxh5 2.Bxd8 Nxg3 *",
             "result": "*",
             "fen": "r2qk2r/1p3ppp/p3pnn1/2bp2BB/8/2NP2QP/PPP2PP1/R3R1K1 b kq - 0 1"
         },
@@ -95,7 +141,16 @@
         "comment_count": 265,
         "solved_count": 3039,
         "parsed": {
-            "moves": "1.Qxd7+ Kxd7 2.Nxd6 Kxd6 3.Bf4+ Kd7 4.Bxb8 *",
+            "moves": [
+                "Qxd7+",
+                "Kxd7",
+                "Nxd6",
+                "Kxd6",
+                "Bf4+",
+                "Kd7",
+                "Bxb8"
+            ],
+            "raw": "1.Qxd7+ Kxd7 2.Nxd6 Kxd6 3.Bf4+ Kd7 4.Bxb8 *",
             "result": "*",
             "fen": "1r1kr3/3q1ppb/p1pb3p/2pn4/P1N5/1P3NPQ/1R2PPK1/2BR4 w - - 0 1"
         },
@@ -113,7 +168,14 @@
         "comment_count": 262,
         "solved_count": 3051,
         "parsed": {
-            "moves": "1.Bxb6+ Kxb6 2.Rd7 Bh6 3.Rxh7 *",
+            "moves": [
+                "Bxb6+",
+                "Kxb6",
+                "Rd7",
+                "Bh6",
+                "Rxh7"
+            ],
+            "raw": "1.Bxb6+ Kxb6 2.Rd7 Bh6 3.Rxh7 *",
             "result": "*",
             "fen": "7r/P1k3bp/1np2pp1/1p2p3/1Pp1P3/2P1BP2/2K1N1P1/3R4 w - - 0 1"
         },
@@ -131,7 +193,14 @@
         "comment_count": 303,
         "solved_count": 2976,
         "parsed": {
-            "moves": "1.Nh6+ gxh6 2.Rf5 Kh8 3.Rxe5 *",
+            "moves": [
+                "Nh6+",
+                "gxh6",
+                "Rf5",
+                "Kh8",
+                "Rxe5"
+            ],
+            "raw": "1.Nh6+ gxh6 2.Rf5 Kh8 3.Rxe5 *",
             "result": "*",
             "fen": "2rr1bk1/3b2pp/p1nppn2/1p2qN2/4P3/P1N1B3/BP4PP/R2Q1RK1 w - - 0 1"
         },
@@ -149,7 +218,16 @@
         "comment_count": 218,
         "solved_count": 2965,
         "parsed": {
-            "moves": "1...Rf2 2.Rg4 Rxg2+ 3.Qxg2 Qxe1+ 4.Kh2 Rf2 *",
+            "moves": [
+                "Rf2",
+                "Rg4",
+                "Rxg2+",
+                "Qxg2",
+                "Qxe1+",
+                "Kh2",
+                "Rf2"
+            ],
+            "raw": "1...Rf2 2.Rg4 Rxg2+ 3.Qxg2 Qxe1+ 4.Kh2 Rf2 *",
             "result": "*",
             "fen": "1k3r2/2p5/2n5/p1pN2p1/4R3/N1P2rqP/1P1Q2P1/4R1K1 b - - 0 1"
         },
@@ -167,7 +245,20 @@
         "comment_count": 240,
         "solved_count": 2920,
         "parsed": {
-            "moves": "1.Rxg7 Rxg7 2.Qb8+ Rg8 3.Qb2+ Rg7 4.Re2 a3 5.Qa2 Qd5 6.Re8+ *",
+            "moves": [
+                "Rxg7",
+                "Rxg7",
+                "Qb8+",
+                "Rg8",
+                "Qb2+",
+                "Rg7",
+                "Re2",
+                "a3",
+                "Qa2",
+                "Qd5",
+                "Re8+"
+            ],
+            "raw": "1.Rxg7 Rxg7 2.Qb8+ Rg8 3.Qb2+ Rg7 4.Re2 a3 5.Qa2 Qd5 6.Re8+ *",
             "result": "*",
             "fen": "6rk/1Q1R2np/2p5/5p1p/p3qPp1/6P1/5R1K/8 w - a6 0 1"
         },
@@ -185,7 +276,15 @@
         "comment_count": 341,
         "solved_count": 3010,
         "parsed": {
-            "moves": "36.Qc8+ Rxc8 37.Nf7+ Kg7 38.Nxd6 1-0",
+            "moves": [
+                "Qc8+",
+                "Rxc8",
+                "Nf7+",
+                "Kg7",
+                "Nxd6",
+                "1-0"
+            ],
+            "raw": "36.Qc8+ Rxc8 37.Nf7+ Kg7 38.Nxd6 1-0",
             "event": "European Club Cup 2021",
             "site": "Chess.com",
             "date": "2021.09.24",
@@ -209,7 +308,12 @@
         "comment_count": 318,
         "solved_count": 2954,
         "parsed": {
-            "moves": "1.Nd5 Nxc4 2.Nxe7+ *",
+            "moves": [
+                "Nd5",
+                "Nxc4",
+                "Nxe7+"
+            ],
+            "raw": "1.Nd5 Nxc4 2.Nxe7+ *",
             "result": "*",
             "fen": "r4rk1/ppp1qpp1/3p3p/8/2Q1PP2/2N1n2P/PPP3P1/R4RK1 w - - 0 1"
         },
@@ -227,7 +331,14 @@
         "comment_count": 244,
         "solved_count": 2896,
         "parsed": {
-            "moves": "1...cxd5 2.Bc7 Bb4+ 3.Ke2 Qe7 *",
+            "moves": [
+                "cxd5",
+                "Bc7",
+                "Bb4+",
+                "Ke2",
+                "Qe7"
+            ],
+            "raw": "1...cxd5 2.Bc7 Bb4+ 3.Ke2 Qe7 *",
             "result": "*",
             "fen": "r1bqk2r/pp1nbpp1/2p4p/3N3n/3P1B2/3BP3/PPQ2PPP/R3K1NR b KQkq - 0 1"
         },
@@ -245,7 +356,14 @@
         "comment_count": 256,
         "solved_count": 2885,
         "parsed": {
-            "moves": "22...Qe8 23.Bf2 Rxe1 24.Qxe1 Qxa4 *",
+            "moves": [
+                "Qe8",
+                "Bf2",
+                "Rxe1",
+                "Qxe1",
+                "Qxa4"
+            ],
+            "raw": "22...Qe8 23.Bf2 Rxe1 24.Qxe1 Qxa4 *",
             "event": "Budapest",
             "site": "Budapest",
             "date": "1987",
@@ -271,7 +389,18 @@
         "comment_count": 256,
         "solved_count": 2856,
         "parsed": {
-            "moves": "1...Bd4+ 2.Kf1 Qa6+ 3.Rc4 Qxc4+ 4.Qxc4 Nd2+ 5.Ke2 Nxc4 *",
+            "moves": [
+                "Bd4+",
+                "Kf1",
+                "Qa6+",
+                "Rc4",
+                "Qxc4+",
+                "Qxc4",
+                "Nd2+",
+                "Ke2",
+                "Nxc4"
+            ],
+            "raw": "1...Bd4+ 2.Kf1 Qa6+ 3.Rc4 Qxc4+ 4.Qxc4 Nd2+ 5.Ke2 Nxc4 *",
             "result": "*",
             "fen": "2R5/p4pbk/6qp/P7/4n3/5PP1/2Q3P1/6K1 b - - 0 1"
         },
@@ -289,7 +418,18 @@
         "comment_count": 255,
         "solved_count": 2843,
         "parsed": {
-            "moves": "1...Ra8+ 2.Bxa8 Rxa8+ 3.Kb1 Ra1+ 4.Kxa1 Qxc3+ 5.Ka2 Qb2# *",
+            "moves": [
+                "Ra8+",
+                "Bxa8",
+                "Rxa8+",
+                "Kb1",
+                "Ra1+",
+                "Kxa1",
+                "Qxc3+",
+                "Ka2",
+                "Qb2#"
+            ],
+            "raw": "1...Ra8+ 2.Bxa8 Rxa8+ 3.Kb1 Ra1+ 4.Kxa1 Qxc3+ 5.Ka2 Qb2# *",
             "result": "*",
             "fen": "4r1rk/2B2Qb1/3pn1R1/2p1q3/4B1P1/1PN5/K7/3R4 b - - 0 1"
         },
@@ -307,7 +447,18 @@
         "comment_count": 256,
         "solved_count": 2853,
         "parsed": {
-            "moves": "1.Rxg2 Rxg2 2.a7 Rg3+ 3.Ka2 b4 4.d4+ cxd3 5.a8=Q *",
+            "moves": [
+                "Rxg2",
+                "Rxg2",
+                "a7",
+                "Rg3+",
+                "Ka2",
+                "b4",
+                "d4+",
+                "cxd3",
+                "a8=Q"
+            ],
+            "raw": "1.Rxg2 Rxg2 2.a7 Rg3+ 3.Ka2 b4 4.d4+ cxd3 5.a8=Q *",
             "result": "*",
             "fen": "8/6N1/P5R1/1p2k3/2p1P3/K7/3P2rr/8 w - - 0 1"
         },
@@ -325,7 +476,31 @@
         "comment_count": 393,
         "solved_count": 2918,
         "parsed": {
-            "moves": "Kh3 Bxf4 9. gxf4 a2 10. Be6 a1=Q 11. Bf7# 1-0",
+            "moves": [
+                "g7",
+                "Bxg7",
+                "Kxe6",
+                "Kg6",
+                "Bf5+",
+                "Kh5",
+                "Kd5",
+                "a5",
+                "Ke4",
+                "a4",
+                "Kf3",
+                "a3",
+                "Kg2",
+                "Be5",
+                "Kh3",
+                "Bxf4",
+                "gxf4",
+                "a2",
+                "Be6",
+                "a1=Q",
+                "Bf7#",
+                "1-0"
+            ],
+            "raw": "1. g7 Bxg7 2. Kxe6 Kg6 3. Bf5+ Kh5 4. Kd5 a5 5. Ke4 a4 6. Kf3 a3 7. Kg2 Be5 8.\r\nKh3 Bxf4 9. gxf4 a2 10. Be6 a1=Q 11. Bf7# 1-0",
             "date": "2021",
             "white": "Steffen Slumstrup Nielsen",
             "black": "Study",
@@ -346,7 +521,16 @@
         "comment_count": 297,
         "solved_count": 2888,
         "parsed": {
-            "moves": "1.Nf6+ Kg6 2.Nxh5 Kxh5 3.Kf5 g4 4.hxg4# *",
+            "moves": [
+                "Nf6+",
+                "Kg6",
+                "Nxh5",
+                "Kxh5",
+                "Kf5",
+                "g4",
+                "hxg4#"
+            ],
+            "raw": "1.Nf6+ Kg6 2.Nxh5 Kxh5 3.Kf5 g4 4.hxg4# *",
             "result": "*",
             "fen": "8/3N3k/7p/6pq/4K3/6PP/8/8 w - - 0 1"
         },
@@ -364,7 +548,16 @@
         "comment_count": 304,
         "solved_count": 2857,
         "parsed": {
-            "moves": "1...Qd4+ 2.Ke1 Qxe5+ 3.Qe2 Qxe2+ 4.Bxe2 Bxh1 *",
+            "moves": [
+                "Qd4+",
+                "Ke1",
+                "Qxe5+",
+                "Qe2",
+                "Qxe2+",
+                "Bxe2",
+                "Bxh1"
+            ],
+            "raw": "1...Qd4+ 2.Ke1 Qxe5+ 3.Qe2 Qxe2+ 4.Bxe2 Bxh1 *",
             "result": "*",
             "fen": "rn2k1nr/pb3ppp/8/4N3/7q/6P1/PPPP1K1P/RNBQ1B1R b kq - 0 1"
         },
@@ -382,7 +575,16 @@
         "comment_count": 292,
         "solved_count": 2850,
         "parsed": {
-            "moves": "1.Nxg6+ fxg6 2.Rf3 Rd8+ 3.Ke1 Bc3+ 4.Kf1 *",
+            "moves": [
+                "Nxg6+",
+                "fxg6",
+                "Rf3",
+                "Rd8+",
+                "Ke1",
+                "Bc3+",
+                "Kf1"
+            ],
+            "raw": "1.Nxg6+ fxg6 2.Rf3 Rd8+ 3.Ke1 Bc3+ 4.Kf1 *",
             "result": "*",
             "fen": "1r3k2/p3Np2/2p3p1/2P5/5qP1/3R4/PbP1QP2/3K4 w - - 0 1"
         },
@@ -400,7 +602,16 @@
         "comment_count": 280,
         "solved_count": 2817,
         "parsed": {
-            "moves": "1.Ng5 h6 2.Bh7+ Kh8 3.Nf7+ Kxh7 4.Nxe5 *",
+            "moves": [
+                "Ng5",
+                "h6",
+                "Bh7+",
+                "Kh8",
+                "Nf7+",
+                "Kxh7",
+                "Nxe5"
+            ],
+            "raw": "1.Ng5 h6 2.Bh7+ Kh8 3.Nf7+ Kxh7 4.Nxe5 *",
             "result": "*",
             "fen": "r5k1/6pp/2b1p3/1p2q3/4N3/3B3Q/1bP3PP/5R1K w - - 0 1"
         },
@@ -418,7 +629,16 @@
         "comment_count": 252,
         "solved_count": 2847,
         "parsed": {
-            "moves": "1...Bxf4 2.Nxf4 Bg4 3.Qxg4 Rxd2 4.Rxd2 Rxd2 *",
+            "moves": [
+                "Bxf4",
+                "Nxf4",
+                "Bg4",
+                "Qxg4",
+                "Rxd2",
+                "Rxd2",
+                "Rxd2"
+            ],
+            "raw": "1...Bxf4 2.Nxf4 Bg4 3.Qxg4 Rxd2 4.Rxd2 Rxd2 *",
             "result": "*",
             "fen": "3r4/3r2pk/2qbb1pp/p1pN4/P1P2B1P/1P6/3RQ1P1/3R2K1 b - - 0 1"
         },
@@ -436,7 +656,16 @@
         "comment_count": 242,
         "solved_count": 2832,
         "parsed": {
-            "moves": "1...Re2 2.Qxe2 Be6+ 3.Qh2 Bxd5+ 4.Rf3 Bxf3# *",
+            "moves": [
+                "Re2",
+                "Qxe2",
+                "Be6+",
+                "Qh2",
+                "Bxd5+",
+                "Rf3",
+                "Bxf3#"
+            ],
+            "raw": "1...Re2 2.Qxe2 Be6+ 3.Qh2 Bxd5+ 4.Rf3 Bxf3# *",
             "result": "*",
             "fen": "4r2k/7p/Pp1P2pq/1P1B4/3b1P2/7b/7Q/1R3R1K b - - 0 1"
         },
@@ -454,7 +683,30 @@
         "comment_count": 288,
         "solved_count": 2910,
         "parsed": {
-            "moves": "8.Kxf2 Rb1 9.Rh8 Rxb7 10.Rh7+ Kg8 11.Rxb7 *",
+            "moves": [
+                "Raa7",
+                "f3+",
+                "Kf2",
+                "Rg6",
+                "b7",
+                "Rg2+",
+                "Kf1",
+                "f2",
+                "Rf7",
+                "Rb8",
+                "Ra8",
+                "Kxf7",
+                "Rxb8",
+                "Rg1+",
+                "Kxf2",
+                "Rb1",
+                "Rh8",
+                "Rxb7",
+                "Rh7+",
+                "Kg8",
+                "Rxb7"
+            ],
+            "raw": "1.Raa7 f3+ 2.Kf2 Rg6 3.b7 Rg2+ 4.Kf1 f2 5.Rf7 Rb8 6.Ra8 Kxf7 7.Rxb8 Rg1+ \r\n8.Kxf2 Rb1 9.Rh8 Rxb7 10.Rh7+ Kg8 11.Rxb7 *",
             "white": "Kasparyan, G",
             "black": "Study",
             "result": "*",
@@ -474,7 +726,14 @@
         "comment_count": 256,
         "solved_count": 2861,
         "parsed": {
-            "moves": "1.Bxd5 Rxc1 2.Bxe6+ Qxe6 3.Rxc1 *",
+            "moves": [
+                "Bxd5",
+                "Rxc1",
+                "Bxe6+",
+                "Qxe6",
+                "Rxc1"
+            ],
+            "raw": "1.Bxd5 Rxc1 2.Bxe6+ Qxe6 3.Rxc1 *",
             "result": "*",
             "fen": "2rr2k1/1p2q2p/p3bppQ/3np3/2B4P/4PN2/1P3PP1/2RR2K1 w - - 0 1"
         },
@@ -492,7 +751,14 @@
         "comment_count": 306,
         "solved_count": 2813,
         "parsed": {
-            "moves": "1...Bd4+ 2.Kg2 Ne3+ 3.Kh1 Nxc2 *",
+            "moves": [
+                "Bd4+",
+                "Kg2",
+                "Ne3+",
+                "Kh1",
+                "Nxc2"
+            ],
+            "raw": "1...Bd4+ 2.Kg2 Ne3+ 3.Kh1 Nxc2 *",
             "result": "*",
             "fen": "6k1/3b2b1/1B4n1/P2q1nNp/5P2/5PP1/2QpBK1P/3R4 b - - 0 1"
         },
@@ -510,7 +776,16 @@
         "comment_count": 261,
         "solved_count": 2816,
         "parsed": {
-            "moves": "1...f4 2.Be4 Rg7 3.Bh4 g5 4.f3 gxh4 *",
+            "moves": [
+                "f4",
+                "Be4",
+                "Rg7",
+                "Bh4",
+                "g5",
+                "f3",
+                "gxh4"
+            ],
+            "raw": "1...f4 2.Be4 Rg7 3.Bh4 g5 4.f3 gxh4 *",
             "result": "*",
             "fen": "2r1k3/p3p2r/1np3pb/5p2/1pP5/1P4BP/P1K2PBP/3R3R b - b3 0 1"
         },
@@ -528,7 +803,18 @@
         "comment_count": 218,
         "solved_count": 2815,
         "parsed": {
-            "moves": "1.f5 gxf5 2.gxf5 Bxf5 3.b5 Kc4 4.b6 Kxd5 5.b7 *",
+            "moves": [
+                "f5",
+                "gxf5",
+                "gxf5",
+                "Bxf5",
+                "b5",
+                "Kc4",
+                "b6",
+                "Kxd5",
+                "b7"
+            ],
+            "raw": "1.f5 gxf5 2.gxf5 Bxf5 3.b5 Kc4 4.b6 Kxd5 5.b7 *",
             "result": "*",
             "fen": "2b5/7p/6p1/3P4/1P3PP1/2k5/7P/6K1 w - - 0 1"
         },
@@ -546,7 +832,14 @@
         "comment_count": 248,
         "solved_count": 2821,
         "parsed": {
-            "moves": "1... Bxb2+ 2. Kxb2 Nc4+ 3. Bxc4 Qxg3 *",
+            "moves": [
+                "Bxb2+",
+                "Kxb2",
+                "Nc4+",
+                "Bxc4",
+                "Qxg3"
+            ],
+            "raw": "1... Bxb2+ 2. Kxb2 Nc4+ 3. Bxc4 Qxg3 *",
             "result": "*",
             "fen": "2r2rk1/1pqb1pp1/p3p1P1/3Pn2P/8/bNN3Q1/1PP1B3/2KR3R b - - 0 1"
         },
@@ -564,7 +857,16 @@
         "comment_count": 250,
         "solved_count": 2861,
         "parsed": {
-            "moves": "1.Ng5+ Kh6 2.Nf7+ Kh5 3.Qh8+ Kg4 4.Qc8+ *",
+            "moves": [
+                "Ng5+",
+                "Kh6",
+                "Nf7+",
+                "Kh5",
+                "Qh8+",
+                "Kg4",
+                "Qc8+"
+            ],
+            "raw": "1.Ng5+ Kh6 2.Nf7+ Kh5 3.Qh8+ Kg4 4.Qc8+ *",
             "result": "*",
             "fen": "1n6/1P5k/n4Qp1/p7/4N3/P7/K7/2q5 w - - 0 1"
         },
@@ -582,7 +884,14 @@
         "comment_count": 251,
         "solved_count": 3166,
         "parsed": {
-            "moves": "1...Nd4 2.Nxd4 Bxd5 3.Bxd5 exd4 *",
+            "moves": [
+                "Nd4",
+                "Nxd4",
+                "Bxd5",
+                "Bxd5",
+                "exd4"
+            ],
+            "raw": "1...Nd4 2.Nxd4 Bxd5 3.Bxd5 exd4 *",
             "result": "*",
             "fen": "N2k1b1r/pb1pq3/1pnn2pp/3Qpp2/8/1B1P1N2/PPP2PPP/R1B2RK1 b - - 0 1"
         },

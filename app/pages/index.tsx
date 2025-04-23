@@ -47,6 +47,7 @@ export default function Home() {
       setGame(new Chess(puzzleData.fen));
       setValidMoves(puzzleData.moves);
       setSolved(false);
+      console.log(puzzleData);
     }
   }, [puzzleData, date]);
 

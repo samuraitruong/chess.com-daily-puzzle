@@ -11,7 +11,18 @@
         "comment_count": 535,
         "solved_count": 9166,
         "parsed": {
-            "moves": "1.Qb7+ Rf7 2.Rh7+ Kxh7 3.Qxf7+ Kh8 4.O-O-O Bd3 5.Rh1+ *",
+            "moves": [
+                "Qb7+",
+                "Rf7",
+                "Rh7+",
+                "Kxh7",
+                "Qxf7+",
+                "Kh8",
+                "O-O-O",
+                "Bd3",
+                "Rh1+"
+            ],
+            "raw": "1.Qb7+ Rf7 2.Rh7+ Kxh7 3.Qxf7+ Kh8 4.O-O-O Bd3 5.Rh1+ *",
             "result": "*",
             "fen": "r2q1r2/6k1/2Q2p2/3p2p1/p1bP4/P3P1P1/5PPR/R3K3 w Q - 0 1"
         },
@@ -29,7 +40,15 @@
         "comment_count": 353,
         "solved_count": 8934,
         "parsed": {
-            "moves": "1.Qxc7 Nxc7 2.Rd7 Bxg2 3.Rxc7 1-0",
+            "moves": [
+                "Qxc7",
+                "Nxc7",
+                "Rd7",
+                "Bxg2",
+                "Rxc7",
+                "1-0"
+            ],
+            "raw": "1.Qxc7 Nxc7 2.Rd7 Bxg2 3.Rxc7 1-0",
             "result": "*",
             "fen": "4nk1r/1bq2pp1/p4p2/1p6/7P/PNN3Q1/1PP3P1/2KR4 w - - 0 1"
         },
@@ -47,7 +66,13 @@
         "comment_count": 372,
         "solved_count": 8671,
         "parsed": {
-            "moves": "28.Ne6 Bxe6 29.Rxd6 1-0",
+            "moves": [
+                "Ne6",
+                "Bxe6",
+                "Rxd6",
+                "1-0"
+            ],
+            "raw": "28.Ne6 Bxe6 29.Rxd6 1-0",
             "event": "It \\\\\\\"Hoogovens\\\\\\\" (b)",
             "site": "Beverwijk (Netherlands)",
             "date": "1966.??.??",
@@ -71,7 +96,14 @@
         "comment_count": 466,
         "solved_count": 8584,
         "parsed": {
-            "moves": "1...Bc2 2.Qd2 Nd3+ 3.Qxd3 Bxd3 *",
+            "moves": [
+                "Bc2",
+                "Qd2",
+                "Nd3+",
+                "Qxd3",
+                "Bxd3"
+            ],
+            "raw": "1...Bc2 2.Qd2 Nd3+ 3.Qxd3 Bxd3 *",
             "result": "*",
             "fen": "2r1kbnr/1p3ppp/pq2p3/4Pb2/1n1P2PP/2N2P2/PP2N3/R1BQKB1R b KQkq - 0 1"
         },
@@ -89,7 +121,15 @@
         "comment_count": 471,
         "solved_count": 8436,
         "parsed": {
-            "moves": "22.Ne7+ Nxe7 23.Bxh7+ Qxh7 24.Qxh7# 1-0",
+            "moves": [
+                "Ne7+",
+                "Nxe7",
+                "Bxh7+",
+                "Qxh7",
+                "Qxh7#",
+                "1-0"
+            ],
+            "raw": "22.Ne7+ Nxe7 23.Bxh7+ Qxh7 24.Qxh7# 1-0",
             "event": "It",
             "site": "Munich (Germany)",
             "date": "1909.??.??",
@@ -113,7 +153,14 @@
         "comment_count": 381,
         "solved_count": 8338,
         "parsed": {
-            "moves": "1.Bd8 Rb8 2.Qxf8+ Kxf8 3.Bxc7 *",
+            "moves": [
+                "Bd8",
+                "Rb8",
+                "Qxf8+",
+                "Kxf8",
+                "Bxc7"
+            ],
+            "raw": "1.Bd8 Rb8 2.Qxf8+ Kxf8 3.Bxc7 *",
             "result": "*",
             "fen": "4Qbk1/p1q2pp1/1r1p4/2pB2Bp/2Pp1P2/4n1PP/PP2P3/3R2K1 w - - 0 1"
         },
@@ -131,7 +178,18 @@
         "comment_count": 347,
         "solved_count": 8209,
         "parsed": {
-            "moves": "1...Qd1+ 2.Bf1 Rf8 3.h3 Rxf4 4.Qxa8+ Kg7 5.Qb7+ Rf7 *",
+            "moves": [
+                "Qd1+",
+                "Bf1",
+                "Rf8",
+                "h3",
+                "Rxf4",
+                "Qxa8+",
+                "Kg7",
+                "Qb7+",
+                "Rf7"
+            ],
+            "raw": "1...Qd1+ 2.Bf1 Rf8 3.h3 Rxf4 4.Qxa8+ Kg7 5.Qb7+ Rf7 *",
             "result": "*",
             "fen": "r2r3k/1Q5p/p1p4p/3q4/5R2/8/PPP1B1PP/7K b - - 0 1"
         },
@@ -149,7 +207,18 @@
         "comment_count": 571,
         "solved_count": 8246,
         "parsed": {
-            "moves": "1.Qg6+ fxg6 2.fxg6+ Kxg6 3.Nf4+ Kg5 4.h4+ Kg4 5.Be2# *",
+            "moves": [
+                "Qg6+",
+                "fxg6",
+                "fxg6+",
+                "Kxg6",
+                "Nf4+",
+                "Kg5",
+                "h4+",
+                "Kg4",
+                "Be2#"
+            ],
+            "raw": "1.Qg6+ fxg6 2.fxg6+ Kxg6 3.Nf4+ Kg5 4.h4+ Kg4 5.Be2# *",
             "result": "*",
             "fen": "R7/1rrq1pbk/5p1p/3N1P1Q/2BpP3/2p3P1/6KP/8 w - - 0 1"
         },
@@ -167,7 +236,15 @@
         "comment_count": 407,
         "solved_count": 8143,
         "parsed": {
-            "moves": "38...Rxf3 39.Kxf3 f5 40.Nc3 Bxc5 0-1",
+            "moves": [
+                "Rxf3",
+                "Kxf3",
+                "f5",
+                "Nc3",
+                "Bxc5",
+                "0-1"
+            ],
+            "raw": "38...Rxf3 39.Kxf3 f5 40.Nc3 Bxc5 0-1",
             "event": "It",
             "site": "Hilversum (Netherlands)",
             "date": "1903.??.??",
@@ -191,7 +268,12 @@
         "comment_count": 455,
         "solved_count": 8012,
         "parsed": {
-            "moves": "12.Nxe6 fxe6 13.Rxe4 *",
+            "moves": [
+                "Nxe6",
+                "fxe6",
+                "Rxe4"
+            ],
+            "raw": "12.Nxe6 fxe6 13.Rxe4 *",
             "event": "Frankfurt",
             "site": "Frankfurt am Main GER",
             "date": "1887.08.01",
@@ -215,7 +297,18 @@
         "comment_count": 582,
         "solved_count": 7990,
         "parsed": {
-            "moves": "1.Rf4+ Kxf4 2.Bxd5 exd5 3.a5 Ke5 4.a6 Kd6 5.a7 *",
+            "moves": [
+                "Rf4+",
+                "Kxf4",
+                "Bxd5",
+                "exd5",
+                "a5",
+                "Ke5",
+                "a6",
+                "Kd6",
+                "a7"
+            ],
+            "raw": "1.Rf4+ Kxf4 2.Bxd5 exd5 3.a5 Ke5 4.a6 Kd6 5.a7 *",
             "result": "*",
             "fen": "8/5p2/4p3/3q1kp1/P1R5/1B6/5P2/6K1 w - - 0 1"
         },
@@ -233,7 +326,15 @@
         "comment_count": 494,
         "solved_count": 8018,
         "parsed": {
-            "moves": "1.Rc1+ Bc6 2.Rxc6+ bxc6 3.Bxa6# 1-0",
+            "moves": [
+                "Rc1+",
+                "Bc6",
+                "Rxc6+",
+                "bxc6",
+                "Bxa6#",
+                "1-0"
+            ],
+            "raw": "1.Rc1+ Bc6 2.Rxc6+ bxc6 3.Bxa6# 1-0",
             "result": "1-0",
             "fen": "2kr3r/1p1b1pp1/p2Qp3/7p/3PP1n1/1N1B4/PP2KPq1/5R1R w - - 0 1"
         },
@@ -251,7 +352,17 @@
         "comment_count": 423,
         "solved_count": 8003,
         "parsed": {
-            "moves": "28...Qc3+ 29.Ka4 b5+ 30.Kxb5 Qc4+ 31.Ka5 Bd8+ 0-1",
+            "moves": [
+                "Qc3+",
+                "Ka4",
+                "b5+",
+                "Kxb5",
+                "Qc4+",
+                "Ka5",
+                "Bd8+",
+                "0-1"
+            ],
+            "raw": "28...Qc3+ 29.Ka4 b5+ 30.Kxb5 Qc4+ 31.Ka5 Bd8+ 0-1",
             "event": "St. Petersburg 1895/96",
             "site": "St. Petersburg RUE",
             "date": "1896.01.04",
@@ -278,7 +389,16 @@
         "comment_count": 540,
         "solved_count": 7922,
         "parsed": {
-            "moves": "1...Nd2+ 2.Kc1 Nb3+ 3.Kb1 Qc1+ 4.Rxc1 Nd2# *",
+            "moves": [
+                "Nd2+",
+                "Kc1",
+                "Nb3+",
+                "Kb1",
+                "Qc1+",
+                "Rxc1",
+                "Nd2#"
+            ],
+            "raw": "1...Nd2+ 2.Kc1 Nb3+ 3.Kb1 Qc1+ 4.Rxc1 Nd2# *",
             "result": "*",
             "fen": "k2r3r/B1p3bp/Q1pp2p1/6P1/N1P1Pq2/5n1P/P1P2P2/1K3R2 b - - 0 1"
         },
@@ -296,7 +416,20 @@
         "comment_count": 443,
         "solved_count": 8027,
         "parsed": {
-            "moves": "1.Be5 a3 2.Kc2 a2 3.Kd3 a1=Q 4.Bxa1 e5 5.Ke4 Kxg7 6.Kf5 *",
+            "moves": [
+                "Be5",
+                "a3",
+                "Kc2",
+                "a2",
+                "Kd3",
+                "a1=Q",
+                "Bxa1",
+                "e5",
+                "Ke4",
+                "Kxg7",
+                "Kf5"
+            ],
+            "raw": "1.Be5 a3 2.Kc2 a2 3.Kd3 a1=Q 4.Bxa1 e5 5.Ke4 Kxg7 6.Kf5 *",
             "date": "1924",
             "white": "Prokop",
             "black": "Study",
@@ -317,7 +450,14 @@
         "comment_count": 382,
         "solved_count": 7958,
         "parsed": {
-            "moves": "1...Re8 2.Kf4 g5+ 3.Kxg5 Rxe5 *",
+            "moves": [
+                "Re8",
+                "Kf4",
+                "g5+",
+                "Kxg5",
+                "Rxe5"
+            ],
+            "raw": "1...Re8 2.Kf4 g5+ 3.Kxg5 Rxe5 *",
             "result": "*",
             "fen": "5r2/2pk3p/p5p1/2ppBP2/P1b3P1/2P1K3/2P4P/1R6 b - - 0 1"
         },
@@ -335,7 +475,17 @@
         "comment_count": 455,
         "solved_count": 7857,
         "parsed": {
-            "moves": "66.Qc8+ Kh7 67.Qxe6 fxe6 68.f7 Qg7 69.f8=Q 1-0",
+            "moves": [
+                "Qc8+",
+                "Kh7",
+                "Qxe6",
+                "fxe6",
+                "f7",
+                "Qg7",
+                "f8=Q",
+                "1-0"
+            ],
+            "raw": "66.Qc8+ Kh7 67.Qxe6 fxe6 68.f7 Qg7 69.f8=Q 1-0",
             "event": "Palma de Mallorca",
             "site": "Palma ESP",
             "date": "1969.11.23",
@@ -362,7 +512,18 @@
         "comment_count": 529,
         "solved_count": 7823,
         "parsed": {
-            "moves": "1...Qg8+ 2.Bxg8 Rxg8+ 3.Kh1 Bg2+ 4.Kg1 Bxf3+ 5.Bg5 Rxg5# *",
+            "moves": [
+                "Qg8+",
+                "Bxg8",
+                "Rxg8+",
+                "Kh1",
+                "Bg2+",
+                "Kg1",
+                "Bxf3+",
+                "Bg5",
+                "Rxg5#"
+            ],
+            "raw": "1...Qg8+ 2.Bxg8 Rxg8+ 3.Kh1 Bg2+ 4.Kg1 Bxf3+ 5.Bg5 Rxg5# *",
             "result": "*",
             "fen": "r2q3k/7p/1bpp1p2/pp2p3/4P3/PB2BP1b/1PP2P1P/R2Q1RK1 b - - 0 1"
         },
@@ -380,7 +541,16 @@
         "comment_count": 502,
         "solved_count": 7811,
         "parsed": {
-            "moves": "1...Rxh3+ 2.gxh3 Rxh3+ 3.Kg2 Qg7+ 4.Kxh3 Qg3# *",
+            "moves": [
+                "Rxh3+",
+                "gxh3",
+                "Rxh3+",
+                "Kg2",
+                "Qg7+",
+                "Kxh3",
+                "Qg3#"
+            ],
+            "raw": "1...Rxh3+ 2.gxh3 Rxh3+ 3.Kg2 Qg7+ 4.Kxh3 Qg3# *",
             "result": "*",
             "fen": "4Q3/ppk4r/2p5/7r/P2q1p2/1P3P1P/2P3P1/4RR1K b - - 0 1"
         },
@@ -398,7 +568,15 @@
         "comment_count": 493,
         "solved_count": 7837,
         "parsed": {
-            "moves": "23.Rxc8+ Rxc8 24.Nxb7+ Ke8 25.Re7# 1-0",
+            "moves": [
+                "Rxc8+",
+                "Rxc8",
+                "Nxb7+",
+                "Ke8",
+                "Re7#",
+                "1-0"
+            ],
+            "raw": "23.Rxc8+ Rxc8 24.Nxb7+ Ke8 25.Re7# 1-0",
             "event": "Match",
             "site": "Amsterdam (Netherlands)",
             "date": "1923.??.??",
@@ -422,7 +600,16 @@
         "comment_count": 378,
         "solved_count": 7920,
         "parsed": {
-            "moves": "1...Qh3+ 2.Ke2 Ng1+ 3.Rxg1 Qd3+ 4.Ke1 Nf3# *",
+            "moves": [
+                "Qh3+",
+                "Ke2",
+                "Ng1+",
+                "Rxg1",
+                "Qd3+",
+                "Ke1",
+                "Nf3#"
+            ],
+            "raw": "1...Qh3+ 2.Ke2 Ng1+ 3.Rxg1 Qd3+ 4.Ke1 Nf3# *",
             "result": "*",
             "fen": "r3k3/p6p/2p2p2/1N2n3/1Q2P1q1/N4n2/P4P1P/2RR1K2 b - - 0 1"
         },
@@ -440,7 +627,23 @@
         "comment_count": 494,
         "solved_count": 8037,
         "parsed": {
-            "moves": "Qxg2# 0-1",
+            "moves": [
+                "Nf3+",
+                "gxf3",
+                "Qg6+",
+                "Kh2",
+                "Rxf3",
+                "Rg1",
+                "Rxf2+",
+                "Bxf2",
+                "Rxf2+",
+                "Kh1",
+                "Qe4+",
+                "Rg2",
+                "Qxg2#",
+                "0-1"
+            ],
+            "raw": "1... Nf3+ 2. gxf3 Qg6+ 3. Kh2 Rxf3 4. Rg1 Rxf2+ 5. Bxf2 Rxf2+ 6. Kh1 Qe4+ 7. Rg2\r\nQxg2# 0-1",
             "result": "0-1",
             "fen": "5rk1/5qp1/p2p4/1p2nr2/2pB3p/7P/PPP2PP1/R1Q2RK1 b - - 1 1"
         },
@@ -458,7 +661,13 @@
         "comment_count": 438,
         "solved_count": 7912,
         "parsed": {
-            "moves": "34.Rg7 Rg8 35.Rf3# 1-0",
+            "moves": [
+                "Rg7",
+                "Rg8",
+                "Rf3#",
+                "1-0"
+            ],
+            "raw": "34.Rg7 Rg8 35.Rf3# 1-0",
             "event": "Hastings7172",
             "site": "Hastings",
             "date": "1971.12.??",
@@ -484,7 +693,15 @@
         "comment_count": 434,
         "solved_count": 7800,
         "parsed": {
-            "moves": "33...Qxd2 34.Rxc6 Qd5+ 35.Kh2 Qxc6 0-1",
+            "moves": [
+                "Qxd2",
+                "Rxc6",
+                "Qd5+",
+                "Kh2",
+                "Qxc6",
+                "0-1"
+            ],
+            "raw": "33...Qxd2 34.Rxc6 Qd5+ 35.Kh2 Qxc6 0-1",
             "event": "Canadian op",
             "site": "Edmonton",
             "date": "2009.07.15",
@@ -512,7 +729,17 @@
         "comment_count": 394,
         "solved_count": 7790,
         "parsed": {
-            "moves": "38.Re8+ Ka7 39.Be1 Rxg2+ 40.Bf2+ Rxf2+ 41.Kxf2 1-0",
+            "moves": [
+                "Re8+",
+                "Ka7",
+                "Be1",
+                "Rxg2+",
+                "Bf2+",
+                "Rxf2+",
+                "Kxf2",
+                "1-0"
+            ],
+            "raw": "38.Re8+ Ka7 39.Be1 Rxg2+ 40.Bf2+ Rxf2+ 41.Kxf2 1-0",
             "event": "It",
             "site": "Paris (France)",
             "date": "1900.??.??",
@@ -537,7 +764,14 @@
         "comment_count": 451,
         "solved_count": 7807,
         "parsed": {
-            "moves": "1.Rf5 Kg6 2.Rxg5+ Bxg5 3.Rf1 *",
+            "moves": [
+                "Rf5",
+                "Kg6",
+                "Rxg5+",
+                "Bxg5",
+                "Rf1"
+            ],
+            "raw": "1.Rf5 Kg6 2.Rxg5+ Bxg5 3.Rf1 *",
             "result": "*",
             "fen": "8/2p2R2/3p1R1p/2p3qk/P1P1r2b/1P4P1/4r2P/3Q2K1 w - - 0 1"
         },
@@ -555,7 +789,16 @@
         "comment_count": 303,
         "solved_count": 7850,
         "parsed": {
-            "moves": "35.Qxc3 Rxc3 36.Rb8+ Bf8 37.Rdd8 Rc1+ 38.Bxc1 *",
+            "moves": [
+                "Qxc3",
+                "Rxc3",
+                "Rb8+",
+                "Bf8",
+                "Rdd8",
+                "Rc1+",
+                "Bxc1"
+            ],
+            "raw": "35.Qxc3 Rxc3 36.Rb8+ Bf8 37.Rdd8 Rc1+ 38.Bxc1 *",
             "event": "It",
             "site": "Copenhagen (Denmark)",
             "date": "1991.??.??",
@@ -579,7 +822,22 @@
         "comment_count": 477,
         "solved_count": 7925,
         "parsed": {
-            "moves": "*",
+            "moves": [
+                "Bh6+",
+                "Kxh6",
+                "Qd2+",
+                "Kg7",
+                "Qg5+",
+                "Kf8",
+                "Qxf6+",
+                "Ke8",
+                "Bf7+",
+                "Kf8",
+                "Bg6+",
+                "Kg8",
+                "Qf7#"
+            ],
+            "raw": "1.Bh6+ Kxh6 2.Qd2+ Kg7 3.Qg5+ Kf8 4.Qxf6+ Ke8 5.Bf7+ Kf8 6.Bg6+ Kg8 7.Qf7#\r\n*",
             "result": "*",
             "fen": "rq5r/p1pp2kp/3b1n2/2n1pP1P/2B3P1/3P4/PPPB1P2/2NQK2b w - - 0 1"
         },
@@ -597,7 +855,19 @@
         "comment_count": 661,
         "solved_count": 8122,
         "parsed": {
-            "moves": "1. Bxa7+ Kxa7 2. b6+ cxb6 3. Nb4 Qa4 4. Qa6+ Qxa6 5. Nc6# 1-0",
+            "moves": [
+                "Bxa7+",
+                "Kxa7",
+                "b6+",
+                "cxb6",
+                "Nb4",
+                "Qa4",
+                "Qa6+",
+                "Qxa6",
+                "Nc6#",
+                "1-0"
+            ],
+            "raw": "1. Bxa7+ Kxa7 2. b6+ cxb6 3. Nb4 Qa4 4. Qa6+ Qxa6 5. Nc6# 1-0",
             "date": "1985",
             "white": "Pogosyants, Ernest",
             "black": "Study",
@@ -618,7 +888,12 @@
         "comment_count": 478,
         "solved_count": 8053,
         "parsed": {
-            "moves": "1...Rh4+ 2.Kg3 Qf4# *",
+            "moves": [
+                "Rh4+",
+                "Kg3",
+                "Qf4#"
+            ],
+            "raw": "1...Rh4+ 2.Kg3 Qf4# *",
             "result": "*",
             "fen": "5k2/3R1p2/p1P3p1/Q7/B2qr3/8/6PK/8 b - - 0 1"
         },
@@ -636,7 +911,12 @@
         "comment_count": 361,
         "solved_count": 8195,
         "parsed": {
-            "moves": "1...Rxc1 2.Rxc1 Qxd2 *",
+            "moves": [
+                "Rxc1",
+                "Rxc1",
+                "Qxd2"
+            ],
+            "raw": "1...Rxc1 2.Rxc1 Qxd2 *",
             "result": "*",
             "fen": "r1r3k1/1p2pp1p/3p1bp1/p2P4/P3P1Q1/Rn1q3P/1P1N1PP1/2B2RK1 b - - 1 1"
         },
