@@ -11,7 +11,7 @@ on:
       - "app/**"
 env:
   NEXT_PUBLIC_DATA_URL: https://raw.githubusercontent.com/samuraitruong/chess.com-daily-puzzle/main
-  NEXT_PUBLIC_BASE_PATH: '/chess.com-daily-puzzle'
+  NEXT_PUBLIC_BASE_PATH: "/chess.com-daily-puzzle"
 permissions:
   contents: read
   pages: write
@@ -29,7 +29,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-          cache: 'npm'
+          cache: "npm"
           cache-dependency-path: app
       - name: Setup Pages
         uses: actions/configure-pages@v3
@@ -46,9 +46,9 @@ jobs:
 
       - run: npm ci
 
-      - run : npm run export
+      - run: npm run export
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./app/output # The folder the action should deploy.
 
@@ -62,4 +62,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
