@@ -3,7 +3,7 @@ import { useDailyPuzzleData } from "@/hooks/useDailyPuzzleData";
 import { useEffect, useMemo, useState } from "react";
 import { DayPicker } from "react-day-picker";
 import { Chessboard } from "react-chessboard";
-import { Chess, Move, Square } from "chess.js";
+import { Chess, Move, Piece, Square } from "chess.js";
 import { ToastContainer, toast } from "react-toastify";
 import "react-day-picker/dist/style.css";
 import "react-toastify/dist/ReactToastify.css";
@@ -103,7 +103,11 @@ export default function Home() {
     }
   };
 
-  const onDrop = (sourceSquare: string, targetSquare: string) => {
+  const onDrop = (
+    sourceSquare: string,
+    targetSquare: string,
+    piece: string
+  ) => {
     if (sourceSquare === targetSquare) {
       toast.error("Invalid move: Source and target squares are the same.", {
         autoClose: 3000,
@@ -113,8 +117,9 @@ export default function Home() {
     const move = makeAMove({
       from: sourceSquare,
       to: targetSquare,
-      promotion: "q",
+      promotion: piece[1]?.toLocaleLowerCase() ?? "q",
     });
+    console.log("move", move);
     if (!move) {
       handleInvalidMove();
       return false;
@@ -123,7 +128,9 @@ export default function Home() {
     return true;
   };
 
-  const onSquareClick = (square: Square) => {
+  const onSquareClick = (square: Square, piece: string) => {
+    console.log("square", square, selectedSquare);
+
     if (solved) return;
 
     if (!selectedSquare) {
@@ -134,10 +141,11 @@ export default function Home() {
       if (selectedSquare === square) {
         return;
       }
+      console.log("piece", piece);
       const move = makeAMove({
         from: selectedSquare,
         to: square,
-        promotion: "q",
+        promotion: piece?.[1].toLocaleLowerCase() ?? "q",
       });
       if (move) {
         handleValidMove(move);
@@ -254,6 +262,9 @@ export default function Home() {
           <div className="col-span-9 border-r border-gray-800 border-opacity-80 pr-4">
             <p className="text-yellow-400">{puzzleData?.title}</p>
             <Chessboard
+              promotionToSquare={selectedSquare}
+              showPromotionDialog={true}
+              showBoardNotation={false}
               boardWidth={
                 screen.width <= 768 ? screen.width - 50 : screen.height - 100
               }
