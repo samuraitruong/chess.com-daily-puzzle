@@ -28,6 +28,7 @@ export default function Home() {
   const [validMoves, setValidMoves] = useState<string[]>([]);
   const [selectedSquare, setSelectedSquare] = useState<string | null>(null);
   const [possibleMoves, setPossibleMoves] = useState<string[]>([]);
+  const [timer, setTimer] = useState(0);
 
   const { data: puzzleData } = useDailyPuzzleData(date);
 
@@ -47,6 +48,22 @@ export default function Home() {
       setTimeout(() => setSelected(routerDate), 1000);
     }
   }, [routerDate]);
+
+  useEffect(() => {
+    let interval: NodeJS.Timeout;
+    if (!solved) {
+      interval = setInterval(() => {
+        setTimer((prev) => prev + 1);
+      }, 1000);
+    } else {
+      clearInterval(interval);
+    }
+    return () => clearInterval(interval);
+  }, [solved]);
+
+  useEffect(() => {
+    setTimer(0); // Reset timer when a new puzzle is selected
+  }, [date]);
 
   const initializePuzzle = (fen: string, moves: string[]) => {
     setMessage("Solving...");
@@ -202,7 +219,10 @@ export default function Home() {
               modifiersClassNames={{ solved: puzzleHistory.classNames.solved }}
             />
             <p className="text-yellow-400 my-5">{player} to play</p>
-            <p className="text-yellow-500">{message}</p>
+            <p className="text-yellow-500">
+              {message} ({Math.floor(timer / 60)}:
+              {timer % 60 < 10 ? `0${timer % 60}` : timer % 60})
+            </p>
             <div className="w-full p-2">
               <div className="flex flex-wrap">{renderMoveList()}</div>
             </div>
