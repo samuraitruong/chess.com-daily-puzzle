@@ -170,12 +170,30 @@ export default function Home() {
     }
   };
 
+  const handleMoveHover = (fen: string) => {
+    setGame(new Chess(fen));
+  };
+
+  const handleMoveMouseOut = () => {
+    if (solvingMoves.length > 0) {
+      const lastMove = solvingMoves[solvingMoves.length - 1];
+      setGame(new Chess(lastMove.after));
+    } else {
+      setGame(new Chess(currentFen));
+    }
+  };
+
   const currentFen = game.fen();
   const player = puzzleData?.player;
 
   const renderMoveList = () => {
     return solvingMoves.map((move, index) => (
-      <span key={index} className="mr-2 text-yellow-400">
+      <span
+        key={index}
+        className="mr-2 text-yellow-400 hover:cursor-pointer"
+        onMouseEnter={() => handleMoveHover(move.after)}
+        onMouseLeave={handleMoveMouseOut}
+      >
         {index % 2 === 0 && `${Math.floor(index / 2) + 1}.`}{" "}
         {index % 2 === 1 && player === "black" && "..."}
         {move.san}
