@@ -161,19 +161,15 @@ export default function Home() {
             <p className="text-blue-500 my-5">{player} to play</p>
             <p className="text-blue-600">{message}</p>
             <div className="w-full p-2">
-              {Array.from(
-                { length: Math.ceil(solvingMoves.length / 2) },
-                (_, i) => (
-                  <div key={i} className="mb-1">
-                    <span className="mr-2">{solvingMoves[i * 2]?.san}</span>
-                    {solvingMoves[i * 2 + 1] && (
-                      <span className="mr-2">
-                        {solvingMoves[i * 2 + 1].san}
-                      </span>
-                    )}
-                  </div>
-                )
-              )}
+              <div className="flex flex-wrap">
+                {solvingMoves.map((move, index) => (
+                  <span key={index} className="mr-2">
+                    {index % 2 === 0 && `${Math.floor(index / 2) + 1}.`}{" "}
+                    {index % 2 === 1 && player === "black" && "..."}
+                    {move.san}
+                  </span>
+                ))}
+              </div>
             </div>
           </div>
         </div>
