@@ -11,7 +11,7 @@ import { usePuzzleHistory } from "@/hooks/usePuzzleHistory";
 import { useRouter } from "next/router";
 import { format } from "date-fns";
 import useScreenSize from "@/hooks/useScreenSize";
-import { sq } from "date-fns/locale";
+import { motion } from "framer-motion";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -29,6 +29,7 @@ export default function Home() {
   const [selectedSquare, setSelectedSquare] = useState<string | null>(null);
   const [possibleMoves, setPossibleMoves] = useState<string[]>([]);
   const [timer, setTimer] = useState(0);
+  const [showAnimation, setShowAnimation] = useState(true);
 
   const { data: puzzleData } = useDailyPuzzleData(date);
 
@@ -201,6 +202,18 @@ export default function Home() {
     ));
   };
 
+  const animationVariants = {
+    hidden: { opacity: 0, scale: 0.5 },
+    visible: { opacity: 1, scale: 1 },
+  };
+
+  useEffect(() => {
+    if (solved) {
+      const timer = setTimeout(() => setShowAnimation(false), 5000);
+      return () => clearTimeout(timer);
+    }
+  }, [solved]);
+
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-10 md:p-5 bg-gray-900 text-white">
       <div className="z-10 w-full max-w-6xl items-center justify-between font-mono text-sm lg:flex flex-col">
@@ -252,6 +265,23 @@ export default function Home() {
         autoClose={false}
         position={screen.width <= 768 ? "bottom-center" : "top-right"}
       />
+      {solved && showAnimation && (
+        <motion.div
+          className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-50 z-50"
+          initial="hidden"
+          animate="visible"
+          exit="hidden"
+          variants={animationVariants}
+          transition={{ duration: 0.5 }}
+          onClick={() => {
+            setShowAnimation(false);
+          }}
+        >
+          <div className="text-white text-4xl font-bold">
+            🎉 Puzzle Solved! 🎉
+          </div>
+        </motion.div>
+      )}
     </main>
   );
 }
