@@ -31,6 +31,7 @@ export default function Home() {
   const [timer, setTimer] = useState(0);
   const [showAnimation, setShowAnimation] = useState(true);
   const [failedAttempts, setFailedAttempts] = useState(0); // Track failed attempts
+  const [disabledDays, setDisabledDays] = useState<Date[]>([]); // State to hold disabled days
 
   const { data: puzzleData } = useDailyPuzzleData(date);
 
@@ -67,6 +68,12 @@ export default function Home() {
     setTimer(0); // Reset timer when a new puzzle is selected
   }, [date]);
 
+  useEffect(() => {
+    if (puzzleData?.disabledDays) {
+      setDisabledDays(puzzleData.disabledDays);
+    }
+  }, [puzzleData]);
+
   const initializePuzzle = (fen: string, moves: string[]) => {
     setMessage("Solving...");
     toast.dismiss();
@@ -97,6 +104,12 @@ export default function Home() {
   };
 
   const onDrop = (sourceSquare: string, targetSquare: string) => {
+    if (sourceSquare === targetSquare) {
+      toast.error("Invalid move: Source and target squares are the same.", {
+        autoClose: 3000,
+      });
+      return false;
+    }
     const move = makeAMove({
       from: sourceSquare,
       to: targetSquare,
@@ -118,6 +131,9 @@ export default function Home() {
       const moves = game.moves({ square, verbose: true });
       setPossibleMoves(moves.map((m: any) => m.to));
     } else {
+      if (selectedSquare === square) {
+        return;
+      }
       const move = makeAMove({
         from: selectedSquare,
         to: square,
@@ -262,7 +278,7 @@ export default function Home() {
               selected={date}
               onSelect={onDateChanged as any}
               onMonthChange={onDateChanged}
-              disabled={puzzleData?.disabledDays}
+              disabled={disabledDays} // Use the disabledDays state here
               modifiers={{ solved: puzzleHistory.days }}
               modifiersClassNames={{ solved: puzzleHistory.classNames.solved }}
             />

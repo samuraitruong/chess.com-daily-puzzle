@@ -47,19 +47,26 @@ export function useDailyPuzzleData(date: Date) {
         );
         const lastDate = data[data.length - 1].date;
         const nextDay = addDays(new Date(lastDate), 1);
-        const disabledDays = [{ from: nextDay, to: endOfMonth(new Date()) }];
+        const availableDates = data.map((item: any) => item.date);
+        const allDaysInMonth = Array.from(
+          { length: endOfMonth(date).getDate() },
+          (_, i) => {
+            const day = new Date(date.getFullYear(), date.getMonth(), i + 1);
+            return format(day, "yyyy-MM-dd");
+          }
+        );
+
+        const disabledDays = allDaysInMonth
+          .filter((day) => !availableDates.includes(day))
+          .map((day) => new Date(day)); // Convert string to Date object
 
         if (matchPuzzle) {
           const player = matchPuzzle.parsed.fen.includes(" b ")
             ? "Black"
             : "White";
-          const moves = matchPuzzle.parsed.moves
-            //.replace(/\d+\./gi, "")
-            //.replace("..", "")
-            //.split(" ")
-            .filter(
-              (x: string) => x && !["*", "1-0", "0-1", "1/2-1/2"].includes(x)
-            );
+          const moves = matchPuzzle.parsed.moves.filter(
+            (x: string) => x && !["*", "1-0", "0-1", "1/2-1/2"].includes(x)
+          );
 
           setData({
             title: matchPuzzle.title || "No puzzle found",
