@@ -12,6 +12,7 @@ import { useRouter } from "next/router";
 import { format } from "date-fns";
 import useScreenSize from "@/hooks/useScreenSize";
 import { motion } from "framer-motion";
+import { sq } from "date-fns/locale";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -27,12 +28,14 @@ export default function Home() {
   const [game, setGame] = useState(new Chess());
   const [validMoves, setValidMoves] = useState<string[]>([]);
   const [selectedSquare, setSelectedSquare] = useState<string | null>(null);
-  const [possibleMoves, setPossibleMoves] = useState<string[]>([]);
+  const [possibleMoves, setPossibleMoves] = useState<Move[]>([]);
   const [timer, setTimer] = useState(0);
   const [showAnimation, setShowAnimation] = useState(true);
   const [failedAttempts, setFailedAttempts] = useState(0); // Track failed attempts
   const [disabledDays, setDisabledDays] = useState<Date[]>([]); // State to hold disabled days
 
+  const [promotionSquare, setPromotionSquare] = useState<Square | undefined>(); // State to hold disabled days
+  const [showPromotionDialog, setShowPromotionDialog] = useState(false); // State to hold disabled days
   const { data: puzzleData } = useDailyPuzzleData(date);
 
   const routerDate = useMemo(
@@ -53,7 +56,7 @@ export default function Home() {
   }, [routerDate]);
 
   useEffect(() => {
-    let interval: NodeJS.Timeout;
+    let interval: NodeJS.Timeout | undefined;
     if (!solved) {
       interval = setInterval(() => {
         setTimer((prev) => prev + 1);
@@ -115,37 +118,49 @@ export default function Home() {
       return false;
     }
     const move = makeAMove({
-      from: sourceSquare,
+      from: sourceSquare || selectedSquare,
       to: targetSquare,
       promotion: piece[1]?.toLocaleLowerCase() ?? "q",
     });
-    console.log("move", move);
     if (!move) {
       handleInvalidMove();
+      setShowPromotionDialog(false);
+      setPromotionSquare(undefined);
       return false;
     }
     handleValidMove(move);
+    setShowPromotionDialog(false);
+    setPromotionSquare(undefined);
     return true;
   };
 
-  const onSquareClick = (square: Square, piece: string) => {
-    console.log("square", square, selectedSquare);
-
+  const onSquareClick = (square: Square, piece: Piece | undefined) => {
     if (solved) return;
 
+    const moves = game.moves({ square, verbose: true });
+    const promotionMove = moves.find((m) => m.san.includes("="));
+    if (promotionMove) {
+      setPromotionSquare(promotionMove.to);
+    } else {
+      //setPromotionSquare(undefined);
+      setShowPromotionDialog(false);
+    }
     if (!selectedSquare) {
       setSelectedSquare(square);
-      const moves = game.moves({ square, verbose: true });
-      setPossibleMoves(moves.map((m: any) => m.to));
+      setPossibleMoves(moves);
     } else {
       if (selectedSquare === square) {
         return;
       }
-      console.log("piece", piece);
+      if (square === promotionSquare) {
+        setShowPromotionDialog(true);
+        return;
+      }
+      const piceString = piece?.toString();
       const move = makeAMove({
         from: selectedSquare,
         to: square,
-        promotion: piece?.[1].toLocaleLowerCase() ?? "q",
+        promotion: piceString?.[1].toLocaleLowerCase() ?? "q",
       });
       if (move) {
         handleValidMove(move);
@@ -250,7 +265,7 @@ export default function Home() {
       if (moveResult) {
         setSelectedSquare(moveResult.from); // Select the beginning square of the first valid move
         const moves = game.moves({ square: moveResult.from, verbose: true });
-        setPossibleMoves(moves.map((m: any) => m.to)); // Highlight possible moves from the selected square
+        setPossibleMoves(moves); // Highlight possible moves from the selected square
       }
     }
   };
@@ -262,20 +277,20 @@ export default function Home() {
           <div className="col-span-9 border-r border-gray-800 border-opacity-80 pr-4">
             <p className="text-yellow-400">{puzzleData?.title}</p>
             <Chessboard
-              promotionToSquare={selectedSquare}
-              showPromotionDialog={true}
+              promotionToSquare={promotionSquare}
+              showPromotionDialog={showPromotionDialog}
               showBoardNotation={false}
               boardWidth={
                 screen.width <= 768 ? screen.width - 50 : screen.height - 100
               }
               position={currentFen}
               onPieceDrop={onDrop}
-              onSquareClick={onSquareClick}
+              onSquareClick={onSquareClick as any}
               boardOrientation={player?.toLowerCase() as any}
               animationDuration={500}
               customSquareStyles={Object.fromEntries(
-                possibleMoves.map((square) => [
-                  square,
+                possibleMoves.map((move) => [
+                  move.to,
                   { backgroundColor: "rgba(255, 255, 0, 0.4)" },
                 ])
               )}

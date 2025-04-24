@@ -10,7 +10,7 @@ export interface IPuzzle {
   moves: string[];
   result?: string;
   date?: string;
-  disabledDays?: { from: Date; to: Date }[];
+  disabledDays?: Date[];
 }
 const NEXT_PUBLIC_DATA_URL = process.env.NEXT_PUBLIC_DATA_URL || "/api";
 export function useDailyPuzzleData(date: Date) {
@@ -58,7 +58,7 @@ export function useDailyPuzzleData(date: Date) {
 
         const disabledDays = allDaysInMonth
           .filter((day) => !availableDates.includes(day))
-          .map((day) => new Date(day)); // Convert string to Date object
+          .map((day) => new Date(day)); // Convert to { from: Date; to: Date } format
 
         if (matchPuzzle) {
           const player = matchPuzzle.parsed.fen.includes(" b ")
