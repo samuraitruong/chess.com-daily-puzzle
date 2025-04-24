@@ -30,6 +30,7 @@ export default function Home() {
   const [possibleMoves, setPossibleMoves] = useState<string[]>([]);
   const [timer, setTimer] = useState(0);
   const [showAnimation, setShowAnimation] = useState(true);
+  const [failedAttempts, setFailedAttempts] = useState(0); // Track failed attempts
 
   const { data: puzzleData } = useDailyPuzzleData(date);
 
@@ -137,6 +138,7 @@ export default function Home() {
     toast.error("Incorrect move! Please try again", { autoClose: 3000 });
     setSelectedSquare(null);
     setPossibleMoves([]);
+    setFailedAttempts((prev) => prev + 1); // Increment failed attempts
   };
 
   const handleValidMove = (move: any) => {
@@ -150,7 +152,8 @@ export default function Home() {
     const remainingMoves = validMoves.slice(2);
 
     setValidMoves(validMoves.slice(1));
-
+    setFailedAttempts(0); // Reset failed attempts on a valid move
+    setPossibleMoves([]);
     if (computerMove) {
       setMessage("Solving...");
       setTimeout(() => {
@@ -214,6 +217,20 @@ export default function Home() {
     }
   }, [solved]);
 
+  const handleHintClick = () => {
+    if (validMoves.length > 0) {
+      const firstMove = validMoves[0];
+      const tempGame = new Chess(game.fen()); // Create a temporary game instance
+      const moveResult = tempGame.move(firstMove); // Get the move result
+
+      if (moveResult) {
+        setSelectedSquare(moveResult.from); // Select the beginning square of the first valid move
+        const moves = game.moves({ square: moveResult.from, verbose: true });
+        setPossibleMoves(moves.map((m: any) => m.to)); // Highlight possible moves from the selected square
+      }
+    }
+  };
+
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-10 md:p-5 bg-gray-900 text-white">
       <div className="z-10 w-full max-w-6xl items-center justify-between font-mono text-sm lg:flex flex-col">
@@ -257,6 +274,14 @@ export default function Home() {
             <div className="w-full p-2">
               <div className="flex flex-wrap">{renderMoveList()}</div>
             </div>
+            {failedAttempts >= 3 && (
+              <button
+                onClick={handleHintClick}
+                className="mt-4 bg-yellow-500 text-black rounded p-2"
+              >
+                Hint
+              </button>
+            )}
           </div>
         </div>
       </div>
