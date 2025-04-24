@@ -168,12 +168,14 @@ export default function Home() {
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-10 md:p-5">
-      <div className="z-10 w-full max-w-6xl items-center justify-between font-mono text-sm lg:flex">
-        <div className="grid grid-flow-col grid-cols-2 grid-rows-1 w-full">
+      <div className="z-10 w-full max-w-6xl items-center justify-between font-mono text-sm lg:flex flex-col">
+        <div className="grid grid-flow-row md:grid-flow-col grid-cols-1 md:grid-cols-2 grid-rows-2 md:grid-rows-1 w-full">
           <div className="col-span-9">
             <p className="text-blue-600">{puzzleData?.title}</p>
             <Chessboard
-              boardWidth={screen.height - 300}
+              boardWidth={
+                screen.width <= 768 ? screen.width - 50 : screen.height - 100
+              }
               position={currentFen}
               onPieceDrop={onDrop}
               onSquareClick={onSquareClick}
@@ -206,7 +208,11 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <ToastContainer theme="colored" autoClose={false} />
+      <ToastContainer
+        theme="colored"
+        autoClose={false}
+        position={screen.width <= 768 ? "bottom-center" : "top-right"}
+      />
     </main>
   );
 }

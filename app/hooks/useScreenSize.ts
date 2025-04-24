@@ -7,21 +7,18 @@ const useScreenSize = () => {
   });
 
   useEffect(() => {
-    const handleResize = () => {
-      if (window) {
-        setScreenSize({
-          width: window.innerWidth,
-          height: window.innerHeight,
-        });
-      }
+    // Set initial screen size and add resize event listener
+    const updateScreenSize = () => {
+      setScreenSize({
+        width: window.innerWidth,
+        height: window.innerHeight,
+      });
     };
 
-    window.addEventListener("resize", handleResize);
+    updateScreenSize(); // Set initial size
 
-    // Clean up the event listener when the component unmounts
-    return () => {
-      window.removeEventListener("resize", handleResize);
-    };
+    window.addEventListener("resize", updateScreenSize);
+    return () => window.removeEventListener("resize", updateScreenSize);
   }, []);
 
   return screenSize;
