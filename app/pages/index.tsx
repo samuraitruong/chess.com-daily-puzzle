@@ -158,7 +158,7 @@ export default function Home() {
 
   const renderMoveList = () => {
     return solvingMoves.map((move, index) => (
-      <span key={index} className="mr-2">
+      <span key={index} className="mr-2 text-yellow-400">
         {index % 2 === 0 && `${Math.floor(index / 2) + 1}.`}{" "}
         {index % 2 === 1 && player === "black" && "..."}
         {move.san}
@@ -167,11 +167,11 @@ export default function Home() {
   };
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-10 md:p-5">
+    <main className="flex min-h-screen flex-col items-center justify-between p-10 md:p-5 bg-gray-900 text-white">
       <div className="z-10 w-full max-w-6xl items-center justify-between font-mono text-sm lg:flex flex-col">
         <div className="grid grid-flow-row md:grid-flow-col grid-cols-1 md:grid-cols-2 grid-rows-2 md:grid-rows-1 w-full">
-          <div className="col-span-9">
-            <p className="text-blue-600">{puzzleData?.title}</p>
+          <div className="col-span-9 border-r border-gray-800 border-opacity-80 pr-4">
+            <p className="text-yellow-400">{puzzleData?.title}</p>
             <Chessboard
               boardWidth={
                 screen.width <= 768 ? screen.width - 50 : screen.height - 100
@@ -191,6 +191,7 @@ export default function Home() {
           </div>
           <div className="col-span-3 items-center flex flex-col">
             <DayPicker
+              className="bg-white text-black shadow-lg rounded-lg p-4"
               month={date}
               mode="single"
               selected={date}
@@ -200,8 +201,8 @@ export default function Home() {
               modifiers={{ solved: puzzleHistory.days }}
               modifiersClassNames={{ solved: puzzleHistory.classNames.solved }}
             />
-            <p className="text-blue-500 my-5">{player} to play</p>
-            <p className="text-blue-600">{message}</p>
+            <p className="text-yellow-400 my-5">{player} to play</p>
+            <p className="text-yellow-500">{message}</p>
             <div className="w-full p-2">
               <div className="flex flex-wrap">{renderMoveList()}</div>
             </div>
