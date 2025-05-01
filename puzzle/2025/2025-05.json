@@ -1,1 +1,31 @@
-[]
+[
+    {
+        "id": 13074,
+        "title": "Seeing Through the Defense",
+        "pgn": "[White \"EnPassantFork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"*\"]\r\n[FEN \"8/6p1/P3p3/2ppP1P1/1k5p/1P4r1/1K5R/8 w - - 0 1\"]\r\n\r\n1. a7 Rxb3+ 2. Ka1 Ra3+ 3. Ra2 Rxa7 4. Rxa7 *",
+        "date": "2025-05-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-05-01_Seeing-Through-the-Defense_Fiona-Steil-Antoni_9L6.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 33,
+        "solved_count": 21739,
+        "parsed": {
+            "moves": [
+                "a7",
+                "Rxb3+",
+                "Ka1",
+                "Ra3+",
+                "Ra2",
+                "Rxa7",
+                "Rxa7"
+            ],
+            "raw": "1. a7 Rxb3+ 2. Ka1 Ra3+ 3. Ra2 Rxa7 4. Rxa7 *",
+            "white": "EnPassantFork",
+            "black": "Daily Puzzle Inspiration",
+            "result": "*",
+            "fen": "8/6p1/P3p3/2ppP1P1/1k5p/1P4r1/1K5R/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/6p1/P3p3/2ppP1P1/1k5p/1P4r1/1K5R/8 w - - 0 1"
+    }
+]
