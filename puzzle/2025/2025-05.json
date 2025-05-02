@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-05-01_Seeing-Through-the-Defense_Fiona-Steil-Antoni_9L6.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 666,
-        "solved_count": 1370269,
+        "comment_count": 670,
+        "solved_count": 1393296,
         "parsed": {
             "moves": [
                 "a7",
@@ -27,5 +27,33 @@
             "fen": "8/6p1/P3p3/2ppP1P1/1k5p/1P4r1/1K5R/8 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=8/6p1/P3p3/2ppP1P1/1k5p/1P4r1/1K5R/8 w - - 0 1"
+    },
+    {
+        "id": 13024,
+        "title": "I Dream of g7",
+        "pgn": "[White \"SAMAR12_11\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"3rr1k1/4pp1p/p5pB/1p1nR3/1P3Q2/P6P/2q2PP1/4R1K1 w - - 0 1\"]\r\n\r\n1. Rxd5 Rxd5 2. Qf6 exf6 3. Rxe8# 1-0",
+        "date": "2025-05-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-05-02_I-Dream-of-g7_Fiona-Steil-Antoni_4P3.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 32,
+        "solved_count": 20279,
+        "parsed": {
+            "moves": [
+                "Rxd5",
+                "Rxd5",
+                "Qf6",
+                "exf6",
+                "Rxe8#",
+                "1-0"
+            ],
+            "raw": "1. Rxd5 Rxd5 2. Qf6 exf6 3. Rxe8# 1-0",
+            "white": "SAMAR12_11",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "3rr1k1/4pp1p/p5pB/1p1nR3/1P3Q2/P6P/2q2PP1/4R1K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3rr1k1/4pp1p/p5pB/1p1nR3/1P3Q2/P6P/2q2PP1/4R1K1 w - - 0 1"
     }
 ]
