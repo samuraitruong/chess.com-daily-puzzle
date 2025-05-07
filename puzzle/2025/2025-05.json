@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 720,
-        "solved_count": 1588970,
+        "solved_count": 1589649,
         "parsed": {
             "moves": [
                 "a7",
@@ -38,7 +38,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 906,
-        "solved_count": 1511679,
+        "solved_count": 1512440,
         "parsed": {
             "moves": [
                 "Rxd5",
@@ -66,7 +66,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 819,
-        "solved_count": 1424607,
+        "solved_count": 1425606,
         "parsed": {
             "moves": [
                 "Bxf5",
@@ -94,7 +94,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 890,
-        "solved_count": 1430421,
+        "solved_count": 1431913,
         "parsed": {
             "moves": [
                 "Qg3+",
@@ -128,7 +128,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1303,
-        "solved_count": 1544116,
+        "solved_count": 1546446,
         "parsed": {
             "moves": [
                 "Nf1+",
@@ -152,8 +152,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-05-06_Uplifting-Pawn-Plan_Fiona-Steil-Antoni_BEN.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 748,
-        "solved_count": 1406182,
+        "comment_count": 764,
+        "solved_count": 1427623,
         "parsed": {
             "moves": [
                 "Ke3",
@@ -168,5 +168,33 @@
             "fen": "4r3/3b4/8/1RP1kpPp/1p3N2/p2P4/3K4/8 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=4r3/3b4/8/1RP1kpPp/1p3N2/p2P4/3K4/8 w - - 0 1"
+    },
+    {
+        "id": 13026,
+        "title": "Light on the Forcing Moves, Please",
+        "pgn": "[White \"EnPassantFork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"r2q1rk1/1b2b1pp/p1p1pn2/1p1nN3/P2PBB2/6PQ/1PP2P1P/R2R2K1 w - - 1 17\"]\r\n\r\n17. Bxh7+ Nxh7 18. Qxe6+ Kh8 19. Ng6# 1-0",
+        "date": "2025-05-07",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-05-07_Light-on-the-Forcing-Moves-Please_Kostya-Kavutskiy_9WQ.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 22,
+        "solved_count": 21866,
+        "parsed": {
+            "moves": [
+                "Bxh7+",
+                "Nxh7",
+                "Qxe6+",
+                "Kh8",
+                "Ng6#",
+                "1-0"
+            ],
+            "raw": "17. Bxh7+ Nxh7 18. Qxe6+ Kh8 19. Ng6# 1-0",
+            "white": "EnPassantFork",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "r2q1rk1/1b2b1pp/p1p1pn2/1p1nN3/P2PBB2/6PQ/1PP2P1P/R2R2K1 w - - 1 17"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r2q1rk1/1b2b1pp/p1p1pn2/1p1nN3/P2PBB2/6PQ/1PP2P1P/R2R2K1 w - - 1 17"
     }
 ]
