@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 721,
-        "solved_count": 1616658,
+        "solved_count": 1616971,
         "parsed": {
             "moves": [
                 "a7",
@@ -38,7 +38,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 930,
-        "solved_count": 1546213,
+        "solved_count": 1546623,
         "parsed": {
             "moves": [
                 "Rxd5",
@@ -66,7 +66,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 839,
-        "solved_count": 1467606,
+        "solved_count": 1468249,
         "parsed": {
             "moves": [
                 "Bxf5",
@@ -94,7 +94,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 912,
-        "solved_count": 1488926,
+        "solved_count": 1489773,
         "parsed": {
             "moves": [
                 "Qg3+",
@@ -127,8 +127,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-05-05_A-Fork-In-Passing_Dane-Mattson_QB0.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1338,
-        "solved_count": 1622969,
+        "comment_count": 1339,
+        "solved_count": 1624023,
         "parsed": {
             "moves": [
                 "Nf1+",
@@ -153,7 +153,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 797,
-        "solved_count": 1558221,
+        "solved_count": 1559719,
         "parsed": {
             "moves": [
                 "Ke3",
@@ -178,8 +178,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-05-07_Light-on-the-Forcing-Moves-Please_Kostya-Kavutskiy_9WQ.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 810,
-        "solved_count": 1465419,
+        "comment_count": 811,
+        "solved_count": 1467843,
         "parsed": {
             "moves": [
                 "Bxh7+",
@@ -206,8 +206,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-05-08_Tactical-Backtracking_Fiona-Steil-Antoni_EWO.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 735,
-        "solved_count": 1363279,
+        "comment_count": 751,
+        "solved_count": 1384686,
         "parsed": {
             "moves": [
                 "Bxg7",
@@ -225,5 +225,39 @@
             "fen": "3r1rk1/ppp2pp1/3q1b1B/2N2P2/4p1Q1/1P6/P1P3PP/5R1K w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=3r1rk1/ppp2pp1/3q1b1B/2N2P2/4p1Q1/1P6/P1P3PP/5R1K w - - 0 1"
+    },
+    {
+        "id": 13034,
+        "title": "Tempo Precision",
+        "pgn": "[White \"sethwmd\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"1r4k1/5p1p/p2b2p1/1p2n1q1/P2pP2r/1Q3N2/1PP2PPP/R1B2RK1 b - - 9 26\"]\r\n\r\n26... Nxf3+ 27. Qxf3 Bxh2+ 28. Kh1 Bg3+ 29. Kg1 Rh1+ 30. Kxh1 Qh4+ 31. Kg1 Qh2#\r\n0-1",
+        "date": "2025-05-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-05-09_Tempo-Precision_Fiona-Steil-Antoni_0MY.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 36,
+        "solved_count": 20727,
+        "parsed": {
+            "moves": [
+                "Nxf3+",
+                "Qxf3",
+                "Bxh2+",
+                "Kh1",
+                "Bg3+",
+                "Kg1",
+                "Rh1+",
+                "Kxh1",
+                "Qh4+",
+                "Kg1",
+                "Qh2#",
+                "0-1"
+            ],
+            "raw": "26... Nxf3+ 27. Qxf3 Bxh2+ 28. Kh1 Bg3+ 29. Kg1 Rh1+ 30. Kxh1 Qh4+ 31. Kg1 Qh2#\r\n0-1",
+            "white": "sethwmd",
+            "black": "Daily Puzzle Inspiration",
+            "result": "0-1",
+            "fen": "1r4k1/5p1p/p2b2p1/1p2n1q1/P2pP2r/1Q3N2/1PP2PPP/R1B2RK1 b - - 9 26"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r4k1/5p1p/p2b2p1/1p2n1q1/P2pP2r/1Q3N2/1PP2PPP/R1B2RK1 b - - 9 26"
     }
 ]
