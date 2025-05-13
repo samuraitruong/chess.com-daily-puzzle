@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 705,
-        "solved_count": 1619923,
+        "solved_count": 1619946,
         "parsed": {
             "moves": [
                 "a7",
@@ -38,7 +38,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 928,
-        "solved_count": 1558639,
+        "solved_count": 1558665,
         "parsed": {
             "moves": [
                 "Rxd5",
@@ -66,7 +66,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 850,
-        "solved_count": 1494707,
+        "solved_count": 1494736,
         "parsed": {
             "moves": [
                 "Bxf5",
@@ -94,7 +94,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 925,
-        "solved_count": 1536724,
+        "solved_count": 1536764,
         "parsed": {
             "moves": [
                 "Qg3+",
@@ -128,7 +128,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1364,
-        "solved_count": 1695404,
+        "solved_count": 1695787,
         "parsed": {
             "moves": [
                 "Nf1+",
@@ -153,7 +153,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 807,
-        "solved_count": 1655104,
+        "solved_count": 1655631,
         "parsed": {
             "moves": [
                 "Ke3",
@@ -179,7 +179,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 830,
-        "solved_count": 1594188,
+        "solved_count": 1594984,
         "parsed": {
             "moves": [
                 "Bxh7+",
@@ -207,7 +207,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 795,
-        "solved_count": 1575505,
+        "solved_count": 1576492,
         "parsed": {
             "moves": [
                 "Bxg7",
@@ -236,7 +236,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 972,
-        "solved_count": 1525392,
+        "solved_count": 1526680,
         "parsed": {
             "moves": [
                 "Nxf3+",
@@ -270,7 +270,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 3087,
-        "solved_count": 1493287,
+        "solved_count": 1495121,
         "parsed": {
             "moves": [
                 "Nxd5",
@@ -301,7 +301,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 570,
-        "solved_count": 1443331,
+        "solved_count": 1446036,
         "parsed": {
             "moves": [
                 "Qd6+",
@@ -328,8 +328,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-05-12_Discovering-Victory_Dane-Mattson_G0K.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1039,
-        "solved_count": 1471974,
+        "comment_count": 1048,
+        "solved_count": 1494287,
         "parsed": {
             "moves": [
                 "Rb7#"
@@ -339,5 +339,31 @@
             "fen": "8/p5b1/q2k2p1/3P1b2/PRP2P1p/B6P/4r1P1/7K w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=8/p5b1/q2k2p1/3P1b2/PRP2P1p/B6P/4r1P1/7K w - - 0 1"
+    },
+    {
+        "id": 13056,
+        "title": "Opening Knight",
+        "pgn": "[White \"Pepe\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"5rk1/1bp2rp1/1p1p2QP/2p1p3/4qbN1/P1P4R/1P4P1/6K1 w - - 0 1\"]\r\n\r\n1. Nf6+ Kh8 2. hxg7# 1-0",
+        "date": "2025-05-13",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-05-13_Opening-Knight_Fiona-Steil-Antoni_1WR.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 38,
+        "solved_count": 25800,
+        "parsed": {
+            "moves": [
+                "Nf6+",
+                "Kh8",
+                "hxg7#",
+                "1-0"
+            ],
+            "raw": "1. Nf6+ Kh8 2. hxg7# 1-0",
+            "white": "Pepe",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "5rk1/1bp2rp1/1p1p2QP/2p1p3/4qbN1/P1P4R/1P4P1/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5rk1/1bp2rp1/1p1p2QP/2p1p3/4qbN1/P1P4R/1P4P1/6K1 w - - 0 1"
     }
 ]
