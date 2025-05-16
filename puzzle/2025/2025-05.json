@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 715,
-        "solved_count": 1621830,
+        "solved_count": 1621849,
         "parsed": {
             "moves": [
                 "a7",
@@ -38,7 +38,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 931,
-        "solved_count": 1560587,
+        "solved_count": 1560605,
         "parsed": {
             "moves": [
                 "Rxd5",
@@ -66,7 +66,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 833,
-        "solved_count": 1496712,
+        "solved_count": 1496727,
         "parsed": {
             "moves": [
                 "Bxf5",
@@ -94,7 +94,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 910,
-        "solved_count": 1538883,
+        "solved_count": 1538901,
         "parsed": {
             "moves": [
                 "Qg3+",
@@ -128,7 +128,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1358,
-        "solved_count": 1698110,
+        "solved_count": 1698125,
         "parsed": {
             "moves": [
                 "Nf1+",
@@ -153,7 +153,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 805,
-        "solved_count": 1669243,
+        "solved_count": 1669263,
         "parsed": {
             "moves": [
                 "Ke3",
@@ -179,7 +179,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 829,
-        "solved_count": 1626534,
+        "solved_count": 1626558,
         "parsed": {
             "moves": [
                 "Bxh7+",
@@ -207,7 +207,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 797,
-        "solved_count": 1631339,
+        "solved_count": 1631798,
         "parsed": {
             "moves": [
                 "Bxg7",
@@ -236,7 +236,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 969,
-        "solved_count": 1598149,
+        "solved_count": 1598734,
         "parsed": {
             "moves": [
                 "Nxf3+",
@@ -270,7 +270,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 3109,
-        "solved_count": 1586603,
+        "solved_count": 1587488,
         "parsed": {
             "moves": [
                 "Nxd5",
@@ -300,8 +300,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-05-11_Shrinking-the-Tactical-Square_Dane-Mattson_MPP.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 586,
-        "solved_count": 1565619,
+        "comment_count": 585,
+        "solved_count": 1566633,
         "parsed": {
             "moves": [
                 "Qd6+",
@@ -329,7 +329,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1078,
-        "solved_count": 1674378,
+        "solved_count": 1675685,
         "parsed": {
             "moves": [
                 "Rb7#"
@@ -350,7 +350,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 861,
-        "solved_count": 1597270,
+        "solved_count": 1599039,
         "parsed": {
             "moves": [
                 "Nf6+",
@@ -376,7 +376,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 837,
-        "solved_count": 1546158,
+        "solved_count": 1548929,
         "parsed": {
             "moves": [
                 "Qd8+",
@@ -405,8 +405,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-05-15_Light-Squared-World-Tour_Fiona-Steil-Antoni_QM3.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 798,
-        "solved_count": 1424847,
+        "comment_count": 813,
+        "solved_count": 1447506,
         "parsed": {
             "moves": [
                 "Re8+",
@@ -425,5 +425,39 @@
             "fen": "2r3k1/p5p1/Bp2R3/3p1p1p/Q2P1q2/7P/PP4P1/3n3K w - - 0 32"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2r3k1/p5p1/Bp2R3/3p1p1p/Q2P1q2/7P/PP4P1/3n3K w - - 0 32"
+    },
+    {
+        "id": 13082,
+        "title": "Center Today, Corner Tomorrow",
+        "pgn": "[White \"d_jinny\"]\r\n[Black \"Daily Puzzle inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"5rr1/8/1p3b1B/p3p3/P2k4/2N4b/1PK3N1/8 w - - 0 19\"]\r\n\r\n19. Be3+ Kc4 20. b3+ Kb4 21. Nd5+ Ka3 22. Bc1+ Ka2 23. Nc3+ Ka1 24. Bb2# 1-0",
+        "date": "2025-05-16",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-05-16_Center-Today-Corner-Tomorrow_Fiona-Steil-Antoni_JN5.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 38,
+        "solved_count": 22950,
+        "parsed": {
+            "moves": [
+                "Be3+",
+                "Kc4",
+                "b3+",
+                "Kb4",
+                "Nd5+",
+                "Ka3",
+                "Bc1+",
+                "Ka2",
+                "Nc3+",
+                "Ka1",
+                "Bb2#",
+                "1-0"
+            ],
+            "raw": "19. Be3+ Kc4 20. b3+ Kb4 21. Nd5+ Ka3 22. Bc1+ Ka2 23. Nc3+ Ka1 24. Bb2# 1-0",
+            "white": "d_jinny",
+            "black": "Daily Puzzle inspiration",
+            "result": "1-0",
+            "fen": "5rr1/8/1p3b1B/p3p3/P2k4/2N4b/1PK3N1/8 w - - 0 19"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5rr1/8/1p3b1B/p3p3/P2k4/2N4b/1PK3N1/8 w - - 0 19"
     }
 ]
