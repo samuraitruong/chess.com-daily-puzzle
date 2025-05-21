@@ -553,8 +553,8 @@
         "pgn": "[FEN \"5r1k/p6p/1p3pp1/2nQ1N2/4Pq1P/5P2/P5P1/3R2K1 w - - 0 1\"]\r\n[PlyCount \"9\"]\r\n\r\n1. Qf7 1... Ne6 (1... Qh6 2. Rd8 Rxd8 3. Qxf6+ Qg7 4. Qxg7#) 2. Rd8 2... Qc1+ 3. Kh2 Qc7+ 4. Qxc7 Nxc7\r\n5. Rxf8# *",
         "date": "2007-08-22",
         "video": [],
-        "comment_count": 14,
-        "solved_count": 329,
+        "comment_count": 15,
+        "solved_count": 330,
         "parsed": {
             "moves": [
                 "Qf7",
@@ -579,8 +579,8 @@
         "pgn": "[FEN \"r1b2rk1/4qpbp/p1nppnp1/5PB1/1p2P2Q/2NB1N2/PPP3PP/R4R1K w - - 0 1\"]\r\n[Result \"*\"]\r\n\r\n1. e5 $1 Nxe5 ( 1... dxe5 2. Ne4 { and the knight on f6 is lost }  ) ( 1... bxc3 2. exf6 Qd7 3. fxg7 Kxg7 4. Bf6+ Kg8 5. Qh6 { and checkmate }  ) 2. Nxe5 bxc3 ( 2... dxe5 3. Ne4 { and once again the knight on f6 is lost! }  ) 3. Ng4 { and black cannot save the knight on f6 }\r\n*\r\n\r\n\r\n",
         "date": "2007-08-23",
         "video": [],
-        "comment_count": 13,
-        "solved_count": 329,
+        "comment_count": 14,
+        "solved_count": 330,
         "parsed": {
             "moves": [
                 "e5",
