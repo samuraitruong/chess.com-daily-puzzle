@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-06-01_Stammas-Royal-Stroll_Dane-Mattson_MTS.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 762,
-        "solved_count": 1269410,
+        "comment_count": 779,
+        "solved_count": 1290897,
         "parsed": {
             "moves": [
                 "Qc8+",
@@ -30,5 +30,29 @@
             "fen": "k7/pbQnNn2/1p1P4/P1pNP3/1P6/5pq1/6B1/6K1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=k7/pbQnNn2/1p1P4/P1pNP3/1P6/5pq1/6B1/6K1 w - - 0 1"
+    },
+    {
+        "id": 13108,
+        "title": "One Check Leads to Another",
+        "pgn": "[Result \"1-0\"]\r\n[FEN \"rnb2bkr/ppp1p1p1/1n1pP1qp/6N1/7P/5Q2/PPPP1PP1/RNB1K2R w KQ - 1 1\"]\r\n\r\n1. Qf7+ Qxf7 2. exf7# 1-0",
+        "date": "2025-06-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-06-02_One-Check-Leads-to-Another_Dane-Mattson_SF1.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 36,
+        "solved_count": 26575,
+        "parsed": {
+            "moves": [
+                "Qf7+",
+                "Qxf7",
+                "exf7#",
+                "1-0"
+            ],
+            "raw": "1. Qf7+ Qxf7 2. exf7# 1-0",
+            "result": "1-0",
+            "fen": "rnb2bkr/ppp1p1p1/1n1pP1qp/6N1/7P/5Q2/PPPP1PP1/RNB1K2R w KQ - 1 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=rnb2bkr/ppp1p1p1/1n1pP1qp/6N1/7P/5Q2/PPPP1PP1/RNB1K2R w KQ - 1 1"
     }
 ]
