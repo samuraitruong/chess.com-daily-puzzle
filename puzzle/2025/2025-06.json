@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 852,
-        "solved_count": 1482482,
+        "solved_count": 1483846,
         "parsed": {
             "moves": [
                 "Qc8+",
@@ -41,7 +41,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 993,
-        "solved_count": 1518138,
+        "solved_count": 1519866,
         "parsed": {
             "moves": [
                 "Qf7+",
@@ -64,8 +64,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-06-03_Zwischenzug-Zigzag_Fiona-Steil-Antoni_L5N.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 706,
-        "solved_count": 1439515,
+        "comment_count": 708,
+        "solved_count": 1442236,
         "parsed": {
             "moves": [
                 "Bxd5",
@@ -89,8 +89,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-06-04_Seize-the-Winning-Path_Kostya-Kavutskiy_5M1.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 701,
-        "solved_count": 1386030,
+        "comment_count": 710,
+        "solved_count": 1406775,
         "parsed": {
             "moves": [
                 "Raxa7+",
@@ -105,5 +105,32 @@
             "fen": "k5q1/p1R5/2b5/Rr6/1N1n4/5B2/6P1/6K1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=k5q1/p1R5/2b5/Rr6/1N1n4/5B2/6P1/6K1 w - - 0 1"
+    },
+    {
+        "id": 13124,
+        "title": "Pinned to a Square Dance",
+        "pgn": "[Result \"*\"]\r\n[FEN \"5k2/Qp1b4/3p4/8/P5pP/8/1B3prP/5R1K b - - 0 1\"]\r\n\r\n1... Rg1+ 2. Rxg1 Bc6+ 3. Rg2 f1=Q+ 4. Qg1 Bxg2# *",
+        "date": "2025-06-05",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-06-05_Pinned-to-a-Square-Dance_Fiona-Steil-Antoni_FHB.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 39,
+        "solved_count": 23754,
+        "parsed": {
+            "moves": [
+                "Rg1+",
+                "Rxg1",
+                "Bc6+",
+                "Rg2",
+                "f1=Q+",
+                "Qg1",
+                "Bxg2#"
+            ],
+            "raw": "1... Rg1+ 2. Rxg1 Bc6+ 3. Rg2 f1=Q+ 4. Qg1 Bxg2# *",
+            "result": "*",
+            "fen": "5k2/Qp1b4/3p4/8/P5pP/8/1B3prP/5R1K b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5k2/Qp1b4/3p4/8/P5pP/8/1B3prP/5R1K b - - 0 1"
     }
 ]
