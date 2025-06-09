@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 871,
-        "solved_count": 1562871,
+        "solved_count": 1563241,
         "parsed": {
             "moves": [
                 "Qc8+",
@@ -41,7 +41,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1031,
-        "solved_count": 1617287,
+        "solved_count": 1617781,
         "parsed": {
             "moves": [
                 "Qf7+",
@@ -65,7 +65,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 728,
-        "solved_count": 1568012,
+        "solved_count": 1568729,
         "parsed": {
             "moves": [
                 "Bxd5",
@@ -90,7 +90,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 737,
-        "solved_count": 1592171,
+        "solved_count": 1592997,
         "parsed": {
             "moves": [
                 "Raxa7+",
@@ -116,7 +116,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 830,
-        "solved_count": 1532412,
+        "solved_count": 1533474,
         "parsed": {
             "moves": [
                 "Rg1+",
@@ -143,7 +143,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 955,
-        "solved_count": 1449711,
+        "solved_count": 1451221,
         "parsed": {
             "moves": [
                 "Qxd3",
@@ -175,7 +175,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 862,
-        "solved_count": 1352153,
+        "solved_count": 1354715,
         "parsed": {
             "moves": [
                 "Rc1",
@@ -204,8 +204,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-06-08_A-Knights-Hoppy-Ending_Dane-Mattson_RH8.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1100,
-        "solved_count": 1285042,
+        "comment_count": 1113,
+        "solved_count": 1304434,
         "parsed": {
             "moves": [
                 "Qe5+",
@@ -230,5 +230,26 @@
             "fen": "1k2r1r1/pp3p2/2b1Nn1b/2P5/6qp/P7/1P2QPPP/R3K2R w KQ - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=1k2r1r1/pp3p2/2b1Nn1b/2P5/6qp/P7/1P2QPPP/R3K2R w KQ - 0 1"
+    },
+    {
+        "id": 13122,
+        "title": "Searching for the Best Check",
+        "pgn": "[Result \"*\"]\r\n[FEN \"5rq1/ppn1r3/2n4b/3k1B1p/3Pb1P1/P1P3B1/4Q2P/R3NK2 w - - 0 1\"]\r\n\r\n1. Qa2# *",
+        "date": "2025-06-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-06-09_Searching-for-the-Best-Check_Dane-Mattson_GMU.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 24,
+        "solved_count": 24174,
+        "parsed": {
+            "moves": [
+                "Qa2#"
+            ],
+            "raw": "1. Qa2# *",
+            "result": "*",
+            "fen": "5rq1/ppn1r3/2n4b/3k1B1p/3Pb1P1/P1P3B1/4Q2P/R3NK2 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5rq1/ppn1r3/2n4b/3k1B1p/3Pb1P1/P1P3B1/4Q2P/R3NK2 w - - 0 1"
     }
 ]
