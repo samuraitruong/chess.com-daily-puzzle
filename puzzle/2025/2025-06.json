@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 872,
-        "solved_count": 1564210,
+        "solved_count": 1564258,
         "parsed": {
             "moves": [
                 "Qc8+",
@@ -41,7 +41,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1031,
-        "solved_count": 1629288,
+        "solved_count": 1629644,
         "parsed": {
             "moves": [
                 "Qf7+",
@@ -65,7 +65,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 735,
-        "solved_count": 1584546,
+        "solved_count": 1585036,
         "parsed": {
             "moves": [
                 "Bxd5",
@@ -90,7 +90,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 739,
-        "solved_count": 1612120,
+        "solved_count": 1612827,
         "parsed": {
             "moves": [
                 "Raxa7+",
@@ -116,7 +116,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 837,
-        "solved_count": 1557415,
+        "solved_count": 1558298,
         "parsed": {
             "moves": [
                 "Rg1+",
@@ -143,7 +143,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 962,
-        "solved_count": 1483473,
+        "solved_count": 1484677,
         "parsed": {
             "moves": [
                 "Qxd3",
@@ -175,7 +175,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 878,
-        "solved_count": 1404626,
+        "solved_count": 1406350,
         "parsed": {
             "moves": [
                 "Rc1",
@@ -204,8 +204,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-06-08_A-Knights-Hoppy-Ending_Dane-Mattson_RH8.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1157,
-        "solved_count": 1392995,
+        "comment_count": 1158,
+        "solved_count": 1395595,
         "parsed": {
             "moves": [
                 "Qe5+",
@@ -240,8 +240,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-06-09_Searching-for-the-Best-Check_Dane-Mattson_GMU.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 768,
-        "solved_count": 1338654,
+        "comment_count": 780,
+        "solved_count": 1359354,
         "parsed": {
             "moves": [
                 "Qa2#"
@@ -251,5 +251,28 @@
             "fen": "5rq1/ppn1r3/2n4b/3k1B1p/3Pb1P1/P1P3B1/4Q2P/R3NK2 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=5rq1/ppn1r3/2n4b/3k1B1p/3Pb1P1/P1P3B1/4Q2P/R3NK2 w - - 0 1"
+    },
+    {
+        "id": 13130,
+        "title": "A Defensive Attack",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3r2k1/1p2rpp1/p6p/2npN3/5PPq/1P2P2P/P5Q1/2R1R1K1 w - - 0 1\"]\r\n\r\n1. Nf3 Qf6 2. Rxc5 *",
+        "date": "2025-06-10",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-06-10_A-Defensive-Attack_Fiona-Steil-Antoni_KIK.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 31,
+        "solved_count": 21954,
+        "parsed": {
+            "moves": [
+                "Nf3",
+                "Qf6",
+                "Rxc5"
+            ],
+            "raw": "1. Nf3 Qf6 2. Rxc5 *",
+            "result": "*",
+            "fen": "3r2k1/1p2rpp1/p6p/2npN3/5PPq/1P2P2P/P5Q1/2R1R1K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r2k1/1p2rpp1/p6p/2npN3/5PPq/1P2P2P/P5Q1/2R1R1K1 w - - 0 1"
     }
 ]
