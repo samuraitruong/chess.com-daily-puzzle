@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 873,
-        "solved_count": 1565009,
+        "solved_count": 1565037,
         "parsed": {
             "moves": [
                 "Qc8+",
@@ -41,7 +41,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1029,
-        "solved_count": 1630492,
+        "solved_count": 1630525,
         "parsed": {
             "moves": [
                 "Qf7+",
@@ -65,7 +65,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 736,
-        "solved_count": 1594950,
+        "solved_count": 1595254,
         "parsed": {
             "moves": [
                 "Bxd5",
@@ -90,7 +90,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 743,
-        "solved_count": 1627062,
+        "solved_count": 1627490,
         "parsed": {
             "moves": [
                 "Raxa7+",
@@ -116,7 +116,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 830,
-        "solved_count": 1576043,
+        "solved_count": 1576664,
         "parsed": {
             "moves": [
                 "Rg1+",
@@ -143,7 +143,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 959,
-        "solved_count": 1507131,
+        "solved_count": 1507922,
         "parsed": {
             "moves": [
                 "Qxd3",
@@ -175,7 +175,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 887,
-        "solved_count": 1437699,
+        "solved_count": 1438761,
         "parsed": {
             "moves": [
                 "Rc1",
@@ -205,7 +205,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1173,
-        "solved_count": 1440753,
+        "solved_count": 1442245,
         "parsed": {
             "moves": [
                 "Qe5+",
@@ -241,7 +241,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 795,
-        "solved_count": 1441247,
+        "solved_count": 1443653,
         "parsed": {
             "moves": [
                 "Qa2#"
@@ -261,8 +261,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-06-10_A-Defensive-Attack_Fiona-Steil-Antoni_KIK.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 640,
-        "solved_count": 1341234,
+        "comment_count": 648,
+        "solved_count": 1361561,
         "parsed": {
             "moves": [
                 "Nf3",
@@ -274,5 +274,35 @@
             "fen": "3r2k1/1p2rpp1/p6p/2npN3/5PPq/1P2P2P/P5Q1/2R1R1K1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=3r2k1/1p2rpp1/p6p/2npN3/5PPq/1P2P2P/P5Q1/2R1R1K1 w - - 0 1"
+    },
+    {
+        "id": 13144,
+        "title": "A Self-Serving Gift",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"NJV870\"]\r\n[Result \"1-0\"]\r\n[FEN \"r1b2rk1/pp3ppp/1qnPp3/3p4/3p4/3B1Q1N/PPPn1PPP/1R2K2R w K - 0 14\"]\r\n\r\n14. Bxh7+ Kxh7 15. Qh5+ Kg8 16. Ng5 f6 17. Qh7# 1-0",
+        "date": "2025-06-11",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-06-11_A-Self-Serving-Gift_Kostya-Kavutskiy_D2S.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 29,
+        "solved_count": 23187,
+        "parsed": {
+            "moves": [
+                "Bxh7+",
+                "Kxh7",
+                "Qh5+",
+                "Kg8",
+                "Ng5",
+                "f6",
+                "Qh7#",
+                "1-0"
+            ],
+            "raw": "14. Bxh7+ Kxh7 15. Qh5+ Kg8 16. Ng5 f6 17. Qh7# 1-0",
+            "white": "Daily Puzzle Inspiration",
+            "black": "NJV870",
+            "result": "1-0",
+            "fen": "r1b2rk1/pp3ppp/1qnPp3/3p4/3p4/3B1Q1N/PPPn1PPP/1R2K2R w K - 0 14"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b2rk1/pp3ppp/1qnPp3/3p4/3p4/3B1Q1N/PPPn1PPP/1R2K2R w K - 0 14"
     }
 ]
