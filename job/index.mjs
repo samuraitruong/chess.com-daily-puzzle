@@ -8,7 +8,7 @@ import path from "path";
 axiosRetry(axios, {
   retries: 10,
   retryDelay: (retryCount) => {
-    return retryCount * 1000;
+    return retryCount * 10000;
   },
   retryCondition: (r) => {
     if (r.response?.data?.message === "End date must be after start date")
