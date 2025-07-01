@@ -1,1 +1,27 @@
-[]
+[
+    {
+        "id": 13180,
+        "title": "About That Resign Button...",
+        "pgn": "[Result \"*\"]\r\n[FEN \"R1b4r/3pkprp/2p1p3/1pNPKP2/8/2P4q/8/8 w - - 0 1\"]\r\n\r\n1. d6+ Kd8 2. Nb7+ Ke8 3. Rxc8# *",
+        "date": "2025-07-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-01_About-That-Resign-Button_Fiona-Steil-Antoni_28S.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 48,
+        "solved_count": 26391,
+        "parsed": {
+            "moves": [
+                "d6+",
+                "Kd8",
+                "Nb7+",
+                "Ke8",
+                "Rxc8#"
+            ],
+            "raw": "1. d6+ Kd8 2. Nb7+ Ke8 3. Rxc8# *",
+            "result": "*",
+            "fen": "R1b4r/3pkprp/2p1p3/1pNPKP2/8/2P4q/8/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=R1b4r/3pkprp/2p1p3/1pNPKP2/8/2P4q/8/8 w - - 0 1"
+    }
+]
