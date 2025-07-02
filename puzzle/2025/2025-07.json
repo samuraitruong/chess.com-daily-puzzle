@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-01_About-That-Resign-Button_Fiona-Steil-Antoni_28S.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 790,
-        "solved_count": 1304661,
+        "comment_count": 801,
+        "solved_count": 1323488,
         "parsed": {
             "moves": [
                 "d6+",
@@ -23,5 +23,33 @@
             "fen": "R1b4r/3pkprp/2p1p3/1pNPKP2/8/2P4q/8/8 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=R1b4r/3pkprp/2p1p3/1pNPKP2/8/2P4q/8/8 w - - 0 1"
+    },
+    {
+        "id": 13170,
+        "title": "Clearing the Winning Path",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"Pepe\"]\r\n[Result \"0-1\"]\r\n[FEN \"2r5/p2k4/4b2p/q2pBp1P/2rP4/Pp4RQ/1P4P1/1K5R b - - 0 29\"]\r\n\r\n29... Rc1+ 30. Rxc1 Rxc1+ 31. Kxc1 Qe1# 0-1",
+        "date": "2025-07-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-02_Clearing-the-Winning-Path_Kostya-Kavutskiy_Z32.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 35,
+        "solved_count": 24484,
+        "parsed": {
+            "moves": [
+                "Rc1+",
+                "Rxc1",
+                "Rxc1+",
+                "Kxc1",
+                "Qe1#",
+                "0-1"
+            ],
+            "raw": "29... Rc1+ 30. Rxc1 Rxc1+ 31. Kxc1 Qe1# 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "Pepe",
+            "result": "0-1",
+            "fen": "2r5/p2k4/4b2p/q2pBp1P/2rP4/Pp4RQ/1P4P1/1K5R b - - 0 29"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r5/p2k4/4b2p/q2pBp1P/2rP4/Pp4RQ/1P4P1/1K5R b - - 0 29"
     }
 ]
