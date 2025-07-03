@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-01_About-That-Resign-Button_Fiona-Steil-Antoni_28S.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 826,
-        "solved_count": 1409589,
+        "comment_count": 828,
+        "solved_count": 1411927,
         "parsed": {
             "moves": [
                 "d6+",
@@ -33,8 +33,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-02_Clearing-the-Winning-Path_Kostya-Kavutskiy_Z32.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 647,
-        "solved_count": 1311214,
+        "comment_count": 654,
+        "solved_count": 1329354,
         "parsed": {
             "moves": [
                 "Rc1+",
@@ -51,5 +51,35 @@
             "fen": "2r5/p2k4/4b2p/q2pBp1P/2rP4/Pp4RQ/1P4P1/1K5R b - - 0 29"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2r5/p2k4/4b2p/q2pBp1P/2rP4/Pp4RQ/1P4P1/1K5R b - - 0 29"
+    },
+    {
+        "id": 13172,
+        "title": "Hop, Skip, and Checkmate Away",
+        "pgn": "[Result \"1-0\"]\r\n[FEN \"r4rk1/4np1p/2n3p1/q2N1bB1/2PQ3P/p3P3/KP2BP2/6R1 w - - 0 1\"]\r\n\r\n1. Nf6+ Kh8 2. Ng4+ f6 3. Bxf6+ Rxf6 4. Qxf6+ Kg8 5. Nh6# 1-0",
+        "date": "2025-07-03",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-03_Hop-Skip-and-Checkmate-Away_Fiona-Steil-Antoni_4TK.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 30,
+        "solved_count": 22533,
+        "parsed": {
+            "moves": [
+                "Nf6+",
+                "Kh8",
+                "Ng4+",
+                "f6",
+                "Bxf6+",
+                "Rxf6",
+                "Qxf6+",
+                "Kg8",
+                "Nh6#",
+                "1-0"
+            ],
+            "raw": "1. Nf6+ Kh8 2. Ng4+ f6 3. Bxf6+ Rxf6 4. Qxf6+ Kg8 5. Nh6# 1-0",
+            "result": "1-0",
+            "fen": "r4rk1/4np1p/2n3p1/q2N1bB1/2PQ3P/p3P3/KP2BP2/6R1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r4rk1/4np1p/2n3p1/q2N1bB1/2PQ3P/p3P3/KP2BP2/6R1 w - - 0 1"
     }
 ]
