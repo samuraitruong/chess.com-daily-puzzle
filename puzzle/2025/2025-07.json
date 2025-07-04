@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-01_About-That-Resign-Button_Fiona-Steil-Antoni_28S.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 839,
-        "solved_count": 1451668,
+        "comment_count": 840,
+        "solved_count": 1452927,
         "parsed": {
             "moves": [
                 "d6+",
@@ -33,8 +33,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-02_Clearing-the-Winning-Path_Kostya-Kavutskiy_Z32.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 686,
-        "solved_count": 1399148,
+        "comment_count": 687,
+        "solved_count": 1401129,
         "parsed": {
             "moves": [
                 "Rc1+",
@@ -61,8 +61,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-03_Hop-Skip-and-Checkmate-Away_Fiona-Steil-Antoni_4TK.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 814,
-        "solved_count": 1247043,
+        "comment_count": 822,
+        "solved_count": 1265070,
         "parsed": {
             "moves": [
                 "Nf6+",
@@ -81,5 +81,35 @@
             "fen": "r4rk1/4np1p/2n3p1/q2N1bB1/2PQ3P/p3P3/KP2BP2/6R1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=r4rk1/4np1p/2n3p1/q2N1bB1/2PQ3P/p3P3/KP2BP2/6R1 w - - 0 1"
+    },
+    {
+        "id": 13154,
+        "title": "Rooks Steal the Show 🎆",
+        "pgn": "[White \"checkmatemaster7\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"7k/5Qbp/6p1/3q4/4RR2/1nr3P1/5PKP/3r4 w - - 3 33\"]\r\n\r\n33. Qxd5 Rxd5 34. Re8+ Bf8 35. Rf7 Rf5 36. Rexf8# 1-0",
+        "date": "2025-07-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-04_Rooks-Steal-the-Show_Fiona-Steil-Antoni_9BR.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 42,
+        "solved_count": 22928,
+        "parsed": {
+            "moves": [
+                "Qxd5",
+                "Rxd5",
+                "Re8+",
+                "Bf8",
+                "Rf7",
+                "Rf5",
+                "Rexf8#",
+                "1-0"
+            ],
+            "raw": "33. Qxd5 Rxd5 34. Re8+ Bf8 35. Rf7 Rf5 36. Rexf8# 1-0",
+            "white": "checkmatemaster7",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "7k/5Qbp/6p1/3q4/4RR2/1nr3P1/5PKP/3r4 w - - 3 33"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7k/5Qbp/6p1/3q4/4RR2/1nr3P1/5PKP/3r4 w - - 3 33"
     }
 ]
