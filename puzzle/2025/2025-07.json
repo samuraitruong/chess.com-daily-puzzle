@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 841,
-        "solved_count": 1481178,
+        "solved_count": 1482159,
         "parsed": {
             "moves": [
                 "d6+",
@@ -34,7 +34,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 693,
-        "solved_count": 1440403,
+        "solved_count": 1441695,
         "parsed": {
             "moves": [
                 "Rc1+",
@@ -61,8 +61,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-03_Hop-Skip-and-Checkmate-Away_Fiona-Steil-Antoni_4TK.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 830,
-        "solved_count": 1339726,
+        "comment_count": 833,
+        "solved_count": 1341990,
         "parsed": {
             "moves": [
                 "Nf6+",
@@ -91,8 +91,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-04_Rooks-Steal-the-Show_Fiona-Steil-Antoni_9BR.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 646,
-        "solved_count": 1242158,
+        "comment_count": 654,
+        "solved_count": 1261123,
         "parsed": {
             "moves": [
                 "Qxd5",
@@ -111,5 +111,31 @@
             "fen": "7k/5Qbp/6p1/3q4/4RR2/1nr3P1/5PKP/3r4 w - - 3 33"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=7k/5Qbp/6p1/3q4/4RR2/1nr3P1/5PKP/3r4 w - - 3 33"
+    },
+    {
+        "id": 13176,
+        "title": "Drop It Like It's Mate! 🔥",
+        "pgn": "[Result \"1-0\"]\r\n[FEN \"1rbq1rk1/5p2/p4n1Q/1p4N1/1Pp1R2P/2P5/P1Bb2P1/7K w - - 0 1\"]\r\n\r\n1. Re8 Qxe8 2. Bh7+ Kh8 3. Qxf6# 1-0",
+        "date": "2025-07-05",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-05_Regal-Tilt_Kostya-Kavutskiy_75S.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 21,
+        "solved_count": 16353,
+        "parsed": {
+            "moves": [
+                "Re8",
+                "Qxe8",
+                "Bh7+",
+                "Kh8",
+                "Qxf6#",
+                "1-0"
+            ],
+            "raw": "1. Re8 Qxe8 2. Bh7+ Kh8 3. Qxf6# 1-0",
+            "result": "1-0",
+            "fen": "1rbq1rk1/5p2/p4n1Q/1p4N1/1Pp1R2P/2P5/P1Bb2P1/7K w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1rbq1rk1/5p2/p4n1Q/1p4N1/1Pp1R2P/2P5/P1Bb2P1/7K w - - 0 1"
     }
 ]
