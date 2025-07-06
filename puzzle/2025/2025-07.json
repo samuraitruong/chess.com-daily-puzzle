@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 853,
-        "solved_count": 1504084,
+        "solved_count": 1504879,
         "parsed": {
             "moves": [
                 "d6+",
@@ -34,7 +34,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 700,
-        "solved_count": 1469121,
+        "solved_count": 1470067,
         "parsed": {
             "moves": [
                 "Rc1+",
@@ -62,7 +62,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 838,
-        "solved_count": 1382921,
+        "solved_count": 1384334,
         "parsed": {
             "moves": [
                 "Nf6+",
@@ -91,8 +91,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-04_Rooks-Steal-the-Show_Fiona-Steil-Antoni_9BR.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 666,
-        "solved_count": 1336642,
+        "comment_count": 667,
+        "solved_count": 1338802,
         "parsed": {
             "moves": [
                 "Qxd5",
@@ -121,8 +121,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-05_Regal-Tilt_Kostya-Kavutskiy_75S.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 585,
-        "solved_count": 1210233,
+        "comment_count": 596,
+        "solved_count": 1228859,
         "parsed": {
             "moves": [
                 "Re8",
@@ -137,5 +137,41 @@
             "fen": "1rbq1rk1/5p2/p4n1Q/1p4N1/1Pp1R2P/2P5/P1Bb2P1/7K w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=1rbq1rk1/5p2/p4n1Q/1p4N1/1Pp1R2P/2P5/P1Bb2P1/7K w - - 0 1"
+    },
+    {
+        "id": 13174,
+        "title": "Johan's Knight Will Move You",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"Johan's Knight Will Move You\"]\r\n[Result \"0-1\"]\r\n[FEN \"1k5r/2p2ppp/Qp2p2q/2P5/1b1P1n2/3BK2P/2P2PP1/R4R2 b - - 0 25\"]\r\n\r\n25... Nd5+ 26. Ke2 Qd2+ 27. Kf3 Qf4+ 28. Ke2 Nc3+ 29. Ke1 Nb5+ 30. Ke2 Nxd4+ 31.\r\nKd1 Qd2# 0-1",
+        "date": "2025-07-06",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-06_Johans-Knight-Will-Move-You_Dane-Mattson_ORT.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 23,
+        "solved_count": 14518,
+        "parsed": {
+            "moves": [
+                "Nd5+",
+                "Ke2",
+                "Qd2+",
+                "Kf3",
+                "Qf4+",
+                "Ke2",
+                "Nc3+",
+                "Ke1",
+                "Nb5+",
+                "Ke2",
+                "Nxd4+",
+                "Kd1",
+                "Qd2#",
+                "0-1"
+            ],
+            "raw": "25... Nd5+ 26. Ke2 Qd2+ 27. Kf3 Qf4+ 28. Ke2 Nc3+ 29. Ke1 Nb5+ 30. Ke2 Nxd4+ 31.\r\nKd1 Qd2# 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "Johan's Knight Will Move You",
+            "result": "0-1",
+            "fen": "1k5r/2p2ppp/Qp2p2q/2P5/1b1P1n2/3BK2P/2P2PP1/R4R2 b - - 0 25"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1k5r/2p2ppp/Qp2p2q/2P5/1b1P1n2/3BK2P/2P2PP1/R4R2 b - - 0 25"
     }
 ]
