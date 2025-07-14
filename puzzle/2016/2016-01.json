@@ -123,7 +123,7 @@
         "date": "2016-01-06",
         "video": [],
         "comment_count": 2,
-        "solved_count": 257,
+        "solved_count": 258,
         "parsed": {
             "moves": [
                 "Qh4+",
@@ -148,7 +148,7 @@
         "date": "2016-01-07",
         "video": [],
         "comment_count": 3,
-        "solved_count": 246,
+        "solved_count": 247,
         "parsed": {
             "moves": [
                 "Nd5+",
@@ -171,7 +171,7 @@
         "date": "2016-01-08",
         "video": [],
         "comment_count": 3,
-        "solved_count": 239,
+        "solved_count": 240,
         "parsed": {
             "moves": [
                 "Nf6+",
@@ -395,28 +395,26 @@
     },
     {
         "id": 6134,
-        "title": "Pins And Skewers",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r2k1b1r/pp3pp1/1qp2n1p/5BQ1/3PR3/5N2/PPP2PPP/2K1R3 w - - 0 1\"]\r\n\r\n1. Re8+ Kc7 2. Qf4+ Bd6 3. R1e7+ Nd7 4. Rxd7#\r\n*",
+        "title": "A Quiet Move",
+        "pgn": "[Result \"1-0\"]\r\n[FEN \"2r5/2p3R1/1p3p2/1Pk1p3/P3P3/1KPPn1b1/8/8 w - - 5 48\"]\r\n\r\n48. Rd7 c6 49. d4+ exd4 50. cxd4# 1-0",
         "date": "2016-01-17",
         "video": [],
         "comment_count": 3,
-        "solved_count": 229,
+        "solved_count": 230,
         "parsed": {
             "moves": [
-                "Re8+",
-                "Kc7",
-                "Qf4+",
-                "Bd6",
-                "R1e7+",
-                "Nd7",
-                "Rxd7#"
+                "Rd7",
+                "c6",
+                "d4+",
+                "exd4",
+                "cxd4#",
+                "1-0"
             ],
-            "raw": "1. Re8+ Kc7 2. Qf4+ Bd6 3. R1e7+ Nd7 4. Rxd7#\r\n*",
-            "date": "????.??.??",
-            "result": "*",
-            "fen": "r2k1b1r/pp3pp1/1qp2n1p/5BQ1/3PR3/5N2/PPP2PPP/2K1R3 w - - 0 1"
+            "raw": "48. Rd7 c6 49. d4+ exd4 50. cxd4# 1-0",
+            "result": "1-0",
+            "fen": "2r5/2p3R1/1p3p2/1Pk1p3/P3P3/1KPPn1b1/8/8 w - - 5 48"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=r2k1b1r/pp3pp1/1qp2n1p/5BQ1/3PR3/5N2/PPP2PPP/2K1R3 w - - 0 1"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r5/2p3R1/1p3p2/1Pk1p3/P3P3/1KPPn1b1/8/8 w - - 5 48"
     },
     {
         "id": 6136,
