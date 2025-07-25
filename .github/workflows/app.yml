@@ -12,7 +12,7 @@ on:
       - ".github/workflows/app.yml"
 env:
   NEXT_PUBLIC_DATA_URL: https://raw.githubusercontent.com/samuraitruong/chess.com-daily-puzzle/main
-  NEXT_PUBLIC_BASE_PATH: "/"
+  NEXT_PUBLIC_BASE_PATH: ""
 permissions:
   contents: read
   pages: write
