@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "id": 13216,
+        "title": "Bik's OTB \"gg\" Tactic",
+        "pgn": "[White \"Wouter Bik\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"2r1r1k1/1p2pp2/p3b1p1/q2BQ2p/1pP2R2/1P2P1P1/P4P1P/2R3K1 w - - 0 28\"]\r\n\r\n28. Rxf7 Bxf7 29. Bxf7+ Kxf7 30. Qxa5 1-0",
+        "date": "2025-08-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-01_Biks-OTB-gg-Tactic_Wouter-Bik_U7U.mp4",
+            "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
+        },
+        "comment_count": 51,
+        "solved_count": 36228,
+        "parsed": {
+            "moves": [
+                "Rxf7",
+                "Bxf7",
+                "Bxf7+",
+                "Kxf7",
+                "Qxa5",
+                "1-0"
+            ],
+            "raw": "28. Rxf7 Bxf7 29. Bxf7+ Kxf7 30. Qxa5 1-0",
+            "white": "Wouter Bik",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "2r1r1k1/1p2pp2/p3b1p1/q2BQ2p/1pP2R2/1P2P1P1/P4P1P/2R3K1 w - - 0 28"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r1r1k1/1p2pp2/p3b1p1/q2BQ2p/1pP2R2/1P2P1P1/P4P1P/2R3K1 w - - 0 28"
+    }
+]
