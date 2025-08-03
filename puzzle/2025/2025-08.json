@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-01_Biks-OTB-gg-Tactic_Wouter-Bik_U7U.mp4",
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
-        "comment_count": 648,
-        "solved_count": 1368805,
+        "comment_count": 650,
+        "solved_count": 1371035,
         "parsed": {
             "moves": [
                 "Rxf7",
@@ -36,8 +36,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-02_Group-Hug_Kostya-Kavutskiy_HD7.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 838,
-        "solved_count": 1260081,
+        "comment_count": 863,
+        "solved_count": 1278601,
         "parsed": {
             "moves": [
                 "Nf2+",
@@ -54,5 +54,45 @@
             "fen": "5r1k/ppb2Pp1/2bq2Qp/8/1P2n3/1B3P1P/PB4R1/6RK b - - 0 27"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=5r1k/ppb2Pp1/2bq2Qp/8/1P2n3/1B3P1P/PB4R1/6RK b - - 0 27"
+    },
+    {
+        "id": 13232,
+        "title": "See You at the Top!",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"chesstiger787\"]\r\n[Result \"0-1\"]\r\n[FEN \"2k5/ppb5/4r3/2Q2p2/1N1p4/3B4/PPP5/R1K2N1q b - - 0 1\"]\r\n\r\n1... Qh6+ 2. Kd1 Qh5+ 3. Kc1 Qg5+ 4. Kd1 Qg4+ 5. Kc1 Qf4+ 6. Kd1 Qf3+ 7. Kc1\r\nRe1+ 8. Kd2 Qf2+ 9. Be2 Qxe2# 0-1",
+        "date": "2025-08-03",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-03_See-You-at-the-Top_Dane-Mattson_O5H.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 32,
+        "solved_count": 18947,
+        "parsed": {
+            "moves": [
+                "Qh6+",
+                "Kd1",
+                "Qh5+",
+                "Kc1",
+                "Qg5+",
+                "Kd1",
+                "Qg4+",
+                "Kc1",
+                "Qf4+",
+                "Kd1",
+                "Qf3+",
+                "Kc1",
+                "Re1+",
+                "Kd2",
+                "Qf2+",
+                "Be2",
+                "Qxe2#",
+                "0-1"
+            ],
+            "raw": "1... Qh6+ 2. Kd1 Qh5+ 3. Kc1 Qg5+ 4. Kd1 Qg4+ 5. Kc1 Qf4+ 6. Kd1 Qf3+ 7. Kc1\r\nRe1+ 8. Kd2 Qf2+ 9. Be2 Qxe2# 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "chesstiger787",
+            "result": "0-1",
+            "fen": "2k5/ppb5/4r3/2Q2p2/1N1p4/3B4/PPP5/R1K2N1q b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2k5/ppb5/4r3/2Q2p2/1N1p4/3B4/PPP5/R1K2N1q b - - 0 1"
     }
 ]
