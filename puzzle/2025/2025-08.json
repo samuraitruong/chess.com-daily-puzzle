@@ -9,7 +9,7 @@
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
         "comment_count": 581,
-        "solved_count": 1489393,
+        "solved_count": 1490097,
         "parsed": {
             "moves": [
                 "Rxf7",
@@ -37,7 +37,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 896,
-        "solved_count": 1460085,
+        "solved_count": 1460895,
         "parsed": {
             "moves": [
                 "Nf2+",
@@ -65,7 +65,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1086,
-        "solved_count": 1427395,
+        "solved_count": 1428446,
         "parsed": {
             "moves": [
                 "Qh6+",
@@ -104,8 +104,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-04_Cant-Find-a-Better-Move_Dane-Mattson_FLD.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1112,
-        "solved_count": 1491952,
+        "comment_count": 1113,
+        "solved_count": 1493356,
         "parsed": {
             "moves": [
                 "Ng1#",
@@ -126,8 +126,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-05_Can-You-Defeat-Magnus_Fiona-Steil-Antoni_HWU.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 971,
-        "solved_count": 1432324,
+        "comment_count": 974,
+        "solved_count": 1434624,
         "parsed": {
             "moves": [
                 "Qh4+",
@@ -157,8 +157,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-06_Barking-up-the-Right-Tree_Kostya-Kavutskiy_BWO.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 684,
-        "solved_count": 1337842,
+        "comment_count": 692,
+        "solved_count": 1355782,
         "parsed": {
             "moves": [
                 "Qxg7+",
@@ -175,5 +175,33 @@
             "fen": "7k/Q5bp/2p1r2p/1p6/2p1bq1P/P1N3N1/1P3PP1/K1R5 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=7k/Q5bp/2p1r2p/1p6/2p1bq1P/P1N3N1/1P3PP1/K1R5 w - - 0 1"
+    },
+    {
+        "id": 13220,
+        "title": "Closing Time",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"D_Jinny\"]\r\n[Result \"0-1\"]\r\n[FEN \"4r1k1/1ppq1p2/p2b1nnQ/3P1b2/1BB5/P1N2N1P/1P3PP1/4R1K1 b - - 0 18\"]\r\n\r\n18... Rxe1+ 19. Nxe1 Bf4 20. Qxf4 Nxf4 0-1",
+        "date": "2025-08-07",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-07_Closing_Time_Fiona-Steil-Antoni_WBW.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 36,
+        "solved_count": 36054,
+        "parsed": {
+            "moves": [
+                "Rxe1+",
+                "Nxe1",
+                "Bf4",
+                "Qxf4",
+                "Nxf4",
+                "0-1"
+            ],
+            "raw": "18... Rxe1+ 19. Nxe1 Bf4 20. Qxf4 Nxf4 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "D_Jinny",
+            "result": "0-1",
+            "fen": "4r1k1/1ppq1p2/p2b1nnQ/3P1b2/1BB5/P1N2N1P/1P3PP1/4R1K1 b - - 0 18"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4r1k1/1ppq1p2/p2b1nnQ/3P1b2/1BB5/P1N2N1P/1P3PP1/4R1K1 b - - 0 18"
     }
 ]
