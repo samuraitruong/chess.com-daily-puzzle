@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-01_Biks-OTB-gg-Tactic_Wouter-Bik_U7U.mp4",
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
-        "comment_count": 593,
-        "solved_count": 1515882,
+        "comment_count": 594,
+        "solved_count": 1516247,
         "parsed": {
             "moves": [
                 "Rxf7",
@@ -37,7 +37,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 907,
-        "solved_count": 1493011,
+        "solved_count": 1493447,
         "parsed": {
             "moves": [
                 "Nf2+",
@@ -65,7 +65,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1097,
-        "solved_count": 1467823,
+        "solved_count": 1468433,
         "parsed": {
             "moves": [
                 "Qh6+",
@@ -105,7 +105,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1119,
-        "solved_count": 1544252,
+        "solved_count": 1545068,
         "parsed": {
             "moves": [
                 "Ng1#",
@@ -126,8 +126,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-05_Can-You-Defeat-Magnus_Fiona-Steil-Antoni_HWU.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 998,
-        "solved_count": 1505627,
+        "comment_count": 1000,
+        "solved_count": 1506699,
         "parsed": {
             "moves": [
                 "Qh4+",
@@ -158,7 +158,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 696,
-        "solved_count": 1474711,
+        "solved_count": 1476129,
         "parsed": {
             "moves": [
                 "Qxg7+",
@@ -186,7 +186,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 737,
-        "solved_count": 1419906,
+        "solved_count": 1422265,
         "parsed": {
             "moves": [
                 "Rxe1+",
@@ -213,8 +213,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-08_Tempting-Temptations_Fiona-Steil-Antoni_NX2.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 623,
-        "solved_count": 1336852,
+        "comment_count": 631,
+        "solved_count": 1356518,
         "parsed": {
             "moves": [
                 "f3",
@@ -234,5 +234,35 @@
             "fen": "8/NPk5/p7/1p6/5pp1/Pp2P2P/1K3PP1/8 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=8/NPk5/p7/1p6/5pp1/Pp2P2P/1K3PP1/8 b - - 0 1"
+    },
+    {
+        "id": 13234,
+        "title": "Surprise! 😱",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"JohanVA\"]\r\n[Result \"0-1\"]\r\n[FEN \"2q4r/2p3pk/pn4r1/B1p5/4PP2/1QP2P1P/1PBN1R1K/5R2 b - - 0 24\"]\r\n\r\n24... Qxh3+ 25. Kxh3 c4 26. Qxc4 Nxc4 27. e5 Kg8# 0-1",
+        "date": "2025-08-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-09_Surprise_KTL.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 41,
+        "solved_count": 20159,
+        "parsed": {
+            "moves": [
+                "Qxh3+",
+                "Kxh3",
+                "c4",
+                "Qxc4",
+                "Nxc4",
+                "e5",
+                "Kg8#",
+                "0-1"
+            ],
+            "raw": "24... Qxh3+ 25. Kxh3 c4 26. Qxc4 Nxc4 27. e5 Kg8# 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "JohanVA",
+            "result": "0-1",
+            "fen": "2q4r/2p3pk/pn4r1/B1p5/4PP2/1QP2P1P/1PBN1R1K/5R2 b - - 0 24"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2q4r/2p3pk/pn4r1/B1p5/4PP2/1QP2P1P/1PBN1R1K/5R2 b - - 0 24"
     }
 ]
