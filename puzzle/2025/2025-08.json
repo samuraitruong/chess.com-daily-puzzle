@@ -9,7 +9,7 @@
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
         "comment_count": 594,
-        "solved_count": 1517864,
+        "solved_count": 1517889,
         "parsed": {
             "moves": [
                 "Rxf7",
@@ -37,7 +37,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 908,
-        "solved_count": 1504538,
+        "solved_count": 1504567,
         "parsed": {
             "moves": [
                 "Nf2+",
@@ -65,7 +65,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1110,
-        "solved_count": 1490706,
+        "solved_count": 1490954,
         "parsed": {
             "moves": [
                 "Qh6+",
@@ -105,7 +105,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1131,
-        "solved_count": 1574999,
+        "solved_count": 1575380,
         "parsed": {
             "moves": [
                 "Ng1#",
@@ -127,7 +127,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1007,
-        "solved_count": 1544284,
+        "solved_count": 1544847,
         "parsed": {
             "moves": [
                 "Qh4+",
@@ -157,8 +157,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-06_Barking-up-the-Right-Tree_Kostya-Kavutskiy_BWO.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 714,
-        "solved_count": 1524466,
+        "comment_count": 713,
+        "solved_count": 1525177,
         "parsed": {
             "moves": [
                 "Qxg7+",
@@ -186,7 +186,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 754,
-        "solved_count": 1492007,
+        "solved_count": 1492968,
         "parsed": {
             "moves": [
                 "Rxe1+",
@@ -214,7 +214,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 652,
-        "solved_count": 1474014,
+        "solved_count": 1475464,
         "parsed": {
             "moves": [
                 "f3",
@@ -244,8 +244,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-09_Surprise_KTL.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 926,
-        "solved_count": 1377190,
+        "comment_count": 927,
+        "solved_count": 1379731,
         "parsed": {
             "moves": [
                 "Qxh3+",
@@ -274,8 +274,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-10_Take-the-Long-Way-Home_Dane-Mattson_2MY.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1001,
-        "solved_count": 1285045,
+        "comment_count": 1017,
+        "solved_count": 1304330,
         "parsed": {
             "moves": [
                 "Ng5",
@@ -303,5 +303,28 @@
             "fen": "8/8/5Kpk/2p4p/1p2N2P/pP6/P7/1n6 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/5Kpk/2p4p/1p2N2P/pP6/P7/1n6 w - - 0 1"
+    },
+    {
+        "id": 13284,
+        "title": "Juggler's House of Cards",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3r2k1/p3qp1p/1p5p/8/PN2bP2/3R3P/1PQ3PK/8 w - - 0 1\"]\r\n\r\n1. Rxd8+ Qxd8 2. Qxe4 *",
+        "date": "2025-08-11",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-11_Jugglers-House-of-Cards_Dane-Mattson_V1N.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 40,
+        "solved_count": 38273,
+        "parsed": {
+            "moves": [
+                "Rxd8+",
+                "Qxd8",
+                "Qxe4"
+            ],
+            "raw": "1. Rxd8+ Qxd8 2. Qxe4 *",
+            "result": "*",
+            "fen": "3r2k1/p3qp1p/1p5p/8/PN2bP2/3R3P/1PQ3PK/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r2k1/p3qp1p/1p5p/8/PN2bP2/3R3P/1PQ3PK/8 w - - 0 1"
     }
 ]
