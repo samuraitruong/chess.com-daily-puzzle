@@ -9,7 +9,7 @@
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
         "comment_count": 590,
-        "solved_count": 1519565,
+        "solved_count": 1519598,
         "parsed": {
             "moves": [
                 "Rxf7",
@@ -37,7 +37,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 905,
-        "solved_count": 1506356,
+        "solved_count": 1506388,
         "parsed": {
             "moves": [
                 "Nf2+",
@@ -65,7 +65,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1106,
-        "solved_count": 1492856,
+        "solved_count": 1492890,
         "parsed": {
             "moves": [
                 "Qh6+",
@@ -105,7 +105,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1130,
-        "solved_count": 1587594,
+        "solved_count": 1587628,
         "parsed": {
             "moves": [
                 "Ng1#",
@@ -126,8 +126,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-05_Can-You-Defeat-Magnus_Fiona-Steil-Antoni_HWU.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1004,
-        "solved_count": 1571351,
+        "comment_count": 1005,
+        "solved_count": 1571667,
         "parsed": {
             "moves": [
                 "Qh4+",
@@ -158,7 +158,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 719,
-        "solved_count": 1560287,
+        "solved_count": 1560742,
         "parsed": {
             "moves": [
                 "Qxg7+",
@@ -185,8 +185,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-07_Closing_Time_Fiona-Steil-Antoni_WBW.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 760,
-        "solved_count": 1537994,
+        "comment_count": 762,
+        "solved_count": 1538645,
         "parsed": {
             "moves": [
                 "Rxe1+",
@@ -214,7 +214,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 659,
-        "solved_count": 1534696,
+        "solved_count": 1535482,
         "parsed": {
             "moves": [
                 "f3",
@@ -244,8 +244,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-09_Surprise_KTL.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 949,
-        "solved_count": 1465919,
+        "comment_count": 950,
+        "solved_count": 1466957,
         "parsed": {
             "moves": [
                 "Qxh3+",
@@ -275,7 +275,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1081,
-        "solved_count": 1454474,
+        "solved_count": 1456067,
         "parsed": {
             "moves": [
                 "Ng5",
@@ -313,8 +313,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-11_Jugglers-House-of-Cards_Dane-Mattson_V1N.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 913,
-        "solved_count": 1480939,
+        "comment_count": 914,
+        "solved_count": 1483383,
         "parsed": {
             "moves": [
                 "Rxd8+",
@@ -336,8 +336,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-12_Which-Gift-Should-You-Open_Fiona-Steil-Antoni_RK6.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 874,
-        "solved_count": 1377806,
+        "comment_count": 883,
+        "solved_count": 1396715,
         "parsed": {
             "moves": [
                 "Qxg5",
@@ -354,5 +354,31 @@
             "fen": "3r2k1/1p3p1p/1q4p1/pB1pP1n1/P2R4/8/1PrQ1PPP/5RK1 w - - 3 30"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=3r2k1/1p3p1p/1q4p1/pB1pP1n1/P2R4/8/1PrQ1PPP/5RK1 w - - 3 30"
+    },
+    {
+        "id": 13252,
+        "title": "Moves like Hikaru",
+        "pgn": "[White \"Hikaru\"]\r\n[Black \"Titled Tuesday Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"2b2r2/1NP5/2Pnk2p/1B1Nnp2/3Kp3/b5P1/6qP/8 w - - 0 48\"]\r\n\r\n48. Nd8+ Rxd8 49. cxd8=N# 1-0",
+        "date": "2025-08-13",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-08-13_Moves-like-Hikaru_Kostya-Kavutskiy_Q7Y.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 48,
+        "solved_count": 29873,
+        "parsed": {
+            "moves": [
+                "Nd8+",
+                "Rxd8",
+                "cxd8=N#",
+                "1-0"
+            ],
+            "raw": "48. Nd8+ Rxd8 49. cxd8=N# 1-0",
+            "white": "Hikaru",
+            "black": "Titled Tuesday Inspiration",
+            "result": "1-0",
+            "fen": "2b2r2/1NP5/2Pnk2p/1B1Nnp2/3Kp3/b5P1/6qP/8 w - - 0 48"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2b2r2/1NP5/2Pnk2p/1B1Nnp2/3Kp3/b5P1/6qP/8 w - - 0 48"
     }
 ]
