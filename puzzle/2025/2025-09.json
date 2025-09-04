@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-01_Undercover-Hero_Dane-Mattson_NRK.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1083,
-        "solved_count": 1563443,
+        "comment_count": 1084,
+        "solved_count": 1565059,
         "parsed": {
             "moves": [
                 "g8=N#"
@@ -30,7 +30,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 887,
-        "solved_count": 1511074,
+        "solved_count": 1513394,
         "parsed": {
             "moves": [
                 "Rd8+",
@@ -52,8 +52,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-03_Whats-in-the-Box_Kostya-Kavutskiy_P95.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 892,
-        "solved_count": 1418956,
+        "comment_count": 901,
+        "solved_count": 1439556,
         "parsed": {
             "moves": [
                 "Bd2+",
@@ -66,5 +66,32 @@
             "fen": "1R2Q3/p1kn1P1p/8/b2r4/8/4KP1N/6r1/8 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=1R2Q3/p1kn1P1p/8/b2r4/8/4KP1N/6r1/8 b - - 0 1"
+    },
+    {
+        "id": 13316,
+        "title": "Zoom Out...",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"JohanVA/geelse_zot\"]\r\n[Result \"0-1\"]\r\n[FEN \"6k1/1p4p1/p1nbp3/8/P2P3q/2PQ1P2/1P4K1/1RB1rN2 b - - 0 1\"]\r\n\r\n1... Rxc1 2. Rxc1 Qg5+ 3. Kf2 Qxc1 *",
+        "date": "2025-09-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-04_Zoom-Out_Fiona-Steil-Antoni_TRS.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 25,
+        "solved_count": 18563,
+        "parsed": {
+            "moves": [
+                "Rxc1",
+                "Rxc1",
+                "Qg5+",
+                "Kf2",
+                "Qxc1"
+            ],
+            "raw": "1... Rxc1 2. Rxc1 Qg5+ 3. Kf2 Qxc1 *",
+            "white": "Daily Puzzle Inspiration",
+            "black": "JohanVA/geelse_zot",
+            "result": "0-1",
+            "fen": "6k1/1p4p1/p1nbp3/8/P2P3q/2PQ1P2/1P4K1/1RB1rN2 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/1p4p1/p1nbp3/8/P2P3q/2PQ1P2/1P4K1/1RB1rN2 b - - 0 1"
     }
 ]
