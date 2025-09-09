@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1124,
-        "solved_count": 1661885,
+        "solved_count": 1662285,
         "parsed": {
             "moves": [
                 "g8=N#"
@@ -30,7 +30,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 915,
-        "solved_count": 1637607,
+        "solved_count": 1638118,
         "parsed": {
             "moves": [
                 "Rd8+",
@@ -53,7 +53,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 930,
-        "solved_count": 1622350,
+        "solved_count": 1623105,
         "parsed": {
             "moves": [
                 "Bd2+",
@@ -77,7 +77,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 794,
-        "solved_count": 1526831,
+        "solved_count": 1527799,
         "parsed": {
             "moves": [
                 "Rxc1",
@@ -104,7 +104,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1237,
-        "solved_count": 1501017,
+        "solved_count": 1502299,
         "parsed": {
             "moves": [
                 "Qf2+",
@@ -128,8 +128,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-06_Give-Me-a-Push_Kostya-Kavutskiy_26H.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 968,
-        "solved_count": 1448223,
+        "comment_count": 969,
+        "solved_count": 1450072,
         "parsed": {
             "moves": [
                 "Qf8+",
@@ -159,8 +159,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-07_Chillin-at-the-Finish-Line_Dane-Mattson_1AY.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 858,
-        "solved_count": 1425557,
+        "comment_count": 859,
+        "solved_count": 1428189,
         "parsed": {
             "moves": [
                 "Kxh7",
@@ -198,8 +198,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-08_Pass-the-Awareness-Please_Dane-Mattson_4ST.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1312,
-        "solved_count": 1397475,
+        "comment_count": 1321,
+        "solved_count": 1418027,
         "parsed": {
             "moves": [
                 "Bc3+",
@@ -213,5 +213,31 @@
             "fen": "q3r2k/4pK2/8/B2P4/8/8/8/1B6 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=q3r2k/4pK2/8/B2P4/8/8/8/1B6 w - - 0 1"
+    },
+    {
+        "id": 13310,
+        "title": "Long Distance Vision",
+        "pgn": "[White \"jamiebandana\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"3k1r2/1pn4R/4n1p1/2p1B3/2P5/p4p1Q/Pq4PP/7K w - - 0 1\"]\r\n\r\n1. Bxc7+ Nxc7 2. Qd7# 1-0",
+        "date": "2025-09-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-09_Crusing-Through-the-Night_Fiona-Steil-Antoni_9EP.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 28,
+        "solved_count": 24976,
+        "parsed": {
+            "moves": [
+                "Bxc7+",
+                "Nxc7",
+                "Qd7#",
+                "1-0"
+            ],
+            "raw": "1. Bxc7+ Nxc7 2. Qd7# 1-0",
+            "white": "jamiebandana",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "3k1r2/1pn4R/4n1p1/2p1B3/2P5/p4p1Q/Pq4PP/7K w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3k1r2/1pn4R/4n1p1/2p1B3/2P5/p4p1Q/Pq4PP/7K w - - 0 1"
     }
 ]
