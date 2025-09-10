@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1124,
-        "solved_count": 1663404,
+        "solved_count": 1663438,
         "parsed": {
             "moves": [
                 "g8=N#"
@@ -30,7 +30,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 913,
-        "solved_count": 1649286,
+        "solved_count": 1649680,
         "parsed": {
             "moves": [
                 "Rd8+",
@@ -53,7 +53,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 932,
-        "solved_count": 1639786,
+        "solved_count": 1640282,
         "parsed": {
             "moves": [
                 "Bd2+",
@@ -76,8 +76,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-04_Zoom-Out_Fiona-Steil-Antoni_TRS.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 785,
-        "solved_count": 1549279,
+        "comment_count": 786,
+        "solved_count": 1550012,
         "parsed": {
             "moves": [
                 "Rxc1",
@@ -103,8 +103,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-05_Free-Queen_Fiona-Steil-Antoni_3VU.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1240,
-        "solved_count": 1530077,
+        "comment_count": 1241,
+        "solved_count": 1531026,
         "parsed": {
             "moves": [
                 "Qf2+",
@@ -128,8 +128,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-06_Give-Me-a-Push_Kostya-Kavutskiy_26H.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 976,
-        "solved_count": 1488425,
+        "comment_count": 977,
+        "solved_count": 1489714,
         "parsed": {
             "moves": [
                 "Qf8+",
@@ -159,8 +159,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-07_Chillin-at-the-Finish-Line_Dane-Mattson_1AY.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 875,
-        "solved_count": 1481684,
+        "comment_count": 876,
+        "solved_count": 1483375,
         "parsed": {
             "moves": [
                 "Kxh7",
@@ -198,8 +198,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-08_Pass-the-Awareness-Please_Dane-Mattson_4ST.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1367,
-        "solved_count": 1506454,
+        "comment_count": 1372,
+        "solved_count": 1508980,
         "parsed": {
             "moves": [
                 "Bc3+",
@@ -223,8 +223,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-09_Crusing-Through-the-Night_Fiona-Steil-Antoni_9EP.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 824,
-        "solved_count": 1405936,
+        "comment_count": 842,
+        "solved_count": 1426291,
         "parsed": {
             "moves": [
                 "Bxc7+",
@@ -239,5 +239,31 @@
             "fen": "3k1r2/1pn4R/4n1p1/2p1B3/2P5/p4p1Q/Pq4PP/7K w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=3k1r2/1pn4R/4n1p1/2p1B3/2P5/p4p1Q/Pq4PP/7K w - - 0 1"
+    },
+    {
+        "id": 13302,
+        "title": "Angling for the Win",
+        "pgn": "[White \"GuyLemieux\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"8/2q1pp2/r1k4r/7R/1P4p1/2p3P1/3bQ2P/6K1 w - - 0 1\"]\r\n\r\n1. Qb5+ Kd6 2. Qd5# 1-0",
+        "date": "2025-09-10",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-10_Whats-Your-Angle_Kostya-Kavutskiy_FKT.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 29,
+        "solved_count": 21775,
+        "parsed": {
+            "moves": [
+                "Qb5+",
+                "Kd6",
+                "Qd5#",
+                "1-0"
+            ],
+            "raw": "1. Qb5+ Kd6 2. Qd5# 1-0",
+            "white": "GuyLemieux",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "8/2q1pp2/r1k4r/7R/1P4p1/2p3P1/3bQ2P/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/2q1pp2/r1k4r/7R/1P4p1/2p3P1/3bQ2P/6K1 w - - 0 1"
     }
 ]
