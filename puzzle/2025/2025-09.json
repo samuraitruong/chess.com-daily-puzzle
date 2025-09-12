@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1119,
-        "solved_count": 1664755,
+        "solved_count": 1664771,
         "parsed": {
             "moves": [
                 "g8=N#"
@@ -30,7 +30,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 914,
-        "solved_count": 1651107,
+        "solved_count": 1651127,
         "parsed": {
             "moves": [
                 "Rd8+",
@@ -53,7 +53,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 930,
-        "solved_count": 1650650,
+        "solved_count": 1650674,
         "parsed": {
             "moves": [
                 "Bd2+",
@@ -77,7 +77,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 786,
-        "solved_count": 1572591,
+        "solved_count": 1572879,
         "parsed": {
             "moves": [
                 "Rxc1",
@@ -104,7 +104,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1250,
-        "solved_count": 1561905,
+        "solved_count": 1562313,
         "parsed": {
             "moves": [
                 "Qf2+",
@@ -129,7 +129,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 964,
-        "solved_count": 1529447,
+        "solved_count": 1530008,
         "parsed": {
             "moves": [
                 "Qf8+",
@@ -160,7 +160,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 882,
-        "solved_count": 1534191,
+        "solved_count": 1534852,
         "parsed": {
             "moves": [
                 "Kxh7",
@@ -199,7 +199,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1387,
-        "solved_count": 1577696,
+        "solved_count": 1578541,
         "parsed": {
             "moves": [
                 "Bc3+",
@@ -224,7 +224,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 860,
-        "solved_count": 1538287,
+        "solved_count": 1539433,
         "parsed": {
             "moves": [
                 "Bxc7+",
@@ -249,8 +249,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-10_Whats-Your-Angle_Kostya-Kavutskiy_FKT.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 727,
-        "solved_count": 1456177,
+        "comment_count": 728,
+        "solved_count": 1458135,
         "parsed": {
             "moves": [
                 "Qb5+",
@@ -275,8 +275,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-11_Clearance-Interference_Fiona-Steil-Antoni_2F5.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 874,
-        "solved_count": 1312015,
+        "comment_count": 880,
+        "solved_count": 1332320,
         "parsed": {
             "moves": [
                 "Qd1",
@@ -293,5 +293,37 @@
             "fen": "1r3r1k/3p1p2/3Qp2q/2p3R1/p1P4P/Pn6/5PP1/4R1K1 w - - 0 34"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=1r3r1k/3p1p2/3Qp2q/2p3R1/p1P4P/Pn6/5PP1/4R1K1 w - - 0 34"
+    },
+    {
+        "id": 13318,
+        "title": "Musical Chairs 🎵",
+        "pgn": "[White \"EnPassantFork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"2R5/4rqk1/1p2Qb2/7p/1r3pP1/8/pB6/7K w - - 0 1\"]\r\n\r\n1. Bxf6+ Qxf6 2. Qg8+ Kh6 3. g5+ Qxg5 4. Rc6+ Qf6 5. Rxf6# 1-0",
+        "date": "2025-09-12",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-12_Musical-Chairs_Fiona-Steil-Antoni_MNF.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 32,
+        "solved_count": 19673,
+        "parsed": {
+            "moves": [
+                "Bxf6+",
+                "Qxf6",
+                "Qg8+",
+                "Kh6",
+                "g5+",
+                "Qxg5",
+                "Rc6+",
+                "Qf6",
+                "Rxf6#",
+                "1-0"
+            ],
+            "raw": "1. Bxf6+ Qxf6 2. Qg8+ Kh6 3. g5+ Qxg5 4. Rc6+ Qf6 5. Rxf6# 1-0",
+            "white": "EnPassantFork",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "2R5/4rqk1/1p2Qb2/7p/1r3pP1/8/pB6/7K w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2R5/4rqk1/1p2Qb2/7p/1r3pP1/8/pB6/7K w - - 0 1"
     }
 ]
