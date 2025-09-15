@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1113,
-        "solved_count": 1666419,
+        "solved_count": 1666433,
         "parsed": {
             "moves": [
                 "g8=N#"
@@ -30,7 +30,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 905,
-        "solved_count": 1652838,
+        "solved_count": 1652855,
         "parsed": {
             "moves": [
                 "Rd8+",
@@ -53,7 +53,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 929,
-        "solved_count": 1652530,
+        "solved_count": 1652548,
         "parsed": {
             "moves": [
                 "Bd2+",
@@ -77,7 +77,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 785,
-        "solved_count": 1574893,
+        "solved_count": 1574916,
         "parsed": {
             "moves": [
                 "Rxc1",
@@ -104,7 +104,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1248,
-        "solved_count": 1572674,
+        "solved_count": 1572698,
         "parsed": {
             "moves": [
                 "Qf2+",
@@ -129,7 +129,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 965,
-        "solved_count": 1551884,
+        "solved_count": 1551910,
         "parsed": {
             "moves": [
                 "Qf8+",
@@ -160,7 +160,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 889,
-        "solved_count": 1570752,
+        "solved_count": 1571041,
         "parsed": {
             "moves": [
                 "Kxh7",
@@ -199,7 +199,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1418,
-        "solved_count": 1624616,
+        "solved_count": 1624999,
         "parsed": {
             "moves": [
                 "Bc3+",
@@ -224,7 +224,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 858,
-        "solved_count": 1597309,
+        "solved_count": 1597866,
         "parsed": {
             "moves": [
                 "Bxc7+",
@@ -250,7 +250,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 741,
-        "solved_count": 1539383,
+        "solved_count": 1540126,
         "parsed": {
             "moves": [
                 "Qb5+",
@@ -276,7 +276,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 908,
-        "solved_count": 1471520,
+        "solved_count": 1472601,
         "parsed": {
             "moves": [
                 "Qd1",
@@ -304,7 +304,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 823,
-        "solved_count": 1455994,
+        "solved_count": 1457674,
         "parsed": {
             "moves": [
                 "Bxf6+",
@@ -336,7 +336,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1112,
-        "solved_count": 1351361,
+        "solved_count": 1354558,
         "parsed": {
             "moves": [
                 "e4+",
@@ -369,8 +369,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-14_Jaw-Dropping-Endgame_Dane-Mattson_GHK.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 903,
-        "solved_count": 1344621,
+        "comment_count": 908,
+        "solved_count": 1370394,
         "parsed": {
             "moves": [
                 "Rg6+",
@@ -388,5 +388,28 @@
             "fen": "6k1/pp5r/P4R1P/8/8/8/6K1/8 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/pp5r/P4R1P/8/8/8/6K1/8 w - - 0 1"
+    },
+    {
+        "id": 13344,
+        "title": "All Aboard!",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2r5/8/3R1b1p/1k4p1/1n1Q4/p3PqPb/P4P1P/6K1 w - - 0 1\"]\r\n\r\n1. Rb6+ Ka5 2. Qxb4# *",
+        "date": "2025-09-15",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-09-15_Checkmate-Sandwich_Dane-Mattson_OMT.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 34,
+        "solved_count": 27802,
+        "parsed": {
+            "moves": [
+                "Rb6+",
+                "Ka5",
+                "Qxb4#"
+            ],
+            "raw": "1. Rb6+ Ka5 2. Qxb4# *",
+            "result": "*",
+            "fen": "2r5/8/3R1b1p/1k4p1/1n1Q4/p3PqPb/P4P1P/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r5/8/3R1b1p/1k4p1/1n1Q4/p3PqPb/P4P1P/6K1 w - - 0 1"
     }
 ]
