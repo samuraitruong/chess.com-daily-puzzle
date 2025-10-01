@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "id": 13350,
+        "title": "Backstage Pass 🤩",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"GuyLemieux\"]\r\n[Result \"0-1\"]\r\n[FEN \"5Q2/kpp5/p1bp4/q6r/3PN1R1/6p1/PPP1B1P1/6K1 b - - 0 22\"]\r\n\r\n22... Rh1+ 23. Kxh1 Qh5+ 24. Kg1 Qh2+ 25. Kf1 Qh1# 0-1",
+        "date": "2025-10-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-01_Backstage-Pass_Kostya-Kavutskiy_CYC.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 37,
+        "solved_count": 25705,
+        "parsed": {
+            "moves": [
+                "Rh1+",
+                "Kxh1",
+                "Qh5+",
+                "Kg1",
+                "Qh2+",
+                "Kf1",
+                "Qh1#",
+                "0-1"
+            ],
+            "raw": "22... Rh1+ 23. Kxh1 Qh5+ 24. Kg1 Qh2+ 25. Kf1 Qh1# 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "GuyLemieux",
+            "result": "0-1",
+            "fen": "5Q2/kpp5/p1bp4/q6r/3PN1R1/6p1/PPP1B1P1/6K1 b - - 0 22"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5Q2/kpp5/p1bp4/q6r/3PN1R1/6p1/PPP1B1P1/6K1 b - - 0 22"
+    }
+]
