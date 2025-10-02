@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-01_Backstage-Pass_Kostya-Kavutskiy_CYC.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1054,
-        "solved_count": 1382695,
+        "comment_count": 1065,
+        "solved_count": 1403723,
         "parsed": {
             "moves": [
                 "Rh1+",
@@ -28,5 +28,34 @@
             "fen": "5Q2/kpp5/p1bp4/q6r/3PN1R1/6p1/PPP1B1P1/6K1 b - - 0 22"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=5Q2/kpp5/p1bp4/q6r/3PN1R1/6p1/PPP1B1P1/6K1 b - - 0 22"
+    },
+    {
+        "id": 13406,
+        "title": "Will a Fork Stop You?",
+        "pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"*\"]\r\n[FEN \"3k2r1/8/7p/p4K1B/P1b5/7P/8/2R5 w - - 0 1\"]\r\n\r\n1. Rxc4 Rg5+ 2. Ke6 Rxh5 3. h4 Rxh4 4. Rxh4 *",
+        "date": "2025-10-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-02_Will-a-Fork-Stop-You_Fiona-Steil-Antoni_LCC.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 36,
+        "solved_count": 21358,
+        "parsed": {
+            "moves": [
+                "Rxc4",
+                "Rg5+",
+                "Ke6",
+                "Rxh5",
+                "h4",
+                "Rxh4",
+                "Rxh4"
+            ],
+            "raw": "1. Rxc4 Rg5+ 2. Ke6 Rxh5 3. h4 Rxh4 4. Rxh4 *",
+            "white": "JohanVA",
+            "black": "Daily Puzzle Inspiration",
+            "result": "*",
+            "fen": "3k2r1/8/7p/p4K1B/P1b5/7P/8/2R5 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3k2r1/8/7p/p4K1B/P1b5/7P/8/2R5 w - - 0 1"
     }
 ]
