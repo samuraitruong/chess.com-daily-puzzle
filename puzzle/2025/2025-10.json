@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-01_Backstage-Pass_Kostya-Kavutskiy_CYC.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1074,
-        "solved_count": 1477299,
+        "comment_count": 1075,
+        "solved_count": 1479532,
         "parsed": {
             "moves": [
                 "Rh1+",
@@ -38,8 +38,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-02_Will-a-Fork-Stop-You_Fiona-Steil-Antoni_LCC.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1194,
-        "solved_count": 1337248,
+        "comment_count": 1228,
+        "solved_count": 1358149,
         "parsed": {
             "moves": [
                 "Rxc4",
@@ -57,5 +57,35 @@
             "fen": "3k2r1/8/7p/p4K1B/P1b5/7P/8/2R5 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=3k2r1/8/7p/p4K1B/P1b5/7P/8/2R5 w - - 0 1"
+    },
+    {
+        "id": 13354,
+        "title": "You're Tripping!",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"Wouter Bik\"]\r\n[Result \"0-1\"]\r\n[FEN \"4r1qk/p4rb1/1p2R2p/2p5/2P5/1P1N2QP/P5P1/4R1K1 b - - 0 28\"]\r\n\r\n28... Rxe6 29. Rxe6 Bd4+ 30. Kh2 Bg1+ 31. Kxg1 Qxg3 0-1",
+        "date": "2025-10-03",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-03_Youre-Tripping_Wouter-Bik_JM0.mp4",
+            "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
+        },
+        "comment_count": 21,
+        "solved_count": 20813,
+        "parsed": {
+            "moves": [
+                "Rxe6",
+                "Rxe6",
+                "Bd4+",
+                "Kh2",
+                "Bg1+",
+                "Kxg1",
+                "Qxg3",
+                "0-1"
+            ],
+            "raw": "28... Rxe6 29. Rxe6 Bd4+ 30. Kh2 Bg1+ 31. Kxg1 Qxg3 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "Wouter Bik",
+            "result": "0-1",
+            "fen": "4r1qk/p4rb1/1p2R2p/2p5/2P5/1P1N2QP/P5P1/4R1K1 b - - 0 28"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4r1qk/p4rb1/1p2R2p/2p5/2P5/1P1N2QP/P5P1/4R1K1 b - - 0 28"
     }
 ]
