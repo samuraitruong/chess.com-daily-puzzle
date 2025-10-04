@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1092,
-        "solved_count": 1522490,
+        "solved_count": 1523890,
         "parsed": {
             "moves": [
                 "Rh1+",
@@ -38,8 +38,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-02_Will-a-Fork-Stop-You_Fiona-Steil-Antoni_LCC.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1270,
-        "solved_count": 1436895,
+        "comment_count": 1272,
+        "solved_count": 1439117,
         "parsed": {
             "moves": [
                 "Rxc4",
@@ -67,8 +67,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-03_Youre-Tripping_Wouter-Bik_JM0.mp4",
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
-        "comment_count": 866,
-        "solved_count": 1316003,
+        "comment_count": 877,
+        "solved_count": 1335997,
         "parsed": {
             "moves": [
                 "Rxe6",
@@ -87,5 +87,32 @@
             "fen": "4r1qk/p4rb1/1p2R2p/2p5/2P5/1P1N2QP/P5P1/4R1K1 b - - 0 28"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=4r1qk/p4rb1/1p2R2p/2p5/2P5/1P1N2QP/P5P1/4R1K1 b - - 0 28"
+    },
+    {
+        "id": 13352,
+        "title": "Humbling the Defense",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3r4/kp6/p6Q/3r2p1/5p1P/5N2/PP2KPP1/8 b - - 0 1\"]\r\n\r\n1... Re8+ 2. Ne5 g4 3. Qxf4 Rexe5+ 4. Qxe5 Rxe5+ *",
+        "date": "2025-10-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-04_Humbling-the-Defense_Kostya-Kavutskiy_VNO.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 29,
+        "solved_count": 16577,
+        "parsed": {
+            "moves": [
+                "Re8+",
+                "Ne5",
+                "g4",
+                "Qxf4",
+                "Rexe5+",
+                "Qxe5",
+                "Rxe5+"
+            ],
+            "raw": "1... Re8+ 2. Ne5 g4 3. Qxf4 Rexe5+ 4. Qxe5 Rxe5+ *",
+            "result": "*",
+            "fen": "3r4/kp6/p6Q/3r2p1/5p1P/5N2/PP2KPP1/8 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r4/kp6/p6Q/3r2p1/5p1P/5N2/PP2KPP1/8 b - - 0 1"
     }
 ]
