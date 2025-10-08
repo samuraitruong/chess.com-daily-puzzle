@@ -1,0 +1,823 @@
+[
+    {
+        "id": 11103,
+        "title": "Endgame Grind",
+        "pgn": "[Result \"*\"]\r\n[FEN \"4Q3/q5k1/3p3p/rR2p1p1/r1P1Pp2/5P2/6PP/6RK b - - 0 1\"]\r\n\r\n1... Qxg1+ 2. Kxg1 Ra1+ 3. Kf2 R5a2+ 4. Rb2 Rxb2# *",
+        "date": "2022-09-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_endgame_grind_09_01_22_q3n.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 399,
+        "solved_count": 776727,
+        "parsed": {
+            "moves": [
+                "Qxg1+",
+                "Kxg1",
+                "Ra1+",
+                "Kf2",
+                "R5a2+",
+                "Rb2",
+                "Rxb2#"
+            ],
+            "raw": "1... Qxg1+ 2. Kxg1 Ra1+ 3. Kf2 R5a2+ 4. Rb2 Rxb2# *",
+            "result": "*",
+            "fen": "4Q3/q5k1/3p3p/rR2p1p1/r1P1Pp2/5P2/6PP/6RK b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4Q3/q5k1/3p3p/rR2p1p1/r1P1Pp2/5P2/6PP/6RK b - - 0 1"
+    },
+    {
+        "id": 11105,
+        "title": "A Vulnerable Knight",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r1b2rk1/2qnbppp/p1npp3/8/1p1NPP2/2N1B1P1/PPP1Q1BP/3R1RK1 w - - 0 1\"]\r\n\r\n1. Nxc6 Qxc6 2. e5 d5 3. Nxd5 exd5 4. Bxd5 Qc7 5. Bxa8 *",
+        "date": "2022-09-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_a_vulnerable_knight_09_02_22_q3z.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 428,
+        "solved_count": 747591,
+        "parsed": {
+            "moves": [
+                "Nxc6",
+                "Qxc6",
+                "e5",
+                "d5",
+                "Nxd5",
+                "exd5",
+                "Bxd5",
+                "Qc7",
+                "Bxa8"
+            ],
+            "raw": "1. Nxc6 Qxc6 2. e5 d5 3. Nxd5 exd5 4. Bxd5 Qc7 5. Bxa8 *",
+            "result": "*",
+            "fen": "r1b2rk1/2qnbppp/p1npp3/8/1p1NPP2/2N1B1P1/PPP1Q1BP/3R1RK1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b2rk1/2qnbppp/p1npp3/8/1p1NPP2/2N1B1P1/PPP1Q1BP/3R1RK1 w - - 0 1"
+    },
+    {
+        "id": 11109,
+        "title": "Forks, Pins, and Counterattacks",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2r1k2r/1p1bqpp1/p1n2n2/3Pp3/P7/2PB1NPp/1PQN1P1P/R3K2R b KQk - 0 1\"]\r\n\r\n1... Nb4 2. Qb1 Nxd3+ 3. Qxd3 e4 4. d6 Qe6 5. Qe2 exf3 *",
+        "date": "2022-09-03",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_forks,_pins,_and_counterattacks_09_03_22_v6y.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 365,
+        "solved_count": 727825,
+        "parsed": {
+            "moves": [
+                "Nb4",
+                "Qb1",
+                "Nxd3+",
+                "Qxd3",
+                "e4",
+                "d6",
+                "Qe6",
+                "Qe2",
+                "exf3"
+            ],
+            "raw": "1... Nb4 2. Qb1 Nxd3+ 3. Qxd3 e4 4. d6 Qe6 5. Qe2 exf3 *",
+            "result": "*",
+            "fen": "2r1k2r/1p1bqpp1/p1n2n2/3Pp3/P7/2PB1NPp/1PQN1P1P/R3K2R b KQk - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r1k2r/1p1bqpp1/p1n2n2/3Pp3/P7/2PB1NPp/1PQN1P1P/R3K2R b KQk - 0 1"
+    },
+    {
+        "id": 11079,
+        "title": "Checking Your First Impression",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r7/p2p1N1p/1pp5/1k1b1q2/1P6/2P5/1K5P/3R4 w - - 0 1\"]\r\n\r\n1. Nd6+ Ka6 2. b5+ cxb5 3. Ra1+ Ba2 4. Rxa2# *",
+        "date": "2022-09-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_checking_your_first_impression_09_04_22_h6m.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 589,
+        "solved_count": 760620,
+        "parsed": {
+            "moves": [
+                "Nd6+",
+                "Ka6",
+                "b5+",
+                "cxb5",
+                "Ra1+",
+                "Ba2",
+                "Rxa2#"
+            ],
+            "raw": "1. Nd6+ Ka6 2. b5+ cxb5 3. Ra1+ Ba2 4. Rxa2# *",
+            "result": "*",
+            "fen": "r7/p2p1N1p/1pp5/1k1b1q2/1P6/2P5/1K5P/3R4 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r7/p2p1N1p/1pp5/1k1b1q2/1P6/2P5/1K5P/3R4 w - - 0 1"
+    },
+    {
+        "id": 11111,
+        "title": "Outfoxing the Pin",
+        "pgn": "[Result \"*\"]\r\n[FEN \"Q3nk2/7r/P2N4/2pPpp2/2p1P3/3n1P2/1P6/K7 b - - 0 1\"]\r\n\r\n1... Rh1+ 2. Ka2 Nb4+ 3. Ka3 Ra1# *",
+        "date": "2022-09-05",
+        "video": {
+            "url": "https://chesscom-videos.s3.amazonaws.com/videos/square/DP_outfoxing_the_pin_09_05_22_ju7.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 388,
+        "solved_count": 769448,
+        "parsed": {
+            "moves": [
+                "Rh1+",
+                "Ka2",
+                "Nb4+",
+                "Ka3",
+                "Ra1#"
+            ],
+            "raw": "1... Rh1+ 2. Ka2 Nb4+ 3. Ka3 Ra1# *",
+            "result": "*",
+            "fen": "Q3nk2/7r/P2N4/2pPpp2/2p1P3/3n1P2/1P6/K7 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=Q3nk2/7r/P2N4/2pPpp2/2p1P3/3n1P2/1P6/K7 b - - 0 1"
+    },
+    {
+        "id": 11113,
+        "title": "When Forks and Batteries Collide",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r1q2k1r/p3pp2/3p1Np1/5b2/8/2b1Q3/P1P2PPP/R1B2RK1 w - - 0 1\"]\r\n\r\n1. Qh6+ Rxh6 2. Bxh6# *",
+        "date": "2022-09-06",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_when_forks_and_batteries_collide_09_06_22_q7w.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 486,
+        "solved_count": 771789,
+        "parsed": {
+            "moves": [
+                "Qh6+",
+                "Rxh6",
+                "Bxh6#"
+            ],
+            "raw": "1. Qh6+ Rxh6 2. Bxh6# *",
+            "result": "*",
+            "fen": "r1q2k1r/p3pp2/3p1Np1/5b2/8/2b1Q3/P1P2PPP/R1B2RK1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1q2k1r/p3pp2/3p1Np1/5b2/8/2b1Q3/P1P2PPP/R1B2RK1 w - - 0 1"
+    },
+    {
+        "id": 11101,
+        "title": "Pawn Chain Reaction",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r2q1rk1/1b2npbp/ppnpp1p1/2p5/2B1P3/P1NPBN1P/1PP2PP1/R2Q1RK1 b - - 0 1\"]\r\n\r\n1... d5 2. exd5 exd5 3. Ba2 d4 4. Bg5 dxc3 *",
+        "date": "2022-09-07",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_pawn_chain_reaction_09_07_22_u6u.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 370,
+        "solved_count": 764557,
+        "parsed": {
+            "moves": [
+                "d5",
+                "exd5",
+                "exd5",
+                "Ba2",
+                "d4",
+                "Bg5",
+                "dxc3"
+            ],
+            "raw": "1... d5 2. exd5 exd5 3. Ba2 d4 4. Bg5 dxc3 *",
+            "result": "*",
+            "fen": "r2q1rk1/1b2npbp/ppnpp1p1/2p5/2B1P3/P1NPBN1P/1PP2PP1/R2Q1RK1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r2q1rk1/1b2npbp/ppnpp1p1/2p5/2B1P3/P1NPBN1P/1PP2PP1/R2Q1RK1 b - - 0 1"
+    },
+    {
+        "id": 11093,
+        "title": "It's Not a Bug, It's a Feature",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2r1r3/ppp1R1pp/5pk1/8/2bP2PP/B4N2/P4P2/6K1 w - - 0 1\"]\r\n\r\n1. h5+ Kh6 2. Bc1+ g5 3. hxg6+ Kxg6 4. Nh4# *",
+        "date": "2022-09-08",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_it's_not_a_bug,_it's_a_feature!_(en_passant_awareness_day)_09_08_22_d8h.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 695,
+        "solved_count": 765970,
+        "parsed": {
+            "moves": [
+                "h5+",
+                "Kh6",
+                "Bc1+",
+                "g5",
+                "hxg6+",
+                "Kxg6",
+                "Nh4#"
+            ],
+            "raw": "1. h5+ Kh6 2. Bc1+ g5 3. hxg6+ Kxg6 4. Nh4# *",
+            "result": "*",
+            "fen": "2r1r3/ppp1R1pp/5pk1/8/2bP2PP/B4N2/P4P2/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r1r3/ppp1R1pp/5pk1/8/2bP2PP/B4N2/P4P2/6K1 w - - 0 1"
+    },
+    {
+        "id": 11083,
+        "title": "Fragile Light Squares",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3rr3/pp3kpp/2p1b3/P1Q3B1/BP1P4/6Pq/R4P1P/1N3RK1 b - - 0 1\"]\r\n\r\n1... Qxf1+ 2. Kxf1 Bh3+ 3. Kg1 Re1# *",
+        "date": "2022-09-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_fragile_light_squares_09_09_22_m8h.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 395,
+        "solved_count": 763356,
+        "parsed": {
+            "moves": [
+                "Qxf1+",
+                "Kxf1",
+                "Bh3+",
+                "Kg1",
+                "Re1#"
+            ],
+            "raw": "1... Qxf1+ 2. Kxf1 Bh3+ 3. Kg1 Re1# *",
+            "result": "*",
+            "fen": "3rr3/pp3kpp/2p1b3/P1Q3B1/BP1P4/6Pq/R4P1P/1N3RK1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3rr3/pp3kpp/2p1b3/P1Q3B1/BP1P4/6Pq/R4P1P/1N3RK1 b - - 0 1"
+    },
+    {
+        "id": 11117,
+        "title": "When the Puzzle Fights Back",
+        "pgn": "[Result \"*\"]\r\n[FEN \"1r4k1/R3b1p1/6Pp/5P2/R7/p7/r4B1P/6K1 b - - 0 1\"]\r\n\r\n1... Bc5 2. Ra8 Bxf2+ 3. Kf1 Rf8 *",
+        "date": "2022-09-10",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_when_the_puzzle_fights_back_09_10_22_x10w.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 386,
+        "solved_count": 746472,
+        "parsed": {
+            "moves": [
+                "Bc5",
+                "Ra8",
+                "Bxf2+",
+                "Kf1",
+                "Rf8"
+            ],
+            "raw": "1... Bc5 2. Ra8 Bxf2+ 3. Kf1 Rf8 *",
+            "result": "*",
+            "fen": "1r4k1/R3b1p1/6Pp/5P2/R7/p7/r4B1P/6K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r4k1/R3b1p1/6Pp/5P2/R7/p7/r4B1P/6K1 b - - 0 1"
+    },
+    {
+        "id": 11119,
+        "title": "A Delicate Dance",
+        "pgn": "[Result \"*\"]\r\n[FEN \"6k1/Q3R3/6pp/1b3p2/8/1q3P2/1P4PP/K7 b - - 0 1\"]\r\n\r\n1... Qd1+ 2. Ka2 Bc4+ 3. b3 Qxb3+ 4. Ka1 Qd1+ 5. Kb2 Qd2+ 6. Kb1 Bd3+ 7. Ka1\r\nQc1+ 8. Ka2 Bc4# *",
+        "date": "2022-09-11",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_a_delicate_dance_09_11_22_r7z.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 541,
+        "solved_count": 775402,
+        "parsed": {
+            "moves": [
+                "Qd1+",
+                "Ka2",
+                "Bc4+",
+                "b3",
+                "Qxb3+",
+                "Ka1",
+                "Qd1+",
+                "Kb2",
+                "Qd2+",
+                "Kb1",
+                "Bd3+",
+                "Ka1",
+                "Qc1+",
+                "Ka2",
+                "Bc4#"
+            ],
+            "raw": "1... Qd1+ 2. Ka2 Bc4+ 3. b3 Qxb3+ 4. Ka1 Qd1+ 5. Kb2 Qd2+ 6. Kb1 Bd3+ 7. Ka1\r\nQc1+ 8. Ka2 Bc4# *",
+            "result": "*",
+            "fen": "6k1/Q3R3/6pp/1b3p2/8/1q3P2/1P4PP/K7 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/Q3R3/6pp/1b3p2/8/1q3P2/1P4PP/K7 b - - 0 1"
+    },
+    {
+        "id": 11125,
+        "title": "The Rooks Rally",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2r5/P7/6pk/8/1Q6/1P6/2r3B1/K7 b - - 0 1\"]\r\n\r\n1... Rc1+ 2. Ka2 R8c2+ 3. Ka3 Ra1# *",
+        "date": "2022-09-12",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_the_rooks_rally_09_12_22_e7d.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 413,
+        "solved_count": 817070,
+        "parsed": {
+            "moves": [
+                "Rc1+",
+                "Ka2",
+                "R8c2+",
+                "Ka3",
+                "Ra1#"
+            ],
+            "raw": "1... Rc1+ 2. Ka2 R8c2+ 3. Ka3 Ra1# *",
+            "result": "*",
+            "fen": "2r5/P7/6pk/8/1Q6/1P6/2r3B1/K7 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r5/P7/6pk/8/1Q6/1P6/2r3B1/K7 b - - 0 1"
+    },
+    {
+        "id": 11089,
+        "title": "Removal of the Guard",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3r2k1/5ppp/5b2/p7/P7/2q1Q1B1/1p3PPP/3R2K1 w - - 0 1\"]\r\n\r\n1. Rxd8+ Bxd8 2. Qe8# *",
+        "date": "2022-09-13",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_removal_of_the_guard_09_13_22_c4f.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 557,
+        "solved_count": 810997,
+        "parsed": {
+            "moves": [
+                "Rxd8+",
+                "Bxd8",
+                "Qe8#"
+            ],
+            "raw": "1. Rxd8+ Bxd8 2. Qe8# *",
+            "result": "*",
+            "fen": "3r2k1/5ppp/5b2/p7/P7/2q1Q1B1/1p3PPP/3R2K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r2k1/5ppp/5b2/p7/P7/2q1Q1B1/1p3PPP/3R2K1 w - - 0 1"
+    },
+    {
+        "id": 11107,
+        "title": "Blind Diagonal",
+        "pgn": "[Event \"Groningen op\"]\r\n[Site \"Groningen\"]\r\n[Date \"1991.??.??\"]\r\n[Round \"4\"]\r\n[White \"Basart, Josep Maria\"]\r\n[Black \"Finegold, Benjamin\"]\r\n[Result \"0-1\"]\r\n[ECO \"D11\"]\r\n[WhiteElo \"2205\"]\r\n[BlackElo \"2455\"]\r\n[FEN \"3r4/6p1/1R2pk2/1bp1p2p/1p1bP2P/1R2NP2/1P1K2P1/8 b - - 0 32\"]\r\n\r\n32... Bxe3+ 33. Kxe3 Bc4 34. R6xb4 cxb4 *",
+        "date": "2022-09-14",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_blind_diagonal_09_14_22_c3k.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 358,
+        "solved_count": 797535,
+        "parsed": {
+            "moves": [
+                "Bxe3+",
+                "Kxe3",
+                "Bc4",
+                "R6xb4",
+                "cxb4"
+            ],
+            "raw": "32... Bxe3+ 33. Kxe3 Bc4 34. R6xb4 cxb4 *",
+            "event": "Groningen op",
+            "site": "Groningen",
+            "date": "1991.??.??",
+            "round": "4",
+            "white": "Basart, Josep Maria",
+            "black": "Finegold, Benjamin",
+            "result": "0-1",
+            "eco": "D11",
+            "whiteelo": "2205",
+            "blackelo": "2455",
+            "fen": "3r4/6p1/1R2pk2/1bp1p2p/1p1bP2P/1R2NP2/1P1K2P1/8 b - - 0 32"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r4/6p1/1R2pk2/1bp1p2p/1p1bP2P/1R2NP2/1P1K2P1/8 b - - 0 32"
+    },
+    {
+        "id": 11091,
+        "title": "Geometrical Dance",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3R4/6rk/1p4p1/p2Q1p2/P1B1pP2/1n2P1Pp/1q5P/6K1 w - - 0 1\"]\r\n\r\n1. Rh8+ Kxh8 2. Qd8+ Kh7 3. Qh4# *",
+        "date": "2022-09-15",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_geometrical_dance_09_15_22_t9p.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 436,
+        "solved_count": 793982,
+        "parsed": {
+            "moves": [
+                "Rh8+",
+                "Kxh8",
+                "Qd8+",
+                "Kh7",
+                "Qh4#"
+            ],
+            "raw": "1. Rh8+ Kxh8 2. Qd8+ Kh7 3. Qh4# *",
+            "result": "*",
+            "fen": "3R4/6rk/1p4p1/p2Q1p2/P1B1pP2/1n2P1Pp/1q5P/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3R4/6rk/1p4p1/p2Q1p2/P1B1pP2/1n2P1Pp/1q5P/6K1 w - - 0 1"
+    },
+    {
+        "id": 11115,
+        "title": "Three-Part Harmony",
+        "pgn": "[Result \"*\"]\r\n[FEN \"7r/1p6/k1bB4/1p2P3/P2Q1K1P/1P1B2P1/8/3q1N2 b - - 0 1\"]\r\n\r\n1... Qf3+ 2. Kg5 Rh5+ 3. Kg6 Be8+ 4. Kg7 Qf7# *",
+        "date": "2022-09-16",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_three-part_harmony_09_16_22_g3j.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 389,
+        "solved_count": 781340,
+        "parsed": {
+            "moves": [
+                "Qf3+",
+                "Kg5",
+                "Rh5+",
+                "Kg6",
+                "Be8+",
+                "Kg7",
+                "Qf7#"
+            ],
+            "raw": "1... Qf3+ 2. Kg5 Rh5+ 3. Kg6 Be8+ 4. Kg7 Qf7# *",
+            "result": "*",
+            "fen": "7r/1p6/k1bB4/1p2P3/P2Q1K1P/1P1B2P1/8/3q1N2 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7r/1p6/k1bB4/1p2P3/P2Q1K1P/1P1B2P1/8/3q1N2 b - - 0 1"
+    },
+    {
+        "id": 11127,
+        "title": "Quality Over Quantity",
+        "pgn": "[Result \"0-1\"]\r\n[FEN \"2Q3rk/1P4r1/6q1/7p/3P4/4QB1P/P4p2/2R4K b - - 0 1\"]\r\n\r\n1... Qg1+ 2. Rxg1 Rxg1+ 3. Kh2 f1=N# 0-1",
+        "date": "2022-09-17",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_quality_over_quantity_09_17_22_c2i.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 522,
+        "solved_count": 771437,
+        "parsed": {
+            "moves": [
+                "Qg1+",
+                "Rxg1",
+                "Rxg1+",
+                "Kh2",
+                "f1=N#",
+                "0-1"
+            ],
+            "raw": "1... Qg1+ 2. Rxg1 Rxg1+ 3. Kh2 f1=N# 0-1",
+            "result": "0-1",
+            "fen": "2Q3rk/1P4r1/6q1/7p/3P4/4QB1P/P4p2/2R4K b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2Q3rk/1P4r1/6q1/7p/3P4/4QB1P/P4p2/2R4K b - - 0 1"
+    },
+    {
+        "id": 11095,
+        "title": "Knights Out",
+        "pgn": "[Result \"*\"]\r\n[FEN \"6k1/3N1pn1/6pQ/r3N3/1p5p/1Pq4P/P4PP1/6K1 w - - 0 1\"]\r\n\r\n1. Qh7+ Kxh7 2. Nf6+ Kh6 3. Nxf7# *",
+        "date": "2022-09-18",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_knights_out_09_18_22_f2f.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 425,
+        "solved_count": 783325,
+        "parsed": {
+            "moves": [
+                "Qh7+",
+                "Kxh7",
+                "Nf6+",
+                "Kh6",
+                "Nxf7#"
+            ],
+            "raw": "1. Qh7+ Kxh7 2. Nf6+ Kh6 3. Nxf7# *",
+            "result": "*",
+            "fen": "6k1/3N1pn1/6pQ/r3N3/1p5p/1Pq4P/P4PP1/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/3N1pn1/6pQ/r3N3/1p5p/1Pq4P/P4PP1/6K1 w - - 0 1"
+    },
+    {
+        "id": 11129,
+        "title": "A Hop, Skip, and a Jump Away from Mate",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r2q1kr1/pppbp1b1/2n5/3p3Q/3P4/2N2N2/PPP2PPP/2KR3R w - - 0 1\"]\r\n\r\n1. Ng5 Qe8 2. Nh7# *",
+        "date": "2022-09-19",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_a_hop,_skip,_and_a_jump_away_from_mate_09_19_22_l8s.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 455,
+        "solved_count": 818475,
+        "parsed": {
+            "moves": [
+                "Ng5",
+                "Qe8",
+                "Nh7#"
+            ],
+            "raw": "1. Ng5 Qe8 2. Nh7# *",
+            "result": "*",
+            "fen": "r2q1kr1/pppbp1b1/2n5/3p3Q/3P4/2N2N2/PPP2PPP/2KR3R w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r2q1kr1/pppbp1b1/2n5/3p3Q/3P4/2N2N2/PPP2PPP/2KR3R w - - 0 1"
+    },
+    {
+        "id": 11123,
+        "title": "Push 'Em, Baby",
+        "pgn": "[Result \"*\"]\r\n[FEN \"6k1/p6p/5P2/4R3/P2p1K1P/1P2p3/8/5b2 b - - 0 1\"]\r\n\r\n1... e2 2. Kf3 d3 3. Kf2 d2 4. Rxe2 d1=Q *",
+        "date": "2022-09-20",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_push_'em,_baby_09_20_22_g3o.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 423,
+        "solved_count": 824208,
+        "parsed": {
+            "moves": [
+                "e2",
+                "Kf3",
+                "d3",
+                "Kf2",
+                "d2",
+                "Rxe2",
+                "d1=Q"
+            ],
+            "raw": "1... e2 2. Kf3 d3 3. Kf2 d2 4. Rxe2 d1=Q *",
+            "result": "*",
+            "fen": "6k1/p6p/5P2/4R3/P2p1K1P/1P2p3/8/5b2 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/p6p/5P2/4R3/P2p1K1P/1P2p3/8/5b2 b - - 0 1"
+    },
+    {
+        "id": 11121,
+        "title": "A Multipurpose Move",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r5k1/1pp2ppp/p1pb1n2/P3r3/R7/2NP3q/1PP2PB1/2BQ1RK1 b - - 0 1\"]\r\n\r\n1... Rg5 2. Bxg5 Qh2# *",
+        "date": "2022-09-21",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_a_multipurpose_move_09_21_22_w5h.mp4.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 471,
+        "solved_count": 811103,
+        "parsed": {
+            "moves": [
+                "Rg5",
+                "Bxg5",
+                "Qh2#"
+            ],
+            "raw": "1... Rg5 2. Bxg5 Qh2# *",
+            "result": "*",
+            "fen": "r5k1/1pp2ppp/p1pb1n2/P3r3/R7/2NP3q/1PP2PB1/2BQ1RK1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r5k1/1pp2ppp/p1pb1n2/P3r3/R7/2NP3q/1PP2PB1/2BQ1RK1 b - - 0 1"
+    },
+    {
+        "id": 11133,
+        "title": "Cutting in Line",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2r2r1k/3b1pp1/1p2p2p/3NP3/p2N2Q1/B7/1P1q2PP/1B1R3K b - - 0 1\"]\r\n\r\n1... Rc1 2. Nc3 Qe1+ 3. Rxe1 Rxe1# *",
+        "date": "2022-09-22",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_cutting_in_line_09_22_22_k4l.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 471,
+        "solved_count": 808892,
+        "parsed": {
+            "moves": [
+                "Rc1",
+                "Nc3",
+                "Qe1+",
+                "Rxe1",
+                "Rxe1#"
+            ],
+            "raw": "1... Rc1 2. Nc3 Qe1+ 3. Rxe1 Rxe1# *",
+            "result": "*",
+            "fen": "2r2r1k/3b1pp1/1p2p2p/3NP3/p2N2Q1/B7/1P1q2PP/1B1R3K b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r2r1k/3b1pp1/1p2p2p/3NP3/p2N2Q1/B7/1P1q2PP/1B1R3K b - - 0 1"
+    },
+    {
+        "id": 11131,
+        "title": "If You Pin It, Can You Win It?",
+        "pgn": "[Result \"*\"]\r\n[FEN \"4k2r/2p1b1pp/1pn1ppb1/8/3P4/1P3NNP/R4PP1/5BK1 w k - 0 1\"]\r\n\r\n1. Bb5 Kd7 2. d5 exd5 3. Nd4 Bd3 4. Bxc6+ *",
+        "date": "2022-09-23",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_if_you_pin_it,_can_you_win_it_09_23_22_n10g.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 396,
+        "solved_count": 804479,
+        "parsed": {
+            "moves": [
+                "Bb5",
+                "Kd7",
+                "d5",
+                "exd5",
+                "Nd4",
+                "Bd3",
+                "Bxc6+"
+            ],
+            "raw": "1. Bb5 Kd7 2. d5 exd5 3. Nd4 Bd3 4. Bxc6+ *",
+            "result": "*",
+            "fen": "4k2r/2p1b1pp/1pn1ppb1/8/3P4/1P3NNP/R4PP1/5BK1 w k - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4k2r/2p1b1pp/1pn1ppb1/8/3P4/1P3NNP/R4PP1/5BK1 w k - 0 1"
+    },
+    {
+        "id": 11155,
+        "title": "A Strong Botez Birthday Gambit",
+        "pgn": "[Event \"HUN-ch 18th\"]\r\n[Site \"Budapest HUN\"]\r\n[Date \"1963.02.01\"]\r\n[Round \"15\"]\r\n[White \"Laszlo Sapi\"]\r\n[Black \"Laszlo Barczay\"]\r\n[Result \"0-1\"]\r\n[ECO \"D44\"]\r\n[SetUp \"1\"]\r\n[FEN \"2r3k1/5ppp/4p3/4P3/p2BP3/2q5/1p3PPP/1Q1R2K1 b - - 0 28\"]\r\n[PlyCount \"7\"]\r\n[EventDate \"1963.01.12\"]\r\n\r\n28... Qxd4 29. Rxd4 Rc1+ 30. Rd1 Rxb1 31. Rxb1 a3 0-1",
+        "date": "2022-09-24",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_a_strong_botez_birthday_gambit_09_24_22_r4c.mp4.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 467,
+        "solved_count": 789468,
+        "parsed": {
+            "moves": [
+                "Qxd4",
+                "Rxd4",
+                "Rc1+",
+                "Rd1",
+                "Rxb1",
+                "Rxb1",
+                "a3",
+                "0-1"
+            ],
+            "raw": "28... Qxd4 29. Rxd4 Rc1+ 30. Rd1 Rxb1 31. Rxb1 a3 0-1",
+            "event": "HUN-ch 18th",
+            "site": "Budapest HUN",
+            "date": "1963.02.01",
+            "round": "15",
+            "white": "Laszlo Sapi",
+            "black": "Laszlo Barczay",
+            "result": "0-1",
+            "eco": "D44",
+            "setup": "1",
+            "fen": "2r3k1/5ppp/4p3/4P3/p2BP3/2q5/1p3PPP/1Q1R2K1 b - - 0 28",
+            "plycount": "7",
+            "eventdate": "1963.01.12"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r3k1/5ppp/4p3/4P3/p2BP3/2q5/1p3PPP/1Q1R2K1 b - - 0 28"
+    },
+    {
+        "id": 11177,
+        "title": "Diagonal Diversion",
+        "pgn": "[White \"Paul Heuacker\"]\r\n[Black \"Study\"]\r\n[Result \"*\"]\r\n[FEN \"1B6/8/7P/4p3/3b3k/8/8/2K5 w - - 0 1\"]\r\n\r\n1. Ba7 Ba1 2. Kb1 Bc3 3. Kc2 Ba1 4. Bd4 Bxd4 5. Kd3 Ba1 6. Ke4 Kg5 7. h7 Kg6 8.\r\nh8=Q *",
+        "date": "2022-09-25",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_diagonal_diversion_09_25_22_u8m.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 581,
+        "solved_count": 796704,
+        "parsed": {
+            "moves": [
+                "Ba7",
+                "Ba1",
+                "Kb1",
+                "Bc3",
+                "Kc2",
+                "Ba1",
+                "Bd4",
+                "Bxd4",
+                "Kd3",
+                "Ba1",
+                "Ke4",
+                "Kg5",
+                "h7",
+                "Kg6",
+                "h8=Q"
+            ],
+            "raw": "1. Ba7 Ba1 2. Kb1 Bc3 3. Kc2 Ba1 4. Bd4 Bxd4 5. Kd3 Ba1 6. Ke4 Kg5 7. h7 Kg6 8.\r\nh8=Q *",
+            "white": "Paul Heuacker",
+            "black": "Study",
+            "result": "*",
+            "fen": "1B6/8/7P/4p3/3b3k/8/8/2K5 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1B6/8/7P/4p3/3b3k/8/8/2K5 w - - 0 1"
+    },
+    {
+        "id": 11157,
+        "title": "Back-Rank Comeback",
+        "pgn": "[Result \"*\"]\r\n[FEN \"b5k1/2q4p/p5p1/1p3n2/2r4P/Q4P2/PPP2BP1/2K1R3 w - - 0 1\"]\r\n\r\n1. Re8+ Kg7 2. Qf8# *",
+        "date": "2022-09-26",
+        "video": [],
+        "comment_count": 454,
+        "solved_count": 832701,
+        "parsed": {
+            "moves": [
+                "Re8+",
+                "Kg7",
+                "Qf8#"
+            ],
+            "raw": "1. Re8+ Kg7 2. Qf8# *",
+            "result": "*",
+            "fen": "b5k1/2q4p/p5p1/1p3n2/2r4P/Q4P2/PPP2BP1/2K1R3 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=b5k1/2q4p/p5p1/1p3n2/2r4P/Q4P2/PPP2BP1/2K1R3 w - - 0 1"
+    },
+    {
+        "id": 11141,
+        "title": "Missed Opportunity: Trusting Your Opponent",
+        "pgn": "[Event \"UKR Games (Women) 3rd\"]\r\n[Site \"Evpatoria\"]\r\n[Date \"2007.05.25\"]\r\n[Round \"7\"]\r\n[White \"Babiy, Olga (Variation from Game)\"]\r\n[Black \"Dornbusch, Tatiana\"]\r\n[Result \"1/2-1/2\"]\r\n[ECO \"B03\"]\r\n[WhiteElo \"2192\"]\r\n[BlackElo \"2232\"]\r\n[FEN \"2r3k1/4Rpp1/4q2p/8/4B3/4Q1PP/P4P1K/2r5 b - - 0 35\"]\r\n\r\n35... Qxe7 36. Bh7+ Kf8 *",
+        "date": "2022-09-27",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_missed_opportunity_trusting_your_opponent_09_27_22_x4c.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 385,
+        "solved_count": 829305,
+        "parsed": {
+            "moves": [
+                "Qxe7",
+                "Bh7+",
+                "Kf8"
+            ],
+            "raw": "35... Qxe7 36. Bh7+ Kf8 *",
+            "event": "UKR Games (Women) 3rd",
+            "site": "Evpatoria",
+            "date": "2007.05.25",
+            "round": "7",
+            "white": "Babiy, Olga (Variation from Game)",
+            "black": "Dornbusch, Tatiana",
+            "result": "1/2-1/2",
+            "eco": "B03",
+            "whiteelo": "2192",
+            "blackelo": "2232",
+            "fen": "2r3k1/4Rpp1/4q2p/8/4B3/4Q1PP/P4P1K/2r5 b - - 0 35"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r3k1/4Rpp1/4q2p/8/4B3/4Q1PP/P4P1K/2r5 b - - 0 35"
+    },
+    {
+        "id": 11159,
+        "title": "Silencing Counterplay",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3rrB1k/pp4p1/2P3p1/8/5Ppq/1Q2P3/PP5P/R4RK1 b - - 0 1\"]\r\n\r\n1... Rd2 2. Bxg7+ Kh7 3. Qf7 Qxh2# *",
+        "date": "2022-09-28",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_silencing_counterplay_09_28_22_e3x.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 337,
+        "solved_count": 810075,
+        "parsed": {
+            "moves": [
+                "Rd2",
+                "Bxg7+",
+                "Kh7",
+                "Qf7",
+                "Qxh2#"
+            ],
+            "raw": "1... Rd2 2. Bxg7+ Kh7 3. Qf7 Qxh2# *",
+            "result": "*",
+            "fen": "3rrB1k/pp4p1/2P3p1/8/5Ppq/1Q2P3/PP5P/R4RK1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3rrB1k/pp4p1/2P3p1/8/5Ppq/1Q2P3/PP5P/R4RK1 b - - 0 1"
+    },
+    {
+        "id": 11135,
+        "title": "Pawns Are Not Pieces",
+        "pgn": "[Result \"*\"]\r\n[FEN \"1r1q1rk1/1bp2ppp/n2bp3/p2Pn3/2P1NB2/6P1/4NPBP/R2Q1RK1 w - - 0 1\"]\r\n\r\n1. c5 exd5 2. cxd6 dxe4 3. Bxe5 *",
+        "date": "2022-09-29",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_pawns_are_not_pieces_09_29_22_u6w.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 358,
+        "solved_count": 808485,
+        "parsed": {
+            "moves": [
+                "c5",
+                "exd5",
+                "cxd6",
+                "dxe4",
+                "Bxe5"
+            ],
+            "raw": "1. c5 exd5 2. cxd6 dxe4 3. Bxe5 *",
+            "result": "*",
+            "fen": "1r1q1rk1/1bp2ppp/n2bp3/p2Pn3/2P1NB2/6P1/4NPBP/R2Q1RK1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r1q1rk1/1bp2ppp/n2bp3/p2Pn3/2P1NB2/6P1/4NPBP/R2Q1RK1 w - - 0 1"
+    },
+    {
+        "id": 11143,
+        "title": "Self-Promotion",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/p7/3k1P2/bPp4p/P1P1p2R/6K1/8/8 b - - 0 1\"]\r\n\r\n1... Be1+ 2. Kh3 Bxh4 3. Kxh4 e3 4. Kg3 h4+ 5. Kf3 h3 6. f7 Ke7 7. f8=Q+ Kxf8\r\n8. Kxe3 h2 *",
+        "date": "2022-09-30",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_self-promotion_09_30_22_c8a.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 372,
+        "solved_count": 799262,
+        "parsed": {
+            "moves": [
+                "Be1+",
+                "Kh3",
+                "Bxh4",
+                "Kxh4",
+                "e3",
+                "Kg3",
+                "h4+",
+                "Kf3",
+                "h3",
+                "f7",
+                "Ke7",
+                "f8=Q+",
+                "Kxf8",
+                "Kxe3",
+                "h2"
+            ],
+            "raw": "1... Be1+ 2. Kh3 Bxh4 3. Kxh4 e3 4. Kg3 h4+ 5. Kf3 h3 6. f7 Ke7 7. f8=Q+ Kxf8\r\n8. Kxe3 h2 *",
+            "result": "*",
+            "fen": "8/p7/3k1P2/bPp4p/P1P1p2R/6K1/8/8 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/p7/3k1P2/bPp4p/P1P1p2R/6K1/8/8 b - - 0 1"
+    }
+]

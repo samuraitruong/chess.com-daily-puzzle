@@ -1,0 +1,971 @@
+[
+    {
+        "id": 10843,
+        "title": "Anticipating Counterplay",
+        "pgn": "[Event \"TCh-CHN Division A 2014\"]\r\n[Site \"Jiaxing CHN\"]\r\n[Date \"2014.09.12\"]\r\n[Round \"?\"]\r\n[White \"Xu Xiangyu\"]\r\n[Black \"Yu Yangyi\"]\r\n[Result \"0-1\"]\r\n[FEN \"8/4R3/8/3b2pk/5B2/8/r6P/6K1 b - - 0 42\"]\r\n\r\n42...Rg2+ 43.Kf1 gxf4 44.Re5+ Rg5 0-1",
+        "date": "2022-06-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_anticipating_counterplay_06_01_22_m5v.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 351,
+        "solved_count": 12074,
+        "parsed": {
+            "moves": [
+                "Rg2+",
+                "Kf1",
+                "gxf4",
+                "Re5+",
+                "Rg5",
+                "0-1"
+            ],
+            "raw": "42...Rg2+ 43.Kf1 gxf4 44.Re5+ Rg5 0-1",
+            "event": "TCh-CHN Division A 2014",
+            "site": "Jiaxing CHN",
+            "date": "2014.09.12",
+            "round": "?",
+            "white": "Xu Xiangyu",
+            "black": "Yu Yangyi",
+            "result": "0-1",
+            "fen": "8/4R3/8/3b2pk/5B2/8/r6P/6K1 b - - 0 42"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/4R3/8/3b2pk/5B2/8/r6P/6K1 b - - 0 42"
+    },
+    {
+        "id": 10907,
+        "title": "Happy Birthday, Gata!",
+        "pgn": "[Event \"SportAccord Blitz Men 2012\"]\r\n[Site \"Beijing CHN\"]\r\n[Date \"2012.12.17\"]\r\n[White \"Gata Kamsky\"]\r\n[Black \"Peter Leko\"]\r\n[Result \"1-0\"]\r\n[FEN \"8/8/1p1P4/rP3kp1/4N3/5PKP/8/8 w - - 1 47\"]\r\n\r\n47.d7 Ra8 48.Nd6+ Ke6 49.Nc8 Kxd7 50.Nxb6+ Kc7 51.Nxa8+ 1-0",
+        "date": "2022-06-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_happy_birthday,_gata!_06_02_22_e1d.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 439,
+        "solved_count": 11345,
+        "parsed": {
+            "moves": [
+                "d7",
+                "Ra8",
+                "Nd6+",
+                "Ke6",
+                "Nc8",
+                "Kxd7",
+                "Nxb6+",
+                "Kc7",
+                "Nxa8+",
+                "1-0"
+            ],
+            "raw": "47.d7 Ra8 48.Nd6+ Ke6 49.Nc8 Kxd7 50.Nxb6+ Kc7 51.Nxa8+ 1-0",
+            "event": "SportAccord Blitz Men 2012",
+            "site": "Beijing CHN",
+            "date": "2012.12.17",
+            "white": "Gata Kamsky",
+            "black": "Peter Leko",
+            "result": "1-0",
+            "fen": "8/8/1p1P4/rP3kp1/4N3/5PKP/8/8 w - - 1 47"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/1p1P4/rP3kp1/4N3/5PKP/8/8 w - - 1 47"
+    },
+    {
+        "id": 10909,
+        "title": "Just Passing Through Town",
+        "pgn": "[Result \"*\"]\r\n[FEN \"5n1k/3q2p1/7p/7P/1pB4K/1P4P1/2P1Q3/8 b - - 1 1\"]\r\n\r\n1...g5+ 2.hxg6 Nxg6+ 3.Kh5 Qf5+ 4.Kxh6 Ne5 5.Bd3 Nf7# *",
+        "date": "2022-06-03",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_just_passing_through_town_06_03_22_w8c.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 353,
+        "solved_count": 11098,
+        "parsed": {
+            "moves": [
+                "g5+",
+                "hxg6",
+                "Nxg6+",
+                "Kh5",
+                "Qf5+",
+                "Kxh6",
+                "Ne5",
+                "Bd3",
+                "Nf7#"
+            ],
+            "raw": "1...g5+ 2.hxg6 Nxg6+ 3.Kh5 Qf5+ 4.Kxh6 Ne5 5.Bd3 Nf7# *",
+            "result": "*",
+            "fen": "5n1k/3q2p1/7p/7P/1pB4K/1P4P1/2P1Q3/8 b - - 1 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5n1k/3q2p1/7p/7P/1pB4K/1P4P1/2P1Q3/8 b - - 1 1"
+    },
+    {
+        "id": 10911,
+        "title": "Atari 2600+",
+        "pgn": "[Event \"Hasselbacken Open 2016\"]\r\n[Site \"Stockholm SWE\"]\r\n[Date \"2016.05.08\"]\r\n[Round \"?\"]\r\n[White \"Aryan Tari\"]\r\n[Black \"Bodda Pratyusha\"]\r\n[Result \"1-0\"]\r\n[FEN \"2kr4/pb1q2r1/1bp5/1p1PnpQp/2p4P/2N2B2/PP3PPB/3R1RK1 w - - 1 28\"]\r\n\r\n28.Bxe5 Rxg5 29.dxc6 Bxc6 30.Rxd7 Bxd7 31.hxg5 1-0",
+        "date": "2022-06-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_atari_2600_06_04_22_i6q.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 357,
+        "solved_count": 10809,
+        "parsed": {
+            "moves": [
+                "Bxe5",
+                "Rxg5",
+                "dxc6",
+                "Bxc6",
+                "Rxd7",
+                "Bxd7",
+                "hxg5",
+                "1-0"
+            ],
+            "raw": "28.Bxe5 Rxg5 29.dxc6 Bxc6 30.Rxd7 Bxd7 31.hxg5 1-0",
+            "event": "Hasselbacken Open 2016",
+            "site": "Stockholm SWE",
+            "date": "2016.05.08",
+            "round": "?",
+            "white": "Aryan Tari",
+            "black": "Bodda Pratyusha",
+            "result": "1-0",
+            "fen": "2kr4/pb1q2r1/1bp5/1p1PnpQp/2p4P/2N2B2/PP3PPB/3R1RK1 w - - 1 28"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2kr4/pb1q2r1/1bp5/1p1PnpQp/2p4P/2N2B2/PP3PPB/3R1RK1 w - - 1 28"
+    },
+    {
+        "id": 10869,
+        "title": "Of Mouseslips and Men",
+        "pgn": "[White \"Minski and Nielsen\"]\r\n[Black \"Study\"]\r\n[Result \"*\"]\r\n[FEN \"2r2RN1/4n3/6p1/2p3k1/8/6P1/5PK1/8 w - - 0 1\"]\r\n\r\n1. f4+ Kg4 2. Rf5 Kxf5 3. Nxe7+ Ke6 4. Nxc8 *",
+        "date": "2022-06-05",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_of_mouseslips_and_men_06_05_22_x5p.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 495,
+        "solved_count": 10765,
+        "parsed": {
+            "moves": [
+                "f4+",
+                "Kg4",
+                "Rf5",
+                "Kxf5",
+                "Nxe7+",
+                "Ke6",
+                "Nxc8"
+            ],
+            "raw": "1. f4+ Kg4 2. Rf5 Kxf5 3. Nxe7+ Ke6 4. Nxc8 *",
+            "white": "Minski and Nielsen",
+            "black": "Study",
+            "result": "*",
+            "fen": "2r2RN1/4n3/6p1/2p3k1/8/6P1/5PK1/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r2RN1/4n3/6p1/2p3k1/8/6P1/5PK1/8 w - - 0 1"
+    },
+    {
+        "id": 10905,
+        "title": "Check Engine",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r1b1k2r/p3pp1p/1p1p4/2pP4/4P1PN/PPq1b3/2PNP1P1/2RQKB1R b KQkq - 0 1\"]\r\n\r\n1...Qd4 2.Ndf3 Bf2# *",
+        "date": "2022-06-06",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_check_engine_06_06_22_o2w.mp4.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 417,
+        "solved_count": 10675,
+        "parsed": {
+            "moves": [
+                "Qd4",
+                "Ndf3",
+                "Bf2#"
+            ],
+            "raw": "1...Qd4 2.Ndf3 Bf2# *",
+            "result": "*",
+            "fen": "r1b1k2r/p3pp1p/1p1p4/2pP4/4P1PN/PPq1b3/2PNP1P1/2RQKB1R b KQkq - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b1k2r/p3pp1p/1p1p4/2pP4/4P1PN/PPq1b3/2PNP1P1/2RQKB1R b KQkq - 0 1"
+    },
+    {
+        "id": 10889,
+        "title": "Euwe Revisited",
+        "pgn": "[Event \"It\"]\r\n[Site \"Amsterdam (Netherlands)\"]\r\n[Date \"1922.??.??\"]\r\n[Round \"?\"]\r\n[White \"Max Euwe\"]\r\n[Black \"Wiersma E Sr\"]\r\n[Result \"1-0\"]\r\n[FEN \"4rrk1/ppp2pbp/3q2pn/5bB1/2Bp4/1QPP1N2/PP4PP/4RRK1 w - - 6 17\"]\r\n\r\n17.Rxe8 Rxe8 18.Bxh6 Bxh6 19.Bxf7+ Kf8 20.Bxe8 1-0",
+        "date": "2022-06-07",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_euwe_revisited_06_07_22_z7f.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 331,
+        "solved_count": 10446,
+        "parsed": {
+            "moves": [
+                "Rxe8",
+                "Rxe8",
+                "Bxh6",
+                "Bxh6",
+                "Bxf7+",
+                "Kf8",
+                "Bxe8",
+                "1-0"
+            ],
+            "raw": "17.Rxe8 Rxe8 18.Bxh6 Bxh6 19.Bxf7+ Kf8 20.Bxe8 1-0",
+            "event": "It",
+            "site": "Amsterdam (Netherlands)",
+            "date": "1922.??.??",
+            "round": "?",
+            "white": "Max Euwe",
+            "black": "Wiersma E Sr",
+            "result": "1-0",
+            "fen": "4rrk1/ppp2pbp/3q2pn/5bB1/2Bp4/1QPP1N2/PP4PP/4RRK1 w - - 6 17"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4rrk1/ppp2pbp/3q2pn/5bB1/2Bp4/1QPP1N2/PP4PP/4RRK1 w - - 6 17"
+    },
+    {
+        "id": 10913,
+        "title": "Happy Birthday to Yu",
+        "pgn": "[Event \"2nd Indonesia Open\"]\r\n[Site \"Jakarta INA\"]\r\n[Date \"2012.10.15\"]\r\n[Round \"6.1\"]\r\n[White \"Yu Yangyi\"]\r\n[Black \"Ganguly, S.\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2651\"]\r\n[BlackElo \"2610\"]\r\n[ECO \"C45\"]\r\n[EventDate \"2012.10.11\"]\r\n[PlyCount \"29\"]\r\n[EventType \"swiss\"]\r\n[EventRounds \"9\"]\r\n[EventCountry \"INA\"]\r\n[SourceDate \"2012.10.22\"]\r\n[FEN \"r3k2r/p1pp1pb1/b1p3pp/3nP1B1/2P1N3/8/PP1K1PPP/R4B1R w kq - 0 14\"]\r\n\r\n14.cxd5 Bxf1 15.Bf6 Bxg2 16.Bxg7 Bxe4 17.Bxh8 Bxh1 18.Rxh1 1-0",
+        "date": "2022-06-08",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_happy_birthday_to_yu_06_08_22_r5t.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 360,
+        "solved_count": 10329,
+        "parsed": {
+            "moves": [
+                "cxd5",
+                "Bxf1",
+                "Bf6",
+                "Bxg2",
+                "Bxg7",
+                "Bxe4",
+                "Bxh8",
+                "Bxh1",
+                "Rxh1",
+                "1-0"
+            ],
+            "raw": "14.cxd5 Bxf1 15.Bf6 Bxg2 16.Bxg7 Bxe4 17.Bxh8 Bxh1 18.Rxh1 1-0",
+            "event": "2nd Indonesia Open",
+            "site": "Jakarta INA",
+            "date": "2012.10.15",
+            "round": "6.1",
+            "white": "Yu Yangyi",
+            "black": "Ganguly, S.",
+            "result": "1-0",
+            "whiteelo": "2651",
+            "blackelo": "2610",
+            "eco": "C45",
+            "eventdate": "2012.10.11",
+            "plycount": "29",
+            "eventtype": "swiss",
+            "eventrounds": "9",
+            "eventcountry": "INA",
+            "sourcedate": "2012.10.22",
+            "fen": "r3k2r/p1pp1pb1/b1p3pp/3nP1B1/2P1N3/8/PP1K1PPP/R4B1R w kq - 0 14"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r3k2r/p1pp1pb1/b1p3pp/3nP1B1/2P1N3/8/PP1K1PPP/R4B1R w kq - 0 14"
+    },
+    {
+        "id": 10915,
+        "title": "Boleslavsky's Piece Harmony",
+        "pgn": "[Site \"URS\"]\r\n[Date \"1967.??.??\"]\r\n[Round \"?\"]\r\n[White \"Boleslavsky Isaac (RUS)\"]\r\n[Black \"Dzindzichashvili Roman (USA)\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2560\"]\r\n[BlackElo \"2542\"]\r\n[ECO \"D29\"]\r\n[FEN \"7r/1qr1nNp1/p1k4p/1pB5/4P1Q1/8/PP3PPP/6K1 w - - 3 25\"]\r\n\r\n25.Qe6+ Kxc5 26.Qd6+ Kc4 27.Ne5# 1-0",
+        "date": "2022-06-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_boleslavsky's_piece_harmony_06_09_22_y1s.mp4.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 331,
+        "solved_count": 10235,
+        "parsed": {
+            "moves": [
+                "Qe6+",
+                "Kxc5",
+                "Qd6+",
+                "Kc4",
+                "Ne5#",
+                "1-0"
+            ],
+            "raw": "25.Qe6+ Kxc5 26.Qd6+ Kc4 27.Ne5# 1-0",
+            "site": "URS",
+            "date": "1967.??.??",
+            "round": "?",
+            "white": "Boleslavsky Isaac (RUS)",
+            "black": "Dzindzichashvili Roman (USA)",
+            "result": "1-0",
+            "whiteelo": "2560",
+            "blackelo": "2542",
+            "eco": "D29",
+            "fen": "7r/1qr1nNp1/p1k4p/1pB5/4P1Q1/8/PP3PPP/6K1 w - - 3 25"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7r/1qr1nNp1/p1k4p/1pB5/4P1Q1/8/PP3PPP/6K1 w - - 3 25"
+    },
+    {
+        "id": 10921,
+        "title": "Resolute Play",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2rr2k1/pp2qppp/4b3/2p5/3n4/P3RNPB/1P3P1P/2R1Q1K1 w - - 0 1\"]\r\n\r\n1.Nxd4 cxd4 2.Rxe6 Rxc1 3.Rxe7 Rxe1+ 4.Rxe1 *",
+        "date": "2022-06-10",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_resolute_play_06_10_22_d3a.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 305,
+        "solved_count": 10217,
+        "parsed": {
+            "moves": [
+                "Nxd4",
+                "cxd4",
+                "Rxe6",
+                "Rxc1",
+                "Rxe7",
+                "Rxe1+",
+                "Rxe1"
+            ],
+            "raw": "1.Nxd4 cxd4 2.Rxe6 Rxc1 3.Rxe7 Rxe1+ 4.Rxe1 *",
+            "result": "*",
+            "fen": "2rr2k1/pp2qppp/4b3/2p5/3n4/P3RNPB/1P3P1P/2R1Q1K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2rr2k1/pp2qppp/4b3/2p5/3n4/P3RNPB/1P3P1P/2R1Q1K1 w - - 0 1"
+    },
+    {
+        "id": 10919,
+        "title": "Rinck Shrinks the Board",
+        "pgn": "[Date \"1922.??.??\"]\r\n[Round \"?\"]\r\n[White \"Rinck\"]\r\n[Black \"Study - Win\"]\r\n[Result \"*\"]\r\n[FEN \"4B3/8/2K5/8/r2pk3/p7/8/6R1 w - - 0 1\"]\r\n\r\n1.Kb5 Ra7 2.Kb6 Re7 3.Re1+ Kd3 4.Rxe7 *",
+        "date": "2022-06-11",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_rinck_shrinks_the_board_06_11_22_x10h.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 387,
+        "solved_count": 10132,
+        "parsed": {
+            "moves": [
+                "Kb5",
+                "Ra7",
+                "Kb6",
+                "Re7",
+                "Re1+",
+                "Kd3",
+                "Rxe7"
+            ],
+            "raw": "1.Kb5 Ra7 2.Kb6 Re7 3.Re1+ Kd3 4.Rxe7 *",
+            "date": "1922.??.??",
+            "round": "?",
+            "white": "Rinck",
+            "black": "Study - Win",
+            "result": "*",
+            "fen": "4B3/8/2K5/8/r2pk3/p7/8/6R1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4B3/8/2K5/8/r2pk3/p7/8/6R1 w - - 0 1"
+    },
+    {
+        "id": 10901,
+        "title": "When Pawns Take the Day Off",
+        "pgn": "[White \"Sam Copeland\"]\r\n[Black \"Mate in 11 Modification\"]\r\n[Result \"1-0\"]\r\n[SetUp \"1\"]\r\n[FEN \"3N1qk1/6pp/5p2/3p4/1R6/2p1R1Q1/K7/2r2r2 w - - 0 1\"]\r\n\r\n1. Qxg7+ Kxg7 2. Rg3+ Kh8 3. Nf7+ Qxf7 4. Rb8+ Qe8 5. Rxe8# 1-0",
+        "date": "2022-06-12",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_when_pawns_take_the_day_off_06_12_22_l3a.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 381,
+        "solved_count": 10314,
+        "parsed": {
+            "moves": [
+                "Qxg7+",
+                "Kxg7",
+                "Rg3+",
+                "Kh8",
+                "Nf7+",
+                "Qxf7",
+                "Rb8+",
+                "Qe8",
+                "Rxe8#",
+                "1-0"
+            ],
+            "raw": "1. Qxg7+ Kxg7 2. Rg3+ Kh8 3. Nf7+ Qxf7 4. Rb8+ Qe8 5. Rxe8# 1-0",
+            "white": "Sam Copeland",
+            "black": "Mate in 11 Modification",
+            "result": "1-0",
+            "setup": "1",
+            "fen": "3N1qk1/6pp/5p2/3p4/1R6/2p1R1Q1/K7/2r2r2 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3N1qk1/6pp/5p2/3p4/1R6/2p1R1Q1/K7/2r2r2 w - - 0 1"
+    },
+    {
+        "id": 10925,
+        "title": "Top of the Class",
+        "pgn": "[Event \"It (open)\"]\r\n[Site \"St. Cugat (Spain)\"]\r\n[Date \"1992.??.??\"]\r\n[Round \"?\"]\r\n[White \"Topalov Veselin (BUL)\"]\r\n[Black \"Glavina Pablo (ARG)\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2520\"]\r\n[BlackElo \"2447\"]\r\n[FEN \"8/8/8/pp1p2k1/6P1/4R1KP/6N1/6q1 w - - 0 59\"]\r\n\r\n59.Re6 Qd4 60.h4# 1-0",
+        "date": "2022-06-13",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_top_of_the_class_06_13_22_g7n.mp4.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 343,
+        "solved_count": 10125,
+        "parsed": {
+            "moves": [
+                "Re6",
+                "Qd4",
+                "h4#",
+                "1-0"
+            ],
+            "raw": "59.Re6 Qd4 60.h4# 1-0",
+            "event": "It (open)",
+            "site": "St. Cugat (Spain)",
+            "date": "1992.??.??",
+            "round": "?",
+            "white": "Topalov Veselin (BUL)",
+            "black": "Glavina Pablo (ARG)",
+            "result": "1-0",
+            "whiteelo": "2520",
+            "blackelo": "2447",
+            "fen": "8/8/8/pp1p2k1/6P1/4R1KP/6N1/6q1 w - - 0 59"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/8/pp1p2k1/6P1/4R1KP/6N1/6q1 w - - 0 59"
+    },
+    {
+        "id": 10927,
+        "title": "Onward!",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/2p3b1/2k1npp1/pp2Br1p/3P4/5N1P/P5PK/3R4 w - - 0 1\"]\r\n\r\n1.d5+ Kb6 2.dxe6 fxe5 3.e7 *",
+        "date": "2022-06-14",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_onward!_06_14_22_t8t.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 366,
+        "solved_count": 10059,
+        "parsed": {
+            "moves": [
+                "d5+",
+                "Kb6",
+                "dxe6",
+                "fxe5",
+                "e7"
+            ],
+            "raw": "1.d5+ Kb6 2.dxe6 fxe5 3.e7 *",
+            "result": "*",
+            "fen": "8/2p3b1/2k1npp1/pp2Br1p/3P4/5N1P/P5PK/3R4 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/2p3b1/2k1npp1/pp2Br1p/3P4/5N1P/P5PK/3R4 w - - 0 1"
+    },
+    {
+        "id": 10923,
+        "title": "It's Lonely at the Top",
+        "pgn": "[Event \"Belgrade Invest\"]\r\n[Site \"Belgrade\"]\r\n[Date \"1995.??.??\"]\r\n[Round \"6\"]\r\n[White \"Topalov, Veselin\"]\r\n[Black \"Kramnik, Vladimir\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"2630\"]\r\n[BlackElo \"2715\"]\r\n[FEN \"2r1k3/5pbp/p3P1p1/1pB5/1K6/1N1B2n1/PqP5/R3Q3 b - - 2 38\"]\r\n\r\n38...Bc3+ 39.Qxc3 a5+ 40.Kxb5 Qxc3 *",
+        "date": "2022-06-15",
+        "video": {
+            "url": "https://chesscom-videos.s3.amazonaws.com/videos/square/DP_it's_lonely_at_the_top_06_15_22_j9n_1.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 280,
+        "solved_count": 10027,
+        "parsed": {
+            "moves": [
+                "Bc3+",
+                "Qxc3",
+                "a5+",
+                "Kxb5",
+                "Qxc3"
+            ],
+            "raw": "38...Bc3+ 39.Qxc3 a5+ 40.Kxb5 Qxc3 *",
+            "event": "Belgrade Invest",
+            "site": "Belgrade",
+            "date": "1995.??.??",
+            "round": "6",
+            "white": "Topalov, Veselin",
+            "black": "Kramnik, Vladimir",
+            "result": "0-1",
+            "whiteelo": "2630",
+            "blackelo": "2715",
+            "fen": "2r1k3/5pbp/p3P1p1/1pB5/1K6/1N1B2n1/PqP5/R3Q3 b - - 2 38"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r1k3/5pbp/p3P1p1/1pB5/1K6/1N1B2n1/PqP5/R3Q3 b - - 2 38"
+    },
+    {
+        "id": 10903,
+        "title": "Aronian's Fingerprints",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2r3k1/pp3p1p/1n2b3/4P3/3KPp2/1N1B4/PP4PP/7R b - - 0 1\"]\r\n\r\n1...Na4 2.Bb5 Rd8+ 3.Bd7 Rxd7# *",
+        "date": "2022-06-16",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_aronian's_fingerprints_06_16_22_d9t.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 376,
+        "solved_count": 10016,
+        "parsed": {
+            "moves": [
+                "Na4",
+                "Bb5",
+                "Rd8+",
+                "Bd7",
+                "Rxd7#"
+            ],
+            "raw": "1...Na4 2.Bb5 Rd8+ 3.Bd7 Rxd7# *",
+            "result": "*",
+            "fen": "2r3k1/pp3p1p/1n2b3/4P3/3KPp2/1N1B4/PP4PP/7R b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r3k1/pp3p1p/1n2b3/4P3/3KPp2/1N1B4/PP4PP/7R b - - 0 1"
+    },
+    {
+        "id": 10929,
+        "title": "Svidler Blows Out the Candles",
+        "pgn": "[Event \"Olympiad\"]\r\n[Site \"Bled (Slovenia)\"]\r\n[Date \"2002.??.??\"]\r\n[Round \"11\"]\r\n[White \"Svidler Peter (RUS)\"]\r\n[Black \"Bischoff Klaus (GER)\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"2693\"]\r\n[BlackElo \"2564\"]\r\n[FEN \"6rk/1bq1b2p/3pp1pQ/r3n3/4PN2/2B5/PP2B2P/1K1R2R1 w - - 0 32\"]\r\n\r\n32.Nxg6+ Rxg6 33.Rxg6 Bxe4+ 34.Bd3 Bxg6 35.Bxg6 Bf6 36.Qf8# 1-0",
+        "date": "2022-06-17",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_svidler_blows_out_the_candles_06_17_22_o4c.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 356,
+        "solved_count": 10003,
+        "parsed": {
+            "moves": [
+                "Nxg6+",
+                "Rxg6",
+                "Rxg6",
+                "Bxe4+",
+                "Bd3",
+                "Bxg6",
+                "Bxg6",
+                "Bf6",
+                "Qf8#",
+                "1-0"
+            ],
+            "raw": "32.Nxg6+ Rxg6 33.Rxg6 Bxe4+ 34.Bd3 Bxg6 35.Bxg6 Bf6 36.Qf8# 1-0",
+            "event": "Olympiad",
+            "site": "Bled (Slovenia)",
+            "date": "2002.??.??",
+            "round": "11",
+            "white": "Svidler Peter (RUS)",
+            "black": "Bischoff Klaus (GER)",
+            "result": "1-0",
+            "whiteelo": "2693",
+            "blackelo": "2564",
+            "fen": "6rk/1bq1b2p/3pp1pQ/r3n3/4PN2/2B5/PP2B2P/1K1R2R1 w - - 0 32"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6rk/1bq1b2p/3pp1pQ/r3n3/4PN2/2B5/PP2B2P/1K1R2R1 w - - 0 32"
+    },
+    {
+        "id": 10931,
+        "title": "Firouzja's Fireworks",
+        "pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2020.06.08\"]\r\n[White \"Firouzja2003\"]\r\n[Black \"DanielNaroditsky\"]\r\n[Result \"1-0\"]\r\n[WhiteElo \"3175\"]\r\n[BlackElo \"3159\"]\r\n[ECO \"B23\"]\r\n[EventDate \"2020.??.??\"]\r\n[SetUp \"1\"]\r\n[PlyCount \"5\"]\r\n[TimeControl \"30\"]\r\n[FEN \"7k/p2b1p1p/3p1npQ/8/1p2PNP1/5P1R/PP2RK2/2rq4 w - - 0 30\"]\r\n\r\n30.Qf8+ Ng8 31.Rxh7+ Kxh7 32.Qxf7+ Kh8 33.Nxg6# 1-0",
+        "date": "2022-06-18",
+        "video": [],
+        "comment_count": 323,
+        "solved_count": 10040,
+        "parsed": {
+            "moves": [
+                "Qf8+",
+                "Ng8",
+                "Rxh7+",
+                "Kxh7",
+                "Qxf7+",
+                "Kh8",
+                "Nxg6#",
+                "1-0"
+            ],
+            "raw": "30.Qf8+ Ng8 31.Rxh7+ Kxh7 32.Qxf7+ Kh8 33.Nxg6# 1-0",
+            "event": "Live Chess",
+            "site": "Chess.com",
+            "date": "2020.06.08",
+            "white": "Firouzja2003",
+            "black": "DanielNaroditsky",
+            "result": "1-0",
+            "whiteelo": "3175",
+            "blackelo": "3159",
+            "eco": "B23",
+            "eventdate": "2020.??.??",
+            "setup": "1",
+            "plycount": "5",
+            "timecontrol": "30",
+            "fen": "7k/p2b1p1p/3p1npQ/8/1p2PNP1/5P1R/PP2RK2/2rq4 w - - 0 30"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7k/p2b1p1p/3p1npQ/8/1p2PNP1/5P1R/PP2RK2/2rq4 w - - 0 30"
+    },
+    {
+        "id": 10917,
+        "title": "Calculate Like Bondarevsky",
+        "pgn": "[Event \"Ch URS\"]\r\n[Site \"Leningrad (Russia)\"]\r\n[Date \"1936.??.??\"]\r\n[Round \"?\"]\r\n[White \"Kotov Alexander A (RUS)\"]\r\n[Black \"Bondarevsky Igor Z (RUS)\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"2500\"]\r\n[ECO \"A90\"]\r\n[FEN \"r1b3k1/pp1n3p/2pbp3/3pNpP1/2PBn2q/1P1NKP2/P1Q1P1B1/R5R1 b - - 2 23\"]\r\n\r\n23...f4+ 24.Nxf4 Qf2+ 25.Kd3 Qxd4+ 26.Kxd4 Bc5+ 27.Kd3 Nxe5# 0-1",
+        "date": "2022-06-19",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_calculate_like_bondarevsky__06_19_22_q3k.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 497,
+        "solved_count": 10156,
+        "parsed": {
+            "moves": [
+                "f4+",
+                "Nxf4",
+                "Qf2+",
+                "Kd3",
+                "Qxd4+",
+                "Kxd4",
+                "Bc5+",
+                "Kd3",
+                "Nxe5#",
+                "0-1"
+            ],
+            "raw": "23...f4+ 24.Nxf4 Qf2+ 25.Kd3 Qxd4+ 26.Kxd4 Bc5+ 27.Kd3 Nxe5# 0-1",
+            "event": "Ch URS",
+            "site": "Leningrad (Russia)",
+            "date": "1936.??.??",
+            "round": "?",
+            "white": "Kotov Alexander A (RUS)",
+            "black": "Bondarevsky Igor Z (RUS)",
+            "result": "0-1",
+            "whiteelo": "2500",
+            "eco": "A90",
+            "fen": "r1b3k1/pp1n3p/2pbp3/3pNpP1/2PBn2q/1P1NKP2/P1Q1P1B1/R5R1 b - - 2 23"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b3k1/pp1n3p/2pbp3/3pNpP1/2PBn2q/1P1NKP2/P1Q1P1B1/R5R1 b - - 2 23"
+    },
+    {
+        "id": 10933,
+        "title": "Reading Tactical Signals",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3r4/2q3kp/1r3p2/1pN2R2/1P4n1/8/1Q4PP/5R1K w - - 0 1\"]\r\n\r\n1. Rg5+ Kh8 2. Rxg4 *",
+        "date": "2022-06-20",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_reading_tactical_signs_06_20_22_i4a.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 392,
+        "solved_count": 10079,
+        "parsed": {
+            "moves": [
+                "Rg5+",
+                "Kh8",
+                "Rxg4"
+            ],
+            "raw": "1. Rg5+ Kh8 2. Rxg4 *",
+            "result": "*",
+            "fen": "3r4/2q3kp/1r3p2/1pN2R2/1P4n1/8/1Q4PP/5R1K w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r4/2q3kp/1r3p2/1pN2R2/1P4n1/8/1Q4PP/5R1K w - - 0 1"
+    },
+    {
+        "id": 10935,
+        "title": "Immortal Inspiration",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r1b1k1nr/p2p1ppp/n2B4/1p1NPN1P/6P1/3P1Q2/PqP1K3/6b1 w kq - 0 20\"]\r\n\r\n 20. Nxg7+ Kd8 21. Qf6+ Nxf6 22. Be7# *",
+        "date": "2022-06-21",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_immortal_inspiration_06_21_22_u4m.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 442,
+        "solved_count": 9992,
+        "parsed": {
+            "moves": [
+                "Nxg7+",
+                "Kd8",
+                "Qf6+",
+                "Nxf6",
+                "Be7#"
+            ],
+            "raw": "20. Nxg7+ Kd8 21. Qf6+ Nxf6 22. Be7# *",
+            "result": "*",
+            "fen": "r1b1k1nr/p2p1ppp/n2B4/1p1NPN1P/6P1/3P1Q2/PqP1K3/6b1 w kq - 0 20"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b1k1nr/p2p1ppp/n2B4/1p1NPN1P/6P1/3P1Q2/PqP1K3/6b1 w kq - 0 20"
+    },
+    {
+        "id": 10939,
+        "title": "Morphy's Blindfold Magic",
+        "pgn": "[Event \"Morphy 12th birthday blindfold \"]\r\n[Site \"New Orleans\"]\r\n[Date \"1849.06.22\"]\r\n[White \"Morphy, Paul\"]\r\n[Black \"Rousseau, Eugene\"]\r\n[Result \"1-0\"]\r\n[FEN \"rnbk1bBr/pp6/2p4p/2qp4/5pQP/2N5/PPPP2P1/R1BKR3 w - - 0 14\"]\r\n\r\n14. Re8+ Kxe8 15. Qxc8+ Ke7 16. Nxd5+ Qxd5 17. Bxd5 1-0",
+        "date": "2022-06-22",
+        "video": [],
+        "comment_count": 390,
+        "solved_count": 9917,
+        "parsed": {
+            "moves": [
+                "Re8+",
+                "Kxe8",
+                "Qxc8+",
+                "Ke7",
+                "Nxd5+",
+                "Qxd5",
+                "Bxd5",
+                "1-0"
+            ],
+            "raw": "14. Re8+ Kxe8 15. Qxc8+ Ke7 16. Nxd5+ Qxd5 17. Bxd5 1-0",
+            "event": "Morphy 12th birthday blindfold ",
+            "site": "New Orleans",
+            "date": "1849.06.22",
+            "white": "Morphy, Paul",
+            "black": "Rousseau, Eugene",
+            "result": "1-0",
+            "fen": "rnbk1bBr/pp6/2p4p/2qp4/5pQP/2N5/PPPP2P1/R1BKR3 w - - 0 14"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=rnbk1bBr/pp6/2p4p/2qp4/5pQP/2N5/PPPP2P1/R1BKR3 w - - 0 14"
+    },
+    {
+        "id": 10943,
+        "title": "Double Attack Delight",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2kq3r/pbpp3p/1p2pBr1/n7/3P4/3B4/PPPN2PP/RN1Q1RK1 b - - 0 1\"]\r\n\r\n1... Rxg2+ 2. Kh1 Rxd2+ 3. Qf3 Bxf3+ *",
+        "date": "2022-06-23",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_double_attack_delight_06_23_22_j2i.mp4.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 437,
+        "solved_count": 9990,
+        "parsed": {
+            "moves": [
+                "Rxg2+",
+                "Kh1",
+                "Rxd2+",
+                "Qf3",
+                "Bxf3+"
+            ],
+            "raw": "1... Rxg2+ 2. Kh1 Rxd2+ 3. Qf3 Bxf3+ *",
+            "result": "*",
+            "fen": "2kq3r/pbpp3p/1p2pBr1/n7/3P4/3B4/PPPN2PP/RN1Q1RK1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2kq3r/pbpp3p/1p2pBr1/n7/3P4/3B4/PPPN2PP/RN1Q1RK1 b - - 0 1"
+    },
+    {
+        "id": 10945,
+        "title": "Gelfand on the Attack",
+        "pgn": "[Event \"Debrecen\"]\r\n[Site \"Debrecen\"]\r\n[Date \"1989.??.??\"]\r\n[Round \"?\"]\r\n[White \"Gelfand, Boris\"]\r\n[Black \"Ftacnik, Lubomir\"]\r\n[Result \"1-0\"]\r\n[ECO \"D85\"]\r\n[WhiteElo \"2600\"]\r\n[BlackElo \"2550\"]\r\n[SetUp \"1\"]\r\n[FEN \"r1b3k1/p7/1p1q2B1/2pP4/2P4p/6R1/PB4PK/5R2 w - - 0 35\"]\r\n\r\n35. Bh7+ Kxh7 36. Rf7+ Kh6 37. Bc1+ *",
+        "date": "2022-06-24",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_gelfand_on_the_attack_06_24_22_f1k.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 458,
+        "solved_count": 9971,
+        "parsed": {
+            "moves": [
+                "Bh7+",
+                "Kxh7",
+                "Rf7+",
+                "Kh6",
+                "Bc1+"
+            ],
+            "raw": "35. Bh7+ Kxh7 36. Rf7+ Kh6 37. Bc1+ *",
+            "event": "Debrecen",
+            "site": "Debrecen",
+            "date": "1989.??.??",
+            "round": "?",
+            "white": "Gelfand, Boris",
+            "black": "Ftacnik, Lubomir",
+            "result": "1-0",
+            "eco": "D85",
+            "whiteelo": "2600",
+            "blackelo": "2550",
+            "setup": "1",
+            "fen": "r1b3k1/p7/1p1q2B1/2pP4/2P4p/6R1/PB4PK/5R2 w - - 0 35"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b3k1/p7/1p1q2B1/2pP4/2P4p/6R1/PB4PK/5R2 w - - 0 35"
+    },
+    {
+        "id": 10995,
+        "title": "Candidate Highlight: Hikaru Forces Mate",
+        "pgn": "[Event \"PWC Toronto Open\"]\r\n[Site \"Toronto CAN\"]\r\n[Date \"2009.04.19\"]\r\n[Round \"5\"]\r\n[White \"Hikaru Nakamura\"]\r\n[Black \"Michael Barron\"]\r\n[Result \"1-0\"]\r\n[ECO \"A85\"]\r\n[WhiteElo \"2701\"]\r\n[BlackElo \"2252\"]\r\n[SetUp \"1\"]\r\n[FEN \"r1bQ3r/pp2RN1p/3p2q1/3P3k/1nP5/5N2/PP3PP1/2K2B2 w - - 0 23\"]\r\n[PlyCount \"3\"]\r\n[EventDate \"2009.04.17\"]\r\n\r\n23. Re5+ dxe5 24. Qh4# 1-0",
+        "date": "2022-06-25",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_candidate_highlight_hikaru_forces_mate_06_25_22_j6n.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 372,
+        "solved_count": 9997,
+        "parsed": {
+            "moves": [
+                "Re5+",
+                "dxe5",
+                "Qh4#",
+                "1-0"
+            ],
+            "raw": "23. Re5+ dxe5 24. Qh4# 1-0",
+            "event": "PWC Toronto Open",
+            "site": "Toronto CAN",
+            "date": "2009.04.19",
+            "round": "5",
+            "white": "Hikaru Nakamura",
+            "black": "Michael Barron",
+            "result": "1-0",
+            "eco": "A85",
+            "whiteelo": "2701",
+            "blackelo": "2252",
+            "setup": "1",
+            "fen": "r1bQ3r/pp2RN1p/3p2q1/3P3k/1nP5/5N2/PP3PP1/2K2B2 w - - 0 23",
+            "plycount": "3",
+            "eventdate": "2009.04.17"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1bQ3r/pp2RN1p/3p2q1/3P3k/1nP5/5N2/PP3PP1/2K2B2 w - - 0 23"
+    },
+    {
+        "id": 10997,
+        "title": "Candidate Highlight: Radjabov's Clutch Move",
+        "pgn": "[Event \"RUS-The World\"]\r\n[Site \"Moscow\"]\r\n[Date \"2002.09.11\"]\r\n[Round \"10\"]\r\n[White \"Radjabov, Teimour(Game Variation)\"]\r\n[Black \"Zvjaginsev, Vadim\"]\r\n[Result \"1-0\"]\r\n[ECO \"D05\"]\r\n[WhiteElo \"2610\"]\r\n[BlackElo \"2673\"]\r\n[SetUp \"1\"]\r\n[FEN \"2b3r1/4k1pR/2p1p1B1/1p4P1/3R1P2/qr2P3/3QK2P/8 w - - 0 36\"]\r\n\r\n36. Rd8 Rb2 37. Rxg7+ Rxg7 38. Re8# 1-0",
+        "date": "2022-06-26",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_candidate_highlight_radjabov's_clutch_move_06_26_22_w3p.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 457,
+        "solved_count": 10346,
+        "parsed": {
+            "moves": [
+                "Rd8",
+                "Rb2",
+                "Rxg7+",
+                "Rxg7",
+                "Re8#",
+                "1-0"
+            ],
+            "raw": "36. Rd8 Rb2 37. Rxg7+ Rxg7 38. Re8# 1-0",
+            "event": "RUS-The World",
+            "site": "Moscow",
+            "date": "2002.09.11",
+            "round": "10",
+            "white": "Radjabov, Teimour(Game Variation)",
+            "black": "Zvjaginsev, Vadim",
+            "result": "1-0",
+            "eco": "D05",
+            "whiteelo": "2610",
+            "blackelo": "2673",
+            "setup": "1",
+            "fen": "2b3r1/4k1pR/2p1p1B1/1p4P1/3R1P2/qr2P3/3QK2P/8 w - - 0 36"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2b3r1/4k1pR/2p1p1B1/1p4P1/3R1P2/qr2P3/3QK2P/8 w - - 0 36"
+    },
+    {
+        "id": 10999,
+        "title": "Candidate Highlight: Duda Seals the Deal",
+        "pgn": "[Event \"POL-chT U19 1st League\"]\r\n[Site \"Suchedniow\"]\r\n[Date \"2010.07.13\"]\r\n[Round \"8\"]\r\n[White \"Duda, Jan Krzysztof\"]\r\n[Black \"Bronsztejn, Wojciech\"]\r\n[Result \"1-0\"]\r\n[ECO \"C13\"]\r\n[WhiteElo \"2175\"]\r\n[BlackElo \"1635\"]\r\n[SetUp \"1\"]\r\n[FEN \"3r1rk1/pp4pp/4pp2/3bN1P1/7R/8/PPP2PP1/2K4R w - - 0 22\"]\r\n\r\n22. Rxh7 fxe5 23. g6 Rxf2 24. Rh8# 1-0",
+        "date": "2022-06-27",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_candidate_highlight_duda_seals_the_deal_06_27_22_b5s.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 367,
+        "solved_count": 10203,
+        "parsed": {
+            "moves": [
+                "Rxh7",
+                "fxe5",
+                "g6",
+                "Rxf2",
+                "Rh8#",
+                "1-0"
+            ],
+            "raw": "22. Rxh7 fxe5 23. g6 Rxf2 24. Rh8# 1-0",
+            "event": "POL-chT U19 1st League",
+            "site": "Suchedniow",
+            "date": "2010.07.13",
+            "round": "8",
+            "white": "Duda, Jan Krzysztof",
+            "black": "Bronsztejn, Wojciech",
+            "result": "1-0",
+            "eco": "C13",
+            "whiteelo": "2175",
+            "blackelo": "1635",
+            "setup": "1",
+            "fen": "3r1rk1/pp4pp/4pp2/3bN1P1/7R/8/PPP2PP1/2K4R w - - 0 22"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r1rk1/pp4pp/4pp2/3bN1P1/7R/8/PPP2PP1/2K4R w - - 0 22"
+    },
+    {
+        "id": 10951,
+        "title": "Candidates Rest Day: Happy Birthday, Anish!",
+        "pgn": "[Event \"Hilversum op\"]\r\n[Site \"Hilversum\"]\r\n[Date \"2008.04.09\"]\r\n[Round \"5\"]\r\n[White \"Giri, Anish\"]\r\n[Black \"Schroer, Marcel\"]\r\n[Result \"1-0\"]\r\n[ECO \"E15\"]\r\n[WhiteElo \"2344\"]\r\n[BlackElo \"2103\"]\r\n[FEN \"1r4k1/2R2pp1/3p1b1p/3Q4/8/1q3NPP/5PK1/8 w - - 0 35\"]\r\n\r\n35. Rc8+ Kh7 36. Qf5+ g6 37. Rxb8 Qxb8 38. Qxf6 *",
+        "date": "2022-06-28",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_happy_birthday,_anish!_06_28_22_f8l.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 358,
+        "solved_count": 10109,
+        "parsed": {
+            "moves": [
+                "Rc8+",
+                "Kh7",
+                "Qf5+",
+                "g6",
+                "Rxb8",
+                "Qxb8",
+                "Qxf6"
+            ],
+            "raw": "35. Rc8+ Kh7 36. Qf5+ g6 37. Rxb8 Qxb8 38. Qxf6 *",
+            "event": "Hilversum op",
+            "site": "Hilversum",
+            "date": "2008.04.09",
+            "round": "5",
+            "white": "Giri, Anish",
+            "black": "Schroer, Marcel",
+            "result": "1-0",
+            "eco": "E15",
+            "whiteelo": "2344",
+            "blackelo": "2103",
+            "fen": "1r4k1/2R2pp1/3p1b1p/3Q4/8/1q3NPP/5PK1/8 w - - 0 35"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r4k1/2R2pp1/3p1b1p/3Q4/8/1q3NPP/5PK1/8 w - - 0 35"
+    },
+    {
+        "id": 11001,
+        "title": "Candidate Highlight: Alireza's Forced Mate",
+        "pgn": "[Event \"Olympiad-43\"]\r\n[Site \"Batumi\"]\r\n[Date \"2018.10.05\"]\r\n[Round \"11.4\"]\r\n[White \"Firouzja, Alireza\"]\r\n[Black \"Quparadze, Giga\"]\r\n[Result \"1-0\"]\r\n[SetUp \"1\"]\r\n[FEN \"r3k1n1/1p4QR/p3q1p1/4pb2/4N3/2P2P2/PP3P2/2K5 w - - 0 28\"]\r\n[ECO \"B42\"]\r\n[WhiteElo \"2582\"]\r\n[BlackElo \"2495\"]\r\n\r\n28. Nd6+ Qxd6 29. Qf7+ Kd8 30. Qxg8+ Qf8 31. Qxf8# 1-0",
+        "date": "2022-06-29",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_candidate_highlight_alireza's_forced_checkmate_06_29_22_p2v.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 361,
+        "solved_count": 10135,
+        "parsed": {
+            "moves": [
+                "Nd6+",
+                "Qxd6",
+                "Qf7+",
+                "Kd8",
+                "Qxg8+",
+                "Qf8",
+                "Qxf8#",
+                "1-0"
+            ],
+            "raw": "28. Nd6+ Qxd6 29. Qf7+ Kd8 30. Qxg8+ Qf8 31. Qxf8# 1-0",
+            "event": "Olympiad-43",
+            "site": "Batumi",
+            "date": "2018.10.05",
+            "round": "11.4",
+            "white": "Firouzja, Alireza",
+            "black": "Quparadze, Giga",
+            "result": "1-0",
+            "setup": "1",
+            "fen": "r3k1n1/1p4QR/p3q1p1/4pb2/4N3/2P2P2/PP3P2/2K5 w - - 0 28",
+            "eco": "B42",
+            "whiteelo": "2582",
+            "blackelo": "2495"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r3k1n1/1p4QR/p3q1p1/4pb2/4N3/2P2P2/PP3P2/2K5 w - - 0 28"
+    },
+    {
+        "id": 11003,
+        "title": "Candidate Highlight: Ding Wins Material",
+        "pgn": "[Event \"zt 3.5\"]\r\n[Site \"Shandong CHN\"]\r\n[Date \"2007.05.03\"]\r\n[Round \"?\"]\r\n[White \"Ding Liren\"]\r\n[Black \"Wang Rui\"]\r\n[Result \"1-0\"]\r\n[SetUp \"1\"]\r\n[FEN \"7r/1pqnkpp1/p1p1p1p1/2Pp3r/3P1P1b/2N1PQ1P/PP1B2P1/2R2K1R w - - 0 19\"]\r\n\r\n19. g3 Bf6 20. g4 R5h7 21. g5 Kf8 22. gxf6 1-0",
+        "date": "2022-06-30",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_candidate_highlight_ding_wins_material_06_30_22_f9m.mp4",
+            "author_id": "004b093e-3b64-11e5-8012-000000000000"
+        },
+        "comment_count": 375,
+        "solved_count": 10501,
+        "parsed": {
+            "moves": [
+                "g3",
+                "Bf6",
+                "g4",
+                "R5h7",
+                "g5",
+                "Kf8",
+                "gxf6",
+                "1-0"
+            ],
+            "raw": "19. g3 Bf6 20. g4 R5h7 21. g5 Kf8 22. gxf6 1-0",
+            "event": "zt 3.5",
+            "site": "Shandong CHN",
+            "date": "2007.05.03",
+            "round": "?",
+            "white": "Ding Liren",
+            "black": "Wang Rui",
+            "result": "1-0",
+            "setup": "1",
+            "fen": "7r/1pqnkpp1/p1p1p1p1/2Pp3r/3P1P1b/2N1PQ1P/PP1B2P1/2R2K1R w - - 0 19"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7r/1pqnkpp1/p1p1p1p1/2Pp3r/3P1P1b/2N1PQ1P/PP1B2P1/2R2K1R w - - 0 19"
+    }
+]

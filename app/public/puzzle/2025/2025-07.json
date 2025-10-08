@@ -1,0 +1,905 @@
+[
+    {
+        "id": 13180,
+        "title": "About That Resign Button...",
+        "pgn": "[Result \"*\"]\r\n[FEN \"R1b4r/3pkprp/2p1p3/1pNPKP2/8/2P4q/8/8 w - - 0 1\"]\r\n\r\n1. d6+ Kd8 2. Nb7+ Ke8 3. Rxc8# *",
+        "date": "2025-07-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-01_About-That-Resign-Button_Fiona-Steil-Antoni_28S.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 859,
+        "solved_count": 1573263,
+        "parsed": {
+            "moves": [
+                "d6+",
+                "Kd8",
+                "Nb7+",
+                "Ke8",
+                "Rxc8#"
+            ],
+            "raw": "1. d6+ Kd8 2. Nb7+ Ke8 3. Rxc8# *",
+            "result": "*",
+            "fen": "R1b4r/3pkprp/2p1p3/1pNPKP2/8/2P4q/8/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=R1b4r/3pkprp/2p1p3/1pNPKP2/8/2P4q/8/8 w - - 0 1"
+    },
+    {
+        "id": 13170,
+        "title": "Clearing the Winning Path",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"Pepe\"]\r\n[Result \"0-1\"]\r\n[FEN \"2r5/p2k4/4b2p/q2pBp1P/2rP4/Pp4RQ/1P4P1/1K5R b - - 0 29\"]\r\n\r\n29... Rc1+ 30. Rxc1 Rxc1+ 31. Kxc1 Qe1# 0-1",
+        "date": "2025-07-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-02_Clearing-the-Winning-Path_Kostya-Kavutskiy_Z32.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 700,
+        "solved_count": 1557286,
+        "parsed": {
+            "moves": [
+                "Rc1+",
+                "Rxc1",
+                "Rxc1+",
+                "Kxc1",
+                "Qe1#",
+                "0-1"
+            ],
+            "raw": "29... Rc1+ 30. Rxc1 Rxc1+ 31. Kxc1 Qe1# 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "Pepe",
+            "result": "0-1",
+            "fen": "2r5/p2k4/4b2p/q2pBp1P/2rP4/Pp4RQ/1P4P1/1K5R b - - 0 29"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r5/p2k4/4b2p/q2pBp1P/2rP4/Pp4RQ/1P4P1/1K5R b - - 0 29"
+    },
+    {
+        "id": 13172,
+        "title": "Hop, Skip, and Checkmate Away",
+        "pgn": "[Result \"1-0\"]\r\n[FEN \"r4rk1/4np1p/2n3p1/q2N1bB1/2PQ3P/p3P3/KP2BP2/6R1 w - - 0 1\"]\r\n\r\n1. Nf6+ Kh8 2. Ng4+ f6 3. Bxf6+ Rxf6 4. Qxf6+ Kg8 5. Nh6# 1-0",
+        "date": "2025-07-03",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-03_Hop-Skip-and-Checkmate-Away_Fiona-Steil-Antoni_4TK.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 847,
+        "solved_count": 1500859,
+        "parsed": {
+            "moves": [
+                "Nf6+",
+                "Kh8",
+                "Ng4+",
+                "f6",
+                "Bxf6+",
+                "Rxf6",
+                "Qxf6+",
+                "Kg8",
+                "Nh6#",
+                "1-0"
+            ],
+            "raw": "1. Nf6+ Kh8 2. Ng4+ f6 3. Bxf6+ Rxf6 4. Qxf6+ Kg8 5. Nh6# 1-0",
+            "result": "1-0",
+            "fen": "r4rk1/4np1p/2n3p1/q2N1bB1/2PQ3P/p3P3/KP2BP2/6R1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r4rk1/4np1p/2n3p1/q2N1bB1/2PQ3P/p3P3/KP2BP2/6R1 w - - 0 1"
+    },
+    {
+        "id": 13154,
+        "title": "Rooks Steal the Show 🎆",
+        "pgn": "[White \"checkmatemaster7\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"7k/5Qbp/6p1/3q4/4RR2/1nr3P1/5PKP/3r4 w - - 3 33\"]\r\n\r\n33. Qxd5 Rxd5 34. Re8+ Bf8 35. Rf7 Rf5 36. Rexf8# 1-0",
+        "date": "2025-07-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-04_Rooks-Steal-the-Show_Fiona-Steil-Antoni_9BR.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 671,
+        "solved_count": 1496711,
+        "parsed": {
+            "moves": [
+                "Qxd5",
+                "Rxd5",
+                "Re8+",
+                "Bf8",
+                "Rf7",
+                "Rf5",
+                "Rexf8#",
+                "1-0"
+            ],
+            "raw": "33. Qxd5 Rxd5 34. Re8+ Bf8 35. Rf7 Rf5 36. Rexf8# 1-0",
+            "white": "checkmatemaster7",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "7k/5Qbp/6p1/3q4/4RR2/1nr3P1/5PKP/3r4 w - - 3 33"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7k/5Qbp/6p1/3q4/4RR2/1nr3P1/5PKP/3r4 w - - 3 33"
+    },
+    {
+        "id": 13176,
+        "title": "Drop It Like It's Mate! 🔥",
+        "pgn": "[Result \"1-0\"]\r\n[FEN \"1rbq1rk1/5p2/p4n1Q/1p4N1/1Pp1R2P/2P5/P1Bb2P1/7K w - - 0 1\"]\r\n\r\n1. Re8 Qxe8 2. Bh7+ Kh8 3. Qxf6# 1-0",
+        "date": "2025-07-05",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-05_Regal-Tilt_Kostya-Kavutskiy_75S.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 650,
+        "solved_count": 1465902,
+        "parsed": {
+            "moves": [
+                "Re8",
+                "Qxe8",
+                "Bh7+",
+                "Kh8",
+                "Qxf6#",
+                "1-0"
+            ],
+            "raw": "1. Re8 Qxe8 2. Bh7+ Kh8 3. Qxf6# 1-0",
+            "result": "1-0",
+            "fen": "1rbq1rk1/5p2/p4n1Q/1p4N1/1Pp1R2P/2P5/P1Bb2P1/7K w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1rbq1rk1/5p2/p4n1Q/1p4N1/1Pp1R2P/2P5/P1Bb2P1/7K w - - 0 1"
+    },
+    {
+        "id": 13174,
+        "title": "Johan's Knight Will Move You",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"Johan's Knight Will Move You\"]\r\n[Result \"0-1\"]\r\n[FEN \"1k5r/2p2ppp/Qp2p2q/2P5/1b1P1n2/3BK2P/2P2PP1/R4R2 b - - 0 25\"]\r\n\r\n25... Nd5+ 26. Ke2 Qd2+ 27. Kf3 Qf4+ 28. Ke2 Nc3+ 29. Ke1 Nb5+ 30. Ke2 Nxd4+ 31.\r\nKd1 Qd2# 0-1",
+        "date": "2025-07-06",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-06_Johans-Knight-Will-Move-You_Dane-Mattson_ORT.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 842,
+        "solved_count": 1467791,
+        "parsed": {
+            "moves": [
+                "Nd5+",
+                "Ke2",
+                "Qd2+",
+                "Kf3",
+                "Qf4+",
+                "Ke2",
+                "Nc3+",
+                "Ke1",
+                "Nb5+",
+                "Ke2",
+                "Nxd4+",
+                "Kd1",
+                "Qd2#",
+                "0-1"
+            ],
+            "raw": "25... Nd5+ 26. Ke2 Qd2+ 27. Kf3 Qf4+ 28. Ke2 Nc3+ 29. Ke1 Nb5+ 30. Ke2 Nxd4+ 31.\r\nKd1 Qd2# 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "Johan's Knight Will Move You",
+            "result": "0-1",
+            "fen": "1k5r/2p2ppp/Qp2p2q/2P5/1b1P1n2/3BK2P/2P2PP1/R4R2 b - - 0 25"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1k5r/2p2ppp/Qp2p2q/2P5/1b1P1n2/3BK2P/2P2PP1/R4R2 b - - 0 25"
+    },
+    {
+        "id": 13158,
+        "title": "Pawn & Bishop Inspire the Queen",
+        "pgn": "[Result \"*\"]\r\n[FEN \"1r1q4/3k4/p3p3/1pQP1p1B/5p2/8/1r6/5K2 w - - 0 1\"]\r\n\r\n1. Qc6+ Ke7 2. Qxe6+ Kf8 3. Qf7# *",
+        "date": "2025-07-07",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-06-16_Pawn-and-Bishop-Assist-the-Queen_Dane-Mattson_DVN.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 783,
+        "solved_count": 1552012,
+        "parsed": {
+            "moves": [
+                "Qc6+",
+                "Ke7",
+                "Qxe6+",
+                "Kf8",
+                "Qf7#"
+            ],
+            "raw": "1. Qc6+ Ke7 2. Qxe6+ Kf8 3. Qf7# *",
+            "result": "*",
+            "fen": "1r1q4/3k4/p3p3/1pQP1p1B/5p2/8/1r6/5K2 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r1q4/3k4/p3p3/1pQP1p1B/5p2/8/1r6/5K2 w - - 0 1"
+    },
+    {
+        "id": 13178,
+        "title": "Tactical Rewind",
+        "pgn": "[White \"chesstiger787\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"5B2/pp5p/5kp1/2n3N1/2Nb4/1P1p3P/P1b2PP1/5K2 w - - 5 29\"]\r\n\r\n29. Bxc5 Bxc5 30. Ne4+ Kf5 31. Nxc5 1-0",
+        "date": "2025-07-08",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-08_Tactical-Rewind_Fiona-Steil-Antoni_EZE.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 533,
+        "solved_count": 1514780,
+        "parsed": {
+            "moves": [
+                "Bxc5",
+                "Bxc5",
+                "Ne4+",
+                "Kf5",
+                "Nxc5",
+                "1-0"
+            ],
+            "raw": "29. Bxc5 Bxc5 30. Ne4+ Kf5 31. Nxc5 1-0",
+            "white": "chesstiger787",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "5B2/pp5p/5kp1/2n3N1/2Nb4/1P1p3P/P1b2PP1/5K2 w - - 5 29"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5B2/pp5p/5kp1/2n3N1/2Nb4/1P1p3P/P1b2PP1/5K2 w - - 5 29"
+    },
+    {
+        "id": 13134,
+        "title": "A Winning Piece Circle",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"JohanVA\"]\r\n[Result \"0-1\"]\r\n[FEN \"2r3k1/5npp/p7/1q6/2nQ3P/8/PB2B1P1/1K3R2 b - - 0 1\"]\r\n\r\n1... Na3+ 2. Ka1 Nc2+ 3. Kb1 Nxd4 4. Bxb5 Nxb5 0-1",
+        "date": "2025-07-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-09_A-Winning-Piece-Circle_Fiona-Steil-Antoni_NF1.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 598,
+        "solved_count": 1525952,
+        "parsed": {
+            "moves": [
+                "Na3+",
+                "Ka1",
+                "Nc2+",
+                "Kb1",
+                "Nxd4",
+                "Bxb5",
+                "Nxb5",
+                "0-1"
+            ],
+            "raw": "1... Na3+ 2. Ka1 Nc2+ 3. Kb1 Nxd4 4. Bxb5 Nxb5 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "JohanVA",
+            "result": "0-1",
+            "fen": "2r3k1/5npp/p7/1q6/2nQ3P/8/PB2B1P1/1K3R2 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r3k1/5npp/p7/1q6/2nQ3P/8/PB2B1P1/1K3R2 b - - 0 1"
+    },
+    {
+        "id": 13184,
+        "title": "Lightning Shocks the King ⚡",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2r4r/3R4/4ppp1/p2p1k2/Bb1P4/5PB1/2n1K3/7R w - - 0 1\"]\r\n\r\n1. Rxd5+ exd5 2. Bd7+ Kg5 3. f4# *",
+        "date": "2025-07-10",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-10_Look-on-the-Bright-Side_Kostya-Kavutskiy_84G.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 730,
+        "solved_count": 1515016,
+        "parsed": {
+            "moves": [
+                "Rxd5+",
+                "exd5",
+                "Bd7+",
+                "Kg5",
+                "f4#"
+            ],
+            "raw": "1. Rxd5+ exd5 2. Bd7+ Kg5 3. f4# *",
+            "result": "*",
+            "fen": "2r4r/3R4/4ppp1/p2p1k2/Bb1P4/5PB1/2n1K3/7R w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r4r/3R4/4ppp1/p2p1k2/Bb1P4/5PB1/2n1K3/7R w - - 0 1"
+    },
+    {
+        "id": 13186,
+        "title": "Magnetic Playground",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"MagNiels_Carlsen\"]\r\n[Result \"0-1\"]\r\n[FEN \"5rk1/ppq2ppb/2p2p1p/8/2QP1b1N/PBP4P/1P2RPP1/7K b - - 3 21\"]\r\n\r\n21... g5 22. Nf3 b5 23. Qc5 Bd6 24. Qxd6 Qxd6 0-1",
+        "date": "2025-07-11",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-11_A-Tempo-Blocks-the-Road_Fiona-Steil-Antoni_0KH.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 863,
+        "solved_count": 1474880,
+        "parsed": {
+            "moves": [
+                "g5",
+                "Nf3",
+                "b5",
+                "Qc5",
+                "Bd6",
+                "Qxd6",
+                "Qxd6",
+                "0-1"
+            ],
+            "raw": "21... g5 22. Nf3 b5 23. Qc5 Bd6 24. Qxd6 Qxd6 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "MagNiels_Carlsen",
+            "result": "0-1",
+            "fen": "5rk1/ppq2ppb/2p2p1p/8/2QP1b1N/PBP4P/1P2RPP1/7K b - - 3 21"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5rk1/ppq2ppb/2p2p1p/8/2QP1b1N/PBP4P/1P2RPP1/7K b - - 3 21"
+    },
+    {
+        "id": 13188,
+        "title": "Check This Out!",
+        "pgn": "[Result \"*\"]\r\n[FEN \"1r3rk1/5pbp/1qpp4/p2n2Q1/2B5/P5B1/1P1N4/K5R1 w - - 0 1\"]\r\n\r\n1. Qxg7+ Kxg7 2. Be5+ Kh6 3. Bg7+ Kh5 4. Be2+ Kh4 5. Nf3+ Kh3 6. Bf1# *",
+        "date": "2025-07-12",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-12_Check-This-Out_Kostya-Kavutskiy_FZU.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 876,
+        "solved_count": 1478085,
+        "parsed": {
+            "moves": [
+                "Qxg7+",
+                "Kxg7",
+                "Be5+",
+                "Kh6",
+                "Bg7+",
+                "Kh5",
+                "Be2+",
+                "Kh4",
+                "Nf3+",
+                "Kh3",
+                "Bf1#"
+            ],
+            "raw": "1. Qxg7+ Kxg7 2. Be5+ Kh6 3. Bg7+ Kh5 4. Be2+ Kh4 5. Nf3+ Kh3 6. Bf1# *",
+            "result": "*",
+            "fen": "1r3rk1/5pbp/1qpp4/p2n2Q1/2B5/P5B1/1P1N4/K5R1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r3rk1/5pbp/1qpp4/p2n2Q1/2B5/P5B1/1P1N4/K5R1 w - - 0 1"
+    },
+    {
+        "id": 13210,
+        "title": "I've Got You Smothered, Bro",
+        "pgn": "[White \"Jolteon29A / sethwmd\"]\r\n[Black \"Daily Puzzle Collaboration\"]\r\n[Result \"1-0\"]\r\n[FEN \"k1r4q/pp1N4/1nb1N3/4b2r/5Q2/7P/3n2P1/R4RBK w - - 0 1\"]\r\n\r\n1. Rxa7+ Kxa7 2. Bxb6+ Ka8 3. Ra1+ Bxa1 4. Qb8+ Rxb8 5. Nc7# 1-0",
+        "date": "2025-07-13",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-13_Ive-Got-You-Smothered-Bro_Dane-Mattson_PHR.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 869,
+        "solved_count": 1502506,
+        "parsed": {
+            "moves": [
+                "Rxa7+",
+                "Kxa7",
+                "Bxb6+",
+                "Ka8",
+                "Ra1+",
+                "Bxa1",
+                "Qb8+",
+                "Rxb8",
+                "Nc7#",
+                "1-0"
+            ],
+            "raw": "1. Rxa7+ Kxa7 2. Bxb6+ Ka8 3. Ra1+ Bxa1 4. Qb8+ Rxb8 5. Nc7# 1-0",
+            "white": "Jolteon29A / sethwmd",
+            "black": "Daily Puzzle Collaboration",
+            "result": "1-0",
+            "fen": "k1r4q/pp1N4/1nb1N3/4b2r/5Q2/7P/3n2P1/R4RBK w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=k1r4q/pp1N4/1nb1N3/4b2r/5Q2/7P/3n2P1/R4RBK w - - 0 1"
+    },
+    {
+        "id": 13190,
+        "title": "Unwrapping Ian's Birthday Mate 🎁",
+        "pgn": "[Event \"Chess.com Titled Tuesday\"]\r\n[Date \"2024.01.09\"]\r\n[White \"lachesisQ (Rf3 removed), Happy Birthday!\"]\r\n[Black \"GaiozNigalidze\"]\r\n[Result \"1-0\"]\r\n[FEN \"2r1r1k1/3Q1pb1/3p2p1/1p1Np3/4Pn2/1B6/PP3Pq1/1K5R w - - 0 35\"]\r\n\r\n35. Nf6+ Bxf6 36. Qxf7# 1-0",
+        "date": "2025-07-14",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-14_Unwrapping-Ians-Birthday-Mate_Dane-Mattson_N2G.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 848,
+        "solved_count": 1577044,
+        "parsed": {
+            "moves": [
+                "Nf6+",
+                "Bxf6",
+                "Qxf7#",
+                "1-0"
+            ],
+            "raw": "35. Nf6+ Bxf6 36. Qxf7# 1-0",
+            "event": "Chess.com Titled Tuesday",
+            "date": "2024.01.09",
+            "white": "lachesisQ (Rf3 removed), Happy Birthday!",
+            "black": "GaiozNigalidze",
+            "result": "1-0",
+            "fen": "2r1r1k1/3Q1pb1/3p2p1/1p1Np3/4Pn2/1B6/PP3Pq1/1K5R w - - 0 35"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r1r1k1/3Q1pb1/3p2p1/1p1Np3/4Pn2/1B6/PP3Pq1/1K5R w - - 0 35"
+    },
+    {
+        "id": 13198,
+        "title": "Ode to EnPassantFork",
+        "pgn": "[White \"Pepe\"]\r\n[Black \"Ode to EnPassantFork\"]\r\n[Result \"1-0\"]\r\n[FEN \"3n3k/1q2p2p/6bN/3P4/2K5/8/8/6Q1 w - - 0 1\"]\r\n\r\n1. Qd4+ e5 2. dxe6+ Qg7 3. Qxd8+ Qg8 4. Qxg8# 1-0",
+        "date": "2025-07-15",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-15_Ode-to-EnPassantFork_Fiona-Steil-Antoni_RWS.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 949,
+        "solved_count": 1570513,
+        "parsed": {
+            "moves": [
+                "Qd4+",
+                "e5",
+                "dxe6+",
+                "Qg7",
+                "Qxd8+",
+                "Qg8",
+                "Qxg8#",
+                "1-0"
+            ],
+            "raw": "1. Qd4+ e5 2. dxe6+ Qg7 3. Qxd8+ Qg8 4. Qxg8# 1-0",
+            "white": "Pepe",
+            "black": "Ode to EnPassantFork",
+            "result": "1-0",
+            "fen": "3n3k/1q2p2p/6bN/3P4/2K5/8/8/6Q1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3n3k/1q2p2p/6bN/3P4/2K5/8/8/6Q1 w - - 0 1"
+    },
+    {
+        "id": 13182,
+        "title": "Flexing the Best Rook Capture",
+        "pgn": "[Result \"0-1\"]\r\n[FEN \"8/p4p1k/4p1qp/1r4B1/3P3Q/2P2R2/PP4r1/K1N3R1 b - - 0 1\"]\r\n\r\n1... Qb1+ 2. Kxb1 Rgxb2+ 3. Ka1 Rb1# 0-1",
+        "date": "2025-07-16",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-16_Anticipating-the-Best-Rook-Capture_Kostya-Kavutskiy_6UX.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 664,
+        "solved_count": 1571958,
+        "parsed": {
+            "moves": [
+                "Qb1+",
+                "Kxb1",
+                "Rgxb2+",
+                "Ka1",
+                "Rb1#",
+                "0-1"
+            ],
+            "raw": "1... Qb1+ 2. Kxb1 Rgxb2+ 3. Ka1 Rb1# 0-1",
+            "result": "0-1",
+            "fen": "8/p4p1k/4p1qp/1r4B1/3P3Q/2P2R2/PP4r1/K1N3R1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/p4p1k/4p1qp/1r4B1/3P3Q/2P2R2/PP4r1/K1N3R1 b - - 0 1"
+    },
+    {
+        "id": 13192,
+        "title": "Hoppy Trails to You",
+        "pgn": "[Result \"*\"]\r\n[FEN \"6k1/5ppp/p1bq1n2/1p3P2/1P6/2QP1N2/P3R1PP/5n1K b - - 0 1\"]\r\n\r\n1... Qxh2+ 2. Nxh2 Ng3+ 3. Kg1 Nxe2+ 4. Kf1 Nxc3 *",
+        "date": "2025-07-17",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-17_Hoppy-Trails-to-You_Fiona-Steil-Antoni_L8J.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 829,
+        "solved_count": 1552183,
+        "parsed": {
+            "moves": [
+                "Qxh2+",
+                "Nxh2",
+                "Ng3+",
+                "Kg1",
+                "Nxe2+",
+                "Kf1",
+                "Nxc3"
+            ],
+            "raw": "1... Qxh2+ 2. Nxh2 Ng3+ 3. Kg1 Nxe2+ 4. Kf1 Nxc3 *",
+            "result": "*",
+            "fen": "6k1/5ppp/p1bq1n2/1p3P2/1P6/2QP1N2/P3R1PP/5n1K b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/5ppp/p1bq1n2/1p3P2/1P6/2QP1N2/P3R1PP/5n1K b - - 0 1"
+    },
+    {
+        "id": 13208,
+        "title": "Loose Piece Pinball",
+        "pgn": "[White \"EnPassantFork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"5qk1/2n2ppp/5b2/pp1r4/5Q2/PB2R3/3B1PPP/6K1 w - - 0 1\"]\r\n\r\n1. Qxc7 Rxd2 2. Qxf7+ Qxf7 3. Re8# 1-0",
+        "date": "2025-07-18",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-18_Loose-Pieces-Light-Up-the-Drama_Fiona-Steil-Antoni_0PZ.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 658,
+        "solved_count": 1527684,
+        "parsed": {
+            "moves": [
+                "Qxc7",
+                "Rxd2",
+                "Qxf7+",
+                "Qxf7",
+                "Re8#",
+                "1-0"
+            ],
+            "raw": "1. Qxc7 Rxd2 2. Qxf7+ Qxf7 3. Re8# 1-0",
+            "white": "EnPassantFork",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "5qk1/2n2ppp/5b2/pp1r4/5Q2/PB2R3/3B1PPP/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5qk1/2n2ppp/5b2/pp1r4/5Q2/PB2R3/3B1PPP/6K1 w - - 0 1"
+    },
+    {
+        "id": 13214,
+        "title": "King's Magnetic Shadow 🧲",
+        "pgn": "[Result \"*\"]\r\n[FEN \"4k3/pb3p2/4p3/7p/2Pbnqp1/8/P1Q1BPPP/3R1RK1 b - - 0 1\"]\r\n\r\n1... Bxf2+ 2. Kh1 Ng3+ 3. hxg3 Bxg2+ 4. Kxg2 Qxg3+ 5. Kh1 Qh3# *",
+        "date": "2025-07-19",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-19_Riding-the-Checkmate-Wave_Kostya-Kavutskiy_1HE.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 791,
+        "solved_count": 1529160,
+        "parsed": {
+            "moves": [
+                "Bxf2+",
+                "Kh1",
+                "Ng3+",
+                "hxg3",
+                "Bxg2+",
+                "Kxg2",
+                "Qxg3+",
+                "Kh1",
+                "Qh3#"
+            ],
+            "raw": "1... Bxf2+ 2. Kh1 Ng3+ 3. hxg3 Bxg2+ 4. Kxg2 Qxg3+ 5. Kh1 Qh3# *",
+            "result": "*",
+            "fen": "4k3/pb3p2/4p3/7p/2Pbnqp1/8/P1Q1BPPP/3R1RK1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4k3/pb3p2/4p3/7p/2Pbnqp1/8/P1Q1BPPP/3R1RK1 b - - 0 1"
+    },
+    {
+        "id": 13204,
+        "title": "Happy International Chess Day! 🌍",
+        "pgn": "[White \"Pepe\"]\r\n[Black \"Happy International Chess Day\"]\r\n[Result \"0-1\"]\r\n[FEN \"8/8/PN6/8/3k1n2/2p2K2/1n3P2/8 b - - 0 1\"]\r\n\r\n1... Na4 2. Nxa4 c2 3. a7 c1=Q 4. a8=Q Qh1+ 5. Kxf4 Qxa8 0-1",
+        "date": "2025-07-20",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-20_Happy-International-Chess-Day_Dane-Mattson_Y53.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 869,
+        "solved_count": 1514024,
+        "parsed": {
+            "moves": [
+                "Na4",
+                "Nxa4",
+                "c2",
+                "a7",
+                "c1=Q",
+                "a8=Q",
+                "Qh1+",
+                "Kxf4",
+                "Qxa8",
+                "0-1"
+            ],
+            "raw": "1... Na4 2. Nxa4 c2 3. a7 c1=Q 4. a8=Q Qh1+ 5. Kxf4 Qxa8 0-1",
+            "white": "Pepe",
+            "black": "Happy International Chess Day",
+            "result": "0-1",
+            "fen": "8/8/PN6/8/3k1n2/2p2K2/1n3P2/8 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/PN6/8/3k1n2/2p2K2/1n3P2/8 b - - 0 1"
+    },
+    {
+        "id": 13224,
+        "title": "Do the Checkmate Shuffle",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2kr4/8/p1K1P2q/P7/6b1/4N1p1/6Br/1RR5 w - - 0 1\"]\r\n\r\n1. Kb6+ Kb8 2. Kxa6# *",
+        "date": "2025-07-21",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-21_Do-the-Checkmate-Shuffle_Dane-Mattson_7QB.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 885,
+        "solved_count": 1575331,
+        "parsed": {
+            "moves": [
+                "Kb6+",
+                "Kb8",
+                "Kxa6#"
+            ],
+            "raw": "1. Kb6+ Kb8 2. Kxa6# *",
+            "result": "*",
+            "fen": "2kr4/8/p1K1P2q/P7/6b1/4N1p1/6Br/1RR5 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2kr4/8/p1K1P2q/P7/6b1/4N1p1/6Br/1RR5 w - - 0 1"
+    },
+    {
+        "id": 13202,
+        "title": "EnPassantFork Déjà vu",
+        "pgn": "[White \"Fischwitsch\"]\r\n[Black \"Ode to EPF Revisited\"]\r\n[Result \"1-0\"]\r\n[FEN \"3n3k/1b2p2p/6nN/3P4/Q7/6P1/1p4PK/2q5 w - - 0 1\"]\r\n\r\n1. Qd4+ e5 2. dxe6+ Ne5 3. Qxe5# 1-0",
+        "date": "2025-07-22",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-22_Ode-to-EnPassantFork-Deja-vu_Fiona-Steil-Antoni_68U.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 850,
+        "solved_count": 1540286,
+        "parsed": {
+            "moves": [
+                "Qd4+",
+                "e5",
+                "dxe6+",
+                "Ne5",
+                "Qxe5#",
+                "1-0"
+            ],
+            "raw": "1. Qd4+ e5 2. dxe6+ Ne5 3. Qxe5# 1-0",
+            "white": "Fischwitsch",
+            "black": "Ode to EPF Revisited",
+            "result": "1-0",
+            "fen": "3n3k/1b2p2p/6nN/3P4/Q7/6P1/1p4PK/2q5 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3n3k/1b2p2p/6nN/3P4/Q7/6P1/1p4PK/2q5 w - - 0 1"
+    },
+    {
+        "id": 13228,
+        "title": "Judit's Birthday Surprise 🎉",
+        "pgn": "[Event \"Reykjavik op\"]\r\n[Site \"Reykjavik\"]\r\n[Date \"1988.??.??\"]\r\n[White \"Tisdall, Jonathan D\"]\r\n[Black \"Polgar, Judit\"]\r\n[Result \"0-1\"]\r\n[ECO \"B81\"]\r\n[WhiteElo \"2305\"]\r\n[BlackElo \"2510\"]\r\n[FEN \"k7/1p1q1pp1/p2p4/P2P2P1/4R2r/7r/KPP1Q1R1/8 b - - 0 33\"]\r\n\r\n33... Qa4+ 34. Rxa4 Rxa4+ 35. Kb1 Rh1+ 36. Qd1 Rxd1# 0-1",
+        "date": "2025-07-23",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-23_Judits-Birthday-Surprise_Kostya-Kavutskiy_1O6.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 1002,
+        "solved_count": 1549451,
+        "parsed": {
+            "moves": [
+                "Qa4+",
+                "Rxa4",
+                "Rxa4+",
+                "Kb1",
+                "Rh1+",
+                "Qd1",
+                "Rxd1#",
+                "0-1"
+            ],
+            "raw": "33... Qa4+ 34. Rxa4 Rxa4+ 35. Kb1 Rh1+ 36. Qd1 Rxd1# 0-1",
+            "event": "Reykjavik op",
+            "site": "Reykjavik",
+            "date": "1988.??.??",
+            "white": "Tisdall, Jonathan D",
+            "black": "Polgar, Judit",
+            "result": "0-1",
+            "eco": "B81",
+            "whiteelo": "2305",
+            "blackelo": "2510",
+            "fen": "k7/1p1q1pp1/p2p4/P2P2P1/4R2r/7r/KPP1Q1R1/8 b - - 0 33"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=k7/1p1q1pp1/p2p4/P2P2P1/4R2r/7r/KPP1Q1R1/8 b - - 0 33"
+    },
+    {
+        "id": 13196,
+        "title": "Hanging on by a Light Square",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"geelse_zot\"]\r\n[Result \"0-1\"]\r\n[FEN \"3r2k1/q5p1/p7/Npb3Qp/1P3Pn1/P2r3P/1B4P1/1R1N1R1K b - - 0 1\"]\r\n\r\n1... Rxh3+ 2. gxh3 Qa8+ 3. Rf3 Qxf3# 0-1",
+        "date": "2025-07-24",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-24_Hanging-On-by-a-Light-Square_Fiona-Steil-Antoni_CGT.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 722,
+        "solved_count": 1518785,
+        "parsed": {
+            "moves": [
+                "Rxh3+",
+                "gxh3",
+                "Qa8+",
+                "Rf3",
+                "Qxf3#",
+                "0-1"
+            ],
+            "raw": "1... Rxh3+ 2. gxh3 Qa8+ 3. Rf3 Qxf3# 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "geelse_zot",
+            "result": "0-1",
+            "fen": "3r2k1/q5p1/p7/Npb3Qp/1P3Pn1/P2r3P/1B4P1/1R1N1R1K b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r2k1/q5p1/p7/Npb3Qp/1P3Pn1/P2r3P/1B4P1/1R1N1R1K b - - 0 1"
+    },
+    {
+        "id": 13194,
+        "title": "Mating Net Quartet",
+        "pgn": "[White \"kehall41\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"8/2qkp3/rpn1N2R/2Pn4/4P3/3KB2B/p4P2/8 w - - 0 1\"]\r\n\r\n1. Ng7+ e6 2. Bxe6+ Kd8 3. Rh8+ Ke7 4. Bg5+ Nf6 5. Re8# 1-0",
+        "date": "2025-07-25",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-25_Mating-Net-Quartet_Fiona-Steil-Antoni_8QS.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 846,
+        "solved_count": 1506351,
+        "parsed": {
+            "moves": [
+                "Ng7+",
+                "e6",
+                "Bxe6+",
+                "Kd8",
+                "Rh8+",
+                "Ke7",
+                "Bg5+",
+                "Nf6",
+                "Re8#",
+                "1-0"
+            ],
+            "raw": "1. Ng7+ e6 2. Bxe6+ Kd8 3. Rh8+ Ke7 4. Bg5+ Nf6 5. Re8# 1-0",
+            "white": "kehall41",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "8/2qkp3/rpn1N2R/2Pn4/4P3/3KB2B/p4P2/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/2qkp3/rpn1N2R/2Pn4/4P3/3KB2B/p4P2/8 w - - 0 1"
+    },
+    {
+        "id": 13218,
+        "title": "Eye of the Chess Tiger",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"chesstiger787\"]\r\n[Result \"0-1\"]\r\n[FEN \"3r3k/1p5p/r5q1/n1Qpb3/4p3/1PN5/PBP2PPP/3R1RK1 b - - 0 29\"]\r\n\r\n29... Bxh2+ 30. Kxh2 Qxg2+ 31. Kxg2 Rg8+ 32. Kh3 Rh6# 0-1",
+        "date": "2025-07-26",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-26_Eye-of-the-Chess-Tiger_Kostya-Kavutskiy_RJ3.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 737,
+        "solved_count": 1490765,
+        "parsed": {
+            "moves": [
+                "Bxh2+",
+                "Kxh2",
+                "Qxg2+",
+                "Kxg2",
+                "Rg8+",
+                "Kh3",
+                "Rh6#",
+                "0-1"
+            ],
+            "raw": "29... Bxh2+ 30. Kxh2 Qxg2+ 31. Kxg2 Rg8+ 32. Kh3 Rh6# 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "chesstiger787",
+            "result": "0-1",
+            "fen": "3r3k/1p5p/r5q1/n1Qpb3/4p3/1PN5/PBP2PPP/3R1RK1 b - - 0 29"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r3k/1p5p/r5q1/n1Qpb3/4p3/1PN5/PBP2PPP/3R1RK1 b - - 0 29"
+    },
+    {
+        "id": 13212,
+        "title": "Johan's Flying Circus",
+        "pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"r2n1r2/R1P2k1p/2q1pppP/1B1b4/1Q6/2N1n3/1P6/K7 w - - 0 1\"]\r\n\r\n1. Qe7+ Kxe7 2. c8=N+ Ke8 3. Nd6# 1-0",
+        "date": "2025-07-27",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-27_JohansFlyingCircus_Dane-Mattson_FSG.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 1040,
+        "solved_count": 1512872,
+        "parsed": {
+            "moves": [
+                "Qe7+",
+                "Kxe7",
+                "c8=N+",
+                "Ke8",
+                "Nd6#",
+                "1-0"
+            ],
+            "raw": "1. Qe7+ Kxe7 2. c8=N+ Ke8 3. Nd6# 1-0",
+            "white": "JohanVA",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "r2n1r2/R1P2k1p/2q1pppP/1B1b4/1Q6/2N1n3/1P6/K7 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r2n1r2/R1P2k1p/2q1pppP/1B1b4/1Q6/2N1n3/1P6/K7 w - - 0 1"
+    },
+    {
+        "id": 13226,
+        "title": "Hasta la Vista, Queen!",
+        "pgn": "[Result \"*\"]\r\n[FEN \"6k1/5p1p/4b1p1/8/1b1p1P2/Qq1P2P1/1PB1PK1P/8 w - - 0 1\"]\r\n\r\n1. Qa8+ Kg7 2. Bxb3 *",
+        "date": "2025-07-28",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-28_Hasta_la_vista_queen_Dane-Mattson_LGY.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 878,
+        "solved_count": 1597557,
+        "parsed": {
+            "moves": [
+                "Qa8+",
+                "Kg7",
+                "Bxb3"
+            ],
+            "raw": "1. Qa8+ Kg7 2. Bxb3 *",
+            "result": "*",
+            "fen": "6k1/5p1p/4b1p1/8/1b1p1P2/Qq1P2P1/1PB1PK1P/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/5p1p/4b1p1/8/1b1p1P2/Qq1P2P1/1PB1PK1P/8 w - - 0 1"
+    },
+    {
+        "id": 13200,
+        "title": "Leaping into the Mosh Pit",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"Jolteon29A\"]\r\n[Result \"0-1\"]\r\n[FEN \"3r4/1kp2qp1/1p3p2/n6p/1n1P1Q2/P4NP1/1P1N2BP/1K1RR3 b - - 0 1\"]\r\n\r\n1... Qa2+ 2. Kc1 Qa1+ 3. Nb1 Nb3# 0-1",
+        "date": "2025-07-29",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-29_Patient-Knight-Steals-the-Show_Fiona-Steil-Antoni_M2L.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 699,
+        "solved_count": 1587452,
+        "parsed": {
+            "moves": [
+                "Qa2+",
+                "Kc1",
+                "Qa1+",
+                "Nb1",
+                "Nb3#",
+                "0-1"
+            ],
+            "raw": "1... Qa2+ 2. Kc1 Qa1+ 3. Nb1 Nb3# 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "Jolteon29A",
+            "result": "0-1",
+            "fen": "3r4/1kp2qp1/1p3p2/n6p/1n1P1Q2/P4NP1/1P1N2BP/1K1RR3 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r4/1kp2qp1/1p3p2/n6p/1n1P1Q2/P4NP1/1P1N2BP/1K1RR3 b - - 0 1"
+    },
+    {
+        "id": 13230,
+        "title": "Fabi's Birthday Bullet Mate 🥳",
+        "pgn": "[Event \"chess.com Speed 1m+1spm 2017\"]\r\n[Site \"Chess.com INT\"]\r\n[Date \"2017.08.24\"]\r\n[Round \"1.22\"]\r\n[White \"Hou, Yifan\"]\r\n[Black \"Caruana, Fabiano\"]\r\n[Result \"0-1\"]\r\n[ECO \"A07\"]\r\n[WhiteElo \"2652\"]\r\n[BlackElo \"2802\"]\r\n[FEN \"r1b1k2r/pp3p2/2P3p1/4b3/4p3/4N1q1/PP1QPRB1/R2N2K1 b kq - 0 20\"]\r\n\r\n20... Rh1+ 21. Kxh1 Qh2# 0-1",
+        "date": "2025-07-30",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-30_Fabis-Birthday-Bullet-Mate_Kostya-Kavutskiy_DZ0.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 852,
+        "solved_count": 1566149,
+        "parsed": {
+            "moves": [
+                "Rh1+",
+                "Kxh1",
+                "Qh2#",
+                "0-1"
+            ],
+            "raw": "20... Rh1+ 21. Kxh1 Qh2# 0-1",
+            "event": "chess.com Speed 1m+1spm 2017",
+            "site": "Chess.com INT",
+            "date": "2017.08.24",
+            "round": "1.22",
+            "white": "Hou, Yifan",
+            "black": "Caruana, Fabiano",
+            "result": "0-1",
+            "eco": "A07",
+            "whiteelo": "2652",
+            "blackelo": "2802",
+            "fen": "r1b1k2r/pp3p2/2P3p1/4b3/4p3/4N1q1/PP1QPRB1/R2N2K1 b kq - 0 20"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b1k2r/pp3p2/2P3p1/4b3/4p3/4N1q1/PP1QPRB1/R2N2K1 b kq - 0 20"
+    },
+    {
+        "id": 13206,
+        "title": "Fireside Checkmate with Sean",
+        "pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2025.06.02\"]\r\n[White \"genkakimson\"]\r\n[Black \"LudmillaKropotkin\"]\r\n[Result \"0-1\"]\r\n[SetUp \"1\"]\r\n[FEN \"1r6/5p1p/4kp2/2Qp4/2qP4/2P1PP2/PrRK1P1P/7R b - - 0 24\"]\r\n[WhiteElo \"1727\"]\r\n[BlackElo \"1744\"]\r\n\r\n24... Rxc2+ 25. Kxc2 Qe2+ 26. Kc1 Qb2+ 27. Kd1 Qb1+ 28. Kd2 Rb2# 0-1",
+        "date": "2025-07-31",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-07-31_Fireside-Checkmate-with-Sean_Sean-Becker_WN5.mp4",
+            "author_id": "4f8f6f66-2525-11eb-bf70-b3a0f644f758"
+        },
+        "comment_count": 861,
+        "solved_count": 1544311,
+        "parsed": {
+            "moves": [
+                "Rxc2+",
+                "Kxc2",
+                "Qe2+",
+                "Kc1",
+                "Qb2+",
+                "Kd1",
+                "Qb1+",
+                "Kd2",
+                "Rb2#",
+                "0-1"
+            ],
+            "raw": "24... Rxc2+ 25. Kxc2 Qe2+ 26. Kc1 Qb2+ 27. Kd1 Qb1+ 28. Kd2 Rb2# 0-1",
+            "event": "Live Chess",
+            "site": "Chess.com",
+            "date": "2025.06.02",
+            "white": "genkakimson",
+            "black": "LudmillaKropotkin",
+            "result": "0-1",
+            "setup": "1",
+            "fen": "1r6/5p1p/4kp2/2Qp4/2qP4/2P1PP2/PrRK1P1P/7R b - - 0 24",
+            "whiteelo": "1727",
+            "blackelo": "1744"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r6/5p1p/4kp2/2Qp4/2qP4/2P1PP2/PrRK1P1P/7R b - - 0 24"
+    }
+]

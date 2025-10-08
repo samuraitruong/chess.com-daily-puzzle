@@ -4,10 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbo",
+    "prebuild": "node scripts/copy-puzzles.mjs",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "export": "npm run build && next export -o output"
+    "lint": "next lint"
   },
   "dependencies": {
     "@types/node": "^22.7.4",

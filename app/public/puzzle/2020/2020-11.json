@@ -1,0 +1,749 @@
+[
+    {
+        "id": 9696,
+        "title": "Seize the Moment",
+        "pgn": "[Result \"*\"]\r\n[FEN \"1brr3k/1p4pp/p1n2nb1/2q5/3N1N2/P1P4P/1B1QBPP1/R4RK1 b - - 0 1\"]\r\n\r\n1...Bxf4 2.Qxf4 Nxd4 3.cxd4 Qc2 4.Bf3 Qxb2 *",
+        "date": "2020-11-01",
+        "video": [],
+        "comment_count": 13,
+        "solved_count": 1539,
+        "parsed": {
+            "moves": [
+                "Bxf4",
+                "Qxf4",
+                "Nxd4",
+                "cxd4",
+                "Qc2",
+                "Bf3",
+                "Qxb2"
+            ],
+            "raw": "1...Bxf4 2.Qxf4 Nxd4 3.cxd4 Qc2 4.Bf3 Qxb2 *",
+            "result": "*",
+            "fen": "1brr3k/1p4pp/p1n2nb1/2q5/3N1N2/P1P4P/1B1QBPP1/R4RK1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1brr3k/1p4pp/p1n2nb1/2q5/3N1N2/P1P4P/1B1QBPP1/R4RK1 b - - 0 1"
+    },
+    {
+        "id": 9698,
+        "title": "Look Before You Leap",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2r5/1pkb1p2/1qn1p2Q/p2pP1B1/P2b4/2N5/1PP4P/R4K1R w - - 0 1\"]\r\n\r\n1.Nxd5+ Kb8 2.Nxb6 *",
+        "date": "2020-11-02",
+        "video": [],
+        "comment_count": 12,
+        "solved_count": 1455,
+        "parsed": {
+            "moves": [
+                "Nxd5+",
+                "Kb8",
+                "Nxb6"
+            ],
+            "raw": "1.Nxd5+ Kb8 2.Nxb6 *",
+            "result": "*",
+            "fen": "2r5/1pkb1p2/1qn1p2Q/p2pP1B1/P2b4/2N5/1PP4P/R4K1R w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r5/1pkb1p2/1qn1p2Q/p2pP1B1/P2b4/2N5/1PP4P/R4K1R w - - 0 1"
+    },
+    {
+        "id": 9700,
+        "title": "Candidate Moves",
+        "pgn": "[Result \"*\"]\r\n[FEN \"rn3rk1/pppq1ppp/3p4/4n3/2BQ4/8/PB3P1P/R5RK w - - 0 1\"]\r\n\r\n1.Rxg7+ Kxg7 2.Rg1+ Kh8 3.Qxe5+ dxe5 4.Bxe5+ f6 5.Bxf6+ Rxf6 6.Rg8# *",
+        "date": "2020-11-03",
+        "video": [],
+        "comment_count": 9,
+        "solved_count": 1384,
+        "parsed": {
+            "moves": [
+                "Rxg7+",
+                "Kxg7",
+                "Rg1+",
+                "Kh8",
+                "Qxe5+",
+                "dxe5",
+                "Bxe5+",
+                "f6",
+                "Bxf6+",
+                "Rxf6",
+                "Rg8#"
+            ],
+            "raw": "1.Rxg7+ Kxg7 2.Rg1+ Kh8 3.Qxe5+ dxe5 4.Bxe5+ f6 5.Bxf6+ Rxf6 6.Rg8# *",
+            "result": "*",
+            "fen": "rn3rk1/pppq1ppp/3p4/4n3/2BQ4/8/PB3P1P/R5RK w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=rn3rk1/pppq1ppp/3p4/4n3/2BQ4/8/PB3P1P/R5RK w - - 0 1"
+    },
+    {
+        "id": 9702,
+        "title": "Overwhelming the Defenses",
+        "pgn": "[Result \"*\"]\r\n[FEN \"1k6/1p1r1rB1/p1p1pPp1/Q2n4/7R/7P/Pq3PP1/3R2K1 w - - 0 1\"]\r\n\r\n1.Rh8+ Ka7 2.Qc5+ Qb6 3.Rxd5 Rxd5 4.Ra8+ Kxa8 5.Qxb6 *",
+        "date": "2020-11-04",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1353,
+        "parsed": {
+            "moves": [
+                "Rh8+",
+                "Ka7",
+                "Qc5+",
+                "Qb6",
+                "Rxd5",
+                "Rxd5",
+                "Ra8+",
+                "Kxa8",
+                "Qxb6"
+            ],
+            "raw": "1.Rh8+ Ka7 2.Qc5+ Qb6 3.Rxd5 Rxd5 4.Ra8+ Kxa8 5.Qxb6 *",
+            "result": "*",
+            "fen": "1k6/1p1r1rB1/p1p1pPp1/Q2n4/7R/7P/Pq3PP1/3R2K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1k6/1p1r1rB1/p1p1pPp1/Q2n4/7R/7P/Pq3PP1/3R2K1 w - - 0 1"
+    },
+    {
+        "id": 9706,
+        "title": "Ignition Switch",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/1N1q1ppp/p2Pp3/1b1n4/P7/1Q5N/1P3PPP/2RR2K1 b - - 0 1\"]\r\n\r\n1...Bxa4 2.Nc5 Bxb3 3.Nxd7 Bxd1 4.Nxf8 Ba4 5.Nxe6 fxe6 *",
+        "date": "2020-11-05",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1325,
+        "parsed": {
+            "moves": [
+                "Bxa4",
+                "Nc5",
+                "Bxb3",
+                "Nxd7",
+                "Bxd1",
+                "Nxf8",
+                "Ba4",
+                "Nxe6",
+                "fxe6"
+            ],
+            "raw": "1...Bxa4 2.Nc5 Bxb3 3.Nxd7 Bxd1 4.Nxf8 Ba4 5.Nxe6 fxe6 *",
+            "result": "*",
+            "fen": "r4rk1/1N1q1ppp/p2Pp3/1b1n4/P7/1Q5N/1P3PPP/2RR2K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r4rk1/1N1q1ppp/p2Pp3/1b1n4/P7/1Q5N/1P3PPP/2RR2K1 b - - 0 1"
+    },
+    {
+        "id": 9704,
+        "title": "Riding the Wave",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/p6k/1p4b1/2p1PB2/3pK2P/2P5/PP6/8 b - - 0 1\"]\r\n\r\n1...Bxf5+ 2.Kxf5 d3 3.e6 Kg8 4.Kf6 Kf8 5.e7+ Ke8 6.h5 d2 7.h6 d1=Q *",
+        "date": "2020-11-06",
+        "video": [],
+        "comment_count": 6,
+        "solved_count": 1307,
+        "parsed": {
+            "moves": [
+                "Bxf5+",
+                "Kxf5",
+                "d3",
+                "e6",
+                "Kg8",
+                "Kf6",
+                "Kf8",
+                "e7+",
+                "Ke8",
+                "h5",
+                "d2",
+                "h6",
+                "d1=Q"
+            ],
+            "raw": "1...Bxf5+ 2.Kxf5 d3 3.e6 Kg8 4.Kf6 Kf8 5.e7+ Ke8 6.h5 d2 7.h6 d1=Q *",
+            "result": "*",
+            "fen": "8/p6k/1p4b1/2p1PB2/3pK2P/2P5/PP6/8 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/p6k/1p4b1/2p1PB2/3pK2P/2P5/PP6/8 b - - 0 1"
+    },
+    {
+        "id": 9708,
+        "title": "Fragile Package",
+        "pgn": "[Date \"1927\"]\r\n[White \"Kaminer, Sergey\"]\r\n[Black \"Study\"]\r\n[Result \"*\"]\r\n[FEN \"1b6/3b4/8/3B2R1/p7/5K2/8/k7 w - - 0 1\"]\r\n\r\n1.Rg1+ Kb2 2.Rg7 Bh3 3.Rh7 Bf1 4.Rb7+ Ka3 5.Kf2 Bh3 6.Rxb8 *",
+        "date": "2020-11-07",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1306,
+        "parsed": {
+            "moves": [
+                "Rg1+",
+                "Kb2",
+                "Rg7",
+                "Bh3",
+                "Rh7",
+                "Bf1",
+                "Rb7+",
+                "Ka3",
+                "Kf2",
+                "Bh3",
+                "Rxb8"
+            ],
+            "raw": "1.Rg1+ Kb2 2.Rg7 Bh3 3.Rh7 Bf1 4.Rb7+ Ka3 5.Kf2 Bh3 6.Rxb8 *",
+            "date": "1927",
+            "white": "Kaminer, Sergey",
+            "black": "Study",
+            "result": "*",
+            "fen": "1b6/3b4/8/3B2R1/p7/5K2/8/k7 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1b6/3b4/8/3B2R1/p7/5K2/8/k7 w - - 0 1"
+    },
+    {
+        "id": 9710,
+        "title": "In Passing",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2r3k1/3R1pp1/4p3/1R5r/p1P5/PP3P2/5P1P/6K1 b - - 0 1\"]\r\n\r\n1...Rxb5 2.cxb5 axb3 3.Rd2 Rc2 4.Rd1 b2 5.Rb1 Rc1+ *",
+        "date": "2020-11-08",
+        "video": [],
+        "comment_count": 6,
+        "solved_count": 1323,
+        "parsed": {
+            "moves": [
+                "Rxb5",
+                "cxb5",
+                "axb3",
+                "Rd2",
+                "Rc2",
+                "Rd1",
+                "b2",
+                "Rb1",
+                "Rc1+"
+            ],
+            "raw": "1...Rxb5 2.cxb5 axb3 3.Rd2 Rc2 4.Rd1 b2 5.Rb1 Rc1+ *",
+            "result": "*",
+            "fen": "2r3k1/3R1pp1/4p3/1R5r/p1P5/PP3P2/5P1P/6K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r3k1/3R1pp1/4p3/1R5r/p1P5/PP3P2/5P1P/6K1 b - - 0 1"
+    },
+    {
+        "id": 9712,
+        "title": "Spoiling Your Appetite",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r2qkb1r/pQpn1ppp/4bn2/3pp3/8/2P2NP1/PP1PPPBP/RNB1K2R b KQkq - 0 1\"]\r\n\r\n1...Nc5 2.Qb5+ c6 3.Qxc6+ Bd7 *",
+        "date": "2020-11-09",
+        "video": [],
+        "comment_count": 8,
+        "solved_count": 1310,
+        "parsed": {
+            "moves": [
+                "Nc5",
+                "Qb5+",
+                "c6",
+                "Qxc6+",
+                "Bd7"
+            ],
+            "raw": "1...Nc5 2.Qb5+ c6 3.Qxc6+ Bd7 *",
+            "result": "*",
+            "fen": "r2qkb1r/pQpn1ppp/4bn2/3pp3/8/2P2NP1/PP1PPPBP/RNB1K2R b KQkq - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r2qkb1r/pQpn1ppp/4bn2/3pp3/8/2P2NP1/PP1PPPBP/RNB1K2R b KQkq - 0 1"
+    },
+    {
+        "id": 9714,
+        "title": "Special Delivery",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r4bkr/p1p3p1/1p2b3/3p2Bq/5P2/3P2Q1/PPP3PP/RN3RK1 b - - 0 1\"]\r\n\r\n1...Bc5+ 2.Kh1 Bf2 3.Rxf2 Qd1+ 4.Rf1 Qxf1# *",
+        "date": "2020-11-10",
+        "video": [],
+        "comment_count": 8,
+        "solved_count": 1285,
+        "parsed": {
+            "moves": [
+                "Bc5+",
+                "Kh1",
+                "Bf2",
+                "Rxf2",
+                "Qd1+",
+                "Rf1",
+                "Qxf1#"
+            ],
+            "raw": "1...Bc5+ 2.Kh1 Bf2 3.Rxf2 Qd1+ 4.Rf1 Qxf1# *",
+            "result": "*",
+            "fen": "r4bkr/p1p3p1/1p2b3/3p2Bq/5P2/3P2Q1/PPP3PP/RN3RK1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r4bkr/p1p3p1/1p2b3/3p2Bq/5P2/3P2Q1/PPP3PP/RN3RK1 b - - 0 1"
+    },
+    {
+        "id": 9716,
+        "title": "When the Yoyo Stops",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/p1p5/4k3/1q6/1P6/1K4R1/3P2P1/3B4 w - - 0 1\"]\r\n\r\n1.Be2 Qb8 2.Rg8 Qb7 3.Ba6 Qb6 4.Rg6+ Kf7 5.Rxb6 *",
+        "date": "2020-11-11",
+        "video": [],
+        "comment_count": 13,
+        "solved_count": 1286,
+        "parsed": {
+            "moves": [
+                "Be2",
+                "Qb8",
+                "Rg8",
+                "Qb7",
+                "Ba6",
+                "Qb6",
+                "Rg6+",
+                "Kf7",
+                "Rxb6"
+            ],
+            "raw": "1.Be2 Qb8 2.Rg8 Qb7 3.Ba6 Qb6 4.Rg6+ Kf7 5.Rxb6 *",
+            "result": "*",
+            "fen": "8/p1p5/4k3/1q6/1P6/1K4R1/3P2P1/3B4 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/p1p5/4k3/1q6/1P6/1K4R1/3P2P1/3B4 w - - 0 1"
+    },
+    {
+        "id": 9718,
+        "title": "Dark Clouds on the Horizon",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r1b2r1k/2q2pNp/p2b4/2ppnQB1/8/2P2pP1/1P3P1P/4R1K1 w - - 0 1\"]\r\n\r\n1.Qf6 Ng4 2.Nf5+ Nxf6 3.Bxf6+ Kg8 4.Nh6# 1-0",
+        "date": "2020-11-12",
+        "video": [],
+        "comment_count": 8,
+        "solved_count": 1280,
+        "parsed": {
+            "moves": [
+                "Qf6",
+                "Ng4",
+                "Nf5+",
+                "Nxf6",
+                "Bxf6+",
+                "Kg8",
+                "Nh6#",
+                "1-0"
+            ],
+            "raw": "1.Qf6 Ng4 2.Nf5+ Nxf6 3.Bxf6+ Kg8 4.Nh6# 1-0",
+            "result": "*",
+            "fen": "r1b2r1k/2q2pNp/p2b4/2ppnQB1/8/2P2pP1/1P3P1P/4R1K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b2r1k/2q2pNp/p2b4/2ppnQB1/8/2P2pP1/1P3P1P/4R1K1 w - - 0 1"
+    },
+    {
+        "id": 9720,
+        "title": "Zugzwang in a Bottle",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/8/8/8/n1K1B3/P7/kp1N4/b7 w - - 0 1\"]\r\n\r\n1.Kb4 Nc3 2.Bb1+ Nxb1 3.Ne4 Nxa3 4.Nc3# *",
+        "date": "2020-11-13",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1276,
+        "parsed": {
+            "moves": [
+                "Kb4",
+                "Nc3",
+                "Bb1+",
+                "Nxb1",
+                "Ne4",
+                "Nxa3",
+                "Nc3#"
+            ],
+            "raw": "1.Kb4 Nc3 2.Bb1+ Nxb1 3.Ne4 Nxa3 4.Nc3# *",
+            "result": "*",
+            "fen": "8/8/8/8/n1K1B3/P7/kp1N4/b7 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/8/8/n1K1B3/P7/kp1N4/b7 w - - 0 1"
+    },
+    {
+        "id": 9722,
+        "title": "Cliffhanger",
+        "pgn": "[Result \"*\"]\r\n[FEN \"7r/1QR5/p4ppk/1p2p1b1/1P4K1/q2P4/1P6/3R4 b - - 0 1\"]\r\n\r\n1...Qxb4+ 2.Rc4 f5+ 3.Kg3 Bf4+ 4.Kf3 e4+ 5.dxe4 Qb3+ 6.Kxf4 Qxd1 *",
+        "date": "2020-11-14",
+        "video": [],
+        "comment_count": 10,
+        "solved_count": 1249,
+        "parsed": {
+            "moves": [
+                "Qxb4+",
+                "Rc4",
+                "f5+",
+                "Kg3",
+                "Bf4+",
+                "Kf3",
+                "e4+",
+                "dxe4",
+                "Qb3+",
+                "Kxf4",
+                "Qxd1"
+            ],
+            "raw": "1...Qxb4+ 2.Rc4 f5+ 3.Kg3 Bf4+ 4.Kf3 e4+ 5.dxe4 Qb3+ 6.Kxf4 Qxd1 *",
+            "result": "*",
+            "fen": "7r/1QR5/p4ppk/1p2p1b1/1P4K1/q2P4/1P6/3R4 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7r/1QR5/p4ppk/1p2p1b1/1P4K1/q2P4/1P6/3R4 b - - 0 1"
+    },
+    {
+        "id": 9724,
+        "title": "Sunday Salutations",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3n4/r4k1p/8/2p1p1R1/1p1pB1P1/3P1P1P/q5Q1/7K w - - 0 1\"]\r\n\r\n1.Qxa2+ Rxa2 2.Bd5+ Kf6 3.Rf5+ Ke7 4.Bxa2 *",
+        "date": "2020-11-15",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1279,
+        "parsed": {
+            "moves": [
+                "Qxa2+",
+                "Rxa2",
+                "Bd5+",
+                "Kf6",
+                "Rf5+",
+                "Ke7",
+                "Bxa2"
+            ],
+            "raw": "1.Qxa2+ Rxa2 2.Bd5+ Kf6 3.Rf5+ Ke7 4.Bxa2 *",
+            "result": "*",
+            "fen": "3n4/r4k1p/8/2p1p1R1/1p1pB1P1/3P1P1P/q5Q1/7K w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3n4/r4k1p/8/2p1p1R1/1p1pB1P1/3P1P1P/q5Q1/7K w - - 0 1"
+    },
+    {
+        "id": 9726,
+        "title": "Under Pressure",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r3r1k1/1b1Rqpb1/p5pp/2p1N2n/PpB2n2/1P3N2/1BP2PPP/4QRK1 b - - 0 1\"]\r\n\r\n1...Qxd7 2.Nxd7 Rxe1 3.Rxe1 Bxb2 *",
+        "date": "2020-11-16",
+        "video": [],
+        "comment_count": 10,
+        "solved_count": 1274,
+        "parsed": {
+            "moves": [
+                "Qxd7",
+                "Nxd7",
+                "Rxe1",
+                "Rxe1",
+                "Bxb2"
+            ],
+            "raw": "1...Qxd7 2.Nxd7 Rxe1 3.Rxe1 Bxb2 *",
+            "result": "*",
+            "fen": "r3r1k1/1b1Rqpb1/p5pp/2p1N2n/PpB2n2/1P3N2/1BP2PPP/4QRK1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r3r1k1/1b1Rqpb1/p5pp/2p1N2n/PpB2n2/1P3N2/1BP2PPP/4QRK1 b - - 0 1"
+    },
+    {
+        "id": 9728,
+        "title": "High Noon",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3rk2r/pp3ppp/nqpQp3/8/4B3/2PR4/1P3PPP/4R1K1 w k - 0 1\"]\r\n\r\n1.Bxc6+ bxc6 2.Rxe6+ fxe6 3.Qxe6+ Kf8 4.Rf3# *",
+        "date": "2020-11-17",
+        "video": [],
+        "comment_count": 15,
+        "solved_count": 1256,
+        "parsed": {
+            "moves": [
+                "Bxc6+",
+                "bxc6",
+                "Rxe6+",
+                "fxe6",
+                "Qxe6+",
+                "Kf8",
+                "Rf3#"
+            ],
+            "raw": "1.Bxc6+ bxc6 2.Rxe6+ fxe6 3.Qxe6+ Kf8 4.Rf3# *",
+            "result": "*",
+            "fen": "3rk2r/pp3ppp/nqpQp3/8/4B3/2PR4/1P3PPP/4R1K1 w k - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3rk2r/pp3ppp/nqpQp3/8/4B3/2PR4/1P3PPP/4R1K1 w k - 0 1"
+    },
+    {
+        "id": 9730,
+        "title": "Contingency Plan",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r7/pp3kp1/6r1/3p1P1Q/2nPq3/P1P1p1P1/7K/4R2R b - - 0 1\"]\r\n\r\n1...Rh8 2.fxg6+ Kg8 3.Qxh8+ Kxh8 *",
+        "date": "2020-11-18",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 1251,
+        "parsed": {
+            "moves": [
+                "Rh8",
+                "fxg6+",
+                "Kg8",
+                "Qxh8+",
+                "Kxh8"
+            ],
+            "raw": "1...Rh8 2.fxg6+ Kg8 3.Qxh8+ Kxh8 *",
+            "result": "*",
+            "fen": "r7/pp3kp1/6r1/3p1P1Q/2nPq3/P1P1p1P1/7K/4R2R b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r7/pp3kp1/6r1/3p1P1Q/2nPq3/P1P1p1P1/7K/4R2R b - - 0 1"
+    },
+    {
+        "id": 9732,
+        "title": "Thinking in Circles",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3r4/2kr4/1p3p2/p1p2P2/P1P2K2/1P1R4/3R4/8 w - - 0 1\"]\r\n\r\n1.Rxd7+ Rxd7 2.Rxd7+ Kxd7 3.Kg4 Ke7 4.Kh5 Kd6 5.Kh6 Ke5 6.Kg6 Kd4 7.Kxf6 *",
+        "date": "2020-11-19",
+        "video": [],
+        "comment_count": 8,
+        "solved_count": 1253,
+        "parsed": {
+            "moves": [
+                "Rxd7+",
+                "Rxd7",
+                "Rxd7+",
+                "Kxd7",
+                "Kg4",
+                "Ke7",
+                "Kh5",
+                "Kd6",
+                "Kh6",
+                "Ke5",
+                "Kg6",
+                "Kd4",
+                "Kxf6"
+            ],
+            "raw": "1.Rxd7+ Rxd7 2.Rxd7+ Kxd7 3.Kg4 Ke7 4.Kh5 Kd6 5.Kh6 Ke5 6.Kg6 Kd4 7.Kxf6 *",
+            "result": "*",
+            "fen": "3r4/2kr4/1p3p2/p1p2P2/P1P2K2/1P1R4/3R4/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r4/2kr4/1p3p2/p1p2P2/P1P2K2/1P1R4/3R4/8 w - - 0 1"
+    },
+    {
+        "id": 9734,
+        "title": "Rumors",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/ppq2ppp/4p3/1R2b1B1/2nQ4/2P3P1/P3PPBP/5RK1 w - - 0 1\"]\r\n\r\n1.Rc5 Bxd4 2.Rxc7 Bb6 3.Rxc4 *",
+        "date": "2020-11-20",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1255,
+        "parsed": {
+            "moves": [
+                "Rc5",
+                "Bxd4",
+                "Rxc7",
+                "Bb6",
+                "Rxc4"
+            ],
+            "raw": "1.Rc5 Bxd4 2.Rxc7 Bb6 3.Rxc4 *",
+            "result": "*",
+            "fen": "r4rk1/ppq2ppp/4p3/1R2b1B1/2nQ4/2P3P1/P3PPBP/5RK1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r4rk1/ppq2ppp/4p3/1R2b1B1/2nQ4/2P3P1/P3PPBP/5RK1 w - - 0 1"
+    },
+    {
+        "id": 9736,
+        "title": "Bern After Solving",
+        "pgn": "[White \"Horwitz, Bernhard\"]\r\n[Black \"Study\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/p7/q1kbN3/P3P3/2N5/PPK5/8 w - - 0 1\"]\r\n\r\n1.b4+ Kxb4 2.Nxd5+ Kc5 3.Nb6 Qxb6 4.Nd7+ Kc6 5.Nxb6 Kxb6 *",
+        "date": "2020-11-21",
+        "video": [],
+        "comment_count": 10,
+        "solved_count": 1235,
+        "parsed": {
+            "moves": [
+                "b4+",
+                "Kxb4",
+                "Nxd5+",
+                "Kc5",
+                "Nb6",
+                "Qxb6",
+                "Nd7+",
+                "Kc6",
+                "Nxb6",
+                "Kxb6"
+            ],
+            "raw": "1.b4+ Kxb4 2.Nxd5+ Kc5 3.Nb6 Qxb6 4.Nd7+ Kc6 5.Nxb6 Kxb6 *",
+            "white": "Horwitz, Bernhard",
+            "black": "Study",
+            "result": "*",
+            "fen": "8/8/p7/q1kbN3/P3P3/2N5/PPK5/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/p7/q1kbN3/P3P3/2N5/PPK5/8 w - - 0 1"
+    },
+    {
+        "id": 9738,
+        "title": "Cooldown",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r1b1k1nr/1p2pp2/p2p2p1/P1pN3p/2P1P3/1nqP2P1/R1N1KP1P/1Q3B1R b kq - 1 1\"]\r\n\r\n1...Bg4+ 2.f3 Qd2# 1-0",
+        "date": "2020-11-22",
+        "video": [],
+        "comment_count": 10,
+        "solved_count": 1274,
+        "parsed": {
+            "moves": [
+                "Bg4+",
+                "f3",
+                "Qd2#",
+                "1-0"
+            ],
+            "raw": "1...Bg4+ 2.f3 Qd2# 1-0",
+            "result": "*",
+            "fen": "r1b1k1nr/1p2pp2/p2p2p1/P1pN3p/2P1P3/1nqP2P1/R1N1KP1P/1Q3B1R b kq - 1 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b1k1nr/1p2pp2/p2p2p1/P1pN3p/2P1P3/1nqP2P1/R1N1KP1P/1Q3B1R b kq - 1 1"
+    },
+    {
+        "id": 9740,
+        "title": "Exchanging Glances",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r3k2r/pbp1p1bp/1pn2pp1/1B1q4/Q2P4/2P1PN2/P4PPP/R1B1K2R w KQkq - 0 12\"]\r\n\r\n12.c4 Qe4 13.d5 O-O 14.dxc6 *",
+        "date": "2020-11-23",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1253,
+        "parsed": {
+            "moves": [
+                "c4",
+                "Qe4",
+                "d5",
+                "O-O",
+                "dxc6"
+            ],
+            "raw": "12.c4 Qe4 13.d5 O-O 14.dxc6 *",
+            "result": "*",
+            "fen": "r3k2r/pbp1p1bp/1pn2pp1/1B1q4/Q2P4/2P1PN2/P4PPP/R1B1K2R w KQkq - 0 12"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r3k2r/pbp1p1bp/1pn2pp1/1B1q4/Q2P4/2P1PN2/P4PPP/R1B1K2R w KQkq - 0 12"
+    },
+    {
+        "id": 9742,
+        "title": "Embrace Your Inner Steinitz",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/pp2bppp/3p2nq/2p5/3BP3/2P2NPP/PPQ2PK1/4RR2 w - c6 0 1\"]\r\n\r\n1.Be3 Qh5 2.g4 Nh4+ 3.Kg3 Qg6 4.Nxh4 Bxh4+ 5.Kxh4 *",
+        "date": "2020-11-24",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1245,
+        "parsed": {
+            "moves": [
+                "Be3",
+                "Qh5",
+                "g4",
+                "Nh4+",
+                "Kg3",
+                "Qg6",
+                "Nxh4",
+                "Bxh4+",
+                "Kxh4"
+            ],
+            "raw": "1.Be3 Qh5 2.g4 Nh4+ 3.Kg3 Qg6 4.Nxh4 Bxh4+ 5.Kxh4 *",
+            "result": "*",
+            "fen": "r4rk1/pp2bppp/3p2nq/2p5/3BP3/2P2NPP/PPQ2PK1/4RR2 w - c6 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r4rk1/pp2bppp/3p2nq/2p5/3BP3/2P2NPP/PPQ2PK1/4RR2 w - c6 0 1"
+    },
+    {
+        "id": 9744,
+        "title": "A Breath of Fresh Air",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r3Rr1k/6pp/1p6/2pP4/p1Pq4/P7/1P2QPPP/4R1K1 b - - 0 1\"]\r\n\r\n1...Raxe8 2.Qxe8 Qxf2+ 3.Kh1 h6 *",
+        "date": "2020-11-25",
+        "video": [],
+        "comment_count": 9,
+        "solved_count": 1249,
+        "parsed": {
+            "moves": [
+                "Raxe8",
+                "Qxe8",
+                "Qxf2+",
+                "Kh1",
+                "h6"
+            ],
+            "raw": "1...Raxe8 2.Qxe8 Qxf2+ 3.Kh1 h6 *",
+            "result": "*",
+            "fen": "r3Rr1k/6pp/1p6/2pP4/p1Pq4/P7/1P2QPPP/4R1K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r3Rr1k/6pp/1p6/2pP4/p1Pq4/P7/1P2QPPP/4R1K1 b - - 0 1"
+    },
+    {
+        "id": 9746,
+        "title": "Right on Time",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r3k1r1/ppp1np2/5p1Q/2b2N2/4B1P1/2p4P/qP3P2/2KRR3 w - - 0 1\"]\r\n\r\n1.Bc6+ bxc6 2.Ng7+ Rxg7 3.Qh8+ Rg8 4.Qxg8# 1-0",
+        "date": "2020-11-26",
+        "video": [],
+        "comment_count": 6,
+        "solved_count": 1246,
+        "parsed": {
+            "moves": [
+                "Bc6+",
+                "bxc6",
+                "Ng7+",
+                "Rxg7",
+                "Qh8+",
+                "Rg8",
+                "Qxg8#",
+                "1-0"
+            ],
+            "raw": "1.Bc6+ bxc6 2.Ng7+ Rxg7 3.Qh8+ Rg8 4.Qxg8# 1-0",
+            "result": "*",
+            "fen": "r3k1r1/ppp1np2/5p1Q/2b2N2/4B1P1/2p4P/qP3P2/2KRR3 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r3k1r1/ppp1np2/5p1Q/2b2N2/4B1P1/2p4P/qP3P2/2KRR3 w - - 0 1"
+    },
+    {
+        "id": 9748,
+        "title": "Waves on the Shore",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r4rk1/p1q2pp1/1pb2n2/2p3p1/5P1Q/2PBB3/P1P4P/3R1RK1 w - - 0 1\"]\r\n\r\n1.fxg5 Qe5 2.Rxf6 Qxe3+ 3.Kf1 g6 4.Re1 Qd2 5.Rxc6 *",
+        "date": "2020-11-27",
+        "video": [],
+        "comment_count": 9,
+        "solved_count": 1245,
+        "parsed": {
+            "moves": [
+                "fxg5",
+                "Qe5",
+                "Rxf6",
+                "Qxe3+",
+                "Kf1",
+                "g6",
+                "Re1",
+                "Qd2",
+                "Rxc6"
+            ],
+            "raw": "1.fxg5 Qe5 2.Rxf6 Qxe3+ 3.Kf1 g6 4.Re1 Qd2 5.Rxc6 *",
+            "result": "*",
+            "fen": "r4rk1/p1q2pp1/1pb2n2/2p3p1/5P1Q/2PBB3/P1P4P/3R1RK1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r4rk1/p1q2pp1/1pb2n2/2p3p1/5P1Q/2PBB3/P1P4P/3R1RK1 w - - 0 1"
+    },
+    {
+        "id": 9750,
+        "title": "Taming the Avalanche",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/2K5/k7/2p5/2R1p3/3p4/8/8 w - - 0 1\"]\r\n\r\n1.Kc6 Ka5 2.Kxc5 d2 3.Rd4 e3 4.Rd6 Ka4 5.Kc4 Ka3 6.Kc3 *",
+        "date": "2020-11-28",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1252,
+        "parsed": {
+            "moves": [
+                "Kc6",
+                "Ka5",
+                "Kxc5",
+                "d2",
+                "Rd4",
+                "e3",
+                "Rd6",
+                "Ka4",
+                "Kc4",
+                "Ka3",
+                "Kc3"
+            ],
+            "raw": "1.Kc6 Ka5 2.Kxc5 d2 3.Rd4 e3 4.Rd6 Ka4 5.Kc4 Ka3 6.Kc3 *",
+            "result": "*",
+            "fen": "8/2K5/k7/2p5/2R1p3/3p4/8/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/2K5/k7/2p5/2R1p3/3p4/8/8 w - - 0 1"
+    },
+    {
+        "id": 9752,
+        "title": "Fishing in the Endgame",
+        "pgn": "[Result \"*\"]\r\n[FEN \"4r3/pp4R1/k1p3B1/2P5/PP3p2/2b2Kp1/8/8 w - - 0 1\"]\r\n\r\n1.Bd3+ b5 2.cxb6+ Kxb6 3.a5#",
+        "date": "2020-11-29",
+        "video": [],
+        "comment_count": 11,
+        "solved_count": 1280,
+        "parsed": {
+            "moves": [
+                "Bd3+",
+                "b5",
+                "cxb6+",
+                "Kxb6",
+                "a5#"
+            ],
+            "raw": "1.Bd3+ b5 2.cxb6+ Kxb6 3.a5#",
+            "result": "*",
+            "fen": "4r3/pp4R1/k1p3B1/2P5/PP3p2/2b2Kp1/8/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4r3/pp4R1/k1p3B1/2P5/PP3p2/2b2Kp1/8/8 w - - 0 1"
+    },
+    {
+        "id": 9756,
+        "title": "Shifting Sands",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2r1r1kb/1b2pp1p/1q4p1/p5B1/1p1NP1P1/5Q1P/PPPR1P2/2KR4 b - - 0 1\"]\r\n\r\n1...Bxd4 2.Rxd4 Qc5 3.Qd3 Qxg5+ *",
+        "date": "2020-11-30",
+        "video": [],
+        "comment_count": 8,
+        "solved_count": 1295,
+        "parsed": {
+            "moves": [
+                "Bxd4",
+                "Rxd4",
+                "Qc5",
+                "Qd3",
+                "Qxg5+"
+            ],
+            "raw": "1...Bxd4 2.Rxd4 Qc5 3.Qd3 Qxg5+ *",
+            "result": "*",
+            "fen": "2r1r1kb/1b2pp1p/1q4p1/p5B1/1p1NP1P1/5Q1P/PPPR1P2/2KR4 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r1r1kb/1b2pp1p/1q4p1/p5B1/1p1NP1P1/5Q1P/PPPR1P2/2KR4 b - - 0 1"
+    }
+]

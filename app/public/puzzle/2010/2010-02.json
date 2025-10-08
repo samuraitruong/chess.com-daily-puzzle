@@ -1,0 +1,652 @@
+[
+    {
+        "id": 2518,
+        "title": "d-file Exploits",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r5/1R5p/2p3p1/3q1p2/1P1k4/6P1/P1K1Q2P/8 w - - 0 1\"]\r\n\r\n1. Rd7\r\n*",
+        "date": "2010-02-01",
+        "video": [],
+        "comment_count": 6,
+        "solved_count": 233,
+        "parsed": {
+            "moves": [
+                "Rd7"
+            ],
+            "raw": "1. Rd7\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "2r5/1R5p/2p3p1/3q1p2/1P1k4/6P1/P1K1Q2P/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r5/1R5p/2p3p1/3q1p2/1P1k4/6P1/P1K1Q2P/8 w - - 0 1"
+    },
+    {
+        "id": 2519,
+        "title": "Bail Out",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/6p1/5p2/5P1p/7P/k7/4q3/KQ6 w - - 0 1\"]\r\n\r\n1. Qd3\r\n*",
+        "date": "2010-02-02",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 178,
+        "parsed": {
+            "moves": [
+                "Qd3"
+            ],
+            "raw": "1. Qd3\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "8/6p1/5p2/5P1p/7P/k7/4q3/KQ6 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/6p1/5p2/5P1p/7P/k7/4q3/KQ6 w - - 0 1"
+    },
+    {
+        "id": 2520,
+        "title": "Active Piece Play",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"4r2k/pp1b2q1/5p1p/2NB4/2PP3P/4Q1Pn/P4PK1/4R3 w - - 0 1\"]\r\n\r\n1. Qxe8+ Bxe8 2. Rxe8+ Kh7 3. Be4+\r\n*",
+        "date": "2010-02-03",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 172,
+        "parsed": {
+            "moves": [
+                "Qxe8+",
+                "Bxe8",
+                "Rxe8+",
+                "Kh7",
+                "Be4+"
+            ],
+            "raw": "1. Qxe8+ Bxe8 2. Rxe8+ Kh7 3. Be4+\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "4r2k/pp1b2q1/5p1p/2NB4/2PP3P/4Q1Pn/P4PK1/4R3 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4r2k/pp1b2q1/5p1p/2NB4/2PP3P/4Q1Pn/P4PK1/4R3 w - - 0 1"
+    },
+    {
+        "id": 2521,
+        "title": "Spectacular Mating Pattern",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3r1rk1/pp3ppp/8/2p5/4PB1n/P1P2qPP/Q3RP1K/6R1 b - - 0 1\"]\r\n\r\n1...Qg2+ 2. Rxg2 Nf3+ 3. Kh1 Rd1+\r\n*",
+        "date": "2010-02-04",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 169,
+        "parsed": {
+            "moves": [
+                "Qg2+",
+                "Rxg2",
+                "Nf3+",
+                "Kh1",
+                "Rd1+"
+            ],
+            "raw": "1...Qg2+ 2. Rxg2 Nf3+ 3. Kh1 Rd1+\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "3r1rk1/pp3ppp/8/2p5/4PB1n/P1P2qPP/Q3RP1K/6R1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r1rk1/pp3ppp/8/2p5/4PB1n/P1P2qPP/Q3RP1K/6R1 b - - 0 1"
+    },
+    {
+        "id": 2523,
+        "title": "Mate in 5",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2N5/8/8/8/8/R1p5/b7/k1K5 w - - 0 1\"]\r\n\r\n1. Ra8 c2 2. Na7 Bd5 3. Nc6+ Ba2 4. Na5 Bd5 5. Nb3#\r\n*",
+        "date": "2010-02-05",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 165,
+        "parsed": {
+            "moves": [
+                "Ra8",
+                "c2",
+                "Na7",
+                "Bd5",
+                "Nc6+",
+                "Ba2",
+                "Na5",
+                "Bd5",
+                "Nb3#"
+            ],
+            "raw": "1. Ra8 c2 2. Na7 Bd5 3. Nc6+ Ba2 4. Na5 Bd5 5. Nb3#\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "2N5/8/8/8/8/R1p5/b7/k1K5 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2N5/8/8/8/8/R1p5/b7/k1K5 w - - 0 1"
+    },
+    {
+        "id": 2524,
+        "title": "Saving the Ending",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/K1R5/8/6b1/2P5/8/4p3/4k3 w - - 0 1\"]\r\n\r\n1. Rh7 Be3+ 2. c5 Bxc5+ 3. Ka8 Kf1 4. Rb7 e1=Q 5. Rb1\r\n*",
+        "date": "2010-02-06",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 160,
+        "parsed": {
+            "moves": [
+                "Rh7",
+                "Be3+",
+                "c5",
+                "Bxc5+",
+                "Ka8",
+                "Kf1",
+                "Rb7",
+                "e1=Q",
+                "Rb1"
+            ],
+            "raw": "1. Rh7 Be3+ 2. c5 Bxc5+ 3. Ka8 Kf1 4. Rb7 e1=Q 5. Rb1\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "8/K1R5/8/6b1/2P5/8/4p3/4k3 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/K1R5/8/6b1/2P5/8/4p3/4k3 w - - 0 1"
+    },
+    {
+        "id": 2525,
+        "title": "Classic Weakness",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/p2b1ppp/4p3/2R5/3rB3/4Q3/P4PPP/6K1 b - - 0 1\"]\r\n\r\n1...Rd1+\r\n*",
+        "date": "2010-02-07",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 165,
+        "parsed": {
+            "moves": [
+                "Rd1+"
+            ],
+            "raw": "1...Rd1+\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "6k1/p2b1ppp/4p3/2R5/3rB3/4Q3/P4PPP/6K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/p2b1ppp/4p3/2R5/3rB3/4Q3/P4PPP/6K1 b - - 0 1"
+    },
+    {
+        "id": 2527,
+        "title": "Majestic Focal Point",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1b2rk1/pp5p/2n2ppQ/3q4/4N3/2P5/2P2PPP/R3R1K1 w - - 0 1\"]\r\n\r\n1. Nxf6+ Rxf6 2. Re8+\r\n*",
+        "date": "2010-02-08",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 170,
+        "parsed": {
+            "moves": [
+                "Nxf6+",
+                "Rxf6",
+                "Re8+"
+            ],
+            "raw": "1. Nxf6+ Rxf6 2. Re8+\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "r1b2rk1/pp5p/2n2ppQ/3q4/4N3/2P5/2P2PPP/R3R1K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b2rk1/pp5p/2n2ppQ/3q4/4N3/2P5/2P2PPP/R3R1K1 w - - 0 1"
+    },
+    {
+        "id": 2528,
+        "title": "Critical In Between Response",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/2R2p1p/4q1p1/2p5/3bP1Q1/r3N1P1/5P1P/6K1 b - - 0 1\"]\r\n\r\n1...Rxe3 2. Qxe6 Re1+ 3. Kg2 fxe6\r\n*",
+        "date": "2010-02-09",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 169,
+        "parsed": {
+            "moves": [
+                "Rxe3",
+                "Qxe6",
+                "Re1+",
+                "Kg2",
+                "fxe6"
+            ],
+            "raw": "1...Rxe3 2. Qxe6 Re1+ 3. Kg2 fxe6\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "6k1/2R2p1p/4q1p1/2p5/3bP1Q1/r3N1P1/5P1P/6K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/2R2p1p/4q1p1/2p5/3bP1Q1/r3N1P1/5P1P/6K1 b - - 0 1"
+    },
+    {
+        "id": 2529,
+        "title": "Fatal Weakness",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1r2r1k1/p2b1pb1/6p1/3N2q1/3B2P1/2Q1pP2/PPP5/1K3B1R b - - 0 1\"]\r\n\r\n1...Qxd5 2. Bxg7 Qd1#\r\n*",
+        "date": "2010-02-10",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 164,
+        "parsed": {
+            "moves": [
+                "Qxd5",
+                "Bxg7",
+                "Qd1#"
+            ],
+            "raw": "1...Qxd5 2. Bxg7 Qd1#\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "1r2r1k1/p2b1pb1/6p1/3N2q1/3B2P1/2Q1pP2/PPP5/1K3B1R b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r2r1k1/p2b1pb1/6p1/3N2q1/3B2P1/2Q1pP2/PPP5/1K3B1R b - - 0 1"
+    },
+    {
+        "id": 2526,
+        "title": "Endgame Flare",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"7n/3P4/p6R/1k4p1/2pK4/8/6r1/8 w - - 0 1\"]\r\n\r\n1. Rb6+ Ka5 2. Rb2 Rxb2 3. d8=Q+\r\n*",
+        "date": "2010-02-11",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 159,
+        "parsed": {
+            "moves": [
+                "Rb6+",
+                "Ka5",
+                "Rb2",
+                "Rxb2",
+                "d8=Q+"
+            ],
+            "raw": "1. Rb6+ Ka5 2. Rb2 Rxb2 3. d8=Q+\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "7n/3P4/p6R/1k4p1/2pK4/8/6r1/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7n/3P4/p6R/1k4p1/2pK4/8/6r1/8 w - - 0 1"
+    },
+    {
+        "id": 2530,
+        "title": "Endgame Creativity",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/8/2p2k2/3p4/1K1P4/3P2P1/b7 b - - 0 1\"]\r\n\r\n1...Kf4 2. Ka2 Bc3 3. dxc3 c4\r\n*",
+        "date": "2010-02-12",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 161,
+        "parsed": {
+            "moves": [
+                "Kf4",
+                "Ka2",
+                "Bc3",
+                "dxc3",
+                "c4"
+            ],
+            "raw": "1...Kf4 2. Ka2 Bc3 3. dxc3 c4\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "8/8/8/2p2k2/3p4/1K1P4/3P2P1/b7 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/8/2p2k2/3p4/1K1P4/3P2P1/b7 b - - 0 1"
+    },
+    {
+        "id": 2531,
+        "title": "Mate in 6",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r3nrk1/pp2pn1p/3pBppQ/3R4/2P5/1Pq1N1P1/P3PP1P/R5K1 w KQkq - 0 1\"]\r\n\r\n1. Rh5 Qxa1+ 2. Kg2 Qh1+ 3. Kxh1 gxh5 4. Nf5 Rd8 5. Nxe7+ Kh8 6. Qxf8#\r\n*",
+        "date": "2010-02-13",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 158,
+        "parsed": {
+            "moves": [
+                "Rh5",
+                "Qxa1+",
+                "Kg2",
+                "Qh1+",
+                "Kxh1",
+                "gxh5",
+                "Nf5",
+                "Rd8",
+                "Nxe7+",
+                "Kh8",
+                "Qxf8#"
+            ],
+            "raw": "1. Rh5 Qxa1+ 2. Kg2 Qh1+ 3. Kxh1 gxh5 4. Nf5 Rd8 5. Nxe7+ Kh8 6. Qxf8#\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "r3nrk1/pp2pn1p/3pBppQ/3R4/2P5/1Pq1N1P1/P3PP1P/R5K1 w KQkq - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r3nrk1/pp2pn1p/3pBppQ/3R4/2P5/1Pq1N1P1/P3PP1P/R5K1 w KQkq - 0 1"
+    },
+    {
+        "id": 2532,
+        "title": "Decoy for the Win",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/5p1p/p2p1Qp1/1p1P3P/4K1P1/1P2RP2/P1rq2B1/8 b - - 0 1\"]\r\n\r\n1...Qb4+ 2. Qd4 f5+ 3. gxf5 gxf5+ 4. Kxf5 Qxd4\r\n*",
+        "date": "2010-02-14",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 158,
+        "parsed": {
+            "moves": [
+                "Qb4+",
+                "Qd4",
+                "f5+",
+                "gxf5",
+                "gxf5+",
+                "Kxf5",
+                "Qxd4"
+            ],
+            "raw": "1...Qb4+ 2. Qd4 f5+ 3. gxf5 gxf5+ 4. Kxf5 Qxd4\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "6k1/5p1p/p2p1Qp1/1p1P3P/4K1P1/1P2RP2/P1rq2B1/8 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/5p1p/p2p1Qp1/1p1P3P/4K1P1/1P2RP2/P1rq2B1/8 b - - 0 1"
+    },
+    {
+        "id": 2533,
+        "title": "Distracting Play",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/2b3pp/2p3q1/1p1n2N1/3P2Q1/2P3P1/1P1Brr1P/R2R2K1 w - - 0 1\"]\r\n\r\n1. Ra8+ Re8 2. Rxe8+ Qxe8 3. Kxf2\r\n*",
+        "date": "2010-02-15",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 163,
+        "parsed": {
+            "moves": [
+                "Ra8+",
+                "Re8",
+                "Rxe8+",
+                "Qxe8",
+                "Kxf2"
+            ],
+            "raw": "1. Ra8+ Re8 2. Rxe8+ Qxe8 3. Kxf2\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "6k1/2b3pp/2p3q1/1p1n2N1/3P2Q1/2P3P1/1P1Brr1P/R2R2K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/2b3pp/2p3q1/1p1n2N1/3P2Q1/2P3P1/1P1Brr1P/R2R2K1 w - - 0 1"
+    },
+    {
+        "id": 2534,
+        "title": "Purposeful Moves",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1b2rk1/1p4b1/p2p4/P2Pp3/1PN1P3/R2n2q1/5RB1/6QK w - - 0 1\"]\r\n\r\n1. Rxf8+ Kxf8 2. Qf1+ Nf2+ 3. Kg1\r\n*",
+        "date": "2010-02-16",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 164,
+        "parsed": {
+            "moves": [
+                "Rxf8+",
+                "Kxf8",
+                "Qf1+",
+                "Nf2+",
+                "Kg1"
+            ],
+            "raw": "1. Rxf8+ Kxf8 2. Qf1+ Nf2+ 3. Kg1\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "r1b2rk1/1p4b1/p2p4/P2Pp3/1PN1P3/R2n2q1/5RB1/6QK w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b2rk1/1p4b1/p2p4/P2Pp3/1PN1P3/R2n2q1/5RB1/6QK w - - 0 1"
+    },
+    {
+        "id": 2535,
+        "title": "Removing the Last Line of Defense",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1br2k1/1pq2ppp/1npN1n2/2B5/3RP2P/p5P1/P4PB1/2Q2RK1 w - - 0 1\"]\r\n\r\n1. Nb5 cxb5 2. Qf4 Qxf4 3. Rxd8+\r\n*",
+        "date": "2010-02-17",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 159,
+        "parsed": {
+            "moves": [
+                "Nb5",
+                "cxb5",
+                "Qf4",
+                "Qxf4",
+                "Rxd8+"
+            ],
+            "raw": "1. Nb5 cxb5 2. Qf4 Qxf4 3. Rxd8+\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "r1br2k1/1pq2ppp/1npN1n2/2B5/3RP2P/p5P1/P4PB1/2Q2RK1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1br2k1/1pq2ppp/1npN1n2/2B5/3RP2P/p5P1/P4PB1/2Q2RK1 w - - 0 1"
+    },
+    {
+        "id": 2536,
+        "title": "Missed Opportunity",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/4r1b1/4p1P1/qp6/8/P4Q2/1PP5/1K1R4 w - - 0 31\"]\r\n\r\n31. b4 Qc7 32. Qa8+ Bf8 33. Rf1\r\n*",
+        "date": "2010-02-18",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 163,
+        "parsed": {
+            "moves": [
+                "b4",
+                "Qc7",
+                "Qa8+",
+                "Bf8",
+                "Rf1"
+            ],
+            "raw": "31. b4 Qc7 32. Qa8+ Bf8 33. Rf1\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "6k1/4r1b1/4p1P1/qp6/8/P4Q2/1PP5/1K1R4 w - - 0 31"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/4r1b1/4p1P1/qp6/8/P4Q2/1PP5/1K1R4 w - - 0 31"
+    },
+    {
+        "id": 2537,
+        "title": "Mate in 4",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/7p/5Kpk/1p2P3/p1b3P1/2N4P/8 w - - 0 1\"]\r\n\r\n1. Ne3 Bd2 2. Ng2 g4 3. h3 gxh3 4. g4#\r\n*",
+        "date": "2010-02-19",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 156,
+        "parsed": {
+            "moves": [
+                "Ne3",
+                "Bd2",
+                "Ng2",
+                "g4",
+                "h3",
+                "gxh3",
+                "g4#"
+            ],
+            "raw": "1. Ne3 Bd2 2. Ng2 g4 3. h3 gxh3 4. g4#\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "8/8/7p/5Kpk/1p2P3/p1b3P1/2N4P/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/7p/5Kpk/1p2P3/p1b3P1/2N4P/8 w - - 0 1"
+    },
+    {
+        "id": 2538,
+        "title": "E. Pogosjants, 1970",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5b2/5rQ1/6K1/4p3/2b1rBk1/4pR2/6P1/8 w - - 0 1\"]\r\n\r\n1. Rg3+ Kxf4 2. Kh5 Rf5+ 3. Kh4\r\n*",
+        "date": "2010-02-20",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 154,
+        "parsed": {
+            "moves": [
+                "Rg3+",
+                "Kxf4",
+                "Kh5",
+                "Rf5+",
+                "Kh4"
+            ],
+            "raw": "1. Rg3+ Kxf4 2. Kh5 Rf5+ 3. Kh4\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "5b2/5rQ1/6K1/4p3/2b1rBk1/4pR2/6P1/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5b2/5rQ1/6K1/4p3/2b1rBk1/4pR2/6P1/8 w - - 0 1"
+    },
+    {
+        "id": 2539,
+        "title": "Winning the House",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1b2bk1/1p6/p2p4/P2Pp3/1PN1P3/3q4/6B1/6QK w - - 0 1\"]\r\n\r\n1. Bf1+\r\n*",
+        "date": "2010-02-21",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 154,
+        "parsed": {
+            "moves": [
+                "Bf1+"
+            ],
+            "raw": "1. Bf1+\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "r1b2bk1/1p6/p2p4/P2Pp3/1PN1P3/3q4/6B1/6QK w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b2bk1/1p6/p2p4/P2Pp3/1PN1P3/3q4/6B1/6QK w - - 0 1"
+    },
+    {
+        "id": 2542,
+        "title": "Simply Winning",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/7Q/p7/4kp2/2P5/5PPK/1P6/6r1 b - - 0 1\"]\r\n\r\n1...Rh1+ 2. Kg2 Rxh7\r\n*",
+        "date": "2010-02-22",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 161,
+        "parsed": {
+            "moves": [
+                "Rh1+",
+                "Kg2",
+                "Rxh7"
+            ],
+            "raw": "1...Rh1+ 2. Kg2 Rxh7\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "8/7Q/p7/4kp2/2P5/5PPK/1P6/6r1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/7Q/p7/4kp2/2P5/5PPK/1P6/6r1 b - - 0 1"
+    },
+    {
+        "id": 2540,
+        "title": "Zugzwang Tactic",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1b6/3K4/Pk6/8/8/R7/8/8 w - - 0 1\"]\r\n\r\n1. a7 Bxa7 2. Kc8\r\n*",
+        "date": "2010-02-23",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 157,
+        "parsed": {
+            "moves": [
+                "a7",
+                "Bxa7",
+                "Kc8"
+            ],
+            "raw": "1. a7 Bxa7 2. Kc8\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "1b6/3K4/Pk6/8/8/R7/8/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1b6/3K4/Pk6/8/8/R7/8/8 w - - 0 1"
+    },
+    {
+        "id": 2543,
+        "title": "Mating Net",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1rb5/2R2p2/3npk1p/2N4B/5P2/8/5P2/6K1 w - - 0 1\"]\r\n\r\n1. Ne4+ Nxe4 2. Rxf7#\r\n*",
+        "date": "2010-02-24",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 155,
+        "parsed": {
+            "moves": [
+                "Ne4+",
+                "Nxe4",
+                "Rxf7#"
+            ],
+            "raw": "1. Ne4+ Nxe4 2. Rxf7#\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "1rb5/2R2p2/3npk1p/2N4B/5P2/8/5P2/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1rb5/2R2p2/3npk1p/2N4B/5P2/8/5P2/6K1 w - - 0 1"
+    },
+    {
+        "id": 2541,
+        "title": "Mate in 5",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1b1r1k1/pq3p1p/1p2np1Q/3p1N2/3Rn3/6PB/P4P1P/4R1K1 w - - 0 1\"]\r\n\r\n1. Rexe4 dxe4 2. Qxf6 h5 3. Nh6+ Kf8 4. Qh8+ Ke7 5. Nf5#\r\n*",
+        "date": "2010-02-25",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 156,
+        "parsed": {
+            "moves": [
+                "Rexe4",
+                "dxe4",
+                "Qxf6",
+                "h5",
+                "Nh6+",
+                "Kf8",
+                "Qh8+",
+                "Ke7",
+                "Nf5#"
+            ],
+            "raw": "1. Rexe4 dxe4 2. Qxf6 h5 3. Nh6+ Kf8 4. Qh8+ Ke7 5. Nf5#\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "r1b1r1k1/pq3p1p/1p2np1Q/3p1N2/3Rn3/6PB/P4P1P/4R1K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b1r1k1/pq3p1p/1p2np1Q/3p1N2/3Rn3/6PB/P4P1P/4R1K1 w - - 0 1"
+    },
+    {
+        "id": 2544,
+        "title": "Four Corners",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/1pK1p2P/2pppp2/4k3/2Pp1pP1/3PP3/3PP3/8 w - - 0 1\"]\r\n\r\n1. h8=Q dxe3 2. Qa8 d5 3. Qa1+ d4 4. Qh1 f5 5. Qh8#\r\n*",
+        "date": "2010-02-26",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 153,
+        "parsed": {
+            "moves": [
+                "h8=Q",
+                "dxe3",
+                "Qa8",
+                "d5",
+                "Qa1+",
+                "d4",
+                "Qh1",
+                "f5",
+                "Qh8#"
+            ],
+            "raw": "1. h8=Q dxe3 2. Qa8 d5 3. Qa1+ d4 4. Qh1 f5 5. Qh8#\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "8/1pK1p2P/2pppp2/4k3/2Pp1pP1/3PP3/3PP3/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/1pK1p2P/2pppp2/4k3/2Pp1pP1/3PP3/3PP3/8 w - - 0 1"
+    },
+    {
+        "id": 2545,
+        "title": "Mate in 8",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6kn/5pN1/5PpK/8/8/B7/8/8 w KQkq - 0 1\"]\r\n\r\n1. Kg5 Kh7 2. Ne8 Kg8 3. Nc7 Kh7 4. Bf8 Kg8 5. Bg7 Kh7 6. Nd5 Kg8 7. Kh6 g5 8. Ne7#\r\n*",
+        "date": "2010-02-27",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 157,
+        "parsed": {
+            "moves": [
+                "Kg5",
+                "Kh7",
+                "Ne8",
+                "Kg8",
+                "Nc7",
+                "Kh7",
+                "Bf8",
+                "Kg8",
+                "Bg7",
+                "Kh7",
+                "Nd5",
+                "Kg8",
+                "Kh6",
+                "g5",
+                "Ne7#"
+            ],
+            "raw": "1. Kg5 Kh7 2. Ne8 Kg8 3. Nc7 Kh7 4. Bf8 Kg8 5. Bg7 Kh7 6. Nd5 Kg8 7. Kh6 g5 8. Ne7#\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "6kn/5pN1/5PpK/8/8/B7/8/8 w KQkq - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6kn/5pN1/5PpK/8/8/B7/8/8 w KQkq - 0 1"
+    },
+    {
+        "id": 2547,
+        "title": "Staying Simple",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"b6k/7p/P2p4/1q2br1N/NP4P1/P6P/4p3/2R3K1 w - - 0 1\"]\r\n\r\n1. Rc8+\r\n*",
+        "date": "2010-02-28",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 169,
+        "parsed": {
+            "moves": [
+                "Rc8+"
+            ],
+            "raw": "1. Rc8+\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "b6k/7p/P2p4/1q2br1N/NP4P1/P6P/4p3/2R3K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=b6k/7p/P2p4/1q2br1N/NP4P1/P6P/4p3/2R3K1 w - - 0 1"
+    }
+]

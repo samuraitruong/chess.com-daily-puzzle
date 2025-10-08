@@ -1,0 +1,871 @@
+[
+    {
+        "id": 9626,
+        "title": "Fishing with Svidler",
+        "pgn": "[Event \"FIDE Online Steinitz Memorial\"]\r\n[Date \"2020.05.16\"]\r\n[Round \"10\"]\r\n[White \"Peter Svidler\"]\r\n[Black \"Magnus Carlsen\"]\r\n[Result \"*\"]\r\n[WhiteElo \"2723\"]\r\n[BlackElo \"2863\"]\r\n[FEN \"1R6/3r2pk/p5Rp/1b1p3P/1bpB4/6P1/5P2/6K1 w - - 2 47\"]\r\n\r\n47.f4 c3 48.Rxh6+ Kxh6 49.Rh8# 1-0",
+        "date": "2020-10-01",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1414,
+        "parsed": {
+            "moves": [
+                "f4",
+                "c3",
+                "Rxh6+",
+                "Kxh6",
+                "Rh8#",
+                "1-0"
+            ],
+            "raw": "47.f4 c3 48.Rxh6+ Kxh6 49.Rh8# 1-0",
+            "event": "FIDE Online Steinitz Memorial",
+            "date": "2020.05.16",
+            "round": "10",
+            "white": "Peter Svidler",
+            "black": "Magnus Carlsen",
+            "result": "*",
+            "whiteelo": "2723",
+            "blackelo": "2863",
+            "fen": "1R6/3r2pk/p5Rp/1b1p3P/1bpB4/6P1/5P2/6K1 w - - 2 47"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1R6/3r2pk/p5Rp/1b1p3P/1bpB4/6P1/5P2/6K1 w - - 2 47"
+    },
+    {
+        "id": 9638,
+        "title": "Volatile Exchanges",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2kr3r/pp3q1p/n3p1p1/8/2BbbB2/1P3P2/P5PP/2RQ1RK1 w - - 0 1\"]\r\n\r\n1.Qxd4 Qxf4 2.Qxa7 Bc6 3.Bxa6 Qd4+ 4.Qxd4 Rxd4 5.Rxc6+ *",
+        "date": "2020-10-02",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 1273,
+        "parsed": {
+            "moves": [
+                "Qxd4",
+                "Qxf4",
+                "Qxa7",
+                "Bc6",
+                "Bxa6",
+                "Qd4+",
+                "Qxd4",
+                "Rxd4",
+                "Rxc6+"
+            ],
+            "raw": "1.Qxd4 Qxf4 2.Qxa7 Bc6 3.Bxa6 Qd4+ 4.Qxd4 Rxd4 5.Rxc6+ *",
+            "result": "*",
+            "fen": "2kr3r/pp3q1p/n3p1p1/8/2BbbB2/1P3P2/P5PP/2RQ1RK1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2kr3r/pp3q1p/n3p1p1/8/2BbbB2/1P3P2/P5PP/2RQ1RK1 w - - 0 1"
+    },
+    {
+        "id": 9642,
+        "title": "Rinck Revisited",
+        "pgn": "[Date \"1916\"]\r\n[White \"Rinck, Henri\"]\r\n[Black \"Study\"]\r\n[Result \"*\"]\r\n[FEN \"5N2/p5p1/k7/P3pP2/2K3pP/6P1/4n3/8 w - - 0 1\"]\r\n\r\n1.f6 gxf6 2.h5 Nxg3 3.h6 Nf5 4.h7 Nd6+ 5.Kb4 Nf7 6.Ne6 Kb7 7.Nd8+ *",
+        "date": "2020-10-03",
+        "video": [],
+        "comment_count": 10,
+        "solved_count": 1240,
+        "parsed": {
+            "moves": [
+                "f6",
+                "gxf6",
+                "h5",
+                "Nxg3",
+                "h6",
+                "Nf5",
+                "h7",
+                "Nd6+",
+                "Kb4",
+                "Nf7",
+                "Ne6",
+                "Kb7",
+                "Nd8+"
+            ],
+            "raw": "1.f6 gxf6 2.h5 Nxg3 3.h6 Nf5 4.h7 Nd6+ 5.Kb4 Nf7 6.Ne6 Kb7 7.Nd8+ *",
+            "date": "1916",
+            "white": "Rinck, Henri",
+            "black": "Study",
+            "result": "*",
+            "fen": "5N2/p5p1/k7/P3pP2/2K3pP/6P1/4n3/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5N2/p5p1/k7/P3pP2/2K3pP/6P1/4n3/8 w - - 0 1"
+    },
+    {
+        "id": 9644,
+        "title": "Reflexive Reflection",
+        "pgn": "[Result \"*\"]\r\n[FEN \"1rbqkr2/p1p2pBQ/1p2p1p1/8/1n6/1P3N2/P1P2PPP/R3KB1R b KQ - 0 1\"]\r\n\r\n1...Nxc2+ 2.Ke2 Ba6# 0-1",
+        "date": "2020-10-04",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 1258,
+        "parsed": {
+            "moves": [
+                "Nxc2+",
+                "Ke2",
+                "Ba6#",
+                "0-1"
+            ],
+            "raw": "1...Nxc2+ 2.Ke2 Ba6# 0-1",
+            "result": "*",
+            "fen": "1rbqkr2/p1p2pBQ/1p2p1p1/8/1n6/1P3N2/P1P2PPP/R3KB1R b KQ - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1rbqkr2/p1p2pBQ/1p2p1p1/8/1n6/1P3N2/P1P2PPP/R3KB1R b KQ - 0 1"
+    },
+    {
+        "id": 9648,
+        "title": "Pushing Your Luck",
+        "pgn": "[Result \"*\"]\r\n[FEN \"5k2/4qp1p/8/3P4/6P1/Q7/K7/8 b - - 0 1\"]\r\n\r\n1...Qxa3+ 2.Kxa3 f5 3.gxf5 h5 4.Kb4 h4 5.Kc5 h3 *",
+        "date": "2020-10-05",
+        "video": [],
+        "comment_count": 6,
+        "solved_count": 1286,
+        "parsed": {
+            "moves": [
+                "Qxa3+",
+                "Kxa3",
+                "f5",
+                "gxf5",
+                "h5",
+                "Kb4",
+                "h4",
+                "Kc5",
+                "h3"
+            ],
+            "raw": "1...Qxa3+ 2.Kxa3 f5 3.gxf5 h5 4.Kb4 h4 5.Kc5 h3 *",
+            "result": "*",
+            "fen": "5k2/4qp1p/8/3P4/6P1/Q7/K7/8 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5k2/4qp1p/8/3P4/6P1/Q7/K7/8 b - - 0 1"
+    },
+    {
+        "id": 9646,
+        "title": "Clear the Decks",
+        "pgn": "[Result \"*\"]\r\n[FEN \"4r3/1k3p2/p1p5/PpPb2pQ/3q4/6BP/5RPK/8 w - - 0 1\"]\r\n\r\n1.Rxf7+ Ka8 2.Ra7+ Kxa7 3.Qxe8 *",
+        "date": "2020-10-06",
+        "video": [],
+        "comment_count": 8,
+        "solved_count": 1234,
+        "parsed": {
+            "moves": [
+                "Rxf7+",
+                "Ka8",
+                "Ra7+",
+                "Kxa7",
+                "Qxe8"
+            ],
+            "raw": "1.Rxf7+ Ka8 2.Ra7+ Kxa7 3.Qxe8 *",
+            "result": "*",
+            "fen": "4r3/1k3p2/p1p5/PpPb2pQ/3q4/6BP/5RPK/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4r3/1k3p2/p1p5/PpPb2pQ/3q4/6BP/5RPK/8 w - - 0 1"
+    },
+    {
+        "id": 9634,
+        "title": "The Middle of Nowhere",
+        "pgn": "[Result \"*\"]\r\n[FEN \"rn2kb1r/1b1n1pp1/p3N3/1p2q1Bp/6Q1/8/PPP3PP/2KR1B1R w kq - 0 1\"]\r\n\r\n1.Nc7+ Qxc7 2.Qe2+ Ne5 3.Qxe5+ Qxe5 4.Rd8# *",
+        "date": "2020-10-07",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 1216,
+        "parsed": {
+            "moves": [
+                "Nc7+",
+                "Qxc7",
+                "Qe2+",
+                "Ne5",
+                "Qxe5+",
+                "Qxe5",
+                "Rd8#"
+            ],
+            "raw": "1.Nc7+ Qxc7 2.Qe2+ Ne5 3.Qxe5+ Qxe5 4.Rd8# *",
+            "result": "*",
+            "fen": "rn2kb1r/1b1n1pp1/p3N3/1p2q1Bp/6Q1/8/PPP3PP/2KR1B1R w kq - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=rn2kb1r/1b1n1pp1/p3N3/1p2q1Bp/6Q1/8/PPP3PP/2KR1B1R w kq - 0 1"
+    },
+    {
+        "id": 9636,
+        "title": "Light Square Reflections",
+        "pgn": "[Result \"*\"]\r\n[FEN \"5rk1/3b1r2/4p2p/4B1pq/p2PQ3/P2B4/1P4PP/5RK1 b - - 0 1\"]\r\n\r\n1...Rxf1+ 2.Bxf1 Bb5 3.Be2 Bxe2 *",
+        "date": "2020-10-08",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1208,
+        "parsed": {
+            "moves": [
+                "Rxf1+",
+                "Bxf1",
+                "Bb5",
+                "Be2",
+                "Bxe2"
+            ],
+            "raw": "1...Rxf1+ 2.Bxf1 Bb5 3.Be2 Bxe2 *",
+            "result": "*",
+            "fen": "5rk1/3b1r2/4p2p/4B1pq/p2PQ3/P2B4/1P4PP/5RK1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5rk1/3b1r2/4p2p/4B1pq/p2PQ3/P2B4/1P4PP/5RK1 b - - 0 1"
+    },
+    {
+        "id": 9640,
+        "title": "Sensitive Exposure",
+        "pgn": "[Result \"*\"]\r\n[FEN \"1r2kr2/pQ6/2np4/3N1q1p/7P/8/PbP3B1/1K1R4 w - - 0 1\"]\r\n\r\n1.Nf6+ Bxf6 2.Bxc6+ Qd7 3.Qxb8+ *",
+        "date": "2020-10-09",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1200,
+        "parsed": {
+            "moves": [
+                "Nf6+",
+                "Bxf6",
+                "Bxc6+",
+                "Qd7",
+                "Qxb8+"
+            ],
+            "raw": "1.Nf6+ Bxf6 2.Bxc6+ Qd7 3.Qxb8+ *",
+            "result": "*",
+            "fen": "1r2kr2/pQ6/2np4/3N1q1p/7P/8/PbP3B1/1K1R4 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r2kr2/pQ6/2np4/3N1q1p/7P/8/PbP3B1/1K1R4 w - - 0 1"
+    },
+    {
+        "id": 9650,
+        "title": "Vitaly's Adventure",
+        "pgn": "[Date \"1925\"]\r\n[White \"Halberstadt, Vitaly\"]\r\n[Black \"Study\"]\r\n[Result \"*\"]\r\n[SetUp \"1\"]\r\n[FEN \"8/1p6/4pN1q/K1k5/8/8/8/5Q2 w - - 0 1\"]\r\n\r\n1.Qf2+ Kc4 2.Qc2+ Kd4 3.Kb4 Qf8+ 4.Kb3 Ke3 5.Ng4+ Kf3 6.Qf2+ Kxg4 7.Qxf8 *",
+        "date": "2020-10-10",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 1182,
+        "parsed": {
+            "moves": [
+                "Qf2+",
+                "Kc4",
+                "Qc2+",
+                "Kd4",
+                "Kb4",
+                "Qf8+",
+                "Kb3",
+                "Ke3",
+                "Ng4+",
+                "Kf3",
+                "Qf2+",
+                "Kxg4",
+                "Qxf8"
+            ],
+            "raw": "1.Qf2+ Kc4 2.Qc2+ Kd4 3.Kb4 Qf8+ 4.Kb3 Ke3 5.Ng4+ Kf3 6.Qf2+ Kxg4 7.Qxf8 *",
+            "date": "1925",
+            "white": "Halberstadt, Vitaly",
+            "black": "Study",
+            "result": "*",
+            "setup": "1",
+            "fen": "8/1p6/4pN1q/K1k5/8/8/8/5Q2 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/1p6/4pN1q/K1k5/8/8/8/5Q2 w - - 0 1"
+    },
+    {
+        "id": 9652,
+        "title": "Reading Between the Lines",
+        "pgn": "[Result \"*\"]\r\n[FEN \"1q2r1k1/3RBp1p/1r4p1/3Q4/pP3b2/P4P1P/5PK1/8 w - - 0 1\"]\r\n\r\n1.Bd6 Re6 2.Bxb8 *",
+        "date": "2020-10-11",
+        "video": [],
+        "comment_count": 6,
+        "solved_count": 1198,
+        "parsed": {
+            "moves": [
+                "Bd6",
+                "Re6",
+                "Bxb8"
+            ],
+            "raw": "1.Bd6 Re6 2.Bxb8 *",
+            "result": "*",
+            "fen": "1q2r1k1/3RBp1p/1r4p1/3Q4/pP3b2/P4P1P/5PK1/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1q2r1k1/3RBp1p/1r4p1/3Q4/pP3b2/P4P1P/5PK1/8 w - - 0 1"
+    },
+    {
+        "id": 9654,
+        "title": "Soaring Above the Clouds",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r3rb1k/pb3ppp/5p1N/2p2P1Q/1pP5/1P6/qB4PP/5RK1 w - - 0 1\"]\r\n\r\n1.Qxf7 Bd6 2.Qg8+ Rxg8 3.Nf7# *",
+        "date": "2020-10-12",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1193,
+        "parsed": {
+            "moves": [
+                "Qxf7",
+                "Bd6",
+                "Qg8+",
+                "Rxg8",
+                "Nf7#"
+            ],
+            "raw": "1.Qxf7 Bd6 2.Qg8+ Rxg8 3.Nf7# *",
+            "result": "*",
+            "fen": "r3rb1k/pb3ppp/5p1N/2p2P1Q/1pP5/1P6/qB4PP/5RK1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r3rb1k/pb3ppp/5p1N/2p2P1Q/1pP5/1P6/qB4PP/5RK1 w - - 0 1"
+    },
+    {
+        "id": 9656,
+        "title": "Tipping the Ballast",
+        "pgn": "[Result \"*\"]\r\n[FEN \"r1b3k1/1q3pb1/p2n2pp/4R1N1/1pP2n2/1P6/1B2QPPP/4R1K1 w - - 0 1\"]\r\n\r\n1.Re8+ Nxe8 2.Qxe8+ Bf8 3.Qxf8+ Kxf8 4.Nh7+ Kg8 5.Re8+ Kxh7 6.Rh8# *",
+        "date": "2020-10-13",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 1175,
+        "parsed": {
+            "moves": [
+                "Re8+",
+                "Nxe8",
+                "Qxe8+",
+                "Bf8",
+                "Qxf8+",
+                "Kxf8",
+                "Nh7+",
+                "Kg8",
+                "Re8+",
+                "Kxh7",
+                "Rh8#"
+            ],
+            "raw": "1.Re8+ Nxe8 2.Qxe8+ Bf8 3.Qxf8+ Kxf8 4.Nh7+ Kg8 5.Re8+ Kxh7 6.Rh8# *",
+            "result": "*",
+            "fen": "r1b3k1/1q3pb1/p2n2pp/4R1N1/1pP2n2/1P6/1B2QPPP/4R1K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b3k1/1q3pb1/p2n2pp/4R1N1/1pP2n2/1P6/1B2QPPP/4R1K1 w - - 0 1"
+    },
+    {
+        "id": 9658,
+        "title": "The Straight and Narrow",
+        "pgn": "[Result \"*\"]\r\n[FEN \"7Q/p4K2/P7/8/8/8/kq6/8 w - - 0 1\"]\r\n\r\n1.Qxb2+ Kxb2 2.Ke6 Kc3 3.Kd5 Kd3 4.Kc6 Kd4 5.Kb7 Kc5 6.Kxa7 Kc6 7.Kb8 *",
+        "date": "2020-10-14",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 1167,
+        "parsed": {
+            "moves": [
+                "Qxb2+",
+                "Kxb2",
+                "Ke6",
+                "Kc3",
+                "Kd5",
+                "Kd3",
+                "Kc6",
+                "Kd4",
+                "Kb7",
+                "Kc5",
+                "Kxa7",
+                "Kc6",
+                "Kb8"
+            ],
+            "raw": "1.Qxb2+ Kxb2 2.Ke6 Kc3 3.Kd5 Kd3 4.Kc6 Kd4 5.Kb7 Kc5 6.Kxa7 Kc6 7.Kb8 *",
+            "result": "*",
+            "fen": "7Q/p4K2/P7/8/8/8/kq6/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7Q/p4K2/P7/8/8/8/kq6/8 w - - 0 1"
+    },
+    {
+        "id": 9660,
+        "title": "Downpour",
+        "pgn": "[Result \"*\"]\r\n[FEN \"k2rn1r1/1p1b4/3p4/1P3p1q/2NNpbn1/8/5BPP/1R2R1QK w - - 0 1\"]\r\n\r\n1.Ra1+ Kb8 2.Ra8+ Kxa8 3.Ra1+ Kb8 4.Ra8+ Kxa8 5.Qa1+ Kb8 6.Qa7+ Kxa7 7.\r\nNc6+ Ka8 8.Nb6# *",
+        "date": "2020-10-15",
+        "video": [],
+        "comment_count": 9,
+        "solved_count": 1170,
+        "parsed": {
+            "moves": [
+                "Ra1+",
+                "Kb8",
+                "Ra8+",
+                "Kxa8",
+                "Ra1+",
+                "Kb8",
+                "Ra8+",
+                "Kxa8",
+                "Qa1+",
+                "Kb8",
+                "Qa7+",
+                "Kxa7",
+                "Nc6+",
+                "Ka8",
+                "Nb6#"
+            ],
+            "raw": "1.Ra1+ Kb8 2.Ra8+ Kxa8 3.Ra1+ Kb8 4.Ra8+ Kxa8 5.Qa1+ Kb8 6.Qa7+ Kxa7 7.\r\nNc6+ Ka8 8.Nb6# *",
+            "result": "*",
+            "fen": "k2rn1r1/1p1b4/3p4/1P3p1q/2NNpbn1/8/5BPP/1R2R1QK w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=k2rn1r1/1p1b4/3p4/1P3p1q/2NNpbn1/8/5BPP/1R2R1QK w - - 0 1"
+    },
+    {
+        "id": 9664,
+        "title": "Persistent Shadow",
+        "pgn": "[Result \"*\"]\r\n[FEN \"4K2R/2p5/3k1rq1/3P4/1P4p1/3Q4/2P5/8 w - - 0 1\"]\r\n\r\n1.Qxg6 Rxg6 2.Kf7 Rg5 3.Kf6 Rxd5 4.c4 Rd4 5.Rd8+ Kc6 6.Rxd4 *",
+        "date": "2020-10-16",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 1162,
+        "parsed": {
+            "moves": [
+                "Qxg6",
+                "Rxg6",
+                "Kf7",
+                "Rg5",
+                "Kf6",
+                "Rxd5",
+                "c4",
+                "Rd4",
+                "Rd8+",
+                "Kc6",
+                "Rxd4"
+            ],
+            "raw": "1.Qxg6 Rxg6 2.Kf7 Rg5 3.Kf6 Rxd5 4.c4 Rd4 5.Rd8+ Kc6 6.Rxd4 *",
+            "result": "*",
+            "fen": "4K2R/2p5/3k1rq1/3P4/1P4p1/3Q4/2P5/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4K2R/2p5/3k1rq1/3P4/1P4p1/3Q4/2P5/8 w - - 0 1"
+    },
+    {
+        "id": 9662,
+        "title": "Fortress Unrealized",
+        "pgn": "[White \"Kasparian,  Genrikh\"]\r\n[Black \"Study\"]\r\n[Result \"*\"]\r\n[FEN \"n3K3/P7/8/8/4k3/8/7b/6R1 w - - 0 1\"]\r\n\r\n1.Rg8 Bc7 2.Kd7 Bb6 3.Re8+ Kd4 4.Kc6 Bxa7 5.Rxa8 Bc5 6.Ra4+ Kd3 7.Kxc5 *",
+        "date": "2020-10-17",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1147,
+        "parsed": {
+            "moves": [
+                "Rg8",
+                "Bc7",
+                "Kd7",
+                "Bb6",
+                "Re8+",
+                "Kd4",
+                "Kc6",
+                "Bxa7",
+                "Rxa8",
+                "Bc5",
+                "Ra4+",
+                "Kd3",
+                "Kxc5"
+            ],
+            "raw": "1.Rg8 Bc7 2.Kd7 Bb6 3.Re8+ Kd4 4.Kc6 Bxa7 5.Rxa8 Bc5 6.Ra4+ Kd3 7.Kxc5 *",
+            "white": "Kasparian,  Genrikh",
+            "black": "Study",
+            "result": "*",
+            "fen": "n3K3/P7/8/8/4k3/8/7b/6R1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=n3K3/P7/8/8/4k3/8/7b/6R1 w - - 0 1"
+    },
+    {
+        "id": 9666,
+        "title": "When in Riga...",
+        "pgn": "[Event \"Riga Technical University Open\"]\r\n[Site \"Riga LAT\"]\r\n[Date \"2014.08.23\"]\r\n[Round \"8.2\"]\r\n[White \"Benjamin Bok\"]\r\n[Black \"Richard Rapport\"]\r\n[Result \"*\"]\r\n[FEN \"5Bk1/1p3pp1/2p2n1p/4rq2/P3p3/2Q2nP1/BPP1RPKP/5R2 b - - 0 24\"]\r\n\r\n24...Qh3+ 25.Kxh3 Rh5+ 26.Kg2 Rxh2# *",
+        "date": "2020-10-18",
+        "video": [],
+        "comment_count": 6,
+        "solved_count": 1164,
+        "parsed": {
+            "moves": [
+                "Qh3+",
+                "Kxh3",
+                "Rh5+",
+                "Kg2",
+                "Rxh2#"
+            ],
+            "raw": "24...Qh3+ 25.Kxh3 Rh5+ 26.Kg2 Rxh2# *",
+            "event": "Riga Technical University Open",
+            "site": "Riga LAT",
+            "date": "2014.08.23",
+            "round": "8.2",
+            "white": "Benjamin Bok",
+            "black": "Richard Rapport",
+            "result": "*",
+            "fen": "5Bk1/1p3pp1/2p2n1p/4rq2/P3p3/2Q2nP1/BPP1RPKP/5R2 b - - 0 24"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5Bk1/1p3pp1/2p2n1p/4rq2/P3p3/2Q2nP1/BPP1RPKP/5R2 b - - 0 24"
+    },
+    {
+        "id": 9668,
+        "title": "Loose Pin",
+        "pgn": "[Result \"*\"]\r\n[FEN \"1kb1R3/p1b5/P7/1p4qp/1P1P4/7P/5PQP/6K1 b - - 0 1\"]\r\n\r\n1...Qc1+ 2.Qf1 Bxh2+ 3.Kg2 Qc6+ 4.Kxh2 Qxe8 *",
+        "date": "2020-10-19",
+        "video": [],
+        "comment_count": 10,
+        "solved_count": 1153,
+        "parsed": {
+            "moves": [
+                "Qc1+",
+                "Qf1",
+                "Bxh2+",
+                "Kg2",
+                "Qc6+",
+                "Kxh2",
+                "Qxe8"
+            ],
+            "raw": "1...Qc1+ 2.Qf1 Bxh2+ 3.Kg2 Qc6+ 4.Kxh2 Qxe8 *",
+            "result": "*",
+            "fen": "1kb1R3/p1b5/P7/1p4qp/1P1P4/7P/5PQP/6K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1kb1R3/p1b5/P7/1p4qp/1P1P4/7P/5PQP/6K1 b - - 0 1"
+    },
+    {
+        "id": 9670,
+        "title": "Ballroom Blitz",
+        "pgn": "[Event \"World Blitz Championship\"]\r\n[Site \"Doha QAT\"]\r\n[Date \"2016.12.30\"]\r\n[Round \"18.42\"]\r\n[White \"Pavel Tregubov\"]\r\n[Black \"Rasmus Svane\"]\r\n[Result \"*\"]\r\n[WhiteElo \"2585\"]\r\n[BlackElo \"2555\"]\r\n[ECO \"D10\"]\r\n[EventDate \"2016.12.29\"]\r\n[PlyCount \"60\"]\r\n[FEN \"6k1/pp2b1pp/1q2p3/3pP2b/3Nn3/P2BQP2/1P4PP/4N1K1 b - - 0 27\"]\r\n\r\n27...Bg5 28.f4 Bxf4 29.Qxf4 Qxd4+ 30.Kf1 g5 *",
+        "date": "2020-10-20",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1148,
+        "parsed": {
+            "moves": [
+                "Bg5",
+                "f4",
+                "Bxf4",
+                "Qxf4",
+                "Qxd4+",
+                "Kf1",
+                "g5"
+            ],
+            "raw": "27...Bg5 28.f4 Bxf4 29.Qxf4 Qxd4+ 30.Kf1 g5 *",
+            "event": "World Blitz Championship",
+            "site": "Doha QAT",
+            "date": "2016.12.30",
+            "round": "18.42",
+            "white": "Pavel Tregubov",
+            "black": "Rasmus Svane",
+            "result": "*",
+            "whiteelo": "2585",
+            "blackelo": "2555",
+            "eco": "D10",
+            "eventdate": "2016.12.29",
+            "plycount": "60",
+            "fen": "6k1/pp2b1pp/1q2p3/3pP2b/3Nn3/P2BQP2/1P4PP/4N1K1 b - - 0 27"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/pp2b1pp/1q2p3/3pP2b/3Nn3/P2BQP2/1P4PP/4N1K1 b - - 0 27"
+    },
+    {
+        "id": 9676,
+        "title": "The Old Stomping Ground",
+        "pgn": "[Result \"*\"]\r\n[FEN \"k1r2r2/pp6/4NN2/2p5/1qn2Q2/8/PP6/K4R2 w - - 0 1\"]\r\n\r\n1.Qb8+ Kxb8 2.Nd7+ Ka8 3.Nc7+ Rxc7 4.Rxf8+ Rc8 5.Rxc8# *",
+        "date": "2020-10-21",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1133,
+        "parsed": {
+            "moves": [
+                "Qb8+",
+                "Kxb8",
+                "Nd7+",
+                "Ka8",
+                "Nc7+",
+                "Rxc7",
+                "Rxf8+",
+                "Rc8",
+                "Rxc8#"
+            ],
+            "raw": "1.Qb8+ Kxb8 2.Nd7+ Ka8 3.Nc7+ Rxc7 4.Rxf8+ Rc8 5.Rxc8# *",
+            "result": "*",
+            "fen": "k1r2r2/pp6/4NN2/2p5/1qn2Q2/8/PP6/K4R2 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=k1r2r2/pp6/4NN2/2p5/1qn2Q2/8/PP6/K4R2 w - - 0 1"
+    },
+    {
+        "id": 9672,
+        "title": "Missed Opportunity",
+        "pgn": "[Event \"Chess Olympiad\"]\r\n[Site \"Manila PHI\"]\r\n[Date \"1992.06.12\"]\r\n[Round \"5\"]\r\n[White \"Alexey Shirov\"]\r\n[Black \"Garry Kasparov\"]\r\n[Result \"0-1\"]\r\n[ECO \"E98\"]\r\n[PlyCount \"124\"]\r\n[FEN \"6rk/6b1/p7/3P1Nq1/P3P2p/4Qp2/1P1r1RP1/R5K1 b - - 5 35\"]\r\n\r\n35...Bd4 36.Qxg5 Bxf2+ 37.Kh1 Rxg5 *",
+        "date": "2020-10-22",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 1135,
+        "parsed": {
+            "moves": [
+                "Bd4",
+                "Qxg5",
+                "Bxf2+",
+                "Kh1",
+                "Rxg5"
+            ],
+            "raw": "35...Bd4 36.Qxg5 Bxf2+ 37.Kh1 Rxg5 *",
+            "event": "Chess Olympiad",
+            "site": "Manila PHI",
+            "date": "1992.06.12",
+            "round": "5",
+            "white": "Alexey Shirov",
+            "black": "Garry Kasparov",
+            "result": "0-1",
+            "eco": "E98",
+            "plycount": "124",
+            "fen": "6rk/6b1/p7/3P1Nq1/P3P2p/4Qp2/1P1r1RP1/R5K1 b - - 5 35"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6rk/6b1/p7/3P1Nq1/P3P2p/4Qp2/1P1r1RP1/R5K1 b - - 5 35"
+    },
+    {
+        "id": 9678,
+        "title": "Endgame Building Blocks",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/4pp2/8/4PPk1/2PR2n1/8/7K/8 w - - 0 1\"]\r\n\r\n1.Rxg4+ Kxg4 2.f6 exf6 3.e6 fxe6 4.c5 e5 5.c6 *",
+        "date": "2020-10-23",
+        "video": [],
+        "comment_count": 6,
+        "solved_count": 1132,
+        "parsed": {
+            "moves": [
+                "Rxg4+",
+                "Kxg4",
+                "f6",
+                "exf6",
+                "e6",
+                "fxe6",
+                "c5",
+                "e5",
+                "c6"
+            ],
+            "raw": "1.Rxg4+ Kxg4 2.f6 exf6 3.e6 fxe6 4.c5 e5 5.c6 *",
+            "result": "*",
+            "fen": "8/4pp2/8/4PPk1/2PR2n1/8/7K/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/4pp2/8/4PPk1/2PR2n1/8/7K/8 w - - 0 1"
+    },
+    {
+        "id": 9680,
+        "title": "Distant Dreams",
+        "pgn": "[Date \"1913\"]\r\n[White \"Grigoriev, Nikolai\"]\r\n[Black \"Study\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/7p/K5p1/8/k7/6PP/8 w - - 0 1\"]\r\n\r\n1.g4 Kb2 2.Kb6 Kb3 3.Kb5 Kc2 4.Kc6 Kc3 5.Kc5 Kd2 6.Kd6 Kd3 7.Kd5 Ke2 8.Ke6\r\nKe3 9.Ke5 Kf2 10.Kf6 Kf3 11.Kf5 Kg2 12.Kg6 Kh3 13.Kh5 Kxh2 14.Kxh6 Kg3 15.\r\nKxg5 *",
+        "date": "2020-10-24",
+        "video": [],
+        "comment_count": 8,
+        "solved_count": 1139,
+        "parsed": {
+            "moves": [
+                "g4",
+                "Kb2",
+                "Kb6",
+                "Kb3",
+                "Kb5",
+                "Kc2",
+                "Kc6",
+                "Kc3",
+                "Kc5",
+                "Kd2",
+                "Kd6",
+                "Kd3",
+                "Kd5",
+                "Ke2",
+                "Ke6",
+                "Ke3",
+                "Ke5",
+                "Kf2",
+                "Kf6",
+                "Kf3",
+                "Kf5",
+                "Kg2",
+                "Kg6",
+                "Kh3",
+                "Kh5",
+                "Kxh2",
+                "Kxh6",
+                "Kg3",
+                "Kxg5"
+            ],
+            "raw": "1.g4 Kb2 2.Kb6 Kb3 3.Kb5 Kc2 4.Kc6 Kc3 5.Kc5 Kd2 6.Kd6 Kd3 7.Kd5 Ke2 8.Ke6\r\nKe3 9.Ke5 Kf2 10.Kf6 Kf3 11.Kf5 Kg2 12.Kg6 Kh3 13.Kh5 Kxh2 14.Kxh6 Kg3 15.\r\nKxg5 *",
+            "date": "1913",
+            "white": "Grigoriev, Nikolai",
+            "black": "Study",
+            "result": "*",
+            "fen": "8/8/7p/K5p1/8/k7/6PP/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/7p/K5p1/8/k7/6PP/8 w - - 0 1"
+    },
+    {
+        "id": 9674,
+        "title": "Nihal's Night",
+        "pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2020.10.07\"]\r\n[Round \"24\"]\r\n[White \"mishanick\"]\r\n[Black \"nihalsarin\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/1N6/p7/PpP5/1K2n3/8/1k6 b - - 1 80\"]\r\n\r\n80...Nf1 81.c5 Nd2# *",
+        "date": "2020-10-25",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 1166,
+        "parsed": {
+            "moves": [
+                "Nf1",
+                "c5",
+                "Nd2#"
+            ],
+            "raw": "80...Nf1 81.c5 Nd2# *",
+            "event": "Live Chess",
+            "site": "Chess.com",
+            "date": "2020.10.07",
+            "round": "24",
+            "white": "mishanick",
+            "black": "nihalsarin",
+            "result": "*",
+            "fen": "8/8/1N6/p7/PpP5/1K2n3/8/1k6 b - - 1 80"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/1N6/p7/PpP5/1K2n3/8/1k6 b - - 1 80"
+    },
+    {
+        "id": 9682,
+        "title": "Dropped Call",
+        "pgn": "[Result \"*\"]\r\n[FEN \"rn2k2r/p1p1n2p/bp2p1p1/3pPpN1/3P3q/2NBQP2/PPPK2PP/R6R b kq - 0 1\"]\r\n\r\n1...f4 2.Qe2 Bxd3 3.Qxd3 Qxg5 *",
+        "date": "2020-10-26",
+        "video": [],
+        "comment_count": 6,
+        "solved_count": 1143,
+        "parsed": {
+            "moves": [
+                "f4",
+                "Qe2",
+                "Bxd3",
+                "Qxd3",
+                "Qxg5"
+            ],
+            "raw": "1...f4 2.Qe2 Bxd3 3.Qxd3 Qxg5 *",
+            "result": "*",
+            "fen": "rn2k2r/p1p1n2p/bp2p1p1/3pPpN1/3P3q/2NBQP2/PPPK2PP/R6R b kq - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=rn2k2r/p1p1n2p/bp2p1p1/3pPpN1/3P3q/2NBQP2/PPPK2PP/R6R b kq - 0 1"
+    },
+    {
+        "id": 9684,
+        "title": "Precarious Tension",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2k1r3/pp1r2pp/8/2N5/1n6/3p4/PPP2PPP/R3R1K1 b - - 0 1\"]\r\n\r\n1...Rxe1+ 2.Rxe1 dxc2 3.Nxd7 Nd3 4.Rf1 Kxd7 *",
+        "date": "2020-10-27",
+        "video": [],
+        "comment_count": 6,
+        "solved_count": 1140,
+        "parsed": {
+            "moves": [
+                "Rxe1+",
+                "Rxe1",
+                "dxc2",
+                "Nxd7",
+                "Nd3",
+                "Rf1",
+                "Kxd7"
+            ],
+            "raw": "1...Rxe1+ 2.Rxe1 dxc2 3.Nxd7 Nd3 4.Rf1 Kxd7 *",
+            "result": "*",
+            "fen": "2k1r3/pp1r2pp/8/2N5/1n6/3p4/PPP2PPP/R3R1K1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2k1r3/pp1r2pp/8/2N5/1n6/3p4/PPP2PPP/R3R1K1 b - - 0 1"
+    },
+    {
+        "id": 9686,
+        "title": "The Long and Short of It",
+        "pgn": "[Event \"Gibtelecom Chess Festival\"]\r\n[Site \"Gibraltar\"]\r\n[Date \"2006.01.28\"]\r\n[Round \"5.12\"]\r\n[White \"Nigel Short\"]\r\n[Black \"Natalia Zhukova\"]\r\n[Result \"*\"]\r\n[WhiteElo \"2676\"]\r\n[BlackElo \"2432\"]\r\n[ECO \"C11\"]\r\n[EventDate \"2006.01.24\"]\r\n[PlyCount \"51\"]\r\n[FEN \"r1b2rk1/5pb1/p1n1p3/4q3/4NB1R/3p4/1PP1Q1PP/5RK1 w - - 0 25\"]\r\n\r\n25.Bxe5 dxe2 26.Nf6+ Bxf6 27.Bxf6 exf1=Q+ 28.Kxf1 Ne7 29.Rh8# *",
+        "date": "2020-10-28",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 1137,
+        "parsed": {
+            "moves": [
+                "Bxe5",
+                "dxe2",
+                "Nf6+",
+                "Bxf6",
+                "Bxf6",
+                "exf1=Q+",
+                "Kxf1",
+                "Ne7",
+                "Rh8#"
+            ],
+            "raw": "25.Bxe5 dxe2 26.Nf6+ Bxf6 27.Bxf6 exf1=Q+ 28.Kxf1 Ne7 29.Rh8# *",
+            "event": "Gibtelecom Chess Festival",
+            "site": "Gibraltar",
+            "date": "2006.01.28",
+            "round": "5.12",
+            "white": "Nigel Short",
+            "black": "Natalia Zhukova",
+            "result": "*",
+            "whiteelo": "2676",
+            "blackelo": "2432",
+            "eco": "C11",
+            "eventdate": "2006.01.24",
+            "plycount": "51",
+            "fen": "r1b2rk1/5pb1/p1n1p3/4q3/4NB1R/3p4/1PP1Q1PP/5RK1 w - - 0 25"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b2rk1/5pb1/p1n1p3/4q3/4NB1R/3p4/1PP1Q1PP/5RK1 w - - 0 25"
+    },
+    {
+        "id": 9688,
+        "title": "Photo Finish",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3B4/8/3p4/5k2/1P6/5p1N/3K4/6r1 w - - 0 1\"]\r\n\r\n1.Nxg1 f2 2.Ne2 Kg4 3.Ng3 Kxg3 4.Bh4+ Kxh4 5.Ke2 Kg3 6.Kf1 d5 7.b5 d4 8.b6\r\nd3 9.b7 d2 10.b8=Q+ *",
+        "date": "2020-10-29",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 1132,
+        "parsed": {
+            "moves": [
+                "Nxg1",
+                "f2",
+                "Ne2",
+                "Kg4",
+                "Ng3",
+                "Kxg3",
+                "Bh4+",
+                "Kxh4",
+                "Ke2",
+                "Kg3",
+                "Kf1",
+                "d5",
+                "b5",
+                "d4",
+                "b6",
+                "d3",
+                "b7",
+                "d2",
+                "b8=Q+"
+            ],
+            "raw": "1.Nxg1 f2 2.Ne2 Kg4 3.Ng3 Kxg3 4.Bh4+ Kxh4 5.Ke2 Kg3 6.Kf1 d5 7.b5 d4 8.b6\r\nd3 9.b7 d2 10.b8=Q+ *",
+            "result": "*",
+            "fen": "3B4/8/3p4/5k2/1P6/5p1N/3K4/6r1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3B4/8/3p4/5k2/1P6/5p1N/3K4/6r1 w - - 0 1"
+    },
+    {
+        "id": 9692,
+        "title": "The Tragedy of a Single Tempo",
+        "pgn": "[Date \"1921\"]\r\n[White \"De Barbieri\"]\r\n[Black \"Composition\"]\r\n[Result \"*\"]\r\n[SetUp \"1\"]\r\n[FEN \"1br5/2r5/8/4B2n/1pN5/1P5N/2B3p1/2K2k2 w - - 0 1\"]\r\n\r\n1.Bd3+ Ke1 2.Bc3+ bxc3 3.Ne3 Nf4 4.Nc2# *",
+        "date": "2020-10-30",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 1138,
+        "parsed": {
+            "moves": [
+                "Bd3+",
+                "Ke1",
+                "Bc3+",
+                "bxc3",
+                "Ne3",
+                "Nf4",
+                "Nc2#"
+            ],
+            "raw": "1.Bd3+ Ke1 2.Bc3+ bxc3 3.Ne3 Nf4 4.Nc2# *",
+            "date": "1921",
+            "white": "De Barbieri",
+            "black": "Composition",
+            "result": "*",
+            "setup": "1",
+            "fen": "1br5/2r5/8/4B2n/1pN5/1P5N/2B3p1/2K2k2 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1br5/2r5/8/4B2n/1pN5/1P5N/2B3p1/2K2k2 w - - 0 1"
+    },
+    {
+        "id": 9694,
+        "title": "Trick or Treat",
+        "pgn": "[Result \"*\"]\r\n[FEN \"4r1k1/3b4/Q5p1/1pBP4/1P3Pq1/3R4/P5BP/4b1K1 b - - 1 1\"]\r\n\r\n1...Re2 2.Qa8+ Bc8 3.d6 Bh4 4.Rd1 Rxg2+ 5.Qxg2 Qxd1+ *",
+        "date": "2020-10-31",
+        "video": [],
+        "comment_count": 9,
+        "solved_count": 1282,
+        "parsed": {
+            "moves": [
+                "Re2",
+                "Qa8+",
+                "Bc8",
+                "d6",
+                "Bh4",
+                "Rd1",
+                "Rxg2+",
+                "Qxg2",
+                "Qxd1+"
+            ],
+            "raw": "1...Re2 2.Qa8+ Bc8 3.d6 Bh4 4.Rd1 Rxg2+ 5.Qxg2 Qxd1+ *",
+            "result": "*",
+            "fen": "4r1k1/3b4/Q5p1/1pBP4/1P3Pq1/3R4/P5BP/4b1K1 b - - 1 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4r1k1/3b4/Q5p1/1pBP4/1P3Pq1/3R4/P5BP/4b1K1 b - - 1 1"
+    }
+]

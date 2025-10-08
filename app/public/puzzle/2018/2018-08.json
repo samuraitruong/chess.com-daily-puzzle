@@ -1,0 +1,744 @@
+[
+    {
+        "id": 8008,
+        "title": "No Need To Worry",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1bq3r/p2n2bQ/1p3kB1/2pp1P2/3P4/2P5/P5PP/R1B2RK1 w - - 0 1\"]\r\n\r\n1. h4 Rxh7 2. Bg5#\r\n*",
+        "date": "2018-08-01",
+        "video": [],
+        "comment_count": 7,
+        "solved_count": 504,
+        "parsed": {
+            "moves": [
+                "h4",
+                "Rxh7",
+                "Bg5#"
+            ],
+            "raw": "1. h4 Rxh7 2. Bg5#\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "r1bq3r/p2n2bQ/1p3kB1/2pp1P2/3P4/2P5/P5PP/R1B2RK1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1bq3r/p2n2bQ/1p3kB1/2pp1P2/3P4/2P5/P5PP/R1B2RK1 w - - 0 1"
+    },
+    {
+        "id": 8010,
+        "title": "Fischer-Sanchez, Santiago 1959",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r5/2P4R/p3kp1p/n3pNpP/1b2P1P1/4B3/5P2/6K1 w - - 0 1\"]\r\n\r\n1. Bd2 Bf8 2. Bxa5\r\n*",
+        "date": "2018-08-02",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 425,
+        "parsed": {
+            "moves": [
+                "Bd2",
+                "Bf8",
+                "Bxa5"
+            ],
+            "raw": "1. Bd2 Bf8 2. Bxa5\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "2r5/2P4R/p3kp1p/n3pNpP/1b2P1P1/4B3/5P2/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r5/2P4R/p3kp1p/n3pNpP/1b2P1P1/4B3/5P2/6K1 w - - 0 1"
+    },
+    {
+        "id": 8012,
+        "title": "Darko Hlebec, Mat Plus 2008",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"kbBqb3/P1p1PP2/pP4p1/P5p1/1n4P1/1r4PK/6pn/1Q1r4 w - - 0 1\"]\r\n\r\n1. Bb7+ Kxb7 2. exd8=N+ Rxd8 3. fxe8=Q Rxe8 4. Qxb3 g1=R 5. Qf3+ Nxf3 6.\r\na8=B+ Kc8 7. b7+\r\n*",
+        "date": "2018-08-03",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 410,
+        "parsed": {
+            "moves": [
+                "Bb7+",
+                "Kxb7",
+                "exd8=N+",
+                "Rxd8",
+                "fxe8=Q",
+                "Rxe8",
+                "Qxb3",
+                "g1=R",
+                "Qf3+",
+                "Nxf3",
+                "a8=B+",
+                "Kc8",
+                "b7+"
+            ],
+            "raw": "1. Bb7+ Kxb7 2. exd8=N+ Rxd8 3. fxe8=Q Rxe8 4. Qxb3 g1=R 5. Qf3+ Nxf3 6.\r\na8=B+ Kc8 7. b7+\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "kbBqb3/P1p1PP2/pP4p1/P5p1/1n4P1/1r4PK/6pn/1Q1r4 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=kbBqb3/P1p1PP2/pP4p1/P5p1/1n4P1/1r4PK/6pn/1Q1r4 w - - 0 1"
+    },
+    {
+        "id": 8014,
+        "title": "V.Korolkov, 1951",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"4knrr/2p2p1p/P1P5/3N1K2/8/8/8/8 w k - 0 1\"]\r\n\r\n1. a7 Rg5+ 2. Kxg5 Ne6+ 3. Kh6 O-O 4. Ne7+ Kh8 5. Ng6+ fxg6 6. a8=Q\r\n*",
+        "date": "2018-08-04",
+        "video": [],
+        "comment_count": 5,
+        "solved_count": 410,
+        "parsed": {
+            "moves": [
+                "a7",
+                "Rg5+",
+                "Kxg5",
+                "Ne6+",
+                "Kh6",
+                "O-O",
+                "Ne7+",
+                "Kh8",
+                "Ng6+",
+                "fxg6",
+                "a8=Q"
+            ],
+            "raw": "1. a7 Rg5+ 2. Kxg5 Ne6+ 3. Kh6 O-O 4. Ne7+ Kh8 5. Ng6+ fxg6 6. a8=Q\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "4knrr/2p2p1p/P1P5/3N1K2/8/8/8/8 w k - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4knrr/2p2p1p/P1P5/3N1K2/8/8/8/8 w k - 0 1"
+    },
+    {
+        "id": 8016,
+        "title": "Securing The Promotion",
+        "pgn": "[Event \"?\"]\r\n[Site \"?\"]\r\n[Date \"????.??.??\"]\r\n[Round \"?\"]\r\n[White \"?\"]\r\n[Black \"?\"]\r\n[Result \"*\"]\r\n[FEN \"5k2/8/7P/8/5K2/8/4B3/8 w - - 0 1\"]\r\n[SetUp \"1\"]\r\n[CurrentPosition \"5k2/8/7P/8/2B2K2/8/8/8 b - - 1 1\"]\r\n\r\n1.Bc4  *",
+        "date": "2018-08-05",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 416,
+        "parsed": {
+            "moves": [
+                "Bc4"
+            ],
+            "raw": "1.Bc4  *",
+            "event": "?",
+            "site": "?",
+            "date": "????.??.??",
+            "round": "?",
+            "white": "?",
+            "black": "?",
+            "result": "*",
+            "fen": "5k2/8/7P/8/5K2/8/4B3/8 w - - 0 1",
+            "setup": "1",
+            "currentposition": "5k2/8/7P/8/2B2K2/8/8/8 b - - 1 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5k2/8/7P/8/5K2/8/4B3/8 w - - 0 1"
+    },
+    {
+        "id": 8018,
+        "title": "Backwards To Go Forwards",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/5pp1/1p6/4P1KP/1Pk4n/3N4/8/8 w - - 0 1\"]\r\n\r\n1. Ne1 Kxb4 2. Kxh4\r\n*",
+        "date": "2018-08-06",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 412,
+        "parsed": {
+            "moves": [
+                "Ne1",
+                "Kxb4",
+                "Kxh4"
+            ],
+            "raw": "1. Ne1 Kxb4 2. Kxh4\r\n*",
+            "date": "????.??.??",
+            "result": "*",
+            "fen": "8/5pp1/1p6/4P1KP/1Pk4n/3N4/8/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/5pp1/1p6/4P1KP/1Pk4n/3N4/8/8 w - - 0 1"
+    },
+    {
+        "id": 8020,
+        "title": "Mysterious Landing Square",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"4r1k1/p1p2pp1/1pq4p/8/2PPR2P/1P3Q2/P5P1/6K1 w - - 0 1\"]\r\n\r\n1. Re7 Rxe7 2. Qxc6\r\n*",
+        "date": "2018-08-07",
+        "video": [],
+        "comment_count": 2,
+        "solved_count": 406,
+        "parsed": {
+            "moves": [
+                "Re7",
+                "Rxe7",
+                "Qxc6"
+            ],
+            "raw": "1. Re7 Rxe7 2. Qxc6\r\n*",
+            "date": "????.??.??",
+            "fen": "4r1k1/p1p2pp1/1pq4p/8/2PPR2P/1P3Q2/P5P1/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4r1k1/p1p2pp1/1pq4p/8/2PPR2P/1P3Q2/P5P1/6K1 w - - 0 1"
+    },
+    {
+        "id": 8022,
+        "title": "Nowhere To Hide",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"1r1r1nk1/1q3pbp/3p2p1/3Np3/BP2P3/5P2/6PP/R2Q1R1K w Q - 0 1\"]\r\n\r\n1. Bc6 Qxc6 2. Ne7+ Kh8 3. Nxc6\r\n*",
+        "date": "2018-08-08",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 415,
+        "parsed": {
+            "moves": [
+                "Bc6",
+                "Qxc6",
+                "Ne7+",
+                "Kh8",
+                "Nxc6"
+            ],
+            "raw": "1. Bc6 Qxc6 2. Ne7+ Kh8 3. Nxc6\r\n*",
+            "date": "????.??.??",
+            "fen": "1r1r1nk1/1q3pbp/3p2p1/3Np3/BP2P3/5P2/6PP/R2Q1R1K w Q - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r1r1nk1/1q3pbp/3p2p1/3Np3/BP2P3/5P2/6PP/R2Q1R1K w Q - 0 1"
+    },
+    {
+        "id": 8024,
+        "title": "One Move Short",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"1k6/2R5/8/1N2B3/8/8/3qp3/1K6 w - - 0 1\"]\r\n\r\n1. Re7+ Kc8 2. Na7+ Kd8 3. Nc6+ Kc8 4. Rc7#\r\n*",
+        "date": "2018-08-09",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 405,
+        "parsed": {
+            "moves": [
+                "Re7+",
+                "Kc8",
+                "Na7+",
+                "Kd8",
+                "Nc6+",
+                "Kc8",
+                "Rc7#"
+            ],
+            "raw": "1. Re7+ Kc8 2. Na7+ Kd8 3. Nc6+ Kc8 4. Rc7#\r\n*",
+            "date": "????.??.??",
+            "fen": "1k6/2R5/8/1N2B3/8/8/3qp3/1K6 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1k6/2R5/8/1N2B3/8/8/3qp3/1K6 w - - 0 1"
+    },
+    {
+        "id": 8026,
+        "title": "Opening The Position with Decisive Results",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"1b4k1/p4pp1/7p/1p6/3pN3/1P1P1QP1/Pqr1RP1P/6K1 w - - 0 1\"]\r\n\r\n1. Nf6+ gxf6 2. Re8+ Kg7 3. Qg4+ Kh7 4. Qg8#\r\n*",
+        "date": "2018-08-10",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 401,
+        "parsed": {
+            "moves": [
+                "Nf6+",
+                "gxf6",
+                "Re8+",
+                "Kg7",
+                "Qg4+",
+                "Kh7",
+                "Qg8#"
+            ],
+            "raw": "1. Nf6+ gxf6 2. Re8+ Kg7 3. Qg4+ Kh7 4. Qg8#\r\n*",
+            "date": "????.??.??",
+            "fen": "1b4k1/p4pp1/7p/1p6/3pN3/1P1P1QP1/Pqr1RP1P/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1b4k1/p4pp1/7p/1p6/3pN3/1P1P1QP1/Pqr1RP1P/6K1 w - - 0 1"
+    },
+    {
+        "id": 8028,
+        "title": "A Royal Disconnection",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"5R2/p7/1p4pk/2n1p3/2Q3P1/P1P4P/r2q4/7K w - - 0 1\"]\r\n\r\n1. g5+ Qxg5 2. Rh8+ Kg7 3. Qg8+ Kf6 4. Qd8+ Kf5 5. Rf8+\r\n*",
+        "date": "2018-08-11",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 401,
+        "parsed": {
+            "moves": [
+                "g5+",
+                "Qxg5",
+                "Rh8+",
+                "Kg7",
+                "Qg8+",
+                "Kf6",
+                "Qd8+",
+                "Kf5",
+                "Rf8+"
+            ],
+            "raw": "1. g5+ Qxg5 2. Rh8+ Kg7 3. Qg8+ Kf6 4. Qd8+ Kf5 5. Rf8+\r\n*",
+            "date": "????.??.??",
+            "fen": "5R2/p7/1p4pk/2n1p3/2Q3P1/P1P4P/r2q4/7K w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5R2/p7/1p4pk/2n1p3/2Q3P1/P1P4P/r2q4/7K w - - 0 1"
+    },
+    {
+        "id": 8030,
+        "title": "Calm and Quiet",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"r1b3k1/1pp3qp/3p3r/3Pn3/1BP1p2N/6P1/P2QN2P/R3R1K1 w - - 0 1\"]\r\n\r\n1. Kh1\r\n*",
+        "date": "2018-08-12",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 401,
+        "parsed": {
+            "moves": [
+                "Kh1"
+            ],
+            "raw": "1. Kh1\r\n*",
+            "date": "????.??.??",
+            "fen": "r1b3k1/1pp3qp/3p3r/3Pn3/1BP1p2N/6P1/P2QN2P/R3R1K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b3k1/1pp3qp/3p3r/3Pn3/1BP1p2N/6P1/P2QN2P/R3R1K1 w - - 0 1"
+    },
+    {
+        "id": 8032,
+        "title": "Calculating Exchanges",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"1r2r1k1/R2nppb1/1p1p3p/1b1P2p1/2N5/2PB1NP1/1P3PP1/4R1K1 w - - 0 1\"]\r\n\r\n1. Nxd6 Bxd3 2. Nxe8 Rxe8 3. Rxd7\r\n*",
+        "date": "2018-08-13",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 402,
+        "parsed": {
+            "moves": [
+                "Nxd6",
+                "Bxd3",
+                "Nxe8",
+                "Rxe8",
+                "Rxd7"
+            ],
+            "raw": "1. Nxd6 Bxd3 2. Nxe8 Rxe8 3. Rxd7\r\n*",
+            "date": "????.??.??",
+            "fen": "1r2r1k1/R2nppb1/1p1p3p/1b1P2p1/2N5/2PB1NP1/1P3PP1/4R1K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r2r1k1/R2nppb1/1p1p3p/1b1P2p1/2N5/2PB1NP1/1P3PP1/4R1K1 w - - 0 1"
+    },
+    {
+        "id": 8034,
+        "title": "Mate Or Material",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"5r1k/1pQ4p/3nB1p1/3P4/5p2/1P5P/rq5P/4R1RK w - - 0 1\"]\r\n\r\n1. Re2 Qg7 2. Qxg7+ Kxg7 3. Rxa2\r\n*",
+        "date": "2018-08-14",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 397,
+        "parsed": {
+            "moves": [
+                "Re2",
+                "Qg7",
+                "Qxg7+",
+                "Kxg7",
+                "Rxa2"
+            ],
+            "raw": "1. Re2 Qg7 2. Qxg7+ Kxg7 3. Rxa2\r\n*",
+            "date": "????.??.??",
+            "fen": "5r1k/1pQ4p/3nB1p1/3P4/5p2/1P5P/rq5P/4R1RK w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5r1k/1pQ4p/3nB1p1/3P4/5p2/1P5P/rq5P/4R1RK w - - 0 1"
+    },
+    {
+        "id": 8036,
+        "title": "Preventing Counterplay",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"7K/p7/2k5/2p5/3p2P1/P2P4/1P6/8 w - - 0 1\"]\r\n\r\n1. b3 a5 2. a4\r\n*",
+        "date": "2018-08-15",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 391,
+        "parsed": {
+            "moves": [
+                "b3",
+                "a5",
+                "a4"
+            ],
+            "raw": "1. b3 a5 2. a4\r\n*",
+            "date": "????.??.??",
+            "fen": "7K/p7/2k5/2p5/3p2P1/P2P4/1P6/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7K/p7/2k5/2p5/3p2P1/P2P4/1P6/8 w - - 0 1"
+    },
+    {
+        "id": 8038,
+        "title": "V.Korolkov, 1951",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"5k2/8/1p4P1/p2P4/4b3/1P6/PrP5/R3K3 w Q - 0 1\"]\r\n\r\n1. g7+ Kxg7 2. d6 Kf6 3. d7 Ke7 4. d8=Q+ Kxd8 5. O-O-O+ Kc7 6. Kxb2\r\n*",
+        "date": "2018-08-16",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 391,
+        "parsed": {
+            "moves": [
+                "g7+",
+                "Kxg7",
+                "d6",
+                "Kf6",
+                "d7",
+                "Ke7",
+                "d8=Q+",
+                "Kxd8",
+                "O-O-O+",
+                "Kc7",
+                "Kxb2"
+            ],
+            "raw": "1. g7+ Kxg7 2. d6 Kf6 3. d7 Ke7 4. d8=Q+ Kxd8 5. O-O-O+ Kc7 6. Kxb2\r\n*",
+            "date": "????.??.??",
+            "fen": "5k2/8/1p4P1/p2P4/4b3/1P6/PrP5/R3K3 w Q - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5k2/8/1p4P1/p2P4/4b3/1P6/PrP5/R3K3 w Q - 0 1"
+    },
+    {
+        "id": 8040,
+        "title": "V.Rudenko, Achalgazdra Kommunisti, 1956",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"B7/2pp4/8/PP2p3/K7/8/5k1b/8 w - - 0 1\"]\r\n\r\n1. a6 Bf4 2. b6 cxb6 3. Kb5 e4 4. a7 e3 5. Bh1 e2 6. a8=Q e1=Q 7. Qf3+ Kg1\r\n8. Qg2#\r\n*",
+        "date": "2018-08-17",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 388,
+        "parsed": {
+            "moves": [
+                "a6",
+                "Bf4",
+                "b6",
+                "cxb6",
+                "Kb5",
+                "e4",
+                "a7",
+                "e3",
+                "Bh1",
+                "e2",
+                "a8=Q",
+                "e1=Q",
+                "Qf3+",
+                "Kg1",
+                "Qg2#"
+            ],
+            "raw": "1. a6 Bf4 2. b6 cxb6 3. Kb5 e4 4. a7 e3 5. Bh1 e2 6. a8=Q e1=Q 7. Qf3+ Kg1\r\n8. Qg2#\r\n*",
+            "date": "????.??.??",
+            "fen": "B7/2pp4/8/PP2p3/K7/8/5k1b/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=B7/2pp4/8/PP2p3/K7/8/5k1b/8 w - - 0 1"
+    },
+    {
+        "id": 8042,
+        "title": "Z.Birnov, 1954",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"8/8/8/2B4N/7P/1nnK4/4r3/k7 w - - 0 1\"]\r\n\r\n1. Bb4 Nc1+ 2. Kxc3 Na2+ 3. Kd3 Re5 4. Bf8 Rxh5 5. Kc2 Rh7 6. Bd6 Rh5 7. Bf8\r\n*",
+        "date": "2018-08-18",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 382,
+        "parsed": {
+            "moves": [
+                "Bb4",
+                "Nc1+",
+                "Kxc3",
+                "Na2+",
+                "Kd3",
+                "Re5",
+                "Bf8",
+                "Rxh5",
+                "Kc2",
+                "Rh7",
+                "Bd6",
+                "Rh5",
+                "Bf8"
+            ],
+            "raw": "1. Bb4 Nc1+ 2. Kxc3 Na2+ 3. Kd3 Re5 4. Bf8 Rxh5 5. Kc2 Rh7 6. Bd6 Rh5 7. Bf8\r\n*",
+            "date": "????.??.??",
+            "fen": "8/8/8/2B4N/7P/1nnK4/4r3/k7 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/8/2B4N/7P/1nnK4/4r3/k7 w - - 0 1"
+    },
+    {
+        "id": 8044,
+        "title": "Threats-A-Plenty",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"3r1k2/p4p1p/3N2p1/2PR4/1PQ5/P5PP/5PK1/q3r3 w - - 0 1\"]\r\n\r\n1. Rd1 Qf6 2. Rxe1\r\n*",
+        "date": "2018-08-19",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 390,
+        "parsed": {
+            "moves": [
+                "Rd1",
+                "Qf6",
+                "Rxe1"
+            ],
+            "raw": "1. Rd1 Qf6 2. Rxe1\r\n*",
+            "date": "????.??.??",
+            "fen": "3r1k2/p4p1p/3N2p1/2PR4/1PQ5/P5PP/5PK1/q3r3 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r1k2/p4p1p/3N2p1/2PR4/1PQ5/P5PP/5PK1/q3r3 w - - 0 1"
+    },
+    {
+        "id": 8046,
+        "title": "Desperation Tactics",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"1k3b1r/p1p3p1/1p1N1p2/1P2p3/Q5n1/3PPN1q/P3P2p/R1R4K w - - 0 1\"]\r\n\r\n1. Qxa7+ Kxa7 2. Rxc7+ Kb8 3. Rc8+ Ka7 4. Rc7+\r\n*",
+        "date": "2018-08-20",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 386,
+        "parsed": {
+            "moves": [
+                "Qxa7+",
+                "Kxa7",
+                "Rxc7+",
+                "Kb8",
+                "Rc8+",
+                "Ka7",
+                "Rc7+"
+            ],
+            "raw": "1. Qxa7+ Kxa7 2. Rxc7+ Kb8 3. Rc8+ Ka7 4. Rc7+\r\n*",
+            "date": "????.??.??",
+            "fen": "1k3b1r/p1p3p1/1p1N1p2/1P2p3/Q5n1/3PPN1q/P3P2p/R1R4K w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1k3b1r/p1p3p1/1p1N1p2/1P2p3/Q5n1/3PPN1q/P3P2p/R1R4K w - - 0 1"
+    },
+    {
+        "id": 8048,
+        "title": "Exposing The Over Worked",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"k2q1r2/p5Q1/2p5/1pbp2p1/4p3/4P1PP/2P2PK1/R3R3 w - b6 0 1\"]\r\n\r\n1. Rxa7+ Bxa7 2. Ra1 Qb8 3. Rxa7+ Qxa7 4. Qxf8+\r\n*",
+        "date": "2018-08-21",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 381,
+        "parsed": {
+            "moves": [
+                "Rxa7+",
+                "Bxa7",
+                "Ra1",
+                "Qb8",
+                "Rxa7+",
+                "Qxa7",
+                "Qxf8+"
+            ],
+            "raw": "1. Rxa7+ Bxa7 2. Ra1 Qb8 3. Rxa7+ Qxa7 4. Qxf8+\r\n*",
+            "date": "????.??.??",
+            "fen": "k2q1r2/p5Q1/2p5/1pbp2p1/4p3/4P1PP/2P2PK1/R3R3 w - b6 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=k2q1r2/p5Q1/2p5/1pbp2p1/4p3/4P1PP/2P2PK1/R3R3 w - b6 0 1"
+    },
+    {
+        "id": 8050,
+        "title": "Finding The Breaking Point",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"2rr2k1/1q2bppp/2p1pn2/p3Nb2/PpBP4/4PQ2/1P1B1PPP/2R1R1K1 w - - 0 1\"]\r\n\r\n1. Nxf7 Kxf7 2. Qxf5\r\n*",
+        "date": "2018-08-22",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 379,
+        "parsed": {
+            "moves": [
+                "Nxf7",
+                "Kxf7",
+                "Qxf5"
+            ],
+            "raw": "1. Nxf7 Kxf7 2. Qxf5\r\n*",
+            "date": "????.??.??",
+            "fen": "2rr2k1/1q2bppp/2p1pn2/p3Nb2/PpBP4/4PQ2/1P1B1PPP/2R1R1K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2rr2k1/1q2bppp/2p1pn2/p3Nb2/PpBP4/4PQ2/1P1B1PPP/2R1R1K1 w - - 0 1"
+    },
+    {
+        "id": 8052,
+        "title": "Weak Spots",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"1r3r2/1pnbpqbk/p2p1npp/P1pP4/7N/2NQ2P1/1PPB1PBP/R3R1K1 w - - 0 1\"]\r\n\r\n1. Rxe7 Qxe7 2. Nxg6 Qd8 3. Nxf8+\r\n*",
+        "date": "2018-08-23",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 381,
+        "parsed": {
+            "moves": [
+                "Rxe7",
+                "Qxe7",
+                "Nxg6",
+                "Qd8",
+                "Nxf8+"
+            ],
+            "raw": "1. Rxe7 Qxe7 2. Nxg6 Qd8 3. Nxf8+\r\n*",
+            "date": "????.??.??",
+            "fen": "1r3r2/1pnbpqbk/p2p1npp/P1pP4/7N/2NQ2P1/1PPB1PBP/R3R1K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r3r2/1pnbpqbk/p2p1npp/P1pP4/7N/2NQ2P1/1PPB1PBP/R3R1K1 w - - 0 1"
+    },
+    {
+        "id": 8054,
+        "title": "All For One Simple Square",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"r1bq2kr/pppp2pp/2n3N1/5P1Q/4n3/4b3/PPP2PPP/RN2KB1R w KQ - 0 1\"]\r\n\r\n1. Bc4+ d5 2. Bxd5+ Qxd5 3. Ne7+ Nxe7 4. Qe8#\r\n*",
+        "date": "2018-08-24",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 381,
+        "parsed": {
+            "moves": [
+                "Bc4+",
+                "d5",
+                "Bxd5+",
+                "Qxd5",
+                "Ne7+",
+                "Nxe7",
+                "Qe8#"
+            ],
+            "raw": "1. Bc4+ d5 2. Bxd5+ Qxd5 3. Ne7+ Nxe7 4. Qe8#\r\n*",
+            "date": "????.??.??",
+            "fen": "r1bq2kr/pppp2pp/2n3N1/5P1Q/4n3/4b3/PPP2PPP/RN2KB1R w KQ - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1bq2kr/pppp2pp/2n3N1/5P1Q/4n3/4b3/PPP2PPP/RN2KB1R w KQ - 0 1"
+    },
+    {
+        "id": 8056,
+        "title": "T.Gorgiev,  1956",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"K4k1r/8/B5b1/1P6/8/8/8/8 w - - 0 1\"]\r\n\r\n1. b6 Ke7+ 2. Ka7 Kd8 3. Bd3 Bxd3 4. b7 Rh7 5. Kb6 Rh6+ 6. Ka7 Ra6+ 7. Kb8\r\nRb6 8. Ka7 Ra6+ 9. Kb8 Rh6 10. Ka7 Rh7 11. Kb6\r\n*",
+        "date": "2018-08-25",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 369,
+        "parsed": {
+            "moves": [
+                "b6",
+                "Ke7+",
+                "Ka7",
+                "Kd8",
+                "Bd3",
+                "Bxd3",
+                "b7",
+                "Rh7",
+                "Kb6",
+                "Rh6+",
+                "Ka7",
+                "Ra6+",
+                "Kb8",
+                "Rb6",
+                "Ka7",
+                "Ra6+",
+                "Kb8",
+                "Rh6",
+                "Ka7",
+                "Rh7",
+                "Kb6"
+            ],
+            "raw": "1. b6 Ke7+ 2. Ka7 Kd8 3. Bd3 Bxd3 4. b7 Rh7 5. Kb6 Rh6+ 6. Ka7 Ra6+ 7. Kb8\r\nRb6 8. Ka7 Ra6+ 9. Kb8 Rh6 10. Ka7 Rh7 11. Kb6\r\n*",
+            "date": "????.??.??",
+            "fen": "K4k1r/8/B5b1/1P6/8/8/8/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=K4k1r/8/B5b1/1P6/8/8/8/8 w - - 0 1"
+    },
+    {
+        "id": 8060,
+        "title": "Jumping Into Victory",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"r1b1Nb1r/p2pnNpp/P1k1p3/p1q5/2BB4/8/P4PPP/1R3K1R w - - 0 1\"]\r\n\r\n1. Nd8#\r\n*",
+        "date": "2018-08-26",
+        "video": [],
+        "comment_count": 4,
+        "solved_count": 390,
+        "parsed": {
+            "moves": [
+                "Nd8#"
+            ],
+            "raw": "1. Nd8#\r\n*",
+            "date": "????.??.??",
+            "fen": "r1b1Nb1r/p2pnNpp/P1k1p3/p1q5/2BB4/8/P4PPP/1R3K1R w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1b1Nb1r/p2pnNpp/P1k1p3/p1q5/2BB4/8/P4PPP/1R3K1R w - - 0 1"
+    },
+    {
+        "id": 8058,
+        "title": "When A Draw Is Enough",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"8/8/8/3p1p2/3Pp1k1/6q1/3Q4/7K w - f6 0 1\"]\r\n\r\n1. Qg5+ Kf3 2. Qe3+ Kg4 3. Qg5+ Kh3 4. Qg4+ Qxg4\r\n*",
+        "date": "2018-08-27",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 371,
+        "parsed": {
+            "moves": [
+                "Qg5+",
+                "Kf3",
+                "Qe3+",
+                "Kg4",
+                "Qg5+",
+                "Kh3",
+                "Qg4+",
+                "Qxg4"
+            ],
+            "raw": "1. Qg5+ Kf3 2. Qe3+ Kg4 3. Qg5+ Kh3 4. Qg4+ Qxg4\r\n*",
+            "date": "????.??.??",
+            "fen": "8/8/8/3p1p2/3Pp1k1/6q1/3Q4/7K w - f6 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/8/3p1p2/3Pp1k1/6q1/3Q4/7K w - f6 0 1"
+    },
+    {
+        "id": 8062,
+        "title": "No Hesitation For Sacrifice",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"1R6/2p2ppk/3p3p/2nN1P2/2P3P1/r1B5/4r1PK/8 w - - 0 1\"]\r\n\r\n1. Nf6+ gxf6 2. Bxf6\r\n*",
+        "date": "2018-08-28",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 374,
+        "parsed": {
+            "moves": [
+                "Nf6+",
+                "gxf6",
+                "Bxf6"
+            ],
+            "raw": "1. Nf6+ gxf6 2. Bxf6\r\n*",
+            "date": "????.??.??",
+            "fen": "1R6/2p2ppk/3p3p/2nN1P2/2P3P1/r1B5/4r1PK/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1R6/2p2ppk/3p3p/2nN1P2/2P3P1/r1B5/4r1PK/8 w - - 0 1"
+    },
+    {
+        "id": 8064,
+        "title": "The Three Step",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"5rkr/1p2Rppp/1qp5/8/1P6/PQ6/2B2PPP/6K1 w - - 0 1\"]\r\n\r\n1. Qxf7+ Rxf7 2. Re8+ Rf8 3. Bb3#\r\n*",
+        "date": "2018-08-29",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 376,
+        "parsed": {
+            "moves": [
+                "Qxf7+",
+                "Rxf7",
+                "Re8+",
+                "Rf8",
+                "Bb3#"
+            ],
+            "raw": "1. Qxf7+ Rxf7 2. Re8+ Rf8 3. Bb3#\r\n*",
+            "date": "????.??.??",
+            "fen": "5rkr/1p2Rppp/1qp5/8/1P6/PQ6/2B2PPP/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5rkr/1p2Rppp/1qp5/8/1P6/PQ6/2B2PPP/6K1 w - - 0 1"
+    },
+    {
+        "id": 8066,
+        "title": "The Chase",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"3r1r1k/pp3ppp/2p1p3/3q4/3P4/2P3RR/P1PQ2PP/6K1 w - - 0 1\"]\r\n\r\n1. Rxg7 Qe4 2. Qe2 Qf5 3. Qe5 f6 4. Qxf5 \r\n*",
+        "date": "2018-08-30",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 378,
+        "parsed": {
+            "moves": [
+                "Rxg7",
+                "Qe4",
+                "Qe2",
+                "Qf5",
+                "Qe5",
+                "f6",
+                "Qxf5"
+            ],
+            "raw": "1. Rxg7 Qe4 2. Qe2 Qf5 3. Qe5 f6 4. Qxf5 \r\n*",
+            "date": "????.??.??",
+            "fen": "3r1r1k/pp3ppp/2p1p3/3q4/3P4/2P3RR/P1PQ2PP/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r1r1k/pp3ppp/2p1p3/3q4/3P4/2P3RR/P1PQ2PP/6K1 w - - 0 1"
+    },
+    {
+        "id": 8068,
+        "title": "GM Short - GM Timman, Tilburg 1991",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"2r2rk1/1bpR1p2/1pq1pQp1/p3P2p/P1PR3P/5N2/2P2PPK/8 w - - 0 1\"]\r\n\r\n1. Kg3 Rce8 2. Kf4 Bc8 3. Kg5 Bxd7 4. Kh6\r\n*",
+        "date": "2018-08-31",
+        "video": [],
+        "comment_count": 3,
+        "solved_count": 384,
+        "parsed": {
+            "moves": [
+                "Kg3",
+                "Rce8",
+                "Kf4",
+                "Bc8",
+                "Kg5",
+                "Bxd7",
+                "Kh6"
+            ],
+            "raw": "1. Kg3 Rce8 2. Kf4 Bc8 3. Kg5 Bxd7 4. Kh6\r\n*",
+            "date": "????.??.??",
+            "fen": "2r2rk1/1bpR1p2/1pq1pQp1/p3P2p/P1PR3P/5N2/2P2PPK/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r2rk1/1bpR1p2/1pq1pQp1/p3P2p/P1PR3P/5N2/2P2PPK/8 w - - 0 1"
+    }
+]

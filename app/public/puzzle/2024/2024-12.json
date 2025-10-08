@@ -1,0 +1,928 @@
+[
+    {
+        "id": 12789,
+        "title": "H-File Suspicions",
+        "pgn": "[White \"himavanth0010\"]\r\n[Black \"Daily Puzzle inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"r3r1kb/5p1p/2p1qPp1/1p1n2R1/6N1/2P2N2/pP3KPQ/2R5 w - - 0 1\"]\r\n\r\n1. Rxg6+ hxg6 2. Qh7+ Kxh7 3. Ng5+ Kg8 4. Nh6+ Kf8 5. Nh7# 1-0",
+        "date": "2024-12-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_h-file_suspicions_12_01_24_q8v.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 1044,
+        "solved_count": 1587374,
+        "parsed": {
+            "moves": [
+                "Rxg6+",
+                "hxg6",
+                "Qh7+",
+                "Kxh7",
+                "Ng5+",
+                "Kg8",
+                "Nh6+",
+                "Kf8",
+                "Nh7#",
+                "1-0"
+            ],
+            "raw": "1. Rxg6+ hxg6 2. Qh7+ Kxh7 3. Ng5+ Kg8 4. Nh6+ Kf8 5. Nh7# 1-0",
+            "white": "himavanth0010",
+            "black": "Daily Puzzle inspiration",
+            "result": "1-0",
+            "fen": "r3r1kb/5p1p/2p1qPp1/1p1n2R1/6N1/2P2N2/pP3KPQ/2R5 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r3r1kb/5p1p/2p1qPp1/1p1n2R1/6N1/2P2N2/pP3KPQ/2R5 w - - 0 1"
+    },
+    {
+        "id": 12773,
+        "title": "Fork First, Capture Later",
+        "pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"3r1r1k/6pp/1p6/p1nb1p2/8/4B1N1/PPP2PPK/R3R3 b - - 0 1\"]\r\n\r\n1... f4 2. Bxc5 fxg3+ 3. Kxg3 bxc5 0-1",
+        "date": "2024-12-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_fork_first_capture_later_12_02_24_j9b.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 1052,
+        "solved_count": 1680815,
+        "parsed": {
+            "moves": [
+                "f4",
+                "Bxc5",
+                "fxg3+",
+                "Kxg3",
+                "bxc5",
+                "0-1"
+            ],
+            "raw": "1... f4 2. Bxc5 fxg3+ 3. Kxg3 bxc5 0-1",
+            "white": "JohanVA",
+            "black": "Daily Puzzle Inspiration",
+            "result": "0-1",
+            "fen": "3r1r1k/6pp/1p6/p1nb1p2/8/4B1N1/PPP2PPK/R3R3 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r1r1k/6pp/1p6/p1nb1p2/8/4B1N1/PPP2PPK/R3R3 b - - 0 1"
+    },
+    {
+        "id": 12749,
+        "title": "Step Closer, Please...",
+        "pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"2rq1rk1/1ppb1pp1/p1n4p/2bN1B2/P7/3Q2B1/1PP2PPP/R4RK1 w - - 0 1\"]\r\n\r\n1. Bxd7 Qxd7 2. Nf6+ gxf6 3. Qxd7 1-0",
+        "date": "2024-12-03",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_step_closer_please_12_03_24_m7s.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 767,
+        "solved_count": 1730962,
+        "parsed": {
+            "moves": [
+                "Bxd7",
+                "Qxd7",
+                "Nf6+",
+                "gxf6",
+                "Qxd7",
+                "1-0"
+            ],
+            "raw": "1. Bxd7 Qxd7 2. Nf6+ gxf6 3. Qxd7 1-0",
+            "white": "JohanVA",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "2rq1rk1/1ppb1pp1/p1n4p/2bN1B2/P7/3Q2B1/1PP2PPP/R4RK1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2rq1rk1/1ppb1pp1/p1n4p/2bN1B2/P7/3Q2B1/1PP2PPP/R4RK1 w - - 0 1"
+    },
+    {
+        "id": 12755,
+        "title": "Swipe Left...",
+        "pgn": "[Result \"*\"]\r\n[FEN \"6rk/3b2p1/1q2R2p/3pB2P/1b4Q1/1PnP2P1/r2N1PBK/8 w - - 0 1\"]\r\n\r\n1. Rxb6 Bxg4 2. Rxh6# *",
+        "date": "2024-12-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_swipe_left_12_04_24_u5n.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 1132,
+        "solved_count": 1664274,
+        "parsed": {
+            "moves": [
+                "Rxb6",
+                "Bxg4",
+                "Rxh6#"
+            ],
+            "raw": "1. Rxb6 Bxg4 2. Rxh6# *",
+            "result": "*",
+            "fen": "6rk/3b2p1/1q2R2p/3pB2P/1b4Q1/1PnP2P1/r2N1PBK/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6rk/3b2p1/1q2R2p/3pB2P/1b4Q1/1PnP2P1/r2N1PBK/8 w - - 0 1"
+    },
+    {
+        "id": 12741,
+        "title": "😱Gotham's Birthday Bash 🥳",
+        "pgn": "[Event \"Late-Titled-Tuesday-Blitz-March-12-2024\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2024.03.12\"]\r\n[White \"Divljasvinja14\"]\r\n[Black \"GothamChess (Ra8 Removed)\"]\r\n[Result \"0-1\"]\r\n[FEN \"4k2r/ppp2pb1/3p2p1/3Pp1B1/2P1P1n1/2N3q1/PP1QR1B1/R4K2 b k - 0 1\"]\r\n\r\n1... Nh2+ 2. Kg1 Nf3+ 3. Kf1 Rh1+ 4. Bxh1 Qg1# 0-1",
+        "date": "2024-12-05",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_gothams_birthday_bash_12_05_24_c3b.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 1980,
+        "solved_count": 1682867,
+        "parsed": {
+            "moves": [
+                "Nh2+",
+                "Kg1",
+                "Nf3+",
+                "Kf1",
+                "Rh1+",
+                "Bxh1",
+                "Qg1#",
+                "0-1"
+            ],
+            "raw": "1... Nh2+ 2. Kg1 Nf3+ 3. Kf1 Rh1+ 4. Bxh1 Qg1# 0-1",
+            "event": "Late-Titled-Tuesday-Blitz-March-12-2024",
+            "site": "Chess.com",
+            "date": "2024.03.12",
+            "white": "Divljasvinja14",
+            "black": "GothamChess (Ra8 Removed)",
+            "result": "0-1",
+            "fen": "4k2r/ppp2pb1/3p2p1/3Pp1B1/2P1P1n1/2N3q1/PP1QR1B1/R4K2 b k - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4k2r/ppp2pb1/3p2p1/3Pp1B1/2P1P1n1/2N3q1/PP1QR1B1/R4K2 b k - 0 1"
+    },
+    {
+        "id": 12745,
+        "title": "Light Squared Dream",
+        "pgn": "[White \"Thvnderstone\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"2qrn1rk/pp3Rp1/2p4p/1bb5/5N2/1P1B4/P2Q3B/2R4K w - - 0 1\"]\r\n\r\n1. Ng6+ Kh7 2. Nf8+ Kh8 3. Qxh6+ gxh6 4. Rh7# 1-0",
+        "date": "2024-12-06",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_light_squared_dream_12_06_24_a6c.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 1145,
+        "solved_count": 1662123,
+        "parsed": {
+            "moves": [
+                "Ng6+",
+                "Kh7",
+                "Nf8+",
+                "Kh8",
+                "Qxh6+",
+                "gxh6",
+                "Rh7#",
+                "1-0"
+            ],
+            "raw": "1. Ng6+ Kh7 2. Nf8+ Kh8 3. Qxh6+ gxh6 4. Rh7# 1-0",
+            "white": "Thvnderstone",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "2qrn1rk/pp3Rp1/2p4p/1bb5/5N2/1P1B4/P2Q3B/2R4K w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2qrn1rk/pp3Rp1/2p4p/1bb5/5N2/1P1B4/P2Q3B/2R4K w - - 0 1"
+    },
+    {
+        "id": 12783,
+        "title": "An Attacking Wrinkle",
+        "pgn": "[White \"Enpassantfork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"5rk1/1b3ppp/1q1bpn2/1pp1N3/4NPPQ/2PP4/1P1B3P/3R2K1 w - - 0 1\"]\r\n\r\n1. Nxf6+ gxf6 2. Nd7 Qc6 3. Nxf6+ Kg7 4. Nh5+ Kh8 5. Qf6+ Kg8 6. Qg7# 1-0",
+        "date": "2024-12-07",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_an_attacking_wrinkle_12_07_24_y7k.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 937,
+        "solved_count": 1599827,
+        "parsed": {
+            "moves": [
+                "Nxf6+",
+                "gxf6",
+                "Nd7",
+                "Qc6",
+                "Nxf6+",
+                "Kg7",
+                "Nh5+",
+                "Kh8",
+                "Qf6+",
+                "Kg8",
+                "Qg7#",
+                "1-0"
+            ],
+            "raw": "1. Nxf6+ gxf6 2. Nd7 Qc6 3. Nxf6+ Kg7 4. Nh5+ Kh8 5. Qf6+ Kg8 6. Qg7# 1-0",
+            "white": "Enpassantfork",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "5rk1/1b3ppp/1q1bpn2/1pp1N3/4NPPQ/2PP4/1P1B3P/3R2K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5rk1/1b3ppp/1q1bpn2/1pp1N3/4NPPQ/2PP4/1P1B3P/3R2K1 w - - 0 1"
+    },
+    {
+        "id": 12795,
+        "title": "Sus Rook",
+        "pgn": "[White \"Sussmann, Peter\"]\r\n[Black \"Endgame Study\"]\r\n[Result \"1-0\"]\r\n[FEN \"3k4/4p3/1P6/4N3/8/4r3/1P4P1/6K1 w - - 0 1\"]\r\n\r\n1. b7 Kc7 2. Nd7 Kxb7 3. Kf2 Rb3 4. Nc5+ Kc6 5. Nxb3 1-0",
+        "date": "2024-12-08",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_sus_rook_12_08_24_f2l.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 1373,
+        "solved_count": 1646278,
+        "parsed": {
+            "moves": [
+                "b7",
+                "Kc7",
+                "Nd7",
+                "Kxb7",
+                "Kf2",
+                "Rb3",
+                "Nc5+",
+                "Kc6",
+                "Nxb3",
+                "1-0"
+            ],
+            "raw": "1. b7 Kc7 2. Nd7 Kxb7 3. Kf2 Rb3 4. Nc5+ Kc6 5. Nxb3 1-0",
+            "white": "Sussmann, Peter",
+            "black": "Endgame Study",
+            "result": "1-0",
+            "fen": "3k4/4p3/1P6/4N3/8/4r3/1P4P1/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3k4/4p3/1P6/4N3/8/4r3/1P4P1/6K1 w - - 0 1"
+    },
+    {
+        "id": 12753,
+        "title": "Hikaru's Harmonious Birthday Mate 🥳",
+        "pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2024.05.02\"]\r\n[Round \"?\"]\r\n[White \"only_strong_moves\"]\r\n[Black \"Hikaru Happy Birthday\"]\r\n[Result \"0-1\"]\r\n[ECO \"A00\"]\r\n[WhiteElo \"2725\"]\r\n[BlackElo \"3220\"]\r\n[FEN \"N1k4r/pp2pp2/3P1b2/1Q2n3/4P1n1/P5P1/1P3PK1/R1BR4 b - - 0 29\"]\r\n\r\n29... Rh2+ 30. Kg1 Nf3+ 31. Kf1 Rxf2# 0-1",
+        "date": "2024-12-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_hikarus_harmonious_birthday_mate_12_09_24_z3w.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 1261,
+        "solved_count": 1778168,
+        "parsed": {
+            "moves": [
+                "Rh2+",
+                "Kg1",
+                "Nf3+",
+                "Kf1",
+                "Rxf2#",
+                "0-1"
+            ],
+            "raw": "29... Rh2+ 30. Kg1 Nf3+ 31. Kf1 Rxf2# 0-1",
+            "event": "Live Chess",
+            "site": "Chess.com",
+            "date": "2024.05.02",
+            "round": "?",
+            "white": "only_strong_moves",
+            "black": "Hikaru Happy Birthday",
+            "result": "0-1",
+            "eco": "A00",
+            "whiteelo": "2725",
+            "blackelo": "3220",
+            "fen": "N1k4r/pp2pp2/3P1b2/1Q2n3/4P1n1/P5P1/1P3PK1/R1BR4 b - - 0 29"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=N1k4r/pp2pp2/3P1b2/1Q2n3/4P1n1/P5P1/1P3PK1/R1BR4 b - - 0 29"
+    },
+    {
+        "id": 12751,
+        "title": "Check for the Best Move",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/1k4p1/pP1p3p/8/8/2Q2bPq/5P1P/6K1 w - - 0 1\"]\r\n\r\n1. Qc7+ Ka8 2. Qa7# *",
+        "date": "2024-12-10",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_check_for_the_best_move_12_10_24_a1b.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 1754,
+        "solved_count": 1736913,
+        "parsed": {
+            "moves": [
+                "Qc7+",
+                "Ka8",
+                "Qa7#"
+            ],
+            "raw": "1. Qc7+ Ka8 2. Qa7# *",
+            "result": "*",
+            "fen": "8/1k4p1/pP1p3p/8/8/2Q2bPq/5P1P/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/1k4p1/pP1p3p/8/8/2Q2bPq/5P1P/6K1 w - - 0 1"
+    },
+    {
+        "id": 12763,
+        "title": "Vishy's Birthday King Hunt 🎁",
+        "pgn": "[Event \"Sao Paulo\"]\r\n[Site \"Sao Paulo\"]\r\n[Date \"2004.08.23\"]\r\n[Round \"7\"]\r\n[White \"Vescovi, Giovanni P\"]\r\n[Black \"Anand, Viswanathan\"]\r\n[Result \"0-1\"]\r\n[ECO \"D17\"]\r\n[WhiteElo \"2648\"]\r\n[BlackElo \"2782\"]\r\n[FEN \"5Qbk/1p6/2p4p/5Kp1/P3n3/4B2P/1P4B1/3q4 b - - 0 37\"]\r\n\r\n37... Qd7+ 38. Kg6 Qe6+ 39. Kh5 Ng3# 0-1",
+        "date": "2024-12-11",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_vishys_birthday_king_hunt_12_11_24_e8a.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 901,
+        "solved_count": 1679108,
+        "parsed": {
+            "moves": [
+                "Qd7+",
+                "Kg6",
+                "Qe6+",
+                "Kh5",
+                "Ng3#",
+                "0-1"
+            ],
+            "raw": "37... Qd7+ 38. Kg6 Qe6+ 39. Kh5 Ng3# 0-1",
+            "event": "Sao Paulo",
+            "site": "Sao Paulo",
+            "date": "2004.08.23",
+            "round": "7",
+            "white": "Vescovi, Giovanni P",
+            "black": "Anand, Viswanathan",
+            "result": "0-1",
+            "eco": "D17",
+            "whiteelo": "2648",
+            "blackelo": "2782",
+            "fen": "5Qbk/1p6/2p4p/5Kp1/P3n3/4B2P/1P4B1/3q4 b - - 0 37"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5Qbk/1p6/2p4p/5Kp1/P3n3/4B2P/1P4B1/3q4 b - - 0 37"
+    },
+    {
+        "id": 12747,
+        "title": "A Push in the Right Direction",
+        "pgn": "[Result \"0-1\"]\r\n[FEN \"1r3rk1/2pb2b1/3p3p/p3p1p1/1P6/P2PP3/1BPNK1PP/R3R3 b - - 0 1\"]\r\n\r\n1... Bg4+ 2. Nf3 e4 3. Bxg7 exf3+ 4. gxf3 Bxf3+ 5. Kd2 Kxg7 0-1",
+        "date": "2024-12-12",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_a_push_in_the_right_direction_12_12_24_g9o.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 997,
+        "solved_count": 1690434,
+        "parsed": {
+            "moves": [
+                "Bg4+",
+                "Nf3",
+                "e4",
+                "Bxg7",
+                "exf3+",
+                "gxf3",
+                "Bxf3+",
+                "Kd2",
+                "Kxg7",
+                "0-1"
+            ],
+            "raw": "1... Bg4+ 2. Nf3 e4 3. Bxg7 exf3+ 4. gxf3 Bxf3+ 5. Kd2 Kxg7 0-1",
+            "result": "0-1",
+            "fen": "1r3rk1/2pb2b1/3p3p/p3p1p1/1P6/P2PP3/1BPNK1PP/R3R3 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r3rk1/2pb2b1/3p3p/p3p1p1/1P6/P2PP3/1BPNK1PP/R3R3 b - - 0 1"
+    },
+    {
+        "id": 12743,
+        "title": "Forcing Moves Flurry",
+        "pgn": "[Result \"1-0\"]\r\n[FEN \"2r1nrk1/bp3ppp/p2p4/q5Q1/P1n1p3/3B1P2/1B2NP1P/1R4RK w - - 0 1\"]\r\n\r\n1. Qxg7+ Nxg7 2. Rxg7+ Kh8 3. Rg8+ Kxg8 4. Rg1+ Qg5 5. Rxg5# 1-0",
+        "date": "2024-12-13",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_forcing_moves_flurry_12_13_24_w9f.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 962,
+        "solved_count": 1695158,
+        "parsed": {
+            "moves": [
+                "Qxg7+",
+                "Nxg7",
+                "Rxg7+",
+                "Kh8",
+                "Rg8+",
+                "Kxg8",
+                "Rg1+",
+                "Qg5",
+                "Rxg5#",
+                "1-0"
+            ],
+            "raw": "1. Qxg7+ Nxg7 2. Rxg7+ Kh8 3. Rg8+ Kxg8 4. Rg1+ Qg5 5. Rxg5# 1-0",
+            "result": "1-0",
+            "fen": "2r1nrk1/bp3ppp/p2p4/q5Q1/P1n1p3/3B1P2/1B2NP1P/1R4RK w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r1nrk1/bp3ppp/p2p4/q5Q1/P1n1p3/3B1P2/1B2NP1P/1R4RK w - - 0 1"
+    },
+    {
+        "id": 12785,
+        "title": "Checkmate Weaver",
+        "pgn": "[White \"D_Jinny\"]\r\n[Black \"Daily Puzzle inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"r7/6R1/p6p/7k/n7/2Bp4/bP3PP1/6K1 w - - 0 1\"]\r\n\r\n1. Bf6 Be6 2. f3 d2 3. g4+ Bxg4 4. fxg4# 1-0",
+        "date": "2024-12-14",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_checkmate_weaver_12_14_24_v10a.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 695,
+        "solved_count": 1663359,
+        "parsed": {
+            "moves": [
+                "Bf6",
+                "Be6",
+                "f3",
+                "d2",
+                "g4+",
+                "Bxg4",
+                "fxg4#",
+                "1-0"
+            ],
+            "raw": "1. Bf6 Be6 2. f3 d2 3. g4+ Bxg4 4. fxg4# 1-0",
+            "white": "D_Jinny",
+            "black": "Daily Puzzle inspiration",
+            "result": "1-0",
+            "fen": "r7/6R1/p6p/7k/n7/2Bp4/bP3PP1/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r7/6R1/p6p/7k/n7/2Bp4/bP3PP1/6K1 w - - 0 1"
+    },
+    {
+        "id": 12797,
+        "title": "Lighting the Tactical Fuse",
+        "pgn": "[Result \"*\"]\r\n[FEN \"4r1kb/1b2pp1p/1p1p3B/pP6/1qr1Np2/R3Q2P/1PP2PP1/4R1K1 w - - 0 1\"]\r\n\r\n1. Qg3+ fxg3 2. Rxg3+ Bg7 3. Nf6+ exf6 4. Rxe8# *",
+        "date": "2024-12-15",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_lighting_the_tactical_fuse_12_15_24_y4t.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 1003,
+        "solved_count": 1685944,
+        "parsed": {
+            "moves": [
+                "Qg3+",
+                "fxg3",
+                "Rxg3+",
+                "Bg7",
+                "Nf6+",
+                "exf6",
+                "Rxe8#"
+            ],
+            "raw": "1. Qg3+ fxg3 2. Rxg3+ Bg7 3. Nf6+ exf6 4. Rxe8# *",
+            "result": "*",
+            "fen": "4r1kb/1b2pp1p/1p1p3B/pP6/1qr1Np2/R3Q2P/1PP2PP1/4R1K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4r1kb/1b2pp1p/1p1p3B/pP6/1qr1Np2/R3Q2P/1PP2PP1/4R1K1 w - - 0 1"
+    },
+    {
+        "id": 12781,
+        "title": "Go for the Queen!",
+        "pgn": "[White \"GuyLemieux\"]\r\n[Black \"Daily Puzzle inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"r1R5/6kP/2qpp1p1/8/1b6/7P/3R1PPK/8 w - - 0 1\"]\r\n\r\n1. h8=Q+ Kf7 2. Qf8# 1-0",
+        "date": "2024-12-16",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_go_for_the_queen_12_16_24_x3m.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 1703,
+        "solved_count": 1853661,
+        "parsed": {
+            "moves": [
+                "h8=Q+",
+                "Kf7",
+                "Qf8#",
+                "1-0"
+            ],
+            "raw": "1. h8=Q+ Kf7 2. Qf8# 1-0",
+            "white": "GuyLemieux",
+            "black": "Daily Puzzle inspiration",
+            "result": "1-0",
+            "fen": "r1R5/6kP/2qpp1p1/8/1b6/7P/3R1PPK/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1R5/6kP/2qpp1p1/8/1b6/7P/3R1PPK/8 w - - 0 1"
+    },
+    {
+        "id": 12777,
+        "title": "One Loose Piece Leads to Another",
+        "pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"2r2rk1/5ppp/1p2q3/3pP3/n4P2/2Bb1R2/P2N2PP/3QR1K1 w - - 0 1\"]\r\n\r\n1. Qxa4 Rxc3 2. Qd4 Qc6 3. Rxd3 Rxd3 4. Qxd3 1-0",
+        "date": "2024-12-17",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_one_loose_pieces_leads_to_another_12_17_24_p8v.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 1116,
+        "solved_count": 1744687,
+        "parsed": {
+            "moves": [
+                "Qxa4",
+                "Rxc3",
+                "Qd4",
+                "Qc6",
+                "Rxd3",
+                "Rxd3",
+                "Qxd3",
+                "1-0"
+            ],
+            "raw": "1. Qxa4 Rxc3 2. Qd4 Qc6 3. Rxd3 Rxd3 4. Qxd3 1-0",
+            "white": "JohanVA",
+            "black": "Daily Puzzle inspiration",
+            "result": "1-0",
+            "fen": "2r2rk1/5ppp/1p2q3/3pP3/n4P2/2Bb1R2/P2N2PP/3QR1K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r2rk1/5ppp/1p2q3/3pP3/n4P2/2Bb1R2/P2N2PP/3QR1K1 w - - 0 1"
+    },
+    {
+        "id": 12759,
+        "title": "Magnetic Fork",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3k4/p4pb1/2P5/1N6/1p5P/1P3p2/1P6/4K3 w - - 0 1\"]\r\n\r\n1. c7+ Kd7 2. Nd6 Kxc7 3. Ne8+ Kd7 4. Nxg7 *",
+        "date": "2024-12-18",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_magnetic_fork_12_18_24_b2w.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 1177,
+        "solved_count": 1737493,
+        "parsed": {
+            "moves": [
+                "c7+",
+                "Kd7",
+                "Nd6",
+                "Kxc7",
+                "Ne8+",
+                "Kd7",
+                "Nxg7"
+            ],
+            "raw": "1. c7+ Kd7 2. Nd6 Kxc7 3. Ne8+ Kd7 4. Nxg7 *",
+            "result": "*",
+            "fen": "3k4/p4pb1/2P5/1N6/1p5P/1P3p2/1P6/4K3 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3k4/p4pb1/2P5/1N6/1p5P/1P3p2/1P6/4K3 w - - 0 1"
+    },
+    {
+        "id": 12765,
+        "title": "Robert's Mate Takes the Cake! 🎂",
+        "pgn": "[Event \"Chess.com Blitz Game\"]\r\n[White \"Happy Birthday GM Hess!\"]\r\n[Black \"Blitz Game Inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"3q4/8/4p1k1/2p1Qp2/5K2/R3B1P1/1P3P2/7r b - - 0 1\"]\r\n\r\n1... Rh4+ 2. Kf3 Qd1+ 3. Kg2 Qh1# 0-1",
+        "date": "2024-12-19",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_roberts_mate_takes_the_cake_12_19_24_g2v.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 1234,
+        "solved_count": 1724308,
+        "parsed": {
+            "moves": [
+                "Rh4+",
+                "Kf3",
+                "Qd1+",
+                "Kg2",
+                "Qh1#",
+                "0-1"
+            ],
+            "raw": "1... Rh4+ 2. Kf3 Qd1+ 3. Kg2 Qh1# 0-1",
+            "event": "Chess.com Blitz Game",
+            "white": "Happy Birthday GM Hess!",
+            "black": "Blitz Game Inspiration",
+            "result": "0-1",
+            "fen": "3q4/8/4p1k1/2p1Qp2/5K2/R3B1P1/1P3P2/7r b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3q4/8/4p1k1/2p1Qp2/5K2/R3B1P1/1P3P2/7r b - - 0 1"
+    },
+    {
+        "id": 12771,
+        "title": "Crashing the Kingside Party",
+        "pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"*\"]\r\n[FEN \"3rr1k1/1bp2p1p/pp3Qp1/3N4/2P5/B1P5/P2q1PPP/5RK1 w - - 0 1\"]\r\n\r\n1. Bf8 Kxf8 2. Qh8# *",
+        "date": "2024-12-20",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_crashing_the_kingside_party_12_20_24_r10v.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 1216,
+        "solved_count": 1663933,
+        "parsed": {
+            "moves": [
+                "Bf8",
+                "Kxf8",
+                "Qh8#"
+            ],
+            "raw": "1. Bf8 Kxf8 2. Qh8# *",
+            "white": "JohanVA",
+            "black": "Daily Puzzle Inspiration",
+            "result": "*",
+            "fen": "3rr1k1/1bp2p1p/pp3Qp1/3N4/2P5/B1P5/P2q1PPP/5RK1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3rr1k1/1bp2p1p/pp3Qp1/3N4/2P5/B1P5/P2q1PPP/5RK1 w - - 0 1"
+    },
+    {
+        "id": 12787,
+        "title": "Cleared for Zigzag!",
+        "pgn": "[White \"Checkmatemaster7\"]\r\n[Black \"Daily Puzzle inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"5brk/3q3p/3p1P2/2p1p2R/2PbP2Q/p2PB2P/2r5/5R1K w - - 0 1\"]\r\n\r\n1. f7 Rg7 2. Rxh7+ Rxh7 3. Qf6+ Rg7 4. Qh6+ Rh7 5. Qxf8# 1-0",
+        "date": "2024-12-21",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_cleared_for_zigzag_12_21_24_h3b.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 1069,
+        "solved_count": 1640729,
+        "parsed": {
+            "moves": [
+                "f7",
+                "Rg7",
+                "Rxh7+",
+                "Rxh7",
+                "Qf6+",
+                "Rg7",
+                "Qh6+",
+                "Rh7",
+                "Qxf8#",
+                "1-0"
+            ],
+            "raw": "1. f7 Rg7 2. Rxh7+ Rxh7 3. Qf6+ Rg7 4. Qh6+ Rh7 5. Qxf8# 1-0",
+            "white": "Checkmatemaster7",
+            "black": "Daily Puzzle inspiration",
+            "result": "1-0",
+            "fen": "5brk/3q3p/3p1P2/2p1p2R/2PbP2Q/p2PB2P/2r5/5R1K w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5brk/3q3p/3p1P2/2p1p2R/2PbP2Q/p2PB2P/2r5/5R1K w - - 0 1"
+    },
+    {
+        "id": 12799,
+        "title": "Returning Full Triangle",
+        "pgn": "[White \"Checkmatemaster7\"]\r\n[Black \"Daily Puzzle inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"3r1br1/1p1kp3/p4n2/1N1p1b1p/q2P3P/5N2/PP3PPB/2R3K1 w - - 0 1\"]\r\n\r\n1. Ne5+ Ke6 2. Rc6+ bxc6 3. Nc7+ Kd6 4. Nc4+ Kd7 5. Nb6# 1-0",
+        "date": "2024-12-22",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_returning_full_triangle_12_22_24_d4a.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 1113,
+        "solved_count": 1661114,
+        "parsed": {
+            "moves": [
+                "Ne5+",
+                "Ke6",
+                "Rc6+",
+                "bxc6",
+                "Nc7+",
+                "Kd6",
+                "Nc4+",
+                "Kd7",
+                "Nb6#",
+                "1-0"
+            ],
+            "raw": "1. Ne5+ Ke6 2. Rc6+ bxc6 3. Nc7+ Kd6 4. Nc4+ Kd7 5. Nb6# 1-0",
+            "white": "Checkmatemaster7",
+            "black": "Daily Puzzle inspiration",
+            "result": "1-0",
+            "fen": "3r1br1/1p1kp3/p4n2/1N1p1b1p/q2P3P/5N2/PP3PPB/2R3K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r1br1/1p1kp3/p4n2/1N1p1b1p/q2P3P/5N2/PP3PPB/2R3K1 w - - 0 1"
+    },
+    {
+        "id": 12791,
+        "title": "Checkmate like a Grandmaster",
+        "pgn": "[Event \"Live Chess\"]\r\n[Site \"Chess.com\"]\r\n[Date \"2024.07.14\"]\r\n[Round \"?\"]\r\n[White \"GMHess\"]\r\n[Black \"Rubinstein_Student\"]\r\n[Result \"1-0\"]\r\n[ECO \"A01\"]\r\n[WhiteElo \"2863\"]\r\n[BlackElo \"2698\"]\r\n[FEN \"6R1/5r1k/1p6/2b1B1pp/P3P1P1/8/4K3/8 w - - 0 49\"]\r\n\r\n49. Rh8+ Kg6 50. gxh5# 1-0",
+        "date": "2024-12-23",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_checkmate_like_a_grandmaster_12_23_24_e10e.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 975,
+        "solved_count": 1798533,
+        "parsed": {
+            "moves": [
+                "Rh8+",
+                "Kg6",
+                "gxh5#",
+                "1-0"
+            ],
+            "raw": "49. Rh8+ Kg6 50. gxh5# 1-0",
+            "event": "Live Chess",
+            "site": "Chess.com",
+            "date": "2024.07.14",
+            "round": "?",
+            "white": "GMHess",
+            "black": "Rubinstein_Student",
+            "result": "1-0",
+            "eco": "A01",
+            "whiteelo": "2863",
+            "blackelo": "2698",
+            "fen": "6R1/5r1k/1p6/2b1B1pp/P3P1P1/8/4K3/8 w - - 0 49"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6R1/5r1k/1p6/2b1B1pp/P3P1P1/8/4K3/8 w - - 0 49"
+    },
+    {
+        "id": 12775,
+        "title": "Gift Exchange",
+        "pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"2r1r1k1/4nppp/p1q1p3/1p1n4/3PB2B/P4Q1P/1P3PP1/3RR1K1 w - - 0 1\"]\r\n\r\n1. Bxe7 Rxe7 2. Bxd5 Qxd5 3. Qxd5 exd5 4. Rxe7 1-0",
+        "date": "2024-12-24",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_gift_exchange_12_24_24_o1h.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 944,
+        "solved_count": 1693253,
+        "parsed": {
+            "moves": [
+                "Bxe7",
+                "Rxe7",
+                "Bxd5",
+                "Qxd5",
+                "Qxd5",
+                "exd5",
+                "Rxe7",
+                "1-0"
+            ],
+            "raw": "1. Bxe7 Rxe7 2. Bxd5 Qxd5 3. Qxd5 exd5 4. Rxe7 1-0",
+            "white": "JohanVA",
+            "black": "Daily Puzzle inspiration",
+            "result": "1-0",
+            "fen": "2r1r1k1/4nppp/p1q1p3/1p1n4/3PB2B/P4Q1P/1P3PP1/3RR1K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2r1r1k1/4nppp/p1q1p3/1p1n4/3PB2B/P4Q1P/1P3PP1/3RR1K1 w - - 0 1"
+    },
+    {
+        "id": 12761,
+        "title": "🦌 Reindeer Mate🦌",
+        "pgn": "[White \"Pogosyants, Ernest\"]\r\n[Black \"Reindeer Mate\"]\r\n[Result \"1-0\"]\r\n[FEN \"2K5/PP6/pk1p4/npb2n2/2rpb2p/4ppp1/8/6rq w - - 0 1\"]\r\n\r\n1. a8=N+ Kc6 2. b8=N+ Kd5 3. Nc7+ Ke5 4. Nd7+ Kf4 5. Ne6+ Kg4 6. Nf6+ Kh3 7.\r\nNf4+ Kh2 8. Ng4# 1-0",
+        "date": "2024-12-25",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_reindeer_mate_12_25_24_y5x.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 2276,
+        "solved_count": 1687762,
+        "parsed": {
+            "moves": [
+                "a8=N+",
+                "Kc6",
+                "b8=N+",
+                "Kd5",
+                "Nc7+",
+                "Ke5",
+                "Nd7+",
+                "Kf4",
+                "Ne6+",
+                "Kg4",
+                "Nf6+",
+                "Kh3",
+                "Nf4+",
+                "Kh2",
+                "Ng4#",
+                "1-0"
+            ],
+            "raw": "1. a8=N+ Kc6 2. b8=N+ Kd5 3. Nc7+ Ke5 4. Nd7+ Kf4 5. Ne6+ Kg4 6. Nf6+ Kh3 7.\r\nNf4+ Kh2 8. Ng4# 1-0",
+            "white": "Pogosyants, Ernest",
+            "black": "Reindeer Mate",
+            "result": "1-0",
+            "fen": "2K5/PP6/pk1p4/npb2n2/2rpb2p/4ppp1/8/6rq w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2K5/PP6/pk1p4/npb2n2/2rpb2p/4ppp1/8/6rq w - - 0 1"
+    },
+    {
+        "id": 12769,
+        "title": "Back Rank Tilt",
+        "pgn": "[Result \"*\"]\r\n[FEN \"5k2/p2r4/b1q2b1P/2p2pN1/5n2/1QP5/PP3PP1/4R1K1 w - - 0 1\"]\r\n\r\n1. Qg8+ Kxg8 2. Re8# *",
+        "date": "2024-12-26",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_back_rank_tilt_12_26_24_j3a.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 796,
+        "solved_count": 1693258,
+        "parsed": {
+            "moves": [
+                "Qg8+",
+                "Kxg8",
+                "Re8#"
+            ],
+            "raw": "1. Qg8+ Kxg8 2. Re8# *",
+            "result": "*",
+            "fen": "5k2/p2r4/b1q2b1P/2p2pN1/5n2/1QP5/PP3PP1/4R1K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5k2/p2r4/b1q2b1P/2p2pN1/5n2/1QP5/PP3PP1/4R1K1 w - - 0 1"
+    },
+    {
+        "id": 12779,
+        "title": "Light Squared Loose End",
+        "pgn": "[White \"JohanVA\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"r2qr1k1/1bp2np1/2pp1p1p/p7/1bB2B1P/3P4/PPPN1PP1/R2Q1RK1 w - - 0 1\"]\r\n\r\n1. Bxf7+ Kxf7 2. c3 Bc5 3. Qb3+ d5 4. Qxb7 1-0",
+        "date": "2024-12-27",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_light_squared_loose_end_12_27_24_e1l.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 802,
+        "solved_count": 1645222,
+        "parsed": {
+            "moves": [
+                "Bxf7+",
+                "Kxf7",
+                "c3",
+                "Bc5",
+                "Qb3+",
+                "d5",
+                "Qxb7",
+                "1-0"
+            ],
+            "raw": "1. Bxf7+ Kxf7 2. c3 Bc5 3. Qb3+ d5 4. Qxb7 1-0",
+            "white": "JohanVA",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "r2qr1k1/1bp2np1/2pp1p1p/p7/1bB2B1P/3P4/PPPN1PP1/R2Q1RK1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r2qr1k1/1bp2np1/2pp1p1p/p7/1bB2B1P/3P4/PPPN1PP1/R2Q1RK1 w - - 0 1"
+    },
+    {
+        "id": 12757,
+        "title": "Rafael's Surprise Party 🥳",
+        "pgn": "[Event \"Tripoli\"]\r\n[Date \"2004.??.??\"]\r\n[White \"Happy Birthday Rafael Leitão\"]\r\n[Black \"(Moved Kg1 to h1) Zhang Zhong\"]\r\n[Result \"1-0\"]\r\n[FEN \"R2b1r1k/6p1/3p2Bp/1p1Qp3/1P6/2q3P1/5P2/7K w - - 0 44\"]\r\n\r\n44. Qf7 Rg8 45. Qxg8+ Kxg8 46. Rxd8# 1-0",
+        "date": "2024-12-28",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_rafaels_surprise_party_12_28_24_m10t.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 1194,
+        "solved_count": 1642416,
+        "parsed": {
+            "moves": [
+                "Qf7",
+                "Rg8",
+                "Qxg8+",
+                "Kxg8",
+                "Rxd8#",
+                "1-0"
+            ],
+            "raw": "44. Qf7 Rg8 45. Qxg8+ Kxg8 46. Rxd8# 1-0",
+            "event": "Tripoli",
+            "date": "2004.??.??",
+            "white": "Happy Birthday Rafael Leitão",
+            "black": "(Moved Kg1 to h1) Zhang Zhong",
+            "result": "1-0",
+            "fen": "R2b1r1k/6p1/3p2Bp/1p1Qp3/1P6/2q3P1/5P2/7K w - - 0 44"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=R2b1r1k/6p1/3p2Bp/1p1Qp3/1P6/2q3P1/5P2/7K w - - 0 44"
+    },
+    {
+        "id": 12801,
+        "title": "Attacking Harmony",
+        "pgn": "[White \"Pepe\"]\r\n[Black \"Daily Puzzle inspiration\"]\r\n[Result \"0-1\"]\r\n[FEN \"1k1r4/p1bq4/6P1/1PpP2p1/2B1b3/R1PnNP2/5BKP/Q5R1 b - - 0 1\"]\r\n\r\n1... Qh3+ 2. Kxh3 Bxf3 3. Bh4 Nf2+ 4. Bxf2 Rh8+ 5. Bh4 Rxh4# 0-1",
+        "date": "2024-12-29",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_attacking_harmony_12_29_24_o3t.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 957,
+        "solved_count": 1654902,
+        "parsed": {
+            "moves": [
+                "Qh3+",
+                "Kxh3",
+                "Bxf3",
+                "Bh4",
+                "Nf2+",
+                "Bxf2",
+                "Rh8+",
+                "Bh4",
+                "Rxh4#",
+                "0-1"
+            ],
+            "raw": "1... Qh3+ 2. Kxh3 Bxf3 3. Bh4 Nf2+ 4. Bxf2 Rh8+ 5. Bh4 Rxh4# 0-1",
+            "white": "Pepe",
+            "black": "Daily Puzzle inspiration",
+            "result": "0-1",
+            "fen": "1k1r4/p1bq4/6P1/1PpP2p1/2B1b3/R1PnNP2/5BKP/Q5R1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1k1r4/p1bq4/6P1/1PpP2p1/2B1b3/R1PnNP2/5BKP/Q5R1 b - - 0 1"
+    },
+    {
+        "id": 12767,
+        "title": "Birthday Brah Checkmate 🍰",
+        "pgn": "[Event \"Chess.com blitz\"]\r\n[White \"tgpgoat (Rook added to a8)\"]\r\n[Black \"KNVB Happy Birthday, Aman!\"]\r\n[Result \"1-0\"]\r\n[FEN \"R4Q2/5p1k/2p3bB/1p1n3p/4p2P/2q1P3/5PP1/5K2 b - - 0 1\"]\r\n\r\n1... Qc1+ 2. Ke2 Nc3# 1-0",
+        "date": "2024-12-30",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_birthday_brah_checkmate_12_30_24_d2y.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 1109,
+        "solved_count": 1803903,
+        "parsed": {
+            "moves": [
+                "Qc1+",
+                "Ke2",
+                "Nc3#",
+                "1-0"
+            ],
+            "raw": "1... Qc1+ 2. Ke2 Nc3# 1-0",
+            "event": "Chess.com blitz",
+            "white": "tgpgoat (Rook added to a8)",
+            "black": "KNVB Happy Birthday, Aman!",
+            "result": "1-0",
+            "fen": "R4Q2/5p1k/2p3bB/1p1n3p/4p2P/2q1P3/5PP1/5K2 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=R4Q2/5p1k/2p3bB/1p1n3p/4p2P/2q1P3/5PP1/5K2 b - - 0 1"
+    },
+    {
+        "id": 12793,
+        "title": "2024's Final King Hunt",
+        "pgn": "[White \"Gunnar247\"]\r\n[Black \"Daily Puzzle inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"r2k1b1r/3np3/p6p/2pp2NQ/2p1P2P/2n5/P4PP1/q2B1K1R w - - 0 1\"]\r\n\r\n1. Ne6+ Kc8 2. Qe8+ Kb7 3. Qxd7+ Kb6 4. Qc7+ Kb5 5. Qxc5# 1-0",
+        "date": "2024-12-31",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2024s_final_king_hunt_12_31_24_j7a.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 1703,
+        "solved_count": 1678187,
+        "parsed": {
+            "moves": [
+                "Ne6+",
+                "Kc8",
+                "Qe8+",
+                "Kb7",
+                "Qxd7+",
+                "Kb6",
+                "Qc7+",
+                "Kb5",
+                "Qxc5#",
+                "1-0"
+            ],
+            "raw": "1. Ne6+ Kc8 2. Qe8+ Kb7 3. Qxd7+ Kb6 4. Qc7+ Kb5 5. Qxc5# 1-0",
+            "white": "Gunnar247",
+            "black": "Daily Puzzle inspiration",
+            "result": "1-0",
+            "fen": "r2k1b1r/3np3/p6p/2pp2NQ/2p1P2P/2n5/P4PP1/q2B1K1R w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r2k1b1r/3np3/p6p/2pp2NQ/2p1P2P/2n5/P4PP1/q2B1K1R w - - 0 1"
+    }
+]

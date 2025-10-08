@@ -10,7 +10,7 @@ export interface IPuzzle {
   date?: string;
   disabledDays?: Date[];
 }
-const NEXT_PUBLIC_DATA_URL = process.env.NEXT_PUBLIC_DATA_URL || "/api";
+const NEXT_PUBLIC_DATA_URL = process.env.NEXT_PUBLIC_DATA_URL || "";
 export function useDailyPuzzleData(date: Date) {
   const [puzzle, setData] = useState<IPuzzle>({
     fen: undefined,
