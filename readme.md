@@ -32,4 +32,8 @@ cd app
 npm run dev
 ```
 
-![image](https://user-images.githubusercontent.com/1183138/235556819-5ec05bcc-89ff-436d-bb4d-773e7b4ede3b.png)
+
+
+<img width="1204" height="803" alt="image" src="https://github.com/user-attachments/assets/2c7b4cc6-39c1-4cb4-af49-2f2d87d9d704" />
+
+<img width="1172" height="821" alt="image" src="https://github.com/user-attachments/assets/78b451ca-e1e9-4fc8-8022-16af0f194229" />
