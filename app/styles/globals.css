@@ -41,6 +41,9 @@ body {
   border-radius: 0.75rem;
   border: 1px solid rgb(30 41 59 / 0.6);
   padding: 0.5rem;
+  display: flex;
+  justify-content: center;
+  width: 100%;
 }
 .rdp-dark .rdp-day.rdp-day_selected,
 .rdp-dark .rdp-day:focus-visible,
@@ -53,11 +56,12 @@ body {
   color: white !important;
   background-color: #16a34a !important; /* green-600 */
   position: relative;
+  border-radius: 50%;
 }
 .day-solved::after {
   content: '✓';
   position: absolute;
-  top: -4px;
-  font-size: 12px;
-  right: 12px;
+  top: 10px;
+  font-size: 16px;
+  right: 4px;
 }

@@ -410,12 +410,23 @@ export default function Home() {
           variants={animationVariants}
           transition={{ duration: 0.2 }}
         >
-          <div className="w-full max-w-lg rounded-2xl border border-slate-800 bg-slate-900 p-4 md:p-6 shadow-2xl">
-            <h3 className="text-lg font-semibold text-amber-300 mb-3">{solved ? '🎉 Puzzle Solved!' : 'Select a date'}</h3>
+          <div className="w-full max-w-md rounded-2xl border border-slate-800 bg-slate-900 p-4 md:p-6 shadow-2xl">
+            <div className="flex items-start justify-between mb-3">
+              <h3 className="text-lg font-semibold text-amber-300">{solved ? '🎉 Puzzle Solved!' : 'Select a date'}</h3>
+              <button 
+                onClick={() => setShowSolvedModal(false)} 
+                className="ml-4 rounded-lg border border-slate-700/60 bg-slate-800/60 p-2 text-sm hover:bg-slate-800"
+                aria-label="Close modal"
+              >
+                <svg className="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
+                  <path fillRule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clipRule="evenodd" />
+                </svg>
+              </button>
+            </div>
             <p className="text-slate-300 mb-4">{solved ? 'Pick another date to try a different daily puzzle.' : 'Choose a date to jump to that daily puzzle.'}</p>
-            <div className="rounded-xl border border-slate-800/60 bg-slate-900/60 p-3 md:p-4 mb-4">
+            <div className="rounded-xl border border-slate-800/60 bg-slate-900/60 p-2">
               <DayPicker
-                className="rdp-dark"
+                className="rdp-dark w-full"
                 month={date}
                 mode="single"
                 selected={date}
@@ -429,9 +440,6 @@ export default function Home() {
                 modifiers={{ solved: puzzleHistory.days }}
                 modifiersClassNames={{ solved: puzzleHistory.classNames.solved }}
               />
-            </div>
-            <div className="flex items-center justify-end gap-2">
-              <button onClick={() => setShowSolvedModal(false)} className="rounded-lg border border-slate-700/60 bg-slate-800/60 px-4 py-2 text-sm hover:bg-slate-800">Close</button>
             </div>
           </div>
         </motion.div>

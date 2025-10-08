@@ -11,6 +11,8 @@ on:
       - "app/**"
       - ".github/workflows/app.yml"
 env:
+  NODE_ENV: production
+  CI: true
   NEXT_PUBLIC_DATA_URL: ""
   NEXT_PUBLIC_BASE_PATH: ""
 permissions:
