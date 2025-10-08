@@ -11,7 +11,7 @@ on:
       - "app/**"
       - ".github/workflows/app.yml"
 env:
-  NEXT_PUBLIC_DATA_URL: https://raw.githubusercontent.com/samuraitruong/chess.com-daily-puzzle/main
+  NEXT_PUBLIC_DATA_URL: ""
   NEXT_PUBLIC_BASE_PATH: ""
 permissions:
   contents: read
@@ -26,10 +26,10 @@ jobs:
         working-directory: app
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: 16
+          node-version: 22
           cache: "npm"
           cache-dependency-path: app
       - name: Setup Pages
@@ -47,11 +47,11 @@ jobs:
 
       - run: npm ci
 
-      - run: npm run export
+      - run: npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./app/output # The folder the action should deploy.
+          path: ./app/out # The folder the action should deploy.
 
     # Deployment job
   deploy:
