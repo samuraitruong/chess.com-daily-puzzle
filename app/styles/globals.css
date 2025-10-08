@@ -2,32 +2,57 @@
 @tailwind components;
 @tailwind utilities;
 
+/* App theme tokens */
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+  --surface-0: 15 23 42; /* slate-900 */
+  --surface-1: 2 6 23; /* slate-950 */
+  --surface-2: 30 41 59; /* slate-800 */
+  --text-0: 226 232 240; /* slate-200 */
+  --brand: 245 158 11; /* amber-500 */
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+html, body, #__next {
+  height: 100%;
 }
 
+/* Dark minimal body baseline; main backgrounds handled in components */
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  color: rgb(var(--text-0));
+  background-color: rgb(var(--surface-1));
 }
+
+/* Ensure chess drag previews are not clipped by parents */
+.react-chessboard, .react-chessboard-board {
+  overflow: visible !important;
+}
+
+/* DayPicker dark styling alignment */
+.rdp-dark {
+  --rdp-accent-color: rgb(251 191 36 / 0.9); /* amber-400 */
+  --rdp-background-color: rgb(2 6 23 / 0.6); /* slate-950/60 */
+  --rdp-outline: 2px solid var(--rdp-accent-color);
+  --rdp-outline-selected: 2px solid var(--rdp-accent-color);
+}
+.rdp-dark .rdp {
+  color: rgb(203 213 225);
+}
+.rdp-dark .rdp-months {
+  background-color: rgb(15 23 42 / 0.6);
+  border-radius: 0.75rem;
+  border: 1px solid rgb(30 41 59 / 0.6);
+  padding: 0.5rem;
+}
+.rdp-dark .rdp-day.rdp-day_selected,
+.rdp-dark .rdp-day:focus-visible,
+.rdp-dark .rdp-day:hover {
+  background-color: rgb(251 191 36 / 0.15);
+}
+
+/* Solved day badge */
 .day-solved {
   color: white !important;
-  background-color: green !important;
+  background-color: #16a34a !important; /* green-600 */
+  position: relative;
 }
 .day-solved::after {
   content: '✓';

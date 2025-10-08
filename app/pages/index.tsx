@@ -1,4 +1,3 @@
-import { Inter } from "next/font/google";
 import { useDailyPuzzleData } from "@/hooks/useDailyPuzzleData";
 import { useEffect, useMemo, useState } from "react";
 import { DayPicker } from "react-day-picker";
@@ -9,12 +8,10 @@ import "react-day-picker/dist/style.css";
 import "react-toastify/dist/ReactToastify.css";
 import { usePuzzleHistory } from "@/hooks/usePuzzleHistory";
 import { useRouter } from "next/router";
-import { format } from "date-fns";
+import { addDays, format, subDays, isSameDay } from "date-fns";
 import useScreenSize from "@/hooks/useScreenSize";
 import { motion } from "framer-motion";
-import { sq } from "date-fns/locale";
-
-const inter = Inter({ subsets: ["latin"] });
+ 
 
 export default function Home() {
   const router = useRouter();
@@ -30,7 +27,7 @@ export default function Home() {
   const [selectedSquare, setSelectedSquare] = useState<string | null>(null);
   const [possibleMoves, setPossibleMoves] = useState<Move[]>([]);
   const [timer, setTimer] = useState(0);
-  const [showAnimation, setShowAnimation] = useState(true);
+  const [showSolvedModal, setShowSolvedModal] = useState(false);
   const [failedAttempts, setFailedAttempts] = useState(0); // Track failed attempts
   const [disabledDays, setDisabledDays] = useState<Date[]>([]); // State to hold disabled days
 
@@ -39,8 +36,8 @@ export default function Home() {
   const { data: puzzleData } = useDailyPuzzleData(date);
 
   const routerDate = useMemo(
-    () => router.query.date && new Date(router.query.date as string),
-    [router]
+    () => (router.query.date ? new Date(router.query.date as string) : null),
+    [router.query?.date]
   );
 
   useEffect(() => {
@@ -50,10 +47,10 @@ export default function Home() {
   }, [puzzleData, date]);
 
   useEffect(() => {
-    if (routerDate) {
-      setTimeout(() => setSelected(routerDate), 1000);
+    if (routerDate && !isSameDay(routerDate, date)) {
+      setSelected(routerDate);
     }
-  }, [routerDate]);
+  }, [routerDate, date]);
 
   useEffect(() => {
     let interval: NodeJS.Timeout | undefined;
@@ -79,7 +76,6 @@ export default function Home() {
 
   const initializePuzzle = (fen: string, moves: string[]) => {
     setMessage("Solving...");
-    toast.dismiss();
     setGame(new Chess(fen));
     setValidMoves(moves);
     setSolved(false);
@@ -90,7 +86,12 @@ export default function Home() {
       router.push("/?date=" + format(newDate, "yyyy-MM-dd"));
       setSelected(newDate);
       localStorage.setItem("lastPuzzleDate", newDate.toISOString());
+      // provide immediate visual feedback
       setSolvingMove([]);
+      setValidMoves([]);
+      setGame(new Chess());
+      setSolved(false);
+      setMessage("Loading...");
     }
   };
 
@@ -112,9 +113,7 @@ export default function Home() {
     piece: string
   ) => {
     if (sourceSquare === targetSquare) {
-      toast.error("Invalid move: Source and target squares are the same.", {
-        autoClose: 3000,
-      });
+      toast.error("Invalid move: source and target are the same.", { autoClose: 2500 });
       return false;
     }
     const move = makeAMove({
@@ -174,7 +173,7 @@ export default function Home() {
 
   const handleInvalidMove = () => {
     setMessage("Incorrect move");
-    toast.error("Incorrect move! Please try again", { autoClose: 3000 });
+    toast.error("Incorrect move! Please try again.", { autoClose: 2500 });
     setSelectedSquare(null);
     setPossibleMoves([]);
     setFailedAttempts((prev) => prev + 1); // Increment failed attempts
@@ -184,8 +183,7 @@ export default function Home() {
     const newMoves = [...solvingMoves, move];
     setGame(new Chess(move.after));
     setSolvingMove(newMoves);
-    toast.dismiss();
-    toast(move.san, { type: "info" });
+    // no toast; moves appear in the right panel
 
     const computerMove = validMoves[1];
     const remainingMoves = validMoves.slice(2);
@@ -202,14 +200,12 @@ export default function Home() {
         setGame(new Chess(result.after));
         setSolvingMove(updatedMoves);
         setValidMoves(remainingMoves);
-        toast(computerMove, { type: "warning", autoClose: false });
       }, 500);
     } else {
       puzzleHistory.setSolved(date);
       setSolved(true);
       setMessage("Solved");
-      toast("Great, You solved it!", { type: "success", autoClose: false });
-      setTimeout(() => toast.dismiss(), 5000);
+      setShowSolvedModal(true);
     }
   };
 
@@ -228,6 +224,7 @@ export default function Home() {
 
   const currentFen = game.fen();
   const player = puzzleData?.player;
+  const isErrorStatus = message.toLowerCase().includes("incorrect");
 
   const renderMoveList = () => {
     return solvingMoves.map((move, index) => (
@@ -249,12 +246,7 @@ export default function Home() {
     visible: { opacity: 1, scale: 1 },
   };
 
-  useEffect(() => {
-    if (solved) {
-      const timer = setTimeout(() => setShowAnimation(false), 5000);
-      return () => clearTimeout(timer);
-    }
-  }, [solved]);
+  // solved modal will be controlled explicitly
 
   const handleHintClick = () => {
     if (validMoves.length > 0) {
@@ -270,82 +262,177 @@ export default function Home() {
     }
   };
 
+  const isDateDisabled = (d: Date) =>
+    disabledDays.some((dd) => isSameDay(dd, d));
+
+  const gotoPrevDate = () => {
+    let d = subDays(date, 1);
+    // Skip disabled days if provided
+    let guard = 0;
+    while (isDateDisabled(d) && guard < 366) {
+      d = subDays(d, 1);
+      guard++;
+    }
+    onDateChanged(d);
+  };
+
+  const gotoNextDate = () => {
+    let d = addDays(date, 1);
+    let guard = 0;
+    while (isDateDisabled(d) && guard < 366) {
+      d = addDays(d, 1);
+      guard++;
+    }
+    onDateChanged(d);
+  };
+
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-10 md:p-5 bg-gray-900 text-white">
-      <div className="z-10 w-full max-w-6xl items-center justify-between font-mono text-sm lg:flex flex-col">
-        <div className="grid grid-flow-row md:grid-flow-col grid-cols-1 md:grid-cols-2 grid-rows-2 md:grid-rows-1 w-full">
-          <div className="col-span-9 border-r border-gray-800 border-opacity-80 pr-4">
-            <p className="text-yellow-400">{puzzleData?.title}</p>
-            <Chessboard
-              promotionToSquare={promotionSquare}
-              showPromotionDialog={showPromotionDialog}
-              showBoardNotation={false}
-              boardWidth={
-                screen.width <= 768 ? screen.width - 50 : screen.height - 100
-              }
-              position={currentFen}
-              onPieceDrop={onDrop}
-              onSquareClick={onSquareClick as any}
-              boardOrientation={player?.toLowerCase() as any}
-              animationDuration={500}
-              customSquareStyles={Object.fromEntries(
-                possibleMoves.map((move) => [
-                  move.to,
-                  { backgroundColor: "rgba(255, 255, 0, 0.4)" },
-                ])
-              )}
-            />
+    <main className="min-h-screen w-full bg-gradient-to-br from-slate-950 via-slate-900 to-slate-800 text-slate-100">
+      <div className="mx-auto w-full max-w-7xl px-2 md:px-4 lg:px-6 py-2 md:py-4">
+        <header className="mb-2 md:mb-4">
+          <div className="flex items-center justify-center">
+            <h1 className="text-center text-xl md:text-2xl font-semibold tracking-tight">
+              Sharpen your tactics. One puzzle a day.
+            </h1>
           </div>
-          <div className="col-span-3 items-center flex flex-col">
-            <DayPicker
-              className="bg-white text-black shadow-lg rounded-lg p-4"
-              month={date}
-              mode="single"
-              selected={date}
-              onSelect={onDateChanged as any}
-              onMonthChange={onDateChanged}
-              disabled={disabledDays} // Use the disabledDays state here
-              modifiers={{ solved: puzzleHistory.days }}
-              modifiersClassNames={{ solved: puzzleHistory.classNames.solved }}
-            />
-            <p className="text-yellow-400 my-5">{player} to play</p>
-            <p className="text-yellow-500">
-              {message} ({Math.floor(timer / 60)}:
-              {timer % 60 < 10 ? `0${timer % 60}` : timer % 60})
-            </p>
-            <div className="w-full p-2">
-              <div className="flex flex-wrap">{renderMoveList()}</div>
+        </header>
+
+        <section className="grid grid-cols-1 lg:grid-cols-12 gap-6">
+          <div className="lg:col-span-9 xl:col-span-9">
+            <div className="relative rounded-xl border border-slate-800/60 bg-slate-900/60 shadow-2xl">
+              <div className="p-3 md:p-3 border-b border-slate-800/60">
+                <div className="flex items-center justify-between">
+                  <span className="text-sm md:text-base font-medium text-amber-300/90 truncate">
+                    {puzzleData?.title || "Puzzle"}
+                  </span>
+                </div>
+              </div>
+              <div className="p-3 md:p-3">
+                <div className="flex w-full items-center justify-center">
+                  <Chessboard
+                    promotionToSquare={promotionSquare}
+                    showPromotionDialog={showPromotionDialog}
+                    showBoardNotation={true}
+                    customBoardStyle={{ overflow: "visible" }}
+                    boardWidth={
+                      screen.width <= 768 ? Math.max(260, screen.width - 40) : Math.min(720, screen.height - 140)
+                    }
+                    position={currentFen}
+                    onPieceDrop={onDrop}
+                    onSquareClick={onSquareClick as any}
+                    boardOrientation={player?.toLowerCase() as any}
+                    animationDuration={500}
+                    customSquareStyles={Object.fromEntries(
+                      possibleMoves.map((move) => [
+                        move.to,
+                        { backgroundColor: "rgba(251, 191, 36, 0.45)" },
+                      ])
+                    )}
+                  />
+                </div>
+              </div>
+              <div className="px-4 md:px-5 pb-4 md:pb-5 border-t border-slate-800/60" />
             </div>
-            {failedAttempts >= 3 && (
-              <button
-                onClick={handleHintClick}
-                className="mt-4 bg-yellow-500 text-black rounded p-2"
-              >
-                Hint
-              </button>
-            )}
           </div>
-        </div>
+
+          <aside className="lg:col-span-3 xl:col-span-3 space-y-6">
+            <div className="rounded-xl border border-slate-800/60 bg-slate-900/60 backdrop-blur shadow-xl">
+              <div className="p-4 md:p-5 border-b border-slate-800/60">
+                <div className="flex items-center justify-between gap-1 w-full">
+                    <button
+                      aria-label="Previous date"
+                      onClick={gotoPrevDate}
+                      className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-slate-700/60 bg-slate-800/60 hover:bg-slate-800"
+                    >
+                      <svg className="h-4 w-4 text-slate-300" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path fillRule="evenodd" d="M12.78 15.53a.75.75 0 0 1-1.06 0l-4.25-4.25a.75.75 0 0 1 0-1.06l4.25-4.25a.75.75 0 1 1 1.06 1.06L8.56 10l4.22 4.22a.75.75 0 0 1 0 1.06z" clipRule="evenodd" />
+                      </svg>
+                    </button>
+                    <button
+                      aria-label="Select date"
+                      onClick={() => setShowSolvedModal(true)}
+                      className="px-2 md:px-3 h-8 inline-flex flex-1 items-center justify-center rounded-md border border-slate-700/60 bg-slate-800/60 hover:bg-slate-800 text-xs md:text-sm font-medium text-slate-200 mx-1"
+                    >
+                      {format(date, "yyyy-MM-dd")}
+                    </button>
+                    <button
+                      aria-label="Next date"
+                      onClick={gotoNextDate}
+                      className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-slate-700/60 bg-slate-800/60 hover:bg-slate-800"
+                    >
+                      <svg className="h-4 w-4 text-slate-300" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path fillRule="evenodd" d="M7.22 4.47a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 1 1-1.06-1.06L11.44 10 7.22 5.78a.75.75 0 0 1 0-1.06z" clipRule="evenodd" />
+                      </svg>
+                    </button>
+                </div>
+              </div>
+              <div className="p-3 md:p-5 space-y-3">
+                <div className="text-sm font-medium text-amber-300/90">
+                  {player ? `${player.charAt(0).toUpperCase()}${player.slice(1)} to play` : ''}
+                </div>
+                <div className="flex items-center justify-between text-sm">
+                  <span className="text-slate-400">Timer</span>
+                  <span className="text-slate-200 font-medium">{Math.floor(timer / 60)}:{timer % 60 < 10 ? `0${timer % 60}` : timer % 60}</span>
+                </div>
+                <div className="flex items-center justify-between text-sm">
+                  <span className="text-slate-400">Status</span>
+                  <span className={isErrorStatus ? "font-medium text-red-400" : "text-slate-200 font-medium"}>
+                    {message || (solved ? "Solved" : "Solving...")}
+                  </span>
+                </div>
+                <div className="flex flex-wrap gap-2">
+                  {solvingMoves.length === 0 ? (
+                    <span className="text-sm text-slate-500">Your moves will appear here.</span>
+                  ) : (
+                    renderMoveList()
+                  )}
+                </div>
+                {failedAttempts >= 3 && (
+                  <button
+                    onClick={handleHintClick}
+                    className="w-full inline-flex items-center justify-center gap-2 rounded-lg bg-amber-400 px-3 py-2 text-sm font-medium text-slate-900 hover:bg-amber-300 focus:outline-none focus:ring-2 focus:ring-amber-400/40"
+                  >
+                    Hint
+                  </button>
+                )}
+              </div>
+            </div>
+          </aside>
+        </section>
       </div>
-      <ToastContainer
-        theme="colored"
-        autoClose={false}
-        position={screen.width <= 768 ? "bottom-center" : "top-right"}
-      />
-      {solved && showAnimation && (
+      <ToastContainer theme="colored" autoClose={false} position="top-right" />
+      {showSolvedModal && (
         <motion.div
-          className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-50 z-50"
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/60"
           initial="hidden"
           animate="visible"
           exit="hidden"
           variants={animationVariants}
-          transition={{ duration: 0.5 }}
-          onClick={() => {
-            setShowAnimation(false);
-          }}
+          transition={{ duration: 0.2 }}
         >
-          <div className="text-white text-4xl font-bold">
-            🎉 Puzzle Solved! 🎉
+          <div className="w-full max-w-lg rounded-2xl border border-slate-800 bg-slate-900 p-4 md:p-6 shadow-2xl">
+            <h3 className="text-lg font-semibold text-amber-300 mb-3">{solved ? '🎉 Puzzle Solved!' : 'Select a date'}</h3>
+            <p className="text-slate-300 mb-4">{solved ? 'Pick another date to try a different daily puzzle.' : 'Choose a date to jump to that daily puzzle.'}</p>
+            <div className="rounded-xl border border-slate-800/60 bg-slate-900/60 p-3 md:p-4 mb-4">
+              <DayPicker
+                className="rdp-dark"
+                month={date}
+                mode="single"
+                selected={date}
+                onSelect={(d: any) => {
+                  if (!d) return;
+                  onDateChanged(d);
+                  setShowSolvedModal(false);
+                }}
+                onMonthChange={(m) => onDateChanged(m)}
+                disabled={disabledDays}
+                modifiers={{ solved: puzzleHistory.days }}
+                modifiersClassNames={{ solved: puzzleHistory.classNames.solved }}
+              />
+            </div>
+            <div className="flex items-center justify-end gap-2">
+              <button onClick={() => setShowSolvedModal(false)} className="rounded-lg border border-slate-700/60 bg-slate-800/60 px-4 py-2 text-sm hover:bg-slate-800">Close</button>
+            </div>
           </div>
         </motion.div>
       )}

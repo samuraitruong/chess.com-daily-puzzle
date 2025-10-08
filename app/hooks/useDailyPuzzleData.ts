@@ -1,7 +1,5 @@
 import { useState, useEffect } from "react";
-import format from "date-fns/format";
-import endOfMonth from "date-fns/endOfMonth";
-import addDays from "date-fns/addDays";
+import { format, endOfMonth, addDays } from "date-fns";
 
 export interface IPuzzle {
   fen?: string;
