@@ -11,6 +11,7 @@ import { useRouter } from "next/router";
 import { addDays, format, subDays, isSameDay } from "date-fns";
 import useScreenSize from "@/hooks/useScreenSize";
 import { motion } from "framer-motion";
+import CelebrationScreen from "@/components/CelebrationScreen";
  
 
 export default function Home() {
@@ -28,11 +29,13 @@ export default function Home() {
   const [possibleMoves, setPossibleMoves] = useState<Move[]>([]);
   const [timer, setTimer] = useState(0);
   const [showSolvedModal, setShowSolvedModal] = useState(false);
+  const [showCelebration, setShowCelebration] = useState(false);
   const [failedAttempts, setFailedAttempts] = useState(0); // Track failed attempts
   const [disabledDays, setDisabledDays] = useState<Date[]>([]); // State to hold disabled days
 
   const [promotionSquare, setPromotionSquare] = useState<Square | undefined>(); // State to hold disabled days
   const [showPromotionDialog, setShowPromotionDialog] = useState(false); // State to hold disabled days
+  const [isNavigating, setIsNavigating] = useState(false); // Prevent duplicate navigation
   const { data: puzzleData } = useDailyPuzzleData(date);
 
   const routerDate = useMemo(
@@ -41,16 +44,24 @@ export default function Home() {
   );
 
   useEffect(() => {
-    if (puzzleData?.fen) {
+    if (puzzleData?.fen && puzzleData.moves) {
       initializePuzzle(puzzleData.fen, puzzleData.moves);
     }
-  }, [puzzleData, date]);
+  }, [puzzleData?.fen, puzzleData?.moves]);
 
   useEffect(() => {
-    if (routerDate && !isSameDay(routerDate, date)) {
+    if (routerDate && !isSameDay(routerDate, date) && !isNavigating) {
       setSelected(routerDate);
+      // Reset puzzle state when date changes via router
+      setSolvingMove([]);
+      setValidMoves([]);
+      setGame(new Chess());
+      setSolved(false);
+      setMessage("Loading...");
+      setShowCelebration(false);
+      setShowSolvedModal(false);
     }
-  }, [routerDate, date]);
+  }, [routerDate, date, isNavigating]);
 
   useEffect(() => {
     let interval: NodeJS.Timeout | undefined;
@@ -82,16 +93,27 @@ export default function Home() {
   };
 
   const onDateChanged = (newDate: Date) => {
-    if (newDate) {
+    if (newDate && !isSameDay(newDate, date) && !isNavigating) {
+      setIsNavigating(true);
+      
+      // Update router first
       router.push("/?date=" + format(newDate, "yyyy-MM-dd"));
+      
+      // Update local state immediately
       setSelected(newDate);
       localStorage.setItem("lastPuzzleDate", newDate.toISOString());
-      // provide immediate visual feedback
+      
+      // Reset puzzle state
       setSolvingMove([]);
       setValidMoves([]);
       setGame(new Chess());
       setSolved(false);
       setMessage("Loading...");
+      setShowCelebration(false);
+      setShowSolvedModal(false);
+      
+      // Reset navigation flag after router has processed
+      setTimeout(() => setIsNavigating(false), 200);
     }
   };
 
@@ -141,33 +163,74 @@ export default function Home() {
     if (promotionMove) {
       setPromotionSquare(promotionMove.to);
     } else {
-      //setPromotionSquare(undefined);
       setShowPromotionDialog(false);
     }
+
     if (!selectedSquare) {
-      setSelectedSquare(square);
-      setPossibleMoves(moves);
+      // No piece selected, select this square if it has a piece
+      if (piece) {
+        setSelectedSquare(square);
+        setPossibleMoves(moves);
+      }
     } else {
+      // A piece is already selected
       if (selectedSquare === square) {
+        // Clicking the same square - deselect
+        setSelectedSquare(null);
+        setPossibleMoves([]);
         return;
       }
+
       if (square === promotionSquare) {
         setShowPromotionDialog(true);
         return;
       }
-      const piceString = piece?.toString();
-      const move = makeAMove({
-        from: selectedSquare,
-        to: square,
-        promotion: piceString?.[1].toLocaleLowerCase() ?? "q",
-      });
-      if (move) {
-        handleValidMove(move);
-      } else {
-        handleInvalidMove();
+
+      // Check if clicking on a piece of the same color (reselect)
+      const selectedPiece = game.get(selectedSquare as Square);
+      const clickedPiece = game.get(square);
+      
+      if (clickedPiece && selectedPiece && 
+          clickedPiece.color === selectedPiece.color) {
+        // Same color piece - reselect
+        setSelectedSquare(square);
+        setPossibleMoves(moves);
+        return;
       }
-      setSelectedSquare(null); // Reset selected square after attempting a move
-      setPossibleMoves([]); // Clear possible moves after attempting a move
+
+      // Check if this is a valid move from the selected square
+      const validMovesFromSelected = game.moves({ 
+        square: selectedSquare as Square, 
+        verbose: true 
+      });
+      const isValidMove = validMovesFromSelected.some((move: any) => move.to === square);
+
+      if (isValidMove) {
+        // Valid move - execute it
+        const piceString = piece?.toString();
+        const move = makeAMove({
+          from: selectedSquare,
+          to: square,
+          promotion: piceString?.[1].toLocaleLowerCase() ?? "q",
+        });
+        if (move) {
+          handleValidMove(move);
+        } else {
+          handleInvalidMove();
+        }
+        setSelectedSquare(null);
+        setPossibleMoves([]);
+      } else {
+        // Invalid move - deselect current piece
+        setSelectedSquare(null);
+        setPossibleMoves([]);
+        
+        // If clicked on a piece, select it instead
+        if (piece) {
+          setSelectedSquare(square);
+          setPossibleMoves(moves);
+        }
+      }
     }
   };
 
@@ -205,7 +268,8 @@ export default function Home() {
       puzzleHistory.setSolved(date);
       setSolved(true);
       setMessage("Solved");
-      setShowSolvedModal(true);
+      // Show celebration screen with integrated calendar
+      setShowCelebration(true);
     }
   };
 
@@ -227,18 +291,35 @@ export default function Home() {
   const isErrorStatus = message.toLowerCase().includes("incorrect");
 
   const renderMoveList = () => {
-    return solvingMoves.map((move, index) => (
-      <span
-        key={index}
-        className="mr-2 text-yellow-400 hover:cursor-pointer"
-        onMouseEnter={() => handleMoveHover(move.after)}
-        onMouseLeave={handleMoveMouseOut}
-      >
-        {index % 2 === 0 && `${Math.floor(index / 2) + 1}.`}{" "}
-        {index % 2 === 1 && player === "black" && "..."}
-        {move.san}
-      </span>
-    ));
+    const moves = [];
+    for (let i = 0; i < solvingMoves.length; i += 2) {
+      const whiteMove = solvingMoves[i];
+      const blackMove = solvingMoves[i + 1];
+      const moveNumber = Math.floor(i / 2) + 1;
+      
+      moves.push(
+        <div key={moveNumber} className="flex items-center mb-1">
+          <span className="text-slate-400 text-sm w-8 flex-shrink-0">{moveNumber}.</span>
+          <span
+            className="text-yellow-400 hover:cursor-pointer hover:bg-yellow-400/10 px-1 rounded mr-4 min-w-[3rem] inline-block"
+            onMouseEnter={() => handleMoveHover(whiteMove.after)}
+            onMouseLeave={handleMoveMouseOut}
+          >
+            {whiteMove.san}
+          </span>
+          {blackMove && (
+            <span
+              className="text-yellow-400 hover:cursor-pointer hover:bg-yellow-400/10 px-1 rounded min-w-[3rem] inline-block"
+              onMouseEnter={() => handleMoveHover(blackMove.after)}
+              onMouseLeave={handleMoveMouseOut}
+            >
+              {blackMove.san}
+            </span>
+          )}
+        </div>
+      );
+    }
+    return moves;
   };
 
   const animationVariants = {
@@ -266,6 +347,8 @@ export default function Home() {
     disabledDays.some((dd) => isSameDay(dd, d));
 
   const gotoPrevDate = () => {
+    if (isNavigating) return;
+    
     let d = subDays(date, 1);
     // Skip disabled days if provided
     let guard = 0;
@@ -277,6 +360,8 @@ export default function Home() {
   };
 
   const gotoNextDate = () => {
+    if (isNavigating) return;
+    
     let d = addDays(date, 1);
     let guard = 0;
     while (isDateDisabled(d) && guard < 366) {
@@ -342,7 +427,8 @@ export default function Home() {
                     <button
                       aria-label="Previous date"
                       onClick={gotoPrevDate}
-                      className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-slate-700/60 bg-slate-800/60 hover:bg-slate-800"
+                      disabled={isNavigating}
+                      className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-slate-700/60 bg-slate-800/60 hover:bg-slate-800 disabled:opacity-50 disabled:cursor-not-allowed"
                     >
                       <svg className="h-4 w-4 text-slate-300" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                         <path fillRule="evenodd" d="M12.78 15.53a.75.75 0 0 1-1.06 0l-4.25-4.25a.75.75 0 0 1 0-1.06l4.25-4.25a.75.75 0 1 1 1.06 1.06L8.56 10l4.22 4.22a.75.75 0 0 1 0 1.06z" clipRule="evenodd" />
@@ -358,7 +444,8 @@ export default function Home() {
                     <button
                       aria-label="Next date"
                       onClick={gotoNextDate}
-                      className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-slate-700/60 bg-slate-800/60 hover:bg-slate-800"
+                      disabled={isNavigating}
+                      className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-slate-700/60 bg-slate-800/60 hover:bg-slate-800 disabled:opacity-50 disabled:cursor-not-allowed"
                     >
                       <svg className="h-4 w-4 text-slate-300" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                         <path fillRule="evenodd" d="M7.22 4.47a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 1 1-1.06-1.06L11.44 10 7.22 5.78a.75.75 0 0 1 0-1.06z" clipRule="evenodd" />
@@ -380,13 +467,53 @@ export default function Home() {
                     {message || (solved ? "Solved" : "Solving...")}
                   </span>
                 </div>
-                <div className="flex flex-wrap gap-2">
+                
+                {/* Puzzle Metadata */}
+                {puzzleData?.solved_count && (
+                  <div className="flex items-center justify-between text-sm">
+                    <span className="text-slate-400">Solved by</span>
+                    <span className="text-slate-200 font-medium">
+                      {puzzleData.solved_count.toLocaleString()} players
+                    </span>
+                  </div>
+                )}
+                
+                {puzzleData?.comment_count && (
+                  <div className="flex items-center justify-between text-sm">
+                    <span className="text-slate-400">Comments</span>
+                    <span className="text-slate-200 font-medium">
+                      {puzzleData.comment_count.toLocaleString()}
+                    </span>
+                  </div>
+                )}
+                <div className="space-y-1">
                   {solvingMoves.length === 0 ? (
                     <span className="text-sm text-slate-500">Your moves will appear here.</span>
                   ) : (
                     renderMoveList()
                   )}
                 </div>
+                
+                {/* Video Player - Show when puzzle is solved and video is available */}
+                {solved && puzzleData?.video?.url && (
+                  <div className="mt-4">
+                    <h4 className="text-sm font-medium text-slate-300 mb-2">Solution Video</h4>
+                    <div className="rounded-lg overflow-hidden bg-slate-800">
+                      <video
+                        controls
+                        className="w-full h-auto"
+                        poster=""
+                        preload="metadata"
+                      >
+                        <source src={puzzleData.video.url} type="video/mp4" />
+                        Your browser does not support the video tag.
+                      </video>
+                    </div>
+                    <p className="text-xs text-slate-400 mt-1">
+                      Watch the solution explanation
+                    </p>
+                  </div>
+                )}
                 {failedAttempts >= 3 && (
                   <button
                     onClick={handleHintClick}
@@ -401,6 +528,21 @@ export default function Home() {
         </section>
       </div>
       <ToastContainer theme="colored" autoClose={false} position="top-right" />
+      
+      {/* Celebration Screen */}
+      <CelebrationScreen
+        isVisible={showCelebration}
+        onClose={() => setShowCelebration(false)}
+        puzzleTitle={puzzleData?.title}
+        timeToSolve={timer}
+        failedAttempts={failedAttempts}
+        currentDate={date}
+        disabledDays={disabledDays}
+        solvedDays={puzzleHistory.days}
+        onDateSelect={(newDate) => onDateChanged(newDate)}
+        videoUrl={puzzleData?.video?.url}
+      />
+      
       {showSolvedModal && (
         <motion.div
           className="fixed inset-0 z-50 flex items-center justify-center bg-black/60"
@@ -412,7 +554,7 @@ export default function Home() {
         >
           <div className="w-full max-w-md rounded-2xl border border-slate-800 bg-slate-900 p-4 md:p-6 shadow-2xl">
             <div className="flex items-start justify-between mb-3">
-              <h3 className="text-lg font-semibold text-amber-300">{solved ? '🎉 Puzzle Solved!' : 'Select a date'}</h3>
+              <h3 className="text-lg font-semibold text-amber-300">Select a date</h3>
               <button 
                 onClick={() => setShowSolvedModal(false)} 
                 className="ml-4 rounded-lg border border-slate-700/60 bg-slate-800/60 p-2 text-sm hover:bg-slate-800"
@@ -423,7 +565,7 @@ export default function Home() {
                 </svg>
               </button>
             </div>
-            <p className="text-slate-300 mb-4">{solved ? 'Pick another date to try a different daily puzzle.' : 'Choose a date to jump to that daily puzzle.'}</p>
+            <p className="text-slate-300 mb-4">Choose a date to jump to that daily puzzle.</p>
             <div className="rounded-xl border border-slate-800/60 bg-slate-900/60 p-2">
               <DayPicker
                 className="rdp-dark w-full"

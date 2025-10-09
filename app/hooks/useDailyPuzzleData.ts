@@ -9,6 +9,14 @@ export interface IPuzzle {
   result?: string;
   date?: string;
   disabledDays?: Date[];
+  id?: number;
+  pgn?: string;
+  video?: {
+    url: string;
+    author_id: string;
+  };
+  comment_count?: number;
+  solved_count?: number;
 }
 const NEXT_PUBLIC_DATA_URL = process.env.NEXT_PUBLIC_DATA_URL || "";
 export function useDailyPuzzleData(date: Date) {
@@ -74,6 +82,11 @@ export function useDailyPuzzleData(date: Date) {
             result: matchPuzzle.parsed.moves,
             date: matchPuzzle.date,
             disabledDays,
+            id: matchPuzzle.id,
+            pgn: matchPuzzle.pgn,
+            video: matchPuzzle.video,
+            comment_count: matchPuzzle.comment_count,
+            solved_count: matchPuzzle.solved_count,
           });
         } else {
           setData({
