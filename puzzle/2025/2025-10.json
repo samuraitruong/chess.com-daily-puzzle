@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1102,
-        "solved_count": 1625473,
+        "solved_count": 1625794,
         "parsed": {
             "moves": [
                 "Rh1+",
@@ -39,7 +39,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1335,
-        "solved_count": 1573514,
+        "solved_count": 1573951,
         "parsed": {
             "moves": [
                 "Rxc4",
@@ -68,7 +68,7 @@
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
         "comment_count": 861,
-        "solved_count": 1532482,
+        "solved_count": 1533107,
         "parsed": {
             "moves": [
                 "Rxe6",
@@ -98,7 +98,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 750,
-        "solved_count": 1482810,
+        "solved_count": 1483539,
         "parsed": {
             "moves": [
                 "Re8+",
@@ -125,7 +125,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 914,
-        "solved_count": 1445816,
+        "solved_count": 1446809,
         "parsed": {
             "moves": [
                 "Qb3",
@@ -157,7 +157,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1056,
-        "solved_count": 1599155,
+        "solved_count": 1600485,
         "parsed": {
             "moves": [
                 "Ra4+",
@@ -179,8 +179,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-07_Endgame-MVP_Fiona-Steil-Antoni_C7G.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 676,
-        "solved_count": 1467359,
+        "comment_count": 677,
+        "solved_count": 1469513,
         "parsed": {
             "moves": [
                 "Qxc5",
@@ -207,8 +207,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-08_Bouncing-Off-the-Walls_Kostya-Kavutskiy_5YV.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 624,
-        "solved_count": 1349148,
+        "comment_count": 634,
+        "solved_count": 1369406,
         "parsed": {
             "moves": [
                 "Rc8+",
@@ -225,5 +225,36 @@
             "fen": "7k/1RR5/pp1r2r1/8/1n5p/1Np4P/2P3PK/8 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=7k/1RR5/pp1r2r1/8/1n5p/1Np4P/2P3PK/8 w - - 0 1"
+    },
+    {
+        "id": 13356,
+        "title": "Made You Blink!",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"gunnar247\"]\r\n[Result \"0-1\"]\r\n[FEN \"6k1/p2b2pq/1p1p1r1p/3P1r2/1P6/PQ1R1NPP/2P2P2/5R1K b - - 0 26\"]\r\n\r\n26... Rxf3 27. Rxf3 Qe4 28. Kg2 Rxf3 29. Qxf3 Bxh3+ 30. Kxh3 Qxf3 *",
+        "date": "2025-10-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-09_Made-You-Blink_Fiona-Steil-Antoni_3DA.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 32,
+        "solved_count": 22428,
+        "parsed": {
+            "moves": [
+                "Rxf3",
+                "Rxf3",
+                "Qe4",
+                "Kg2",
+                "Rxf3",
+                "Qxf3",
+                "Bxh3+",
+                "Kxh3",
+                "Qxf3"
+            ],
+            "raw": "26... Rxf3 27. Rxf3 Qe4 28. Kg2 Rxf3 29. Qxf3 Bxh3+ 30. Kxh3 Qxf3 *",
+            "white": "Daily Puzzle Inspiration",
+            "black": "gunnar247",
+            "result": "0-1",
+            "fen": "6k1/p2b2pq/1p1p1r1p/3P1r2/1P6/PQ1R1NPP/2P2P2/5R1K b - - 0 26"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/p2b2pq/1p1p1r1p/3P1r2/1P6/PQ1R1NPP/2P2P2/5R1K b - - 0 26"
     }
 ]
