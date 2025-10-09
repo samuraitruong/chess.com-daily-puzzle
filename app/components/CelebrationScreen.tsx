@@ -432,7 +432,8 @@ const CelebrationScreen: React.FC<CelebrationScreenProps> = ({
                     <div className="rounded-lg overflow-hidden bg-slate-800">
                       <video
                         controls
-                        className="w-full h-64 object-cover"
+                        playsInline
+                        className="w-full h-auto max-h-[70vh] object-contain"
                         poster=""
                         preload="metadata"
                         autoPlay

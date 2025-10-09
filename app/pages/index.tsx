@@ -29,6 +29,7 @@ export default function Home() {
   const [possibleMoves, setPossibleMoves] = useState<Move[]>([]);
   const [timer, setTimer] = useState(0);
   const [showSolvedModal, setShowSolvedModal] = useState(false);
+  const [calendarMonth, setCalendarMonth] = useState<Date>(date);
   const [showCelebration, setShowCelebration] = useState(false);
   const [failedAttempts, setFailedAttempts] = useState(0); // Track failed attempts
   const [disabledDays, setDisabledDays] = useState<Date[]>([]); // State to hold disabled days
@@ -84,6 +85,13 @@ export default function Home() {
       setDisabledDays(puzzleData.disabledDays);
     }
   }, [puzzleData]);
+
+  // Keep the calendar month in sync when opening the modal or changing date
+  useEffect(() => {
+    if (showSolvedModal) {
+      setCalendarMonth(date);
+    }
+  }, [showSolvedModal, date]);
 
   const initializePuzzle = (fen: string, moves: string[]) => {
     setMessage("Solving...");
@@ -569,7 +577,7 @@ export default function Home() {
             <div className="rounded-xl border border-slate-800/60 bg-slate-900/60 p-2">
               <DayPicker
                 className="rdp-dark w-full"
-                month={date}
+                month={calendarMonth}
                 mode="single"
                 selected={date}
                 onSelect={(d: any) => {
@@ -577,7 +585,7 @@ export default function Home() {
                   onDateChanged(d);
                   setShowSolvedModal(false);
                 }}
-                onMonthChange={(m) => onDateChanged(m)}
+                onMonthChange={(m) => setCalendarMonth(m)}
                 disabled={disabledDays}
                 modifiers={{ solved: puzzleHistory.days }}
                 modifiersClassNames={{ solved: puzzleHistory.classNames.solved }}
