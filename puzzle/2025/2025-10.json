@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1114,
-        "solved_count": 1629947,
+        "solved_count": 1629962,
         "parsed": {
             "moves": [
                 "Rh1+",
@@ -39,7 +39,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1349,
-        "solved_count": 1587458,
+        "solved_count": 1587478,
         "parsed": {
             "moves": [
                 "Rxc4",
@@ -68,7 +68,7 @@
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
         "comment_count": 863,
-        "solved_count": 1558774,
+        "solved_count": 1558789,
         "parsed": {
             "moves": [
                 "Rxe6",
@@ -98,7 +98,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 752,
-        "solved_count": 1524203,
+        "solved_count": 1524224,
         "parsed": {
             "moves": [
                 "Re8+",
@@ -125,7 +125,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 921,
-        "solved_count": 1505966,
+        "solved_count": 1505989,
         "parsed": {
             "moves": [
                 "Qb3",
@@ -157,7 +157,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1063,
-        "solved_count": 1686583,
+        "solved_count": 1686607,
         "parsed": {
             "moves": [
                 "Ra4+",
@@ -180,7 +180,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 696,
-        "solved_count": 1595013,
+        "solved_count": 1595335,
         "parsed": {
             "moves": [
                 "Qxc5",
@@ -208,7 +208,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 646,
-        "solved_count": 1561695,
+        "solved_count": 1562148,
         "parsed": {
             "moves": [
                 "Rc8+",
@@ -236,7 +236,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 735,
-        "solved_count": 1549969,
+        "solved_count": 1550622,
         "parsed": {
             "moves": [
                 "Rxf3",
@@ -267,7 +267,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 853,
-        "solved_count": 1498923,
+        "solved_count": 1499754,
         "parsed": {
             "moves": [
                 "Ne3+",
@@ -295,7 +295,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 541,
-        "solved_count": 1393333,
+        "solved_count": 1394541,
         "parsed": {
             "moves": [
                 "Rg7+",
@@ -325,7 +325,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 932,
-        "solved_count": 1454270,
+        "solved_count": 1455927,
         "parsed": {
             "moves": [
                 "Qf2",
@@ -356,7 +356,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 909,
-        "solved_count": 1548698,
+        "solved_count": 1551182,
         "parsed": {
             "moves": [
                 "Qh4+",
@@ -381,8 +381,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-14_Portal-Bounce_Fiona-Steil-Antoni_5CN.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 826,
-        "solved_count": 1362766,
+        "comment_count": 836,
+        "solved_count": 1383330,
         "parsed": {
             "moves": [
                 "Rxg1+",
@@ -399,5 +399,35 @@
             "fen": "8/1p1k1n2/p5p1/b1pP1b1p/P1P2P1B/1B3NKP/1P6/4r1R1 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=8/1p1k1n2/p5p1/b1pP1b1p/P1P2P1B/1B3NKP/1P6/4r1R1 b - - 0 1"
+    },
+    {
+        "id": 13384,
+        "title": "Three Piece Harmony",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"Pimaster11\"]\r\n[Result \"0-1\"]\r\n[FEN \"k2b4/8/2b1p3/p6p/2Q5/4Kn1P/P4P2/8 b - - 0 1\"]\r\n\r\n1... Bg5+ 2. Ke2 Bb5 3. Qxb5 Nd4+ 4. Kd3 Nxb5 0-1",
+        "date": "2025-10-15",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-15_Three-Piece-Harmony_Kostya-Kavutskiy_QJQ.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 31,
+        "solved_count": 24593,
+        "parsed": {
+            "moves": [
+                "Bg5+",
+                "Ke2",
+                "Bb5",
+                "Qxb5",
+                "Nd4+",
+                "Kd3",
+                "Nxb5",
+                "0-1"
+            ],
+            "raw": "1... Bg5+ 2. Ke2 Bb5 3. Qxb5 Nd4+ 4. Kd3 Nxb5 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "Pimaster11",
+            "result": "0-1",
+            "fen": "k2b4/8/2b1p3/p6p/2Q5/4Kn1P/P4P2/8 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=k2b4/8/2b1p3/p6p/2Q5/4Kn1P/P4P2/8 b - - 0 1"
     }
 ]
