@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1086,
-        "solved_count": 1631055,
+        "solved_count": 1631073,
         "parsed": {
             "moves": [
                 "Rh1+",
@@ -39,7 +39,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1300,
-        "solved_count": 1588591,
+        "solved_count": 1588609,
         "parsed": {
             "moves": [
                 "Rxc4",
@@ -68,7 +68,7 @@
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
         "comment_count": 843,
-        "solved_count": 1559918,
+        "solved_count": 1559939,
         "parsed": {
             "moves": [
                 "Rxe6",
@@ -98,7 +98,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 716,
-        "solved_count": 1525426,
+        "solved_count": 1525445,
         "parsed": {
             "moves": [
                 "Re8+",
@@ -125,7 +125,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 914,
-        "solved_count": 1507229,
+        "solved_count": 1507248,
         "parsed": {
             "moves": [
                 "Qb3",
@@ -157,7 +157,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1038,
-        "solved_count": 1687874,
+        "solved_count": 1687896,
         "parsed": {
             "moves": [
                 "Ra4+",
@@ -180,7 +180,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 692,
-        "solved_count": 1596913,
+        "solved_count": 1596936,
         "parsed": {
             "moves": [
                 "Qxc5",
@@ -208,7 +208,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 638,
-        "solved_count": 1572775,
+        "solved_count": 1572795,
         "parsed": {
             "moves": [
                 "Rc8+",
@@ -236,7 +236,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 724,
-        "solved_count": 1575100,
+        "solved_count": 1575429,
         "parsed": {
             "moves": [
                 "Rxf3",
@@ -267,7 +267,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 840,
-        "solved_count": 1534925,
+        "solved_count": 1535417,
         "parsed": {
             "moves": [
                 "Ne3+",
@@ -295,7 +295,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 551,
-        "solved_count": 1440804,
+        "solved_count": 1441519,
         "parsed": {
             "moves": [
                 "Rg7+",
@@ -325,7 +325,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 980,
-        "solved_count": 1516157,
+        "solved_count": 1517051,
         "parsed": {
             "moves": [
                 "Qf2",
@@ -356,7 +356,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 933,
-        "solved_count": 1629540,
+        "solved_count": 1630642,
         "parsed": {
             "moves": [
                 "Qh4+",
@@ -382,7 +382,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 857,
-        "solved_count": 1509766,
+        "solved_count": 1511241,
         "parsed": {
             "moves": [
                 "Rxg1+",
@@ -409,8 +409,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-15_Three-Piece-Harmony_Kostya-Kavutskiy_QJQ.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 990,
-        "solved_count": 1464591,
+        "comment_count": 991,
+        "solved_count": 1466913,
         "parsed": {
             "moves": [
                 "Bg5+",
@@ -439,8 +439,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-16_Shaking-the-Soda-Can_Fiona-Steil-Antoni_3G2.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 902,
-        "solved_count": 1375788,
+        "comment_count": 912,
+        "solved_count": 1396538,
         "parsed": {
             "moves": [
                 "Bc3+",
@@ -457,5 +457,35 @@
             "fen": "4r1k1/Qpp2pp1/2b1rn1p/4b3/2P3B1/1P4NP/1BR2PP1/4K2R b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=4r1k1/Qpp2pp1/2b1rn1p/4b3/2P3B1/1P4NP/1BR2PP1/4K2R b - - 0 1"
+    },
+    {
+        "id": 13360,
+        "title": "Brain Freeze",
+        "pgn": "[Event \"Online Blitz\"]\r\n[Date \"2001??.??\"]\r\n[White \"Nadanian Ashot (h2 pawn removed)\"]\r\n[Black \"Konstantin Sakaev\"]\r\n[Result \"1-0\"]\r\n[FEN \"rnb1qk2/1pp1prbQ/1p6/5pN1/3P4/4B3/PP3PP1/R3K2R w KQ - 0 16\"]\r\n\r\n16. Ne6+ Bxe6 17. Bh6 Qb5 18. Qh8# 1-0",
+        "date": "2025-10-17",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-10-17_Brain-Freeze_Fiona-Steil-Antoni_SPJ.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 26,
+        "solved_count": 22849,
+        "parsed": {
+            "moves": [
+                "Ne6+",
+                "Bxe6",
+                "Bh6",
+                "Qb5",
+                "Qh8#",
+                "1-0"
+            ],
+            "raw": "16. Ne6+ Bxe6 17. Bh6 Qb5 18. Qh8# 1-0",
+            "event": "Online Blitz",
+            "date": "2001??.??",
+            "white": "Nadanian Ashot (h2 pawn removed)",
+            "black": "Konstantin Sakaev",
+            "result": "1-0",
+            "fen": "rnb1qk2/1pp1prbQ/1p6/5pN1/3P4/4B3/PP3PP1/R3K2R w KQ - 0 16"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=rnb1qk2/1pp1prbQ/1p6/5pN1/3P4/4B3/PP3PP1/R3K2R w KQ - 0 16"
     }
 ]
