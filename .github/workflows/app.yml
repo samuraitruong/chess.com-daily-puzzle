@@ -13,7 +13,7 @@ on:
 env:
   NODE_ENV: production
   CI: true
-  NEXT_PUBLIC_DATA_URL: ""
+  NEXT_PUBLIC_DATA_URL: "https://raw.githubusercontent.com/samuraitruong/chess.com-daily-puzzle/refs/heads/main"
   NEXT_PUBLIC_BASE_PATH: ""
 permissions:
   contents: read
