@@ -78,6 +78,34 @@ const celebrationAnimations = {
     assets: [],
     layers: [],
     markers: []
+  },
+  party: {
+    // Placeholder: reuse fireworks animation until a party animation is provided
+    v: "5.7.4",
+    fr: 30,
+    ip: 0,
+    op: 120,
+    w: 400,
+    h: 400,
+    nm: "Party",
+    ddd: 0,
+    assets: [],
+    layers: [],
+    markers: []
+  },
+  trophy: {
+    // Placeholder: reuse fireworks animation until a trophy animation is provided
+    v: "5.7.4",
+    fr: 30,
+    ip: 0,
+    op: 120,
+    w: 400,
+    h: 400,
+    nm: "Trophy",
+    ddd: 0,
+    assets: [],
+    layers: [],
+    markers: []
   }
 };
 

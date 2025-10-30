@@ -5,8 +5,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"r1qnr2k/1b3p1p/1p2p3/1Pp5/6Qp/PR2R2P/5PP1/6K1 w - - 0 1\"]\r\n\r\n1. Rg3 hxg3 2. Rxg3 Be4 3. Qg7# *",
         "date": "2007-05-08",
         "video": [],
-        "comment_count": 494,
-        "solved_count": 4271,
+        "comment_count": 498,
+        "solved_count": 4332,
         "parsed": {
             "moves": [
                 "Rg3",
@@ -28,7 +28,7 @@
         "date": "2007-05-09",
         "video": [],
         "comment_count": 80,
-        "solved_count": 2595,
+        "solved_count": 2630,
         "parsed": {
             "moves": [
                 "Qxc5+",
@@ -52,7 +52,7 @@
         "date": "2007-05-10",
         "video": [],
         "comment_count": 66,
-        "solved_count": 2059,
+        "solved_count": 2093,
         "parsed": {
             "moves": [
                 "Qf1+",
@@ -78,8 +78,8 @@
         "pgn": "[FEN \"r1b2rk1/ppp2ppp/1b6/3q4/3pN3/Q4N2/PPP2KPP/R1B1R3 w - - 0 12\"]\r\n[PlyCount \"7\"]\r\n\r\n12. Nf6+ gxf6 13. Qxf8+ Kxf8 14. Bh6+ Kg8 15. Re8# *",
         "date": "2007-05-11",
         "video": [],
-        "comment_count": 40,
-        "solved_count": 1718,
+        "comment_count": 41,
+        "solved_count": 1749,
         "parsed": {
             "moves": [
                 "Nf6+",
@@ -102,8 +102,8 @@
         "pgn": "[FEN \"r6k/1q1n1prp/p3pN2/1p1b4/6RQ/6P1/PP2PP1P/3R2K1 w - - 0 1\"]\r\n\r\n1. Qh6 $1 1... Rag8 2. Qxh7+ 2... Rxh7 3. Rxg8# *",
         "date": "2007-05-12",
         "video": [],
-        "comment_count": 39,
-        "solved_count": 1588,
+        "comment_count": 40,
+        "solved_count": 1615,
         "parsed": {
             "moves": [
                 "Qh6",
@@ -124,7 +124,7 @@
         "date": "2007-05-13",
         "video": [],
         "comment_count": 39,
-        "solved_count": 1484,
+        "solved_count": 1513,
         "parsed": {
             "moves": [
                 "Ng3+",
@@ -146,7 +146,7 @@
         "date": "2007-05-14",
         "video": [],
         "comment_count": 37,
-        "solved_count": 1389,
+        "solved_count": 1415,
         "parsed": {
             "moves": [
                 "Bd4",
@@ -179,7 +179,7 @@
         "date": "2007-05-15",
         "video": [],
         "comment_count": 36,
-        "solved_count": 1238,
+        "solved_count": 1263,
         "parsed": {
             "moves": [
                 "Nb6",
@@ -208,7 +208,7 @@
         "date": "2007-05-16",
         "video": [],
         "comment_count": 24,
-        "solved_count": 1162,
+        "solved_count": 1187,
         "parsed": {
             "moves": [
                 "Qxf7+",
@@ -230,7 +230,7 @@
         "date": "2007-05-17",
         "video": [],
         "comment_count": 32,
-        "solved_count": 1126,
+        "solved_count": 1152,
         "parsed": {
             "moves": [
                 "Rc7",
@@ -258,7 +258,7 @@
         "date": "2007-05-18",
         "video": [],
         "comment_count": 20,
-        "solved_count": 1079,
+        "solved_count": 1103,
         "parsed": {
             "moves": [
                 "Kg6+",
@@ -280,7 +280,7 @@
         "date": "2007-05-19",
         "video": [],
         "comment_count": 25,
-        "solved_count": 1053,
+        "solved_count": 1076,
         "parsed": {
             "moves": [
                 "Qh7+",
@@ -304,7 +304,7 @@
         "date": "2007-05-20",
         "video": [],
         "comment_count": 28,
-        "solved_count": 1024,
+        "solved_count": 1047,
         "parsed": {
             "moves": [
                 "Qd8+",
@@ -335,7 +335,7 @@
         "date": "2007-05-21",
         "video": [],
         "comment_count": 29,
-        "solved_count": 1000,
+        "solved_count": 1020,
         "parsed": {
             "moves": [
                 "Rxf3",
@@ -361,7 +361,7 @@
         "date": "2007-05-22",
         "video": [],
         "comment_count": 23,
-        "solved_count": 970,
+        "solved_count": 991,
         "parsed": {
             "moves": [
                 "Bxd4+",
@@ -384,7 +384,7 @@
         "date": "2007-05-23",
         "video": [],
         "comment_count": 24,
-        "solved_count": 952,
+        "solved_count": 972,
         "parsed": {
             "moves": [
                 "Rxh3+",
@@ -406,7 +406,7 @@
         "date": "2007-05-24",
         "video": [],
         "comment_count": 28,
-        "solved_count": 950,
+        "solved_count": 969,
         "parsed": {
             "moves": [
                 "Qxe8",
@@ -430,7 +430,7 @@
         "date": "2007-05-25",
         "video": [],
         "comment_count": 27,
-        "solved_count": 946,
+        "solved_count": 965,
         "parsed": {
             "moves": [
                 "Qf8+",
@@ -452,7 +452,7 @@
         "date": "2007-05-26",
         "video": [],
         "comment_count": 27,
-        "solved_count": 928,
+        "solved_count": 946,
         "parsed": {
             "moves": [
                 "Nf6+",
@@ -472,7 +472,7 @@
         "date": "2007-05-27",
         "video": [],
         "comment_count": 29,
-        "solved_count": 937,
+        "solved_count": 956,
         "parsed": {
             "moves": [
                 "Bf7+",
@@ -493,7 +493,7 @@
         "date": "2007-05-28",
         "video": [],
         "comment_count": 26,
-        "solved_count": 917,
+        "solved_count": 936,
         "parsed": {
             "moves": [
                 "Qh8+",
@@ -513,7 +513,7 @@
         "date": "2007-05-29",
         "video": [],
         "comment_count": 25,
-        "solved_count": 925,
+        "solved_count": 942,
         "parsed": {
             "moves": [
                 "Rxf7+",
@@ -533,7 +533,7 @@
         "date": "2007-05-30",
         "video": [],
         "comment_count": 14,
-        "solved_count": 288,
+        "solved_count": 296,
         "parsed": {
             "moves": [
                 "Ne6",
@@ -557,7 +557,7 @@
         "date": "2007-05-30",
         "video": [],
         "comment_count": 30,
-        "solved_count": 593,
+        "solved_count": 602,
         "parsed": {
             "moves": [
                 "Qxf3+",
@@ -579,7 +579,7 @@
         "date": "2007-05-31",
         "video": [],
         "comment_count": 31,
-        "solved_count": 980,
+        "solved_count": 997,
         "parsed": {
             "moves": [
                 "Bf7+",
