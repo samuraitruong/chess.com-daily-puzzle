@@ -5,8 +5,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"1r4kb/1p2nr2/p2qp1p1/4NpQ1/3P4/3B2P1/PP3P2/1K5R w - - 0 1\"]\r\n\r\n1.Rxh8+ Kxh8 2.Nxf7+ Kg7 3.Nxd6 *",
         "date": "2019-01-01",
         "video": [],
-        "comment_count": 8,
-        "solved_count": 1038,
+        "comment_count": 9,
+        "solved_count": 1039,
         "parsed": {
             "moves": [
                 "Rxh8+",
@@ -28,7 +28,7 @@
         "date": "2019-01-02",
         "video": [],
         "comment_count": 5,
-        "solved_count": 715,
+        "solved_count": 716,
         "parsed": {
             "moves": [
                 "Re8",
@@ -51,7 +51,7 @@
         "date": "2019-01-03",
         "video": [],
         "comment_count": 5,
-        "solved_count": 690,
+        "solved_count": 691,
         "parsed": {
             "moves": [
                 "Bb4+",
@@ -75,8 +75,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"7k/8/7b/4PK2/8/8/8/B7 w - - 0 1\"]\r\n\r\n1. Kg6 Bg7 2. e6 Kg8 3. e7 Bf8 4. e8=B Bg7 5. Bf7+ Kf8 6. Bxg7+\r\n*",
         "date": "2019-01-04",
         "video": [],
-        "comment_count": 3,
-        "solved_count": 452,
+        "comment_count": 4,
+        "solved_count": 453,
         "parsed": {
             "moves": [
                 "Kg6",
@@ -133,8 +133,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/2k5/2P5/nK6/5N2/8/8/8 w - - 0 1\"]\r\n\r\n1. Ne6+ Kd6 2. c7 Nc6 3. Kb6 Kd7 4. Nf8+ Kc8 5. Ng6\r\n*",
         "date": "2019-01-05",
         "video": [],
-        "comment_count": 5,
-        "solved_count": 618,
+        "comment_count": 6,
+        "solved_count": 619,
         "parsed": {
             "moves": [
                 "Ne6+",
@@ -161,7 +161,7 @@
         "date": "2019-01-06",
         "video": [],
         "comment_count": 5,
-        "solved_count": 612,
+        "solved_count": 613,
         "parsed": {
             "moves": [
                 "Ne6",
@@ -181,8 +181,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"kn6/2Q5/r1pR4/p3P3/1pK1Pq2/5r2/PPPR4/8 w - - 0 1\"]\r\n\r\n1. Qxb8+ Kxb8 2. Rd8+ Kb7 3. R2d7+ Kb6 4. Rb8#\r\n*",
         "date": "2019-01-07",
         "video": [],
-        "comment_count": 4,
-        "solved_count": 620,
+        "comment_count": 5,
+        "solved_count": 621,
         "parsed": {
             "moves": [
                 "Qxb8+",
@@ -207,7 +207,7 @@
         "date": "2019-01-08",
         "video": [],
         "comment_count": 4,
-        "solved_count": 585,
+        "solved_count": 586,
         "parsed": {
             "moves": [
                 "Nd5",
@@ -227,8 +227,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r1R3/1Qq2pkp/1n4p1/1P4N1/8/8/5P2/6K1 w - - 0 1\"]\r\n\r\n1. Ne6+ fxe6 2. Re7+ Qxe7 3. Qxe7+\r\n*",
         "date": "2019-01-09",
         "video": [],
-        "comment_count": 4,
-        "solved_count": 576,
+        "comment_count": 5,
+        "solved_count": 577,
         "parsed": {
             "moves": [
                 "Ne6+",
@@ -251,7 +251,7 @@
         "date": "2019-01-10",
         "video": [],
         "comment_count": 4,
-        "solved_count": 574,
+        "solved_count": 575,
         "parsed": {
             "moves": [
                 "Kh2",
@@ -275,8 +275,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6B1/8/1p1k4/1p1P4/1K6/7p/8/8 w - - 0 1\"]\r\n\r\n1. Bh7 Kxd5 2. Bf5 h2 3. Bc8 Kc6 4. Bg4 h1=Q 5. Bf3+\r\n*",
         "date": "2019-01-11",
         "video": [],
-        "comment_count": 5,
-        "solved_count": 562,
+        "comment_count": 6,
+        "solved_count": 563,
         "parsed": {
             "moves": [
                 "Bh7",
@@ -303,7 +303,7 @@
         "date": "2019-01-12",
         "video": [],
         "comment_count": 4,
-        "solved_count": 560,
+        "solved_count": 561,
         "parsed": {
             "moves": [
                 "Kc6",
@@ -332,7 +332,7 @@
         "date": "2019-01-13",
         "video": [],
         "comment_count": 6,
-        "solved_count": 560,
+        "solved_count": 561,
         "parsed": {
             "moves": [
                 "Ne7+",
@@ -353,7 +353,7 @@
         "date": "2019-01-14",
         "video": [],
         "comment_count": 5,
-        "solved_count": 568,
+        "solved_count": 569,
         "parsed": {
             "moves": [
                 "Qxb6",
@@ -375,8 +375,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2kr1b1r/pppn3p/6pP/3p1nP1/8/5p2/P1qNQP1B/1RR3K1 w - - 0 1\"]\r\n\r\n1. Rxc2 fxe2 2. Rxc7+ Kb8 3. Rbxb7+ Ka8 4. Rxa7+ Kb8 5. Rcb7+ Kc8 6. Rb8+\r\nNxb8 7. Rc7#\r\n*",
         "date": "2019-01-15",
         "video": [],
-        "comment_count": 4,
-        "solved_count": 551,
+        "comment_count": 5,
+        "solved_count": 552,
         "parsed": {
             "moves": [
                 "Rxc2",
@@ -407,7 +407,7 @@
         "date": "2019-01-16",
         "video": [],
         "comment_count": 3,
-        "solved_count": 557,
+        "solved_count": 558,
         "parsed": {
             "moves": [
                 "Qc8+",
@@ -432,7 +432,7 @@
         "date": "2019-01-17",
         "video": [],
         "comment_count": 5,
-        "solved_count": 551,
+        "solved_count": 552,
         "parsed": {
             "moves": [
                 "Ne4",
@@ -452,8 +452,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5B2/2kr4/5P2/8/6P1/8/8/2K5 w - - 0 1\"]\r\n\r\n1. g5 Rf7 2. Be7 Rxe7 3. g6 \r\n*",
         "date": "2019-01-18",
         "video": [],
-        "comment_count": 4,
-        "solved_count": 537,
+        "comment_count": 5,
+        "solved_count": 538,
         "parsed": {
             "moves": [
                 "g5",
@@ -475,8 +475,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5R1b/2n5/8/3P4/6p1/3k4/6K1/8 w - - 0 1\"]\r\n\r\n1. d6 Be5 2. d7 Ne6 3. Re8 Nf4+ 4. Kg3 Bc7 5. d8=Q+ Nd5+ 6. Re5 Bxd8 7.\r\nRxd5+\r\n*",
         "date": "2019-01-19",
         "video": [],
-        "comment_count": 5,
-        "solved_count": 527,
+        "comment_count": 6,
+        "solved_count": 528,
         "parsed": {
             "moves": [
                 "d6",
@@ -506,8 +506,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1b1kb1r/ppp2ppp/2n2n2/6B1/Q3q3/8/PPP2PPP/2KR1BNR w kq - 0 1\"]\r\n\r\n1. Rd8+ Kxd8 2. Qxe4\r\n*",
         "date": "2019-01-20",
         "video": [],
-        "comment_count": 4,
-        "solved_count": 544,
+        "comment_count": 5,
+        "solved_count": 545,
         "parsed": {
             "moves": [
                 "Rd8+",
@@ -528,7 +528,7 @@
         "date": "2019-01-21",
         "video": [],
         "comment_count": 4,
-        "solved_count": 543,
+        "solved_count": 544,
         "parsed": {
             "moves": [
                 "h5",
@@ -551,7 +551,7 @@
         "date": "2019-01-22",
         "video": [],
         "comment_count": 4,
-        "solved_count": 533,
+        "solved_count": 534,
         "parsed": {
             "moves": [
                 "Qb3",
@@ -572,7 +572,7 @@
         "date": "2019-01-23",
         "video": [],
         "comment_count": 4,
-        "solved_count": 529,
+        "solved_count": 530,
         "parsed": {
             "moves": [
                 "Rg3+",
@@ -595,7 +595,7 @@
         "date": "2019-01-24",
         "video": [],
         "comment_count": 4,
-        "solved_count": 524,
+        "solved_count": 525,
         "parsed": {
             "moves": [
                 "Nxh6+",
@@ -618,7 +618,7 @@
         "date": "2019-01-25",
         "video": [],
         "comment_count": 4,
-        "solved_count": 524,
+        "solved_count": 525,
         "parsed": {
             "moves": [
                 "Qxf7",
@@ -641,7 +641,7 @@
         "date": "2019-01-26",
         "video": [],
         "comment_count": 5,
-        "solved_count": 518,
+        "solved_count": 519,
         "parsed": {
             "moves": [
                 "Ra4",
@@ -670,7 +670,7 @@
         "date": "2019-01-27",
         "video": [],
         "comment_count": 4,
-        "solved_count": 525,
+        "solved_count": 526,
         "parsed": {
             "moves": [
                 "Bxh6+",
@@ -693,7 +693,7 @@
         "date": "2019-01-28",
         "video": [],
         "comment_count": 6,
-        "solved_count": 527,
+        "solved_count": 528,
         "parsed": {
             "moves": [
                 "Kf6",
@@ -724,7 +724,7 @@
         "date": "2019-01-29",
         "video": [],
         "comment_count": 5,
-        "solved_count": 517,
+        "solved_count": 518,
         "parsed": {
             "moves": [
                 "Bc8",
@@ -744,8 +744,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3r1r2/ppq1bppk/2n4p/P1pnpP2/2Np2Q1/3P2P1/1PP2PBP/R1B2RK1 w - - 0 1\"]\r\n\r\n1. Bxd5 Rxd5 2. f6 Bxf6 3. Qe4+ Kg8 4. Qxd5\r\n*",
         "date": "2019-01-30",
         "video": [],
-        "comment_count": 5,
-        "solved_count": 517,
+        "comment_count": 6,
+        "solved_count": 518,
         "parsed": {
             "moves": [
                 "Bxd5",
@@ -770,7 +770,7 @@
         "date": "2019-01-31",
         "video": [],
         "comment_count": 4,
-        "solved_count": 534,
+        "solved_count": 535,
         "parsed": {
             "moves": [
                 "Rxg7",
