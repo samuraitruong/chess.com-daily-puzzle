@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "id": 13412,
+        "title": "Crank Up the Heat!",
+        "pgn": "[White \"MagNiels_Carlsen\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"r1q2r1k/1p1b1p1p/p2ppPp1/2pP4/1nP4N/1P4P1/P2Q2KP/1B3R2 w - - 0 19\"]\r\n\r\n19. Qh6 Rg8 20. Nf3 Qf8 21. Ng5 Qxh6 22. Nxf7# 1-0",
+        "date": "2025-11-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-01_Rethinker_Kostya-Kavutskiy_DOM.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 19,
+        "solved_count": 11627,
+        "parsed": {
+            "moves": [
+                "Qh6",
+                "Rg8",
+                "Nf3",
+                "Qf8",
+                "Ng5",
+                "Qxh6",
+                "Nxf7#",
+                "1-0"
+            ],
+            "raw": "19. Qh6 Rg8 20. Nf3 Qf8 21. Ng5 Qxh6 22. Nxf7# 1-0",
+            "white": "MagNiels_Carlsen",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "r1q2r1k/1p1b1p1p/p2ppPp1/2pP4/1nP4N/1P4P1/P2Q2KP/1B3R2 w - - 0 19"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r1q2r1k/1p1b1p1p/p2ppPp1/2pP4/1nP4N/1P4P1/P2Q2KP/1B3R2 w - - 0 19"
+    }
+]
