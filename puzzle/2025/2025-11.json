@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 933,
-        "solved_count": 1537764,
+        "solved_count": 1537801,
         "parsed": {
             "moves": [
                 "Qh6",
@@ -38,8 +38,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-02_Plot-Twist_Dane-Mattson_FG1.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 992,
-        "solved_count": 1630260,
+        "comment_count": 987,
+        "solved_count": 1630657,
         "parsed": {
             "moves": [
                 "Rh4+",
@@ -73,8 +73,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-03_Check-the-Vibes_Fiona-Steil-Antoni_9HI.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1284,
-        "solved_count": 1682861,
+        "comment_count": 1283,
+        "solved_count": 1683463,
         "parsed": {
             "moves": [
                 "Bf7+",
@@ -100,7 +100,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 867,
-        "solved_count": 1614436,
+        "solved_count": 1615313,
         "parsed": {
             "moves": [
                 "Bf6",
@@ -127,8 +127,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-05_Shake-It-Off_Kostya-Kavutskiy_MP8.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1060,
-        "solved_count": 1580403,
+        "comment_count": 1061,
+        "solved_count": 1581500,
         "parsed": {
             "moves": [
                 "Rg8+",
@@ -155,8 +155,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-06_Kings-Deserted-Island_Fiona-Steil-Antoni_JSU.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1203,
-        "solved_count": 1522659,
+        "comment_count": 1202,
+        "solved_count": 1524107,
         "parsed": {
             "moves": [
                 "Kd2",
@@ -181,8 +181,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-07_Speed-Check-Ahead_Fiona-Steil-Antoni_E07.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 958,
-        "solved_count": 1486772,
+        "comment_count": 957,
+        "solved_count": 1488872,
         "parsed": {
             "moves": [
                 "Rd1+",
@@ -209,8 +209,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-08_Loud-and-Clear_Kostya-Kavutskiy_P30.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 846,
-        "solved_count": 1372021,
+        "comment_count": 845,
+        "solved_count": 1375692,
         "parsed": {
             "moves": [
                 "Qd8+",
@@ -239,8 +239,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-09_Unlikely-Hero_Dane-Mattson_C3E.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 969,
-        "solved_count": 1300708,
+        "comment_count": 983,
+        "solved_count": 1328989,
         "parsed": {
             "moves": [
                 "Bc5+",
@@ -259,5 +259,26 @@
             "fen": "8/2B4R/r2b3p/Pp2p3/1P2n3/1N6/2Pnk1PP/R5K1 b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=8/2B4R/r2b3p/Pp2p3/1P2n3/1N6/2Pnk1PP/R5K1 b - - 0 1"
+    },
+    {
+        "id": 13436,
+        "title": "Turn the Corner",
+        "pgn": "[Result \"*\"]\r\n[FEN \"k3N2r/8/B2p1b2/p4p1q/P5n1/8/r5PP/1R2R1BK w - - 0 1\"]\r\n\r\n1. Nc7# *",
+        "date": "2025-11-10",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-10_Turn-the-Corner_Dane-Mattson_UDZ.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 52,
+        "solved_count": 40851,
+        "parsed": {
+            "moves": [
+                "Nc7#"
+            ],
+            "raw": "1. Nc7# *",
+            "result": "*",
+            "fen": "k3N2r/8/B2p1b2/p4p1q/P5n1/8/r5PP/1R2R1BK w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=k3N2r/8/B2p1b2/p4p1q/P5n1/8/r5PP/1R2R1BK w - - 0 1"
     }
 ]
