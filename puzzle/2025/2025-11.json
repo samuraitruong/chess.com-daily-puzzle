@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 948,
-        "solved_count": 1538846,
+        "solved_count": 1538891,
         "parsed": {
             "moves": [
                 "Qh6",
@@ -38,8 +38,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-02_Plot-Twist_Dane-Mattson_FG1.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 999,
-        "solved_count": 1631750,
+        "comment_count": 1004,
+        "solved_count": 1631795,
         "parsed": {
             "moves": [
                 "Rh4+",
@@ -73,8 +73,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-03_Check-the-Vibes_Fiona-Steil-Antoni_9HI.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1294,
-        "solved_count": 1695955,
+        "comment_count": 1295,
+        "solved_count": 1696423,
         "parsed": {
             "moves": [
                 "Bf7+",
@@ -100,7 +100,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 873,
-        "solved_count": 1633298,
+        "solved_count": 1633904,
         "parsed": {
             "moves": [
                 "Bf6",
@@ -128,7 +128,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1067,
-        "solved_count": 1603464,
+        "solved_count": 1604336,
         "parsed": {
             "moves": [
                 "Rg8+",
@@ -155,8 +155,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-06_Kings-Deserted-Island_Fiona-Steil-Antoni_JSU.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1206,
-        "solved_count": 1551396,
+        "comment_count": 1207,
+        "solved_count": 1552427,
         "parsed": {
             "moves": [
                 "Kd2",
@@ -181,8 +181,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-07_Speed-Check-Ahead_Fiona-Steil-Antoni_E07.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 966,
-        "solved_count": 1525816,
+        "comment_count": 967,
+        "solved_count": 1527119,
         "parsed": {
             "moves": [
                 "Rd1+",
@@ -209,8 +209,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-08_Loud-and-Clear_Kostya-Kavutskiy_P30.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 860,
-        "solved_count": 1433753,
+        "comment_count": 862,
+        "solved_count": 1435701,
         "parsed": {
             "moves": [
                 "Qd8+",
@@ -239,8 +239,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-09_Unlikely-Hero_Dane-Mattson_C3E.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1021,
-        "solved_count": 1429711,
+        "comment_count": 1023,
+        "solved_count": 1432733,
         "parsed": {
             "moves": [
                 "Bc5+",
@@ -269,8 +269,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-10_Turn-the-Corner_Dane-Mattson_UDZ.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1188,
-        "solved_count": 1435251,
+        "comment_count": 1238,
+        "solved_count": 1459687,
         "parsed": {
             "moves": [
                 "Nc7#"
@@ -280,5 +280,28 @@
             "fen": "k3N2r/8/B2p1b2/p4p1q/P5n1/8/r5PP/1R2R1BK w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=k3N2r/8/B2p1b2/p4p1q/P5n1/8/r5PP/1R2R1BK w - - 0 1"
+    },
+    {
+        "id": 13440,
+        "title": "Trap Dance",
+        "pgn": "[Result \"*\"]\r\n[FEN \"2n4k/8/4Kp2/p4p2/P4N1p/7P/3n4/6B1 w - - 0 1\"]\r\n\r\n1. Kd7 Nb6+ 2. Bxb6 *",
+        "date": "2025-11-11",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-11_Trap-Dance_Fiona-Steil-Antoni_I44.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 52,
+        "solved_count": 32935,
+        "parsed": {
+            "moves": [
+                "Kd7",
+                "Nb6+",
+                "Bxb6"
+            ],
+            "raw": "1. Kd7 Nb6+ 2. Bxb6 *",
+            "result": "*",
+            "fen": "2n4k/8/4Kp2/p4p2/P4N1p/7P/3n4/6B1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2n4k/8/4Kp2/p4p2/P4N1p/7P/3n4/6B1 w - - 0 1"
     }
 ]
