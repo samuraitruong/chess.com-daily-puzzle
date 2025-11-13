@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 946,
-        "solved_count": 1540237,
+        "solved_count": 1540262,
         "parsed": {
             "moves": [
                 "Qh6",
@@ -39,7 +39,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1004,
-        "solved_count": 1633167,
+        "solved_count": 1633187,
         "parsed": {
             "moves": [
                 "Rh4+",
@@ -74,7 +74,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1297,
-        "solved_count": 1697953,
+        "solved_count": 1697976,
         "parsed": {
             "moves": [
                 "Bf7+",
@@ -100,7 +100,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 875,
-        "solved_count": 1644118,
+        "solved_count": 1644151,
         "parsed": {
             "moves": [
                 "Bf6",
@@ -128,7 +128,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1077,
-        "solved_count": 1627615,
+        "solved_count": 1627998,
         "parsed": {
             "moves": [
                 "Rg8+",
@@ -156,7 +156,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1213,
-        "solved_count": 1584140,
+        "solved_count": 1584651,
         "parsed": {
             "moves": [
                 "Kd2",
@@ -182,7 +182,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 978,
-        "solved_count": 1567490,
+        "solved_count": 1568279,
         "parsed": {
             "moves": [
                 "Rd1+",
@@ -210,7 +210,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 869,
-        "solved_count": 1490708,
+        "solved_count": 1491721,
         "parsed": {
             "moves": [
                 "Qd8+",
@@ -239,8 +239,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-09_Unlikely-Hero_Dane-Mattson_C3E.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1037,
-        "solved_count": 1510863,
+        "comment_count": 1038,
+        "solved_count": 1512159,
         "parsed": {
             "moves": [
                 "Bc5+",
@@ -269,8 +269,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-10_Turn-the-Corner_Dane-Mattson_UDZ.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1245,
-        "solved_count": 1587215,
+        "comment_count": 1246,
+        "solved_count": 1589025,
         "parsed": {
             "moves": [
                 "Nc7#"
@@ -291,7 +291,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 847,
-        "solved_count": 1466560,
+        "solved_count": 1469516,
         "parsed": {
             "moves": [
                 "Kd7",
@@ -313,8 +313,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-12_Show-Yourself_Kostya-Kavutskiy_8ZJ.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 866,
-        "solved_count": 1373966,
+        "comment_count": 881,
+        "solved_count": 1398706,
         "parsed": {
             "moves": [
                 "Rxh7+",
@@ -331,5 +331,31 @@
             "fen": "3r1qrk/pp4Rp/5p2/n3pN2/3bP1Q1/P2b3P/1P1B3K/8 w - - 0 32"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=3r1qrk/pp4Rp/5p2/n3pN2/3bP1Q1/P2b3P/1P1B3K/8 w - - 0 32"
+    },
+    {
+        "id": 13450,
+        "title": "Moving Target",
+        "pgn": "[Result \"0-1\"]\r\n[FEN \"1R1N4/5pk1/6pp/3qp3/1Q2N1nP/2PP2PK/r7/8 b - - 0 44\"]\r\n\r\n44... Rh2+ 45. Kxg4 f5+ 46. Kf3 Qxd3# 0-1",
+        "date": "2025-11-13",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-13_Moving-Target_Fiona-Steil-Antoni_9F1.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 39,
+        "solved_count": 35546,
+        "parsed": {
+            "moves": [
+                "Rh2+",
+                "Kxg4",
+                "f5+",
+                "Kf3",
+                "Qxd3#",
+                "0-1"
+            ],
+            "raw": "44... Rh2+ 45. Kxg4 f5+ 46. Kf3 Qxd3# 0-1",
+            "result": "0-1",
+            "fen": "1R1N4/5pk1/6pp/3qp3/1Q2N1nP/2PP2PK/r7/8 b - - 0 44"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1R1N4/5pk1/6pp/3qp3/1Q2N1nP/2PP2PK/r7/8 b - - 0 44"
     }
 ]
