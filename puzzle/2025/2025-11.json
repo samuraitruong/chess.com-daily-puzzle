@@ -9,7 +9,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 945,
-        "solved_count": 1540950,
+        "solved_count": 1540977,
         "parsed": {
             "moves": [
                 "Qh6",
@@ -39,7 +39,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1004,
-        "solved_count": 1633856,
+        "solved_count": 1633881,
         "parsed": {
             "moves": [
                 "Rh4+",
@@ -74,7 +74,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1289,
-        "solved_count": 1698702,
+        "solved_count": 1698727,
         "parsed": {
             "moves": [
                 "Bf7+",
@@ -100,7 +100,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 876,
-        "solved_count": 1644976,
+        "solved_count": 1645004,
         "parsed": {
             "moves": [
                 "Bf6",
@@ -128,7 +128,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1045,
-        "solved_count": 1628909,
+        "solved_count": 1628945,
         "parsed": {
             "moves": [
                 "Rg8+",
@@ -156,7 +156,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1211,
-        "solved_count": 1594217,
+        "solved_count": 1594592,
         "parsed": {
             "moves": [
                 "Kd2",
@@ -182,7 +182,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 983,
-        "solved_count": 1582677,
+        "solved_count": 1583154,
         "parsed": {
             "moves": [
                 "Rd1+",
@@ -210,7 +210,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 874,
-        "solved_count": 1510633,
+        "solved_count": 1511383,
         "parsed": {
             "moves": [
                 "Qd8+",
@@ -240,7 +240,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1044,
-        "solved_count": 1536208,
+        "solved_count": 1537189,
         "parsed": {
             "moves": [
                 "Bc5+",
@@ -270,7 +270,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1255,
-        "solved_count": 1620689,
+        "solved_count": 1621981,
         "parsed": {
             "moves": [
                 "Nc7#"
@@ -291,7 +291,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 855,
-        "solved_count": 1515562,
+        "solved_count": 1517308,
         "parsed": {
             "moves": [
                 "Kd7",
@@ -314,7 +314,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 901,
-        "solved_count": 1479305,
+        "solved_count": 1482097,
         "parsed": {
             "moves": [
                 "Rxh7+",
@@ -341,8 +341,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-13_Moving-Target_Fiona-Steil-Antoni_9F1.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 842,
-        "solved_count": 1375526,
+        "comment_count": 851,
+        "solved_count": 1399998,
         "parsed": {
             "moves": [
                 "Rh2+",
@@ -357,5 +357,33 @@
             "fen": "1R1N4/5pk1/6pp/3qp3/1Q2N1nP/2PP2PK/r7/8 b - - 0 44"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=1R1N4/5pk1/6pp/3qp3/1Q2N1nP/2PP2PK/r7/8 b - - 0 44"
+    },
+    {
+        "id": 13452,
+        "title": "Passing Notes",
+        "pgn": "[White \"kehall41\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"3r4/p1kbpr2/B4n1p/P5p1/2pK1P2/7P/Np2q1PB/2RR4 w - - 0 1\"]\r\n\r\n1. f5+ e5+ 2. fxe6+ Kc6 3. Nb4# 1-0",
+        "date": "2025-11-14",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-11-14_Passing-Notes_Fiona-Steil-Antoni_VX5.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 47,
+        "solved_count": 32211,
+        "parsed": {
+            "moves": [
+                "f5+",
+                "e5+",
+                "fxe6+",
+                "Kc6",
+                "Nb4#",
+                "1-0"
+            ],
+            "raw": "1. f5+ e5+ 2. fxe6+ Kc6 3. Nb4# 1-0",
+            "white": "kehall41",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "3r4/p1kbpr2/B4n1p/P5p1/2pK1P2/7P/Np2q1PB/2RR4 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r4/p1kbpr2/B4n1p/P5p1/2pK1P2/7P/Np2q1PB/2RR4 w - - 0 1"
     }
 ]
