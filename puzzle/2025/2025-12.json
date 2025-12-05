@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1166,
-        "solved_count": 1605500,
+        "solved_count": 1606942,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -59,7 +59,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1037,
-        "solved_count": 1570400,
+        "solved_count": 1572243,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -110,8 +110,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-12-03_Taking-a-Moment_Kostya-Kavutskiy_QOY.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1017,
-        "solved_count": 1468166,
+        "comment_count": 1020,
+        "solved_count": 1470975,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -167,8 +167,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-12-04_Outta-My-Way_Dane-Mattson_APJ.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 973,
-        "solved_count": 1366526,
+        "comment_count": 1004,
+        "solved_count": 1388870,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -214,5 +214,62 @@
             "fen": "5qrk/pb5p/1p2pPp1/2rp2P1/3B3Q/P2n2N1/1P4PK/7R w - - 0 26"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=5qrk/pb5p/1p2pPp1/2rp2P1/3B3Q/P2n2N1/1P4PK/7R w - - 0 26"
+    },
+    {
+        "id": 13486,
+        "title": "And Then Gotham Sacrificed the....",
+        "pgn": "[White \"Happy Birthday, GothamChess!\"]\r\n[Black \"The RoOoOoOoOoOK\"]\r\n[Result \"1-0\"]\r\n[FEN \"5r1k/1pp1pBb1/r5Pp/4P1N1/pn1n1qb1/3QpN2/PPP3P1/2R1K2R w K - 4 20\"]\r\n\r\n20. Rxh6+ Bxh6 21. g7+ Kxg7 22. Qh7# 1-0",
+        "date": "2025-12-05",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-12-05_And-Then-Gotham-Sacrificed_Dane-Mattson_L0Y.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 101,
+        "solved_count": 34379,
+        "author": {
+            "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
+            "name": "Dane Mattson",
+            "id": 1648605,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/1648605.e411b4af.100x100o.77916d7b050d.jpg",
+            "member_url": "https://www.chess.com/member/fischwitsch",
+            "last_login_date": 1764906512,
+            "location": "Superior, WI",
+            "username": "Fischwitsch",
+            "points": 1098,
+            "chess_title": "NM",
+            "first_name": "Dane",
+            "last_name": "Mattson",
+            "country_name": "United States",
+            "member_since": 1229032490,
+            "about": "",
+            "best_rating": 2183,
+            "best_rating_type": "blitz",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "staff",
+            "user_id": 1648605,
+            "has_image": true,
+            "are_friends": false,
+            "user_can_receive_gift": false
+        },
+        "parsed": {
+            "moves": [
+                "Rxh6+",
+                "Bxh6",
+                "g7+",
+                "Kxg7",
+                "Qh7#",
+                "1-0"
+            ],
+            "raw": "20. Rxh6+ Bxh6 21. g7+ Kxg7 22. Qh7# 1-0",
+            "white": "Happy Birthday, GothamChess!",
+            "black": "The RoOoOoOoOoOK",
+            "result": "1-0",
+            "fen": "5r1k/1pp1pBb1/r5Pp/4P1N1/pn1n1qb1/3QpN2/PPP3P1/2R1K2R w K - 4 20"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5r1k/1pp1pBb1/r5Pp/4P1N1/pn1n1qb1/3QpN2/PPP3P1/2R1K2R w K - 4 20"
     }
 ]
