@@ -5,7 +5,7 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"4r1k1/1p1bqpb1/p5p1/P1pP3p/3nn3/R3N1P1/1P2N1KP/2BQR3 b - - 0 1\"]\r\n\r\n1... Bh3+ 2. Kxh3 ( 2. Kg1 Nf3+ 3. Kh1 Nf2# ) Ng5+ 3. Kg2 Qe4+ 4. Kg1 Nh3+ 5. Kf1 Qf3#\r\n*\r\n\r\n\r\n",
         "date": "2007-09-01",
         "video": [],
-        "comment_count": 13,
+        "comment_count": 14,
         "solved_count": 399,
         "parsed": {
             "moves": [
@@ -169,7 +169,7 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1R2r1k1/6pp/p2Q1P2/1p1P4/6KP/P3q3/1P6/8 b - - 0 1\"]\r\n\r\n1... h5+ 2. Kxh5 Qf3+ 3. Kg5 Qxf6+ ( 3... Qg2+ 4. Kf5 g6+ 5. Kf4 Qh2+ 6. Kg5 Qxd6 7. Rxe8+ Kf7 8. Re7+ Kf8 { and this is also winning, but less simple }  ) 4. Qxf6 gxf6+ 5. Kxf6 Rxb8\r\n*\r\n\r\n\r\n",
         "date": "2007-09-08",
         "video": [],
-        "comment_count": 14,
+        "comment_count": 15,
         "solved_count": 347,
         "parsed": {
             "moves": [
@@ -219,7 +219,7 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"4Qbk1/ppq2ppn/8/3PNpP1/2p2P2/7P/4K3/8 w - - 0 1\"]\r\n\r\n1. d6 Qxd6 2. Qxf7+ Kh8 3. Ng6+ Qxg6 4. Qxg6 { and white's queen will overwhelm the knight and bishop. }\r\n*\r\n\r\n\r\n",
         "date": "2007-09-10",
         "video": [],
-        "comment_count": 11,
+        "comment_count": 12,
         "solved_count": 349,
         "parsed": {
             "moves": [
@@ -345,7 +345,7 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"4rr2/3b1pkp/1p1q1bp1/p1ppNP2/2PP4/2Q3N1/PP2R1PP/4R1K1 w - - 0 1\"]\r\n\r\n1. Nh5+ $1 gxh5 ( 1... Kh8 2. Nxf6 cxd4 ( 2... Qxf6 3. Nxd7 ) 3. Nxe8 Qxe5 4. Rxe5 dxc3 5. bxc3 { and the complications are over. }  ) ( 1... Kg8 2. Nxf6+ Qxf6 3. Nxd7 Qxf5 4. Rxe8 Qxd7 5. Rxf8+ Kxf8 ) 2. Qg3+ Kh8 ( 2... Bg5 3. Qxg5+ Kh8 4. f6 Rg8 5. Nxf7# ) 3. Nxf7+ Rxf7 4. Rxe8+ Bxe8 5. Qxd6 { and white has a much better position and decisive material advantage.  }\r\n*\r\n\r\n\r\n",
         "date": "2007-09-15",
         "video": [],
-        "comment_count": 11,
+        "comment_count": 14,
         "solved_count": 339,
         "parsed": {
             "moves": [
@@ -378,7 +378,7 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"7r/4b2N/1pp1b2q/p2pNkp1/Pn1P4/2N5/1PP1RPP1/3R2K1 w - - 0 1\"]\r\n\r\n1. g4+ Kf4 2. Re4+ dxe4 3. Ne2# *",
         "date": "2007-09-16",
         "video": [],
-        "comment_count": 11,
+        "comment_count": 12,
         "solved_count": 338,
         "parsed": {
             "moves": [
@@ -423,7 +423,7 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"4q2k/5rb1/3pr1p1/p1p4p/Pp2P2R/3P1p1Q/1BP2P1P/6RK w - - 0 1\"]\r\n\r\n1. Rxg6 Rxg6 ( 1... Bxb2 2. Rxh5+ Rh7 3. Rxh7# ) 2. Rxh5+ Kg8 ( 2... Rh6 3. Rxh6+ Kg8 4. Rh8+ Bxh8 5. Qxh8# ) 3. Rh8+ Bxh8 4. Qxh8#\r\n*\r\n\r\n\r\n",
         "date": "2007-09-18",
         "video": [],
-        "comment_count": 12,
+        "comment_count": 13,
         "solved_count": 339,
         "parsed": {
             "moves": [
@@ -448,7 +448,7 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r3k1r1/2pq1p2/pbR1bQpp/3pP3/3P4/B2B1N2/P4PPP/6K1 w - - 0 1\"]\r\n\r\n1. Bxg6 Bg4 ( 1... Rxg6 2. Qh8+ Rg8 3. Qxg8# ) ( 1... fxg6 2. Rxe6+ Qxe6 3. Qxe6+ Kd8 4. Qxg8+ ) 2. e6 Bxe6 3. Rxe6+ Qxe6 4. Qxe6+\r\n*\r\n\r\n\r\n",
         "date": "2007-09-19",
         "video": [],
-        "comment_count": 14,
+        "comment_count": 15,
         "solved_count": 339,
         "parsed": {
             "moves": [
@@ -500,7 +500,7 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1r3k1/p2n1pbp/1pP2np1/4p3/2Pp4/2NPPP2/PB1NKP1P/R1R5 b - - 0 1\"]\r\n\r\n1... dxc3 2. cxd7 cxb2 3. dxc8=Q+ Rxc8\r\n*",
         "date": "2007-09-21",
         "video": [],
-        "comment_count": 14,
+        "comment_count": 15,
         "solved_count": 332,
         "parsed": {
             "moves": [
@@ -612,7 +612,7 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/6b1/r3N3/4P3/5PQ1/2P2RK1/5B2/r4q2 b - - 0 1\"]\r\n\r\n1...Qg1+ 2. Bxg1 Rxg1+ 3. Kh3 Rxg4 4. Kxg4 Rxe6",
         "date": "2007-09-25",
         "video": [],
-        "comment_count": 14,
+        "comment_count": 15,
         "solved_count": 329,
         "parsed": {
             "moves": [
