@@ -5,8 +5,8 @@
         "pgn": "[Event \"Berlin\"]\r\n[Site \"?\"]\r\n[Date \"1864.??.??\"]\r\n[Round \"?\"]\r\n[White \"Anderssen\"]\r\n[Black \"Schalopp\"]\r\n[Result \"*\"]\r\n[Annotator \"10 A 10\"]\r\n[SetUp \"1\"]\r\n[FEN \"r1bqk2r/pppn1pp1/5n1p/2B5/2B1p3/2N5/PPP1Q1PP/R4RK1 w kq - 0 1\"]\r\n[PlyCount \"3\"]\r\n\r\n1. Qxe4+ $3 1... Nxe4 2. Bxf7# *",
         "date": "2007-06-01",
         "video": [],
-        "comment_count": 32,
-        "solved_count": 930,
+        "comment_count": 33,
+        "solved_count": 961,
         "parsed": {
             "moves": [
                 "Qxe4+",
@@ -34,8 +34,8 @@
         "pgn": "[FEN \"3r1rk1/5ppp/1p2Pq2/3N4/Pb6/6P1/2Q2P1P/R2R2K1 b - - 0 1\"]\r\n[PlyCount \"3\"]\r\n\r\n1... Rxd5 2. Rxd5 Qxa1+ *",
         "date": "2007-06-02",
         "video": [],
-        "comment_count": 21,
-        "solved_count": 818,
+        "comment_count": 22,
+        "solved_count": 852,
         "parsed": {
             "moves": [
                 "Rxd5",
@@ -54,8 +54,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"r2r3k/1pp2R1p/p1n3pB/4p3/P2bb3/8/BP4PP/3RK3 w - - 0 1\"]\r\n\r\n1. Bg7+ Kg8 2. Rd7+ Bd5 3. Bxd5# *",
         "date": "2007-06-03",
         "video": [],
-        "comment_count": 20,
-        "solved_count": 818,
+        "comment_count": 21,
+        "solved_count": 852,
         "parsed": {
             "moves": [
                 "Bg7+",
@@ -76,8 +76,8 @@
         "pgn": "[FEN \"r2qk2r/1pp1bp2/p4pb1/3npB1p/4N2P/5QN1/PP3PP1/2RR2K1 w kq - 0 1\"]\r\n[PlyCount \"5\"]\r\n\r\n1. Rxd5 Qxd5 2. Nxf6+ Bxf6 3. Qxd5 *",
         "date": "2007-06-04",
         "video": [],
-        "comment_count": 24,
-        "solved_count": 797,
+        "comment_count": 25,
+        "solved_count": 829,
         "parsed": {
             "moves": [
                 "Rxd5",
@@ -98,8 +98,8 @@
         "pgn": "[FEN \"r6k/1pB2p1p/p5p1/8/Pq3P2/1Pb3P1/6QP/2R4K w - - 0 1\"]\r\n[PlyCount \"5\"]\r\n\r\n1. Rxc3 Qxc3 2. Be5+ Qxe5 3. fxe5 *",
         "date": "2007-06-05",
         "video": [],
-        "comment_count": 22,
-        "solved_count": 781,
+        "comment_count": 23,
+        "solved_count": 813,
         "parsed": {
             "moves": [
                 "Rxc3",
@@ -120,8 +120,8 @@
         "pgn": "[FEN \"3r4/1p4pk/p4b1p/4p3/1P2P1q1/P1R2NPn/7P/1Q3B1K b - - 0 1\"]\r\n[PlyCount \"3\"]\r\n\r\n1... Rd1 2. Qxd1 (2. Qc2 Rxf1+ 3. Kg2 Rf2+) Nf2+ 3. Kg2  Nxd1",
         "date": "2007-06-06",
         "video": [],
-        "comment_count": 22,
-        "solved_count": 776,
+        "comment_count": 23,
+        "solved_count": 808,
         "parsed": {
             "moves": [
                 "Rd1",
@@ -142,8 +142,8 @@
         "pgn": "[FEN \"1k3rr1/pp1b4/1qn1p2p/4P3/1P5P/P3QN1R/2B2KP1/R7 b - - 0 1\"]\r\n[PlyCount \"3\"]\r\n\r\n1... Rxg2+ 2. Kxg2 Qxe3 *",
         "date": "2007-06-07",
         "video": [],
-        "comment_count": 21,
-        "solved_count": 760,
+        "comment_count": 22,
+        "solved_count": 791,
         "parsed": {
             "moves": [
                 "Rxg2+",
@@ -162,8 +162,8 @@
         "pgn": "[FEN \"4r2k/8/p1p4p/2P5/1P6/5qpP/6Q1/6RK b - - 0 1\"]\r\n[PlyCount \"3\"]\r\n\r\n1... Re2 $1 2. Qxf3 Rh2# *",
         "date": "2007-06-08",
         "video": [],
-        "comment_count": 22,
-        "solved_count": 765,
+        "comment_count": 23,
+        "solved_count": 797,
         "parsed": {
             "moves": [
                 "Re2",
@@ -182,8 +182,8 @@
         "pgn": "[FEN \"6Q1/2p5/ppkp4/4nQ2/2P5/P7/KP6/5q1q w - - 0 1\"]\r\n[PlyCount \"5\"]\r\n\r\n1. Qd5+ $3 1... Qxd5 2. cxd5+ Kxd5 3. Qxf1 *",
         "date": "2007-06-09",
         "video": [],
-        "comment_count": 17,
-        "solved_count": 755,
+        "comment_count": 18,
+        "solved_count": 786,
         "parsed": {
             "moves": [
                 "Qd5+",
@@ -204,8 +204,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r1b1kb1r/pppp1Npp/5n2/8/3nq3/2N5/PPPPBP1P/R1BQKR2 b Qkq - 0 1\"]\r\n\r\n1... Nf3#\r\n*\r\n\r\n\r\n",
         "date": "2007-06-10",
         "video": [],
-        "comment_count": 22,
-        "solved_count": 752,
+        "comment_count": 23,
+        "solved_count": 783,
         "parsed": {
             "moves": [
                 "Nf3#"
@@ -223,8 +223,8 @@
         "pgn": "[Result \"0-1\"]\r\n[FEN \"2b1r2k/4q1p1/1p5p/1P5P/1N1N4/R1P2RP1/2Q2KP1/4r3 b - - 0 1\"]\r\n\r\n1... Rf1+ 2. Kxf1 Qe1# 0-1",
         "date": "2007-06-11",
         "video": [],
-        "comment_count": 22,
-        "solved_count": 746,
+        "comment_count": 23,
+        "solved_count": 776,
         "parsed": {
             "moves": [
                 "Rf1+",
@@ -244,8 +244,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r4k/3r1p1p/1p2pP2/p2pPp1P/P2P1Q2/6R1/4B1PK/2q5 w KQkq - 0 1\"]\r\n\r\n1. Rg8+ Kxg8 ( 1... Rxg8 2. Qxc1 ) 2. Qg3+ Kh8 3. Qg7#\r\n*\r\n\r\n\r\n",
         "date": "2007-06-12",
         "video": [],
-        "comment_count": 21,
-        "solved_count": 735,
+        "comment_count": 23,
+        "solved_count": 764,
         "parsed": {
             "moves": [
                 "Rg8+",
@@ -267,8 +267,8 @@
         "pgn": "[Result \"*\"]\r\n[FEN \"1r6/2p3k1/2R3p1/2Nn4/1p1p2PK/1B1P3P/1PP4r/R7 b - - 0 1\"]\r\n\r\n1... Rh8+ 2. Kg5 Rh5+ 3. gxh5 Rg2+ 4. Kh4 g5# *",
         "date": "2007-06-13",
         "video": [],
-        "comment_count": 16,
-        "solved_count": 724,
+        "comment_count": 18,
+        "solved_count": 754,
         "parsed": {
             "moves": [
                 "Rh8+",
@@ -291,8 +291,8 @@
         "pgn": "[FEN \"rn2kb1r/ppp2ppp/2b1pq2/8/3P4/3B1N2/PPP2PPP/R1BQK2R w KQkq - 0 1\"]\r\n[PlyCount \"5\"]\r\n\r\n1. Bg5 1... Bxf3 2. Qd2 2... Qxd4 3. Bb5+ *",
         "date": "2007-06-14",
         "video": [],
-        "comment_count": 19,
-        "solved_count": 713,
+        "comment_count": 20,
+        "solved_count": 742,
         "parsed": {
             "moves": [
                 "Bg5",
@@ -313,8 +313,8 @@
         "pgn": "[FEN \"r1b1rqk1/5p2/5Pp1/ppp1B1Q1/8/1P1P3R/P5PP/5RK1 w - - 0 1\"]\r\n[PlyCount \"5\"]\r\n\r\n1. Qxg6+ $3 1... fxg6 2. f7+ Qxf7 3. Rh8# *",
         "date": "2007-06-15",
         "video": [],
-        "comment_count": 22,
-        "solved_count": 708,
+        "comment_count": 23,
+        "solved_count": 737,
         "parsed": {
             "moves": [
                 "Qxg6+",
@@ -335,8 +335,8 @@
         "pgn": "[FEN \"r5k1/1p3pp1/1p3q1p/1P1bQ3/P2P3n/8/3B1PPP/R3R1K1 b - - 0 1\"]\r\n[PlyCount \"17\"]\r\n\r\n1... Nf3+ $1 2. gxf3 2... Qxf3 3. Kf1 3... Qh3+ 4. Ke2 4... Bc4+ 5. Kd1 5...\r\nQb3+ 6. Kc1 6... Bd3 7. Qc7 7... Rxa4 $1 8. Bb4 Rxa1+ 9. Kd2 9... Qxb4+ 10. Kxd3 Rxe1 ",
         "date": "2007-06-16",
         "video": [],
-        "comment_count": 25,
-        "solved_count": 698,
+        "comment_count": 26,
+        "solved_count": 726,
         "parsed": {
             "moves": [
                 "Nf3+",
@@ -371,8 +371,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2q5/pR6/1p3pnk/1P4pp/8/5QPP/P2r2BK/8 w - - 0 1\"]\r\n\r\n1. Qxh5+ Kxh5 2. Rh7#\r\n*\r\n\r\n\r\n",
         "date": "2007-06-17",
         "video": [],
-        "comment_count": 20,
-        "solved_count": 684,
+        "comment_count": 21,
+        "solved_count": 712,
         "parsed": {
             "moves": [
                 "Qxh5+",
@@ -392,8 +392,8 @@
         "pgn": "[FEN \"r1bqk2r/pppn1pp1/5n1p/2B5/2B1p3/2N5/PPP1Q1PP/R4RK1 w kq - 0 1\"]\r\n[PlyCount \"3\"]\r\n\r\n1. Qxe4+ $3 1... Nxe4 2. Bxf7# *",
         "date": "2007-06-18",
         "video": [],
-        "comment_count": 20,
-        "solved_count": 673,
+        "comment_count": 21,
+        "solved_count": 697,
         "parsed": {
             "moves": [
                 "Qxe4+",
@@ -412,8 +412,8 @@
         "pgn": "[FEN \"6rk/3b2bp/5p2/p3pP1N/q3N1Q1/1p2R3/1Pr3P1/3R3K w - - 0 1\"]\r\n[PlyCount \"5\"]\r\n\r\n1. Nd6 1... Be8 2. Qxa4 2... Bxa4 3. Nf7# *",
         "date": "2007-06-19",
         "video": [],
-        "comment_count": 20,
-        "solved_count": 662,
+        "comment_count": 21,
+        "solved_count": 686,
         "parsed": {
             "moves": [
                 "Nd6",
@@ -434,8 +434,8 @@
         "pgn": "[FEN \"r1b1r1k1/pp3pPp/2p5/8/2B1p2Q/4P3/Pq3PPP/R4RK1 w - - 0 1\"]\r\n[PlyCount \"7\"]\r\n\r\n1. Bxf7+ Kxf7 2. Qh5+ Ke7 3. Qxe8+ Kxe8 4. g8=Q+ *",
         "date": "2007-06-20",
         "video": [],
-        "comment_count": 19,
-        "solved_count": 656,
+        "comment_count": 20,
+        "solved_count": 680,
         "parsed": {
             "moves": [
                 "Bxf7+",
@@ -458,8 +458,8 @@
         "pgn": "[FEN \"1k1r2nr/pp3pp1/3q2b1/2N4p/5Q1P/5PN1/PP3P2/2R2RK1 w - - 0 1\"]\r\n[PlyCount \"5\"]\r\n\r\n1. Rfd1 Qxf4 2. Rxd8+ Kc7 3. Ne6+ Kb6  4. Nxf4 *",
         "date": "2007-06-21",
         "video": [],
-        "comment_count": 24,
-        "solved_count": 653,
+        "comment_count": 25,
+        "solved_count": 676,
         "parsed": {
             "moves": [
                 "Rfd1",
@@ -482,8 +482,8 @@
         "pgn": "[FEN \"r1q2b1r/2pnpkpp/p1Q1bp2/2P1p3/1P6/2P1BN2/P4PPP/R3KB1R w KQ - 0 1\"]\r\n[PlyCount \"7\"]\r\n\r\n1. Qxe6+ 1... Kxe6 2. Bc4+ 2... Kf5 3. Nh4+ 3... Ke4 (3... Kg4 4. Be2+ Kxh4 5.\r\nh3 $1 {6. g3# cannot be avoided!}) 4. Ke2  Nxc5 5. f3#",
         "date": "2007-06-22",
         "video": [],
-        "comment_count": 22,
-        "solved_count": 643,
+        "comment_count": 24,
+        "solved_count": 666,
         "parsed": {
             "moves": [
                 "Qxe6+",
@@ -508,8 +508,8 @@
         "pgn": "[Result \"1-0\"]\r\n[FEN \"1r2r2k/4nQ1p/b1n1N1p1/q4p2/8/P1b4P/B1P2PPN/R3R1K1 w - - 0 1\"]\r\n\r\n1.Ng5 Bg7 2.Qg8+ Nxg8 3.Nf7# 1-0",
         "date": "2007-06-23",
         "video": [],
-        "comment_count": 18,
-        "solved_count": 642,
+        "comment_count": 19,
+        "solved_count": 665,
         "parsed": {
             "moves": [
                 "Ng5",
@@ -532,7 +532,7 @@
         "date": "2007-06-24",
         "video": [],
         "comment_count": 21,
-        "solved_count": 635,
+        "solved_count": 658,
         "parsed": {
             "moves": [
                 "Kh5",
@@ -550,8 +550,8 @@
         "pgn": "[FEN \"r6k/pp1b2p1/3Np2p/r3P3/1q1p1PRQ/2nB4/2PK3P/4R3 w - - 0 1\"]\r\n[PlyCount \"3\"]\r\n\r\n1. Qxh6+ gxh6 (1... Kg8 2. Qxg7#) 2. Nf7# ",
         "date": "2007-06-25",
         "video": [],
-        "comment_count": 22,
-        "solved_count": 627,
+        "comment_count": 23,
+        "solved_count": 651,
         "parsed": {
             "moves": [
                 "Qxh6+",
@@ -570,8 +570,8 @@
         "pgn": "[FEN \"2r5/2P4R/p3kp1p/n3pNpP/1b2P1P1/4B3/5P2/6K1 w - - 0 1\"]\r\n\r\n\r\n1. Bd2 Bxd2 (1... Bc5 2. Bxa5) 2. Re7# ",
         "date": "2007-06-26",
         "video": [],
-        "comment_count": 22,
-        "solved_count": 618,
+        "comment_count": 23,
+        "solved_count": 641,
         "parsed": {
             "moves": [
                 "Bd2",
@@ -589,8 +589,8 @@
         "pgn": "[FEN \"B7/1R3pp1/2k1pn1p/2P5/1p6/1K4Pr/PP6/8 w - - 0 1\"]\r\n[PlyCount \"1\"]\r\n\r\n1. Kc4 Nd7 2. Ra7# ",
         "date": "2007-06-27",
         "video": [],
-        "comment_count": 20,
-        "solved_count": 612,
+        "comment_count": 22,
+        "solved_count": 636,
         "parsed": {
             "moves": [
                 "Kc4",
@@ -609,8 +609,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1r5k/pbp4p/1p1qpNp1/4Q3/3P4/2P5/PP4PP/5RK1 w KQkq - 0 1\"]\r\n\r\n1. Ne8+ Qxe5 ( 1... Kg8 2. Qg7# ) 2. Rf8#\r\n*\r\n\r\n\r\n",
         "date": "2007-06-28",
         "video": [],
-        "comment_count": 20,
-        "solved_count": 616,
+        "comment_count": 21,
+        "solved_count": 640,
         "parsed": {
             "moves": [
                 "Ne8+",
@@ -630,8 +630,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"4qbr1/4n3/2p1NQpk/1p1p2Rp/1pPPP3/1P5P/P4P2/7K w KQkq - 0 1\"]\r\n\r\n1. Rxh5+ Kxh5 2. Qg5#\r\n*\r\n\r\n\r\n",
         "date": "2007-06-29",
         "video": [],
-        "comment_count": 19,
-        "solved_count": 613,
+        "comment_count": 20,
+        "solved_count": 637,
         "parsed": {
             "moves": [
                 "Rxh5+",
@@ -651,8 +651,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1r2r2k/1p1n1R1p/p1qp2pB/6Pn/P1Pp4/3B4/1P2PQ1K/5R2 w - - 0 1\"]\r\n\r\n1. Rxh7+ Kxh7 ( 1... Kg8 2. Qf7# ) 2. Bxg6+ Kh8 ( 2... Kxg6 3. Qf7# ) 3. Bg7+ Nxg7 ( 3... Kxg7 4. Qf7+ Kh8 5. Qh7# ) 4. Qh4+ Kg8 5. Qh7#\r\n*\r\n\r\n\r\n",
         "date": "2007-06-30",
         "video": [],
-        "comment_count": 23,
-        "solved_count": 620,
+        "comment_count": 24,
+        "solved_count": 644,
         "parsed": {
             "moves": [
                 "Rxh7+",
