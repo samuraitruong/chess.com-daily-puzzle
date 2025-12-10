@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1207,
-        "solved_count": 1688826,
+        "solved_count": 1688859,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -59,7 +59,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1039,
-        "solved_count": 1683845,
+        "solved_count": 1684247,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -110,8 +110,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-12-03_Taking-a-Moment_Kostya-Kavutskiy_QOY.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1023,
-        "solved_count": 1614941,
+        "comment_count": 1028,
+        "solved_count": 1615492,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -168,7 +168,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1011,
-        "solved_count": 1596555,
+        "solved_count": 1597380,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -224,8 +224,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-12-05_And-Then-Gotham-Sacrificed_Dane-Mattson_L0Y.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 2435,
-        "solved_count": 1499374,
+        "comment_count": 2441,
+        "solved_count": 1500453,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -282,7 +282,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 887,
-        "solved_count": 1466097,
+        "solved_count": 1467575,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -341,7 +341,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 843,
-        "solved_count": 1531477,
+        "solved_count": 1533447,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -406,7 +406,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1173,
-        "solved_count": 1524615,
+        "solved_count": 1527486,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -457,8 +457,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2025-12-09_Find-Hikarus-Brillaint-Finish_Fiona-Steil-Antoni_FAH.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1166,
-        "solved_count": 1381972,
+        "comment_count": 1173,
+        "solved_count": 1404524,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -505,5 +505,61 @@
             "fen": "2b5/k2n1p2/p2q4/5R1B/2p4P/P1b5/KPQ1R3/6r1 b - - 0 37"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2b5/k2n1p2/p2q4/5R1B/2p4P/P1b5/KPQ1R3/6r1 b - - 0 37"
+    },
+    {
+        "id": 13506,
+        "title": "Unplugged",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"KingsBishop\"]\r\n[Result \"0-1\"]\r\n[FEN \"2kr2r1/1pp2p1p/p4n2/3p4/1n1P4/BP3B1q/P1P2PPP/R2Q1RK1 b - - 0 1\"]\r\n\r\n1... Rxg2+ 2. Bxg2 Rg8 3. Qf3 Qxf3 0-1",
+        "date": "2025-12-10",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2025-12-10_Unplugged_Daniel-Greiner_Y5M.mp4",
+            "author_id": "0054c526-f279-11e3-802e-000000000000"
+        },
+        "comment_count": 39,
+        "solved_count": 37766,
+        "author": {
+            "uuid": "0054c526-f279-11e3-802e-000000000000",
+            "name": "Daniel Greiner",
+            "id": 17669546,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/17669546.ddfc2425.100x100o.ee0c527b52b9.png",
+            "member_url": "https://www.chess.com/member/kingsbishop",
+            "last_login_date": 1765285750,
+            "location": "Davison, MI",
+            "username": "KingsBishop",
+            "points": 1145,
+            "first_name": "Daniel",
+            "last_name": "Greiner",
+            "country_name": "United States",
+            "member_since": 1402608726,
+            "about": "",
+            "best_rating": 2145,
+            "best_rating_type": "rapid",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 17669546,
+            "has_image": true,
+            "are_friends": false,
+            "user_can_receive_gift": true
+        },
+        "parsed": {
+            "moves": [
+                "Rxg2+",
+                "Bxg2",
+                "Rg8",
+                "Qf3",
+                "Qxf3",
+                "0-1"
+            ],
+            "raw": "1... Rxg2+ 2. Bxg2 Rg8 3. Qf3 Qxf3 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "KingsBishop",
+            "result": "0-1",
+            "fen": "2kr2r1/1pp2p1p/p4n2/3p4/1n1P4/BP3B1q/P1P2PPP/R2Q1RK1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=2kr2r1/1pp2p1p/p4n2/3p4/1n1P4/BP3B1q/P1P2PPP/R2Q1RK1 b - - 0 1"
     }
 ]
