@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-01_A-New-Beginning_Fiona-Steil-Antoni_44N.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2329,
-        "solved_count": 1466562,
+        "comment_count": 2335,
+        "solved_count": 1469189,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -67,8 +67,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-02_Queen-or-the-Kingdom_Fiona-Steil-Antoni_NBO.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1407,
-        "solved_count": 1420492,
+        "comment_count": 1436,
+        "solved_count": 1441428,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -116,5 +116,64 @@
             "fen": "2Q5/8/3pqkpp/p7/4PPP1/8/8/6K1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2Q5/8/3pqkpp/p7/4PPP1/8/8/6K1 w - - 0 1"
+    },
+    {
+        "id": 13548,
+        "title": "Trapeze Act",
+        "pgn": "[White \"GuyLemieux\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"4q3/1p3R1p/r3r3/4p1kP/p1Pp2P1/1P1P3K/6P1/5R2 w - - 0 1\"]\r\n\r\n1. R1f5+ Kh6 2. g5+ Kxh5 3. Rg7 Qf8 4. g4# 1-0",
+        "date": "2026-01-03",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-03_Trapeze-Act_Kostya-Kavutskiy_X3W.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 56,
+        "solved_count": 28673,
+        "author": {
+            "uuid": "308500fe-e2b4-11df-8061-000000000000",
+            "name": "Kostya Kavutskiy",
+            "id": 4177997,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/4177997.ce79ff32.100x100o.e97117b2e04d.jpeg",
+            "member_url": "https://www.chess.com/member/hellokostya",
+            "last_login_date": 1767391151,
+            "location": "403639644887056406",
+            "username": "hellokostya",
+            "points": 836,
+            "chess_title": "IM",
+            "first_name": "Kostya",
+            "last_name": "Kavutskiy",
+            "country_name": "United States",
+            "member_since": 1288284938,
+            "about": "",
+            "best_rating": 2705,
+            "best_rating_type": "bullet",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 4177997,
+            "has_image": true,
+            "are_friends": false,
+            "user_can_receive_gift": false
+        },
+        "parsed": {
+            "moves": [
+                "R1f5+",
+                "Kh6",
+                "g5+",
+                "Kxh5",
+                "Rg7",
+                "Qf8",
+                "g4#",
+                "1-0"
+            ],
+            "raw": "1. R1f5+ Kh6 2. g5+ Kxh5 3. Rg7 Qf8 4. g4# 1-0",
+            "white": "GuyLemieux",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "4q3/1p3R1p/r3r3/4p1kP/p1Pp2P1/1P1P3K/6P1/5R2 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4q3/1p3R1p/r3r3/4p1kP/p1Pp2P1/1P1P3K/6P1/5R2 w - - 0 1"
     }
 ]
