@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-01_A-New-Beginning_Fiona-Steil-Antoni_44N.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2329,
-        "solved_count": 1514013,
+        "comment_count": 2330,
+        "solved_count": 1515550,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -67,8 +67,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-02_Queen-or-the-Kingdom_Fiona-Steil-Antoni_NBO.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1480,
-        "solved_count": 1522391,
+        "comment_count": 1482,
+        "solved_count": 1524845,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -126,8 +126,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-03_Trapeze-Act_Kostya-Kavutskiy_X3W.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1470,
-        "solved_count": 1363553,
+        "comment_count": 1490,
+        "solved_count": 1383275,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -175,5 +175,67 @@
             "fen": "4q3/1p3R1p/r3r3/4p1kP/p1Pp2P1/1P1P3K/6P1/5R2 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=4q3/1p3R1p/r3r3/4p1kP/p1Pp2P1/1P1P3K/6P1/5R2 w - - 0 1"
+    },
+    {
+        "id": 13550,
+        "title": "Fresh Start?",
+        "pgn": "[Date \"1912\"]\r\n[White \"Selezniev, Alexei\"]\r\n[Black \"Study\"]\r\n[Result \"1-0\"]\r\n[FEN \"6R1/8/p7/8/1k5r/1Pp4p/P1K5/8 w - - 0 1\"]\r\n\r\n1. Rg5 h2 2. a3+ Kxa3 3. Ra5+ Kb4 4. Ra4+ Kc5 5. Rxh4 1-0",
+        "date": "2026-01-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-04_Fresh-Start_Dane-Mattson_XI6.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 60,
+        "solved_count": 28966,
+        "author": {
+            "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
+            "name": "Dane Mattson",
+            "id": 1648605,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/1648605.e411b4af.100x100o.77916d7b050d.jpg",
+            "member_url": "https://www.chess.com/member/fischwitsch",
+            "last_login_date": 1767478079,
+            "location": "Superior, WI",
+            "username": "Fischwitsch",
+            "points": 1120,
+            "chess_title": "NM",
+            "first_name": "Dane",
+            "last_name": "Mattson",
+            "country_name": "United States",
+            "member_since": 1229032490,
+            "about": "",
+            "best_rating": 2183,
+            "best_rating_type": "blitz",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "staff",
+            "user_id": 1648605,
+            "has_image": true,
+            "are_friends": false,
+            "user_can_receive_gift": false
+        },
+        "parsed": {
+            "moves": [
+                "Rg5",
+                "h2",
+                "a3+",
+                "Kxa3",
+                "Ra5+",
+                "Kb4",
+                "Ra4+",
+                "Kc5",
+                "Rxh4",
+                "1-0"
+            ],
+            "raw": "1. Rg5 h2 2. a3+ Kxa3 3. Ra5+ Kb4 4. Ra4+ Kc5 5. Rxh4 1-0",
+            "date": "1912",
+            "white": "Selezniev, Alexei",
+            "black": "Study",
+            "result": "1-0",
+            "fen": "6R1/8/p7/8/1k5r/1Pp4p/P1K5/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6R1/8/p7/8/1k5r/1Pp4p/P1K5/8 w - - 0 1"
     }
 ]
