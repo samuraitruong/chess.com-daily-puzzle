@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-01_A-New-Beginning_Fiona-Steil-Antoni_44N.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2412,
-        "solved_count": 1611540,
+        "comment_count": 2413,
+        "solved_count": 1612508,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -68,7 +68,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1524,
-        "solved_count": 1646403,
+        "solved_count": 1647527,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -126,8 +126,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-03_Trapeze-Act_Kostya-Kavutskiy_X3W.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1516,
-        "solved_count": 1572627,
+        "comment_count": 1517,
+        "solved_count": 1574071,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -185,8 +185,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-04_Fresh-Start_Dane-Mattson_XI6.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1377,
-        "solved_count": 1559677,
+        "comment_count": 1376,
+        "solved_count": 1561611,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -247,8 +247,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-05_Let-Me-Check-Real-Quick_Dane-Mattson_ON8.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1755,
-        "solved_count": 1598965,
+        "comment_count": 1758,
+        "solved_count": 1601861,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -299,8 +299,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-06_Discover-Your-Backstory_Fiona-Steil-Antoni_2BQ.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1566,
-        "solved_count": 1471250,
+        "comment_count": 1590,
+        "solved_count": 1491646,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -341,5 +341,64 @@
             "fen": "1kn5/pB5p/p4p2/N1n5/8/2P1P1Pq/P4P1P/1R4K1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=1kn5/pB5p/p4p2/N1n5/8/2P1P1Pq/P4P1P/1R4K1 w - - 0 1"
+    },
+    {
+        "id": 13554,
+        "title": "The Missing Piece",
+        "pgn": "[White \"ataco2eat\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"5r2/pbpp1pkp/1pq1p1p1/4P2n/8/2NB4/PPPQ1PPP/4R1K1 w - - 0 16\"]\r\n\r\n16. Be4 d5 17. exd6 Qxd6 18. Qxd6 cxd6 19. Bxb7 1-0",
+        "date": "2026-01-07",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-07_The-Missing-Piece_Kostya-Kavutskiy_3ZA.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 54,
+        "solved_count": 36953,
+        "author": {
+            "uuid": "308500fe-e2b4-11df-8061-000000000000",
+            "name": "Kostya Kavutskiy",
+            "id": 4177997,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/4177997.ce79ff32.100x100o.e97117b2e04d.jpeg",
+            "member_url": "https://www.chess.com/member/hellokostya",
+            "last_login_date": 1767627127,
+            "location": "403639644887056406",
+            "username": "hellokostya",
+            "points": 836,
+            "chess_title": "IM",
+            "first_name": "Kostya",
+            "last_name": "Kavutskiy",
+            "country_name": "United States",
+            "member_since": 1288284938,
+            "about": "",
+            "best_rating": 2705,
+            "best_rating_type": "bullet",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 4177997,
+            "has_image": true,
+            "are_friends": false,
+            "user_can_receive_gift": false
+        },
+        "parsed": {
+            "moves": [
+                "Be4",
+                "d5",
+                "exd6",
+                "Qxd6",
+                "Qxd6",
+                "cxd6",
+                "Bxb7",
+                "1-0"
+            ],
+            "raw": "16. Be4 d5 17. exd6 Qxd6 18. Qxd6 cxd6 19. Bxb7 1-0",
+            "white": "ataco2eat",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "5r2/pbpp1pkp/1pq1p1p1/4P2n/8/2NB4/PPPQ1PPP/4R1K1 w - - 0 16"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=5r2/pbpp1pkp/1pq1p1p1/4P2n/8/2NB4/PPPQ1PPP/4R1K1 w - - 0 16"
     }
 ]
