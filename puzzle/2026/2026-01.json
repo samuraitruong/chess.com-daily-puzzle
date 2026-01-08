@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-01_A-New-Beginning_Fiona-Steil-Antoni_44N.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2424,
-        "solved_count": 1633220,
+        "comment_count": 2425,
+        "solved_count": 1633890,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -68,7 +68,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1528,
-        "solved_count": 1671574,
+        "solved_count": 1672491,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -127,7 +127,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1523,
-        "solved_count": 1603469,
+        "solved_count": 1604543,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -186,7 +186,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1401,
-        "solved_count": 1599094,
+        "solved_count": 1600510,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -248,7 +248,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1764,
-        "solved_count": 1653025,
+        "solved_count": 1654890,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -299,8 +299,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-06_Discover-Your-Backstory_Fiona-Steil-Antoni_2BQ.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1630,
-        "solved_count": 1579115,
+        "comment_count": 1631,
+        "solved_count": 1581927,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -351,8 +351,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-07_The-Missing-Piece_Kostya-Kavutskiy_3ZA.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1693,
-        "solved_count": 1430183,
+        "comment_count": 1715,
+        "solved_count": 1451546,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -400,5 +400,61 @@
             "fen": "5r2/pbpp1pkp/1pq1p1p1/4P2n/8/2NB4/PPPQ1PPP/4R1K1 w - - 0 16"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=5r2/pbpp1pkp/1pq1p1p1/4P2n/8/2NB4/PPPQ1PPP/4R1K1 w - - 0 16"
+    },
+    {
+        "id": 13530,
+        "title": "Clear Skies Ahead",
+        "pgn": "[White \"Wouter Bik\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"1b4R1/pr5p/6pk/2P3R1/P4qPP/BNnB1p2/P4P2/1b4K1 w - - 3 35\"]\r\n\r\n35. Rh5+ gxh5 36. g5+ Qxg5+ 37. hxg5# 1-0",
+        "date": "2026-01-08",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-08_Clear-Skies-Ahead_Wouter-Bik_KU9.mp4",
+            "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
+        },
+        "comment_count": 55,
+        "solved_count": 40310,
+        "author": {
+            "uuid": "c6fe5042-d88f-11e3-8014-000000000000",
+            "name": "Wouter Bik",
+            "id": 17252520,
+            "country_id": 101,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/17252520.5a83dc9c.100x100o.3172aad96b41.jpg",
+            "member_url": "https://www.chess.com/member/bikfoot",
+            "last_login_date": 1767803696,
+            "location": "Zoetermeer",
+            "username": "Bikfoot",
+            "points": 554,
+            "first_name": "Wouter",
+            "last_name": "Bik",
+            "country_name": "Netherlands",
+            "member_since": 1399759778,
+            "about": "",
+            "best_rating": 2454,
+            "best_rating_type": "bullet",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "staff",
+            "user_id": 17252520,
+            "has_image": true,
+            "are_friends": false,
+            "user_can_receive_gift": false
+        },
+        "parsed": {
+            "moves": [
+                "Rh5+",
+                "gxh5",
+                "g5+",
+                "Qxg5+",
+                "hxg5#",
+                "1-0"
+            ],
+            "raw": "35. Rh5+ gxh5 36. g5+ Qxg5+ 37. hxg5# 1-0",
+            "white": "Wouter Bik",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "1b4R1/pr5p/6pk/2P3R1/P4qPP/BNnB1p2/P4P2/1b4K1 w - - 3 35"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1b4R1/pr5p/6pk/2P3R1/P4qPP/BNnB1p2/P4P2/1b4K1 w - - 3 35"
     }
 ]
