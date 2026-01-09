@@ -9,7 +9,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 2445,
-        "solved_count": 1647265,
+        "solved_count": 1647671,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -68,7 +68,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1538,
-        "solved_count": 1690780,
+        "solved_count": 1691287,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -127,7 +127,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1525,
-        "solved_count": 1626902,
+        "solved_count": 1627657,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -185,8 +185,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-04_Fresh-Start_Dane-Mattson_XI6.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1410,
-        "solved_count": 1627823,
+        "comment_count": 1411,
+        "solved_count": 1628728,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -247,8 +247,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-05_Let-Me-Check-Real-Quick_Dane-Mattson_ON8.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1779,
-        "solved_count": 1688941,
+        "comment_count": 1780,
+        "solved_count": 1690069,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -299,8 +299,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-06_Discover-Your-Backstory_Fiona-Steil-Antoni_2BQ.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1638,
-        "solved_count": 1628600,
+        "comment_count": 1641,
+        "solved_count": 1630106,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -351,8 +351,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-07_The-Missing-Piece_Kostya-Kavutskiy_3ZA.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1773,
-        "solved_count": 1537036,
+        "comment_count": 1778,
+        "solved_count": 1539532,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -410,8 +410,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-08_Clear-Skies-Ahead_Wouter-Bik_KU9.mp4",
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
-        "comment_count": 1703,
-        "solved_count": 1488350,
+        "comment_count": 1722,
+        "solved_count": 1508852,
         "author": {
             "uuid": "c6fe5042-d88f-11e3-8014-000000000000",
             "name": "Wouter Bik",
@@ -456,5 +456,62 @@
             "fen": "1b4R1/pr5p/6pk/2P3R1/P4qPP/BNnB1p2/P4P2/1b4K1 w - - 3 35"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=1b4R1/pr5p/6pk/2P3R1/P4qPP/BNnB1p2/P4P2/1b4K1 w - - 3 35"
+    },
+    {
+        "id": 13562,
+        "title": "Turning Panic into a Picnic",
+        "pgn": "[White \"AstroCatTBC\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"r4rk1/2p2p2/1p3P2/p1n3pq/2B2Q1R/P1P1p2P/1P5K/8 w - - 0 1\"]\r\n\r\n1. Qf5 Qxh4 2. Qg6+ Kh8 3. Qg7# 1-0",
+        "date": "2026-01-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-01-09_Panic-to-Picnic_Fiona-Steil-Antoni_W2V.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 49,
+        "solved_count": 39262,
+        "author": {
+            "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
+            "name": "Fiona Steil-Antoni",
+            "id": 21498110,
+            "country_id": 89,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/21498110.407b57c6.100x100o.460e14bb80e1.jpg",
+            "member_url": "https://www.chess.com/member/fiona",
+            "last_login_date": 1767867806,
+            "location": "",
+            "username": "Fiona",
+            "points": 13,
+            "chess_title": "WIM",
+            "first_name": "Fiona",
+            "last_name": "Steil-Antoni",
+            "country_name": "Luxembourg",
+            "member_since": 1426259709,
+            "about": "",
+            "best_rating": 2104,
+            "best_rating_type": "blitz",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 21498110,
+            "has_image": true,
+            "are_friends": false,
+            "user_can_receive_gift": false
+        },
+        "parsed": {
+            "moves": [
+                "Qf5",
+                "Qxh4",
+                "Qg6+",
+                "Kh8",
+                "Qg7#",
+                "1-0"
+            ],
+            "raw": "1. Qf5 Qxh4 2. Qg6+ Kh8 3. Qg7# 1-0",
+            "white": "AstroCatTBC",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "r4rk1/2p2p2/1p3P2/p1n3pq/2B2Q1R/P1P1p2P/1P5K/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r4rk1/2p2p2/1p3P2/p1n3pq/2B2Q1R/P1P1p2P/1P5K/8 w - - 0 1"
     }
 ]
