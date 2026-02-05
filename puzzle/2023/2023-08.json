@@ -36,7 +36,8 @@
             "membership_code": "diamond",
             "user_id": 21498110,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -87,7 +88,8 @@
             "membership_code": "diamond",
             "user_id": 4177997,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -140,7 +142,8 @@
             "membership_code": "diamond",
             "user_id": 23541118,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -193,7 +196,8 @@
             "membership_code": "diamond",
             "user_id": 21498110,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -246,7 +250,8 @@
             "membership_code": "diamond",
             "user_id": 4177997,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -300,7 +305,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -357,7 +363,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -410,7 +417,8 @@
             "membership_code": "diamond",
             "user_id": 21498110,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -461,7 +469,8 @@
             "membership_code": "diamond",
             "user_id": 4177997,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -512,7 +521,8 @@
             "membership_code": "diamond",
             "user_id": 23541118,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -565,7 +575,8 @@
             "membership_code": "diamond",
             "user_id": 21498110,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -618,7 +629,8 @@
             "membership_code": "diamond",
             "user_id": 4177997,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -673,7 +685,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -732,7 +745,8 @@
             "membership_code": "diamond",
             "user_id": 23541118,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -785,7 +799,8 @@
             "membership_code": "diamond",
             "user_id": 21498110,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -836,7 +851,8 @@
             "membership_code": "diamond",
             "user_id": 4177997,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -891,7 +907,8 @@
             "membership_code": "diamond",
             "user_id": 23541118,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -944,7 +961,8 @@
             "membership_code": "diamond",
             "user_id": 21498110,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -979,7 +997,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 912,
-        "solved_count": 1575243,
+        "solved_count": 1575244,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -1006,7 +1024,8 @@
             "membership_code": "diamond",
             "user_id": 4177997,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1039,7 +1058,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1562,
-        "solved_count": 1574415,
+        "solved_count": 1574416,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -1066,7 +1085,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1099,7 +1119,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 756,
-        "solved_count": 1642054,
+        "solved_count": 1642055,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -1126,7 +1146,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1150,7 +1171,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1094,
-        "solved_count": 1673081,
+        "solved_count": 1673082,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -1177,7 +1198,8 @@
             "membership_code": "diamond",
             "user_id": 21498110,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1200,7 +1222,7 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_fork_city_08_23_23_q8i.mp4"
         },
         "comment_count": 951,
-        "solved_count": 1680417,
+        "solved_count": 1680418,
         "parsed": {
             "moves": [
                 "Ng6+",
@@ -1225,7 +1247,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 742,
-        "solved_count": 1682539,
+        "solved_count": 1682540,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -1252,7 +1274,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1282,7 +1305,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 759,
-        "solved_count": 1658395,
+        "solved_count": 1658396,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -1309,7 +1332,8 @@
             "membership_code": "diamond",
             "user_id": 21498110,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1337,7 +1361,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 826,
-        "solved_count": 1613440,
+        "solved_count": 1613441,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -1364,7 +1388,8 @@
             "membership_code": "diamond",
             "user_id": 4177997,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1417,7 +1442,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1482,7 +1508,8 @@
             "membership_code": "diamond",
             "user_id": 23541118,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1535,7 +1562,8 @@
             "membership_code": "diamond",
             "user_id": 21498110,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1588,7 +1616,8 @@
             "membership_code": "diamond",
             "user_id": 4177997,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1641,7 +1670,8 @@
             "membership_code": "diamond",
             "user_id": 23541118,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [

@@ -36,7 +36,8 @@
             "membership_code": "diamond",
             "user_id": 21498110,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -95,7 +96,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -150,7 +152,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -205,7 +208,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -262,7 +266,8 @@
             "membership_code": "staff",
             "user_id": 17252520,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -320,7 +325,8 @@
             "membership_code": "diamond",
             "user_id": 21498110,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -376,7 +382,8 @@
             "membership_code": "diamond",
             "user_id": 4177997,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -432,7 +439,8 @@
             "membership_code": "staff",
             "user_id": 17252520,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -500,7 +508,8 @@
             "membership_code": "diamond",
             "user_id": 4177997,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -560,7 +569,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -611,7 +621,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -666,7 +677,8 @@
             "membership_code": "diamond",
             "user_id": 4177997,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -723,7 +735,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -783,7 +796,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -837,7 +851,8 @@
             "membership_code": "diamond",
             "user_id": 21498110,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -866,7 +881,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 635,
-        "solved_count": 1695916,
+        "solved_count": 1695917,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -893,7 +908,8 @@
             "membership_code": "diamond",
             "user_id": 4177997,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -921,7 +937,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 905,
-        "solved_count": 1851657,
+        "solved_count": 1851659,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -948,7 +964,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -972,7 +989,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 813,
-        "solved_count": 1776517,
+        "solved_count": 1776518,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -999,7 +1016,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1028,7 +1046,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 626,
-        "solved_count": 1730958,
+        "solved_count": 1730960,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -1055,7 +1073,8 @@
             "membership_code": "diamond",
             "user_id": 4177997,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1083,7 +1102,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 862,
-        "solved_count": 1764323,
+        "solved_count": 1764325,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -1110,7 +1129,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1166,7 +1186,8 @@
             "membership_code": "diamond",
             "user_id": 21498110,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1191,7 +1212,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1247,
-        "solved_count": 1685102,
+        "solved_count": 1685103,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -1218,7 +1239,8 @@
             "membership_code": "diamond",
             "user_id": 4177997,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1253,7 +1275,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 662,
-        "solved_count": 1714022,
+        "solved_count": 1714023,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -1280,7 +1302,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1337,7 +1360,8 @@
             "membership_code": "diamond",
             "user_id": 21498110,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1386,7 +1410,8 @@
             "membership_code": "diamond",
             "user_id": 4177997,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1439,7 +1464,8 @@
             "membership_code": "diamond",
             "user_id": 21498110,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1497,7 +1523,8 @@
             "membership_code": "staff",
             "user_id": 1648605,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
@@ -1534,7 +1561,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 958,
-        "solved_count": 1713304,
+        "solved_count": 1713305,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -1561,7 +1588,8 @@
             "membership_code": "diamond",
             "user_id": 21498110,
             "has_image": true,
-            "user_can_receive_gift": false
+            "user_can_receive_gift": false,
+            "is_vacation": false
         },
         "parsed": {
             "moves": [
