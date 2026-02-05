@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-02-01_Give-Almost-Everything-to-Win_Dane-Mattson_JWT.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 2076,
-        "solved_count": 1683453,
+        "comment_count": 2078,
+        "solved_count": 1684440,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -71,8 +71,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-02-02_Take-It-Easy_Dane-Mattson_CMC.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 3595,
-        "solved_count": 1730535,
+        "comment_count": 3598,
+        "solved_count": 1731871,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -124,7 +124,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1729,
-        "solved_count": 1678191,
+        "solved_count": 1680261,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -176,8 +176,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-02-04_Uncover-the-Grand-Prize_Kostya-Kavutskiy_EE8.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1784,
-        "solved_count": 1580621,
+        "comment_count": 1793,
+        "solved_count": 1592687,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -220,5 +220,59 @@
             "fen": "3q1rn1/2rn2kp/p5p1/1p6/1P1N4/P5PP/bB5K/2R1R3 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=3q1rn1/2rn2kp/p5p1/1p6/1P1N4/P5PP/bB5K/2R1R3 w - - 0 1"
+    },
+    {
+        "id": 13608,
+        "title": "Laser Focus",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\r\n[Black \"himavanth0010\"]\r\n[Result \"0-1\"]\r\n[FEN \"r3r2k/1pb1q1pp/pnb5/5p2/2PP2n1/PBN1B1P1/1PQ1NP1P/3R1RK1 b - - 0 1\"]\r\n\r\n1... Qh4 2. gxh4 Bxh2# 0-1",
+        "date": "2026-02-05",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-02-05_Laser-Focus_Fiona-Steil-Antoni_YYD.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 99,
+        "solved_count": 68960,
+        "author": {
+            "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
+            "name": "Fiona Steil-Antoni",
+            "id": 21498110,
+            "country_id": 89,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/21498110.407b57c6.100x100o.460e14bb80e1.jpg",
+            "member_url": "https://www.chess.com/member/fiona",
+            "last_login_date": 1770123672,
+            "location": "",
+            "username": "Fiona",
+            "points": 13,
+            "chess_title": "WIM",
+            "first_name": "Fiona",
+            "last_name": "Steil-Antoni",
+            "country_name": "Luxembourg",
+            "member_since": 1426259709,
+            "about": "",
+            "best_rating": 2104,
+            "best_rating_type": "blitz",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 21498110,
+            "has_image": true,
+            "user_can_receive_gift": false
+        },
+        "parsed": {
+            "moves": [
+                "Qh4",
+                "gxh4",
+                "Bxh2#",
+                "0-1"
+            ],
+            "raw": "1... Qh4 2. gxh4 Bxh2# 0-1",
+            "white": "Daily Puzzle Inspiration",
+            "black": "himavanth0010",
+            "result": "0-1",
+            "fen": "r3r2k/1pb1q1pp/pnb5/5p2/2PP2n1/PBN1B1P1/1PQ1NP1P/3R1RK1 b - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r3r2k/1pb1q1pp/pnb5/5p2/2PP2n1/PBN1B1P1/1PQ1NP1P/3R1RK1 b - - 0 1"
     }
 ]
