@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 2133,
-        "solved_count": 1758242,
+        "solved_count": 1758360,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -73,7 +73,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 3654,
-        "solved_count": 1823878,
+        "solved_count": 1824210,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -126,7 +126,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1751,
-        "solved_count": 1798158,
+        "solved_count": 1798695,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -180,7 +180,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1881,
-        "solved_count": 1776234,
+        "solved_count": 1776873,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -235,7 +235,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1797,
-        "solved_count": 1698194,
+        "solved_count": 1699071,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -289,8 +289,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-02-06_Resolving-Tension_Fiona-Steil-Antoni_QI1.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1320,
-        "solved_count": 1627608,
+        "comment_count": 1321,
+        "solved_count": 1628944,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -349,7 +349,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1952,
-        "solved_count": 1522669,
+        "solved_count": 1525116,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -406,8 +406,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-02-08_Your-Piece-Needs-a-Time-Out_Dane-Mattson_XTC.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1787,
-        "solved_count": 1440584,
+        "comment_count": 1795,
+        "solved_count": 1451533,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -458,5 +458,57 @@
             "fen": "8/3q4/8/7B/4k3/2B5/5R2/4K3 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=8/3q4/8/7B/4k3/2B5/5R2/4K3 w - - 0 1"
+    },
+    {
+        "id": 13616,
+        "title": "Doing the Splits",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/3q3k/p3N3/Pp2p1p1/1P6/5PPr/4Q2P/2b3K1 w - - 0 1\"]\r\n\r\n1. Nf8+ Kg8 2. Nxd7 *",
+        "date": "2026-02-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-02-09_Doing-the-Splits_Dane-Mattson_2WM.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 113,
+        "solved_count": 85630,
+        "author": {
+            "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
+            "name": "Dane Mattson",
+            "id": 1648605,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/1648605.e411b4af.100x100o.77916d7b050d.jpg",
+            "member_url": "https://www.chess.com/member/fischwitsch",
+            "last_login_date": 1770401437,
+            "location": "Superior, WI",
+            "username": "Fischwitsch",
+            "points": 1145,
+            "chess_title": "NM",
+            "first_name": "Dane",
+            "last_name": "Mattson",
+            "country_name": "United States",
+            "member_since": 1229032490,
+            "about": "",
+            "best_rating": 2183,
+            "best_rating_type": "blitz",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "staff",
+            "user_id": 1648605,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false
+        },
+        "parsed": {
+            "moves": [
+                "Nf8+",
+                "Kg8",
+                "Nxd7"
+            ],
+            "raw": "1. Nf8+ Kg8 2. Nxd7 *",
+            "result": "*",
+            "fen": "8/3q3k/p3N3/Pp2p1p1/1P6/5PPr/4Q2P/2b3K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/3q3k/p3N3/Pp2p1p1/1P6/5PPr/4Q2P/2b3K1 w - - 0 1"
     }
 ]
