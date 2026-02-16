@@ -21,16 +21,16 @@
     {
         "id": 2519,
         "title": "Bail Out",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/6p1/5p2/5P1p/7P/k7/4q3/KQ6 w - - 0 1\"]\r\n\r\n1. Qd3\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/6p1/5p2/5P1p/7P/k7/4q3/KQ6 w - - 0 1\"]\r\n\r\n1. Qd3+\r\n*",
         "date": "2010-02-02",
         "video": [],
         "comment_count": 5,
         "solved_count": 195,
         "parsed": {
             "moves": [
-                "Qd3"
+                "Qd3+"
             ],
-            "raw": "1. Qd3\r\n*",
+            "raw": "1. Qd3+\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/6p1/5p2/5P1p/7P/k7/4q3/KQ6 w - - 0 1"
