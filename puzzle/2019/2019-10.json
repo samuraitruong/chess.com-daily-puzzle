@@ -634,18 +634,18 @@
     {
         "id": 8902,
         "title": "Long Range Attacks",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3r4/1R5p/2p3k1/5p2/r3PK2/8/8/2R5 w - - 0 1\"]\r\n\r\n1. Rxc6 Kh5 2. Rxh7+\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3r4/1R5p/2p3k1/5p2/r3PK2/8/8/2R5 w - - 0 1\"]\r\n\r\n1. Rxc6+ Kh5 2. Rxh7#\r\n*",
         "date": "2019-10-28",
         "video": [],
         "comment_count": 5,
         "solved_count": 664,
         "parsed": {
             "moves": [
-                "Rxc6",
+                "Rxc6+",
                 "Kh5",
-                "Rxh7+"
+                "Rxh7#"
             ],
-            "raw": "1. Rxc6 Kh5 2. Rxh7+\r\n*",
+            "raw": "1. Rxc6+ Kh5 2. Rxh7#\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "3r4/1R5p/2p3k1/5p2/r3PK2/8/8/2R5 w - - 0 1"
