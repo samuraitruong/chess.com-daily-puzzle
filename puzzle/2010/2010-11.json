@@ -337,18 +337,18 @@
     {
         "id": 2804,
         "title": "Powerful Diagonal",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/2b3p1/n1P2p2/pp3P1p/3Br3/PP4P1/6NP/3R2K1 b - - 0 1\"]\r\n\r\n1...Rd4 2. Rxd4 Bb6\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/2b3p1/n1P2p2/pp3P1p/3Br3/PP4P1/6NP/3R2K1 b - - 0 1\"]\r\n\r\n1...Rxd4 2. Rxd4 Bb6\r\n*",
         "date": "2010-11-14",
         "video": [],
         "comment_count": 3,
         "solved_count": 151,
         "parsed": {
             "moves": [
-                "Rd4",
+                "Rxd4",
                 "Rxd4",
                 "Bb6"
             ],
-            "raw": "1...Rd4 2. Rxd4 Bb6\r\n*",
+            "raw": "1...Rxd4 2. Rxd4 Bb6\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "6k1/2b3p1/n1P2p2/pp3P1p/3Br3/PP4P1/6NP/3R2K1 b - - 0 1"
