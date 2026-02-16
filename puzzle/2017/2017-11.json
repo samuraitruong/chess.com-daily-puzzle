@@ -690,7 +690,7 @@
     {
         "id": 7514,
         "title": "Saving A Half Point",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/2q5/2r3k1/7r/8/8/5Q2/K1R5 w - - 0 1\"]\r\n\r\n1. Rxc6+ Qxc6 2. Qc2\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/2q5/2r3k1/7r/8/8/5Q2/K1R5 w - - 0 1\"]\r\n\r\n1. Rxc6+ Qxc6 2. Qc2+\r\n*",
         "date": "2017-11-29",
         "video": [],
         "comment_count": 3,
@@ -699,9 +699,9 @@
             "moves": [
                 "Rxc6+",
                 "Qxc6",
-                "Qc2"
+                "Qc2+"
             ],
-            "raw": "1. Rxc6+ Qxc6 2. Qc2\r\n*",
+            "raw": "1. Rxc6+ Qxc6 2. Qc2+\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/2q5/2r3k1/7r/8/8/5Q2/K1R5 w - - 0 1"
