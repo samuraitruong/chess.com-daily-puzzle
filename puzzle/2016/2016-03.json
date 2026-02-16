@@ -165,7 +165,7 @@
     {
         "id": 6240,
         "title": "Slick Draw",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/p1Q3bk/P2N2p1/5p1p/7P/6q1/8/7K w - - 0 1\"]\r\n\r\n1. Qxg7+ Kxg7 2. Nxf5+ gxf5\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/p1Q3bk/P2N2p1/5p1p/7P/6q1/8/7K w - - 0 1\"]\r\n\r\n1. Qxg7+ Kxg7 2. Nxf5+\r\n*",
         "date": "2016-03-07",
         "video": [],
         "comment_count": 2,
@@ -174,10 +174,9 @@
             "moves": [
                 "Qxg7+",
                 "Kxg7",
-                "Nxf5+",
-                "gxf5"
+                "Nxf5+"
             ],
-            "raw": "1. Qxg7+ Kxg7 2. Nxf5+ gxf5\r\n*",
+            "raw": "1. Qxg7+ Kxg7 2. Nxf5+\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/p1Q3bk/P2N2p1/5p1p/7P/6q1/8/7K w - - 0 1"
@@ -561,7 +560,7 @@
     {
         "id": 6274,
         "title": "Good Old Fashioned Hunting",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r5r1/2qb1p2/ppnk1p1p/3p4/8/5NP1/PP3PBP/2RQR1K1 w - - 0 1\"]\r\n\r\n1. Qxd5+ Kxd5 2. Ng5+ Kd4 3. Red1+ Ke5 4. Rd5\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r5r1/2qb1p2/ppnk1p1p/3p4/8/5NP1/PP3PBP/2RQR1K1 w - - 0 1\"]\r\n\r\n1. Qxd5+ Kxd5 2. Ng5+ Kd4 3. Red1+ Ke5 4. Rd5#\r\n*",
         "date": "2016-03-24",
         "video": [],
         "comment_count": 3,
@@ -574,9 +573,9 @@
                 "Kd4",
                 "Red1+",
                 "Ke5",
-                "Rd5"
+                "Rd5#"
             ],
-            "raw": "1. Qxd5+ Kxd5 2. Ng5+ Kd4 3. Red1+ Ke5 4. Rd5\r\n*",
+            "raw": "1. Qxd5+ Kxd5 2. Ng5+ Kd4 3. Red1+ Ke5 4. Rd5#\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "r5r1/2qb1p2/ppnk1p1p/3p4/8/5NP1/PP3PBP/2RQR1K1 w - - 0 1"
