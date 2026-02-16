@@ -113,16 +113,16 @@
     {
         "id": 2672,
         "title": "Mate in 1",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2n5/8/6R1/1k1KQb2/2N1N3/8/R2B4/r1n2B2 w KQkq - 0 1\"]\r\n\r\n1. Kd4\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2n5/8/6R1/1k1KQb2/2N1N3/8/R2B4/r1n2B2 w KQkq - 0 1\"]\r\n\r\n1. Kd4+\r\n*",
         "date": "2010-07-05",
         "video": [],
         "comment_count": 4,
         "solved_count": 165,
         "parsed": {
             "moves": [
-                "Kd4"
+                "Kd4+"
             ],
-            "raw": "1. Kd4\r\n*",
+            "raw": "1. Kd4+\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "2n5/8/6R1/1k1KQb2/2N1N3/8/R2B4/r1n2B2 w KQkq - 0 1"
