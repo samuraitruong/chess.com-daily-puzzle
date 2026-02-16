@@ -79,7 +79,7 @@
     {
         "id": 2492,
         "title": "Heavy Piece Power",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/2p2r2/1p4q1/p2P4/2P5/1P2Q1P1/P2R4/6K1 b - - 0 1\"]\r\n\r\n1...Qb1+ 2. Kh2 Rh7\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/2p2r2/1p4q1/p2P4/2P5/1P2Q1P1/P2R4/6K1 b - - 0 1\"]\r\n\r\n1...Qb1+ 2. Kh2 Rh7+\r\n*",
         "date": "2010-01-04",
         "video": [],
         "comment_count": 4,
@@ -88,9 +88,9 @@
             "moves": [
                 "Qb1+",
                 "Kh2",
-                "Rh7"
+                "Rh7+"
             ],
-            "raw": "1...Qb1+ 2. Kh2 Rh7\r\n*",
+            "raw": "1...Qb1+ 2. Kh2 Rh7+\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "6k1/2p2r2/1p4q1/p2P4/2P5/1P2Q1P1/P2R4/6K1 b - - 0 1"
