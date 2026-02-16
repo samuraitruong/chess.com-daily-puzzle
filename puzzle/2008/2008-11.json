@@ -263,20 +263,20 @@
     {
         "id": 2072,
         "title": "Preparing to Checkmate",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/kp1r4/pbn4P/5p2/2Q1p2N/2P3r1/PP2B2R/2K5 b - - 0 1\"]\r\n\r\n1...Be3 2. Kb1 Na5 3. Qc8 Rg1+\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/kp1r4/pbn4P/5p2/2Q1p2N/2P3r1/PP2B2R/2K5 b - - 0 1\"]\r\n\r\n1...Be3+ 2. Kb1 Na5 3. Qc8 Rg1+\r\n*",
         "date": "2008-11-12",
         "video": [],
         "comment_count": 3,
         "solved_count": 190,
         "parsed": {
             "moves": [
-                "Be3",
+                "Be3+",
                 "Kb1",
                 "Na5",
                 "Qc8",
                 "Rg1+"
             ],
-            "raw": "1...Be3 2. Kb1 Na5 3. Qc8 Rg1+\r\n*",
+            "raw": "1...Be3+ 2. Kb1 Na5 3. Qc8 Rg1+\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/kp1r4/pbn4P/5p2/2Q1p2N/2P3r1/PP2B2R/2K5 b - - 0 1"
