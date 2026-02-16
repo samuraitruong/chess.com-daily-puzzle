@@ -651,7 +651,7 @@
     {
         "id": 211,
         "title": "A Stale Draw",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5k1r/p4p2/P1p3p1/2p4p/2P5/8/P1K5/3R4 w KQkq - 0 1\"]\r\n\r\n1. Rd8+ Kg7 2. Rxh8 (2. Rd7 Ra8) Kxh8 3. Kb3 h4 4. Ka4 h3 5. Ka5 h2 6. a4 h1=Q\r\n*\r\n\r\n",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5k1r/p4p2/P1p3p1/2p4p/2P5/8/P1K5/3R4 w KQkq - 0 1\"]\r\n\r\n1. Rd8+ Kg7 2. Rxh8 (2. Rd7 Ra8) Kxh8 3. Kb3 h4 4. Ka4 h3 5. Ka5 h2 6. a4\r\n*\r\n\r\n",
         "date": "2007-09-27",
         "video": [],
         "comment_count": 15,
@@ -670,7 +670,7 @@
                 "h2",
                 "a4"
             ],
-            "raw": "1. Rd8+ Kg7 2. Rxh8 (2. Rd7 Ra8) Kxh8 3. Kb3 h4 4. Ka4 h3 5. Ka5 h2 6. a4 h1=Q\r\n*",
+            "raw": "1. Rd8+ Kg7 2. Rxh8 (2. Rd7 Ra8) Kxh8 3. Kb3 h4 4. Ka4 h3 5. Ka5 h2 6. a4\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "5k1r/p4p2/P1p3p1/2p4p/2P5/8/P1K5/3R4 w KQkq - 0 1"
