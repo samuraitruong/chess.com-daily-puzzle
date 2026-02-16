@@ -486,7 +486,7 @@
     {
         "id": 1835,
         "title": "You Have the Right to Draw",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/1B6/1rp5/2p5/6p1/2RKp1Pk/8 w - - 0 1\"]\r\n\r\n1. Bc7 Rb2 2. Bxg3+ Kxg3 3. Ke1 Rxc2\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/1B6/1rp5/2p5/6p1/2RKp1Pk/8 w - - 0 1\"]\r\n\r\n1. Bc7 Rb2 2. Bxg3+ Kxg3 3. Ke1\r\n*",
         "date": "2008-03-21",
         "video": [],
         "comment_count": 3,
@@ -499,7 +499,7 @@
                 "Kxg3",
                 "Ke1"
             ],
-            "raw": "1. Bc7 Rb2 2. Bxg3+ Kxg3 3. Ke1 Rxc2\r\n*",
+            "raw": "1. Bc7 Rb2 2. Bxg3+ Kxg3 3. Ke1\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/8/1B6/1rp5/2p5/6p1/2RKp1Pk/8 w - - 0 1"
