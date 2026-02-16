@@ -97,16 +97,16 @@
     {
         "id": 2852,
         "title": "Direct Route",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r1k2r/1b2bp2/p2pp1pp/1p1N4/1Pq1P1P1/1N2QP2/1PP2B1P/2KR2R1 b - - 0 1\"]\r\n\r\n1...Qxc2\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r1k2r/1b2bp2/p2pp1pp/1p1N4/1Pq1P1P1/1N2QP2/1PP2B1P/2KR2R1 b - - 0 1\"]\r\n\r\n1...Qxc2#\r\n*",
         "date": "2011-01-02",
         "video": [],
         "comment_count": 6,
         "solved_count": 181,
         "parsed": {
             "moves": [
-                "Qxc2"
+                "Qxc2#"
             ],
-            "raw": "1...Qxc2\r\n*",
+            "raw": "1...Qxc2#\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "2r1k2r/1b2bp2/p2pp1pp/1p1N4/1Pq1P1P1/1N2QP2/1PP2B1P/2KR2R1 b - - 0 1"
@@ -858,16 +858,16 @@
     {
         "id": 2881,
         "title": "Mate in 1",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/5NqB/8/8/2p2kp1/6Rr/4K2R w KQkq - 0 1\"]\r\n\r\n1. 0-0\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/5NqB/8/8/2p2kp1/6Rr/4K2R w KQkq - 0 1\"]\r\n\r\n1. 0-0#\r\n*",
         "date": "2011-01-31",
         "video": [],
         "comment_count": 6,
         "solved_count": 170,
         "parsed": {
             "moves": [
-                "0-0"
+                "0-0#"
             ],
-            "raw": "1. 0-0\r\n*",
+            "raw": "1. 0-0#\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/8/5NqB/8/8/2p2kp1/6Rr/4K2R w KQkq - 0 1"
