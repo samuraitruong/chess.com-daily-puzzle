@@ -495,7 +495,7 @@
     {
         "id": 1671,
         "title": "Executing the Attack",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/4kp2/1P1p2p1/P2Pp2r/2P1P1q1/1Q2R1P1/5PKn/R5Nr b - - 0 1\"]\r\n\r\n1...Nf1 2. Re2 Rxg1+ 3. Kxg1 Rh1 4. Kxh1 Qh3+ 5. Kg1 Qh2+ 6. Kxf1 Qh1#\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/4kp2/1P1p2p1/P2Pp2r/2P1P1q1/1Q2R1P1/5PKn/R5Nr b - - 0 1\"]\r\n\r\n1...Nf1 2. Re2 Rxg1+ 3. Kxg1 Rh1+ 4. Kxh1 Qh3+ 5. Kg1 Qh2+ 6. Kxf1 Qh1#\r\n*",
         "date": "2008-02-20",
         "video": [],
         "comment_count": 3,
@@ -506,7 +506,7 @@
                 "Re2",
                 "Rxg1+",
                 "Kxg1",
-                "Rh1",
+                "Rh1+",
                 "Kxh1",
                 "Qh3+",
                 "Kg1",
@@ -514,7 +514,7 @@
                 "Kxf1",
                 "Qh1#"
             ],
-            "raw": "1...Nf1 2. Re2 Rxg1+ 3. Kxg1 Rh1 4. Kxh1 Qh3+ 5. Kg1 Qh2+ 6. Kxf1 Qh1#\r\n*",
+            "raw": "1...Nf1 2. Re2 Rxg1+ 3. Kxg1 Rh1+ 4. Kxh1 Qh3+ 5. Kg1 Qh2+ 6. Kxf1 Qh1#\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/4kp2/1P1p2p1/P2Pp2r/2P1P1q1/1Q2R1P1/5PKn/R5Nr b - - 0 1"
