@@ -52,7 +52,7 @@
     {
         "id": 8736,
         "title": "The Sensitivity of Endgames",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/8/5p2/3k4/p7/PNK5/8 b - - 0 1\"]\r\n\r\n1...axb2 2. Kxb2 f4 3. Kc1\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/8/5p2/3k4/p7/PNK5/8 b - - 0 1\"]\r\n\r\n1...axb2 2. Kxb2 f4 3.\r\n*",
         "date": "2019-08-03",
         "video": [],
         "comment_count": 11,
@@ -61,10 +61,9 @@
             "moves": [
                 "axb2",
                 "Kxb2",
-                "f4",
-                "Kc1"
+                "f4"
             ],
-            "raw": "1...axb2 2. Kxb2 f4 3. Kc1\r\n*",
+            "raw": "1...axb2 2. Kxb2 f4 3.\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/8/8/5p2/3k4/p7/PNK5/8 b - - 0 1"
@@ -611,20 +610,20 @@
     {
         "id": 8780,
         "title": "Inching Closer To Victory",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/6p1/1p5p/4N2P/2P5/1Pk1b3/Pr6/K2R4 b - - 0 1\"]\r\n\r\n1..Kc2 2. Nc6 Bc1 3. Rxc1+ Kxc1\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/6p1/1p5p/4N2P/2P5/1Pk1b3/Pr6/K2R4 b - - 0 1\"]\r\n\r\n1.Kc2 2. Nc6 Bc1 3. Rxc1+ Kxc1\r\n*",
         "date": "2019-08-27",
         "video": [],
         "comment_count": 5,
         "solved_count": 605,
         "parsed": {
             "moves": [
-                ".Kc2",
+                "Kc2",
                 "Nc6",
                 "Bc1",
                 "Rxc1+",
                 "Kxc1"
             ],
-            "raw": "1..Kc2 2. Nc6 Bc1 3. Rxc1+ Kxc1\r\n*",
+            "raw": "1.Kc2 2. Nc6 Bc1 3. Rxc1+ Kxc1\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/6p1/1p5p/4N2P/2P5/1Pk1b3/Pr6/K2R4 b - - 0 1"

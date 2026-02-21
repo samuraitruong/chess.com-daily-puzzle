@@ -254,7 +254,7 @@
     {
         "id": 2920,
         "title": "Cohn, 1928",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/8/1p2k3/4q3/4R1K1/8/8 w - - 0 1\"]\r\n\r\n1. Kf2 b4 2. Ke2 b3 3. Kd1 Qxe3\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/8/1p2k3/4q3/4R1K1/8/8 w - - 0 1\"]\r\n\r\n1. Kf2 b4 2. Ke2 b3 3. Kd1\r\n*",
         "date": "2011-03-11",
         "video": [],
         "comment_count": 6,
@@ -265,10 +265,9 @@
                 "b4",
                 "Ke2",
                 "b3",
-                "Kd1",
-                "Qxe3"
+                "Kd1"
             ],
-            "raw": "1. Kf2 b4 2. Ke2 b3 3. Kd1 Qxe3\r\n*",
+            "raw": "1. Kf2 b4 2. Ke2 b3 3. Kd1\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/8/8/1p2k3/4q3/4R1K1/8/8 w - - 0 1"
@@ -327,7 +326,7 @@
     {
         "id": 2923,
         "title": "W.Speckman, Diagramme und Figuren, 1965",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/8/8/8/8/8/RR2K1k1 w Q - 0 1\"]\r\n\r\n1. Rb2 Kh1 2. O-O-O\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/8/8/8/8/8/RR2K1k1 w Q - 0 1\"]\r\n\r\n1. Rb2 Kh1 2. O-O-O#\r\n*",
         "date": "2011-03-14",
         "video": [],
         "comment_count": 6,
@@ -336,9 +335,9 @@
             "moves": [
                 "Rb2",
                 "Kh1",
-                "O-O-O"
+                "O-O-O#"
             ],
-            "raw": "1. Rb2 Kh1 2. O-O-O\r\n*",
+            "raw": "1. Rb2 Kh1 2. O-O-O#\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/8/8/8/8/8/8/RR2K1k1 w Q - 0 1"

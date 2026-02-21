@@ -74,7 +74,7 @@
     {
         "id": 571,
         "title": "Desperate Times (White to Draw)",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/3R4/pN6/2p4b/B7/2K5/5p2/k7 w - - 0 1\"]\r\n\r\n1. Bb5 axb5 2. Nc4 bxc4 (2... f1=Q 3. Ra7+ Kb1 4. Nd2+ Kc1 5. Ra1#) 3. Ra7+ Kb1 4. Rb7+ Kc1 5. Rf7 Bxf7\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/3R4/pN6/2p4b/B7/2K5/5p2/k7 w - - 0 1\"]\r\n\r\n1. Bb5 axb5 2. Nc4 bxc4 (2... f1=Q 3. Ra7+ Kb1 4. Nd2+ Kc1 5. Ra1#) 3. Ra7+ Kb1 4. Rb7+ Kc1 5. Rf7\r\n*",
         "date": "2007-11-03",
         "video": [],
         "comment_count": 14,
@@ -89,10 +89,9 @@
                 "Kb1",
                 "Rb7+",
                 "Kc1",
-                "Rf7",
-                "Bxf7"
+                "Rf7"
             ],
-            "raw": "1. Bb5 axb5 2. Nc4 bxc4 (2... f1=Q 3. Ra7+ Kb1 4. Nd2+ Kc1 5. Ra1#) 3. Ra7+ Kb1 4. Rb7+ Kc1 5. Rf7 Bxf7\r\n*",
+            "raw": "1. Bb5 axb5 2. Nc4 bxc4 (2... f1=Q 3. Ra7+ Kb1 4. Nd2+ Kc1 5. Ra1#) 3. Ra7+ Kb1 4. Rb7+ Kc1 5. Rf7\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/3R4/pN6/2p4b/B7/2K5/5p2/k7 w - - 0 1"
@@ -102,14 +101,14 @@
     {
         "id": 591,
         "title": "Black to Win",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r3k1/5q2/5P2/Q3P2p/7P/8/P4bP1/5R1K b - - 0 1\"]\r\n\r\n1...Qc4+ 2. Rxf2 Qxh4+ 3. Kg1 Rc1+ 4. Rf1 Qd4+\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r3k1/5q2/5P2/Q3P2p/7P/8/P4bP1/5R1K b - - 0 1\"]\r\n\r\n1...Qc4 2. Rxf2 Qxh4+ 3. Kg1 Rc1+ 4. Rf1 Qd4+\r\n*",
         "date": "2007-11-04",
         "video": [],
         "comment_count": 9,
         "solved_count": 303,
         "parsed": {
             "moves": [
-                "Qc4+",
+                "Qc4",
                 "Rxf2",
                 "Qxh4+",
                 "Kg1",
@@ -117,7 +116,7 @@
                 "Rf1",
                 "Qd4+"
             ],
-            "raw": "1...Qc4+ 2. Rxf2 Qxh4+ 3. Kg1 Rc1+ 4. Rf1 Qd4+\r\n*",
+            "raw": "1...Qc4 2. Rxf2 Qxh4+ 3. Kg1 Rc1+ 4. Rf1 Qd4+\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "2r3k1/5q2/5P2/Q3P2p/7P/8/P4bP1/5R1K b - - 0 1"
@@ -152,7 +151,7 @@
     {
         "id": 601,
         "title": "Can White Save the Game?",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/4r1pk/pr2p2p/3pP3/3P2N1/p1P4P/Pq6/2Q3RK w - - 0 0\"]\r\n\r\n0. Qxh6+ gxh6 (0... Kg8 1. Nf6+ Kf8 2. Qh8+ Kf7 3. Rxg7#) 1. Nf6+ Kh8 2. Rg8#\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/4r1pk/pr2p2p/3pP3/3P2N1/p1P4P/Pq6/2Q3RK w - - 0 1\"]\r\n\r\n1. Qxh6+ gxh6 (1... Kg8 2. Nf6+ Kf8 3. Qh8+ Kf7 4. Rxg7#) 2. Nf6+ Kh8 3. Rg8#\r\n*",
         "date": "2007-11-06",
         "video": [],
         "comment_count": 10,
@@ -165,12 +164,12 @@
                 "Kh8",
                 "Rg8#"
             ],
-            "raw": "0. Qxh6+ gxh6 (0... Kg8 1. Nf6+ Kf8 2. Qh8+ Kf7 3. Rxg7#) 1. Nf6+ Kh8 2. Rg8#\r\n*",
+            "raw": "1. Qxh6+ gxh6 (1... Kg8 2. Nf6+ Kf8 3. Qh8+ Kf7 4. Rxg7#) 2. Nf6+ Kh8 3. Rg8#\r\n*",
             "date": "????.??.??",
             "result": "*",
-            "fen": "8/4r1pk/pr2p2p/3pP3/3P2N1/p1P4P/Pq6/2Q3RK w - - 0 0"
+            "fen": "8/4r1pk/pr2p2p/3pP3/3P2N1/p1P4P/Pq6/2Q3RK w - - 0 1"
         },
-        "viewerUrl": "https://chess-board.fly.dev/?fen=8/4r1pk/pr2p2p/3pP3/3P2N1/p1P4P/Pq6/2Q3RK w - - 0 0"
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/4r1pk/pr2p2p/3pP3/3P2N1/p1P4P/Pq6/2Q3RK w - - 0 1"
     },
     {
         "id": 611,

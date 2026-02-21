@@ -363,20 +363,20 @@
     {
         "id": 2897,
         "title": "Boxed In",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1krrb1q1/p1nRn1p1/1bR4p/1P2Np2/Q6P/P2pP1P1/1P3PB1/K7 w - - 0 1\"]\r\n\r\n1. Rxb6 axb6 2. Qa8+ Nxa8 3. Rb7#\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1krrb1q1/p1nRn1p1/1bR4p/1P2Np2/Q6P/P2pP1P1/1P3PB1/K7 w - - 0 1\"]\r\n\r\n1. Rxb6+ axb6 2. Qa8+ Nxa8 3. Rb7#\r\n*",
         "date": "2011-02-16",
         "video": [],
         "comment_count": 6,
         "solved_count": 167,
         "parsed": {
             "moves": [
-                "Rxb6",
+                "Rxb6+",
                 "axb6",
                 "Qa8+",
                 "Nxa8",
                 "Rb7#"
             ],
-            "raw": "1. Rxb6 axb6 2. Qa8+ Nxa8 3. Rb7#\r\n*",
+            "raw": "1. Rxb6+ axb6 2. Qa8+ Nxa8 3. Rb7#\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "1krrb1q1/p1nRn1p1/1bR4p/1P2Np2/Q6P/P2pP1P1/1P3PB1/K7 w - - 0 1"

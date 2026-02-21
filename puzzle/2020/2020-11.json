@@ -506,7 +506,7 @@
     {
         "id": 9736,
         "title": "Bern After Solving",
-        "pgn": "[White \"Horwitz, Bernhard\"]\r\n[Black \"Study\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/p7/q1kbN3/P3P3/2N5/PPK5/8 w - - 0 1\"]\r\n\r\n1.b4+ Kxb4 2.Nxd5+ Kc5 3.Nb6 Qxb6 4.Nd7+ Kc6 5.Nxb6 Kxb6 *",
+        "pgn": "[White \"Horwitz, Bernhard\"]\r\n[Black \"Study\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/p7/q1kbN3/P3P3/2N5/PPK5/8 w - - 0 1\"]\r\n\r\n1.b4+ Kxb4 2.Nxd5+ Kc5 3.Nb6 Qxb6 4.Nd7+ Kc6 5.Nxb6 *",
         "date": "2020-11-21",
         "video": [],
         "comment_count": 10,
@@ -521,10 +521,9 @@
                 "Qxb6",
                 "Nd7+",
                 "Kc6",
-                "Nxb6",
-                "Kxb6"
+                "Nxb6"
             ],
-            "raw": "1.b4+ Kxb4 2.Nxd5+ Kc5 3.Nb6 Qxb6 4.Nd7+ Kc6 5.Nxb6 Kxb6 *",
+            "raw": "1.b4+ Kxb4 2.Nxd5+ Kc5 3.Nb6 Qxb6 4.Nd7+ Kc6 5.Nxb6 *",
             "white": "Horwitz, Bernhard",
             "black": "Study",
             "result": "*",

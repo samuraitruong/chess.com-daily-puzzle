@@ -332,16 +332,16 @@
     {
         "id": 2650,
         "title": "Natural Piece Placement",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r1r3/1p4kp/p5p1/5p2/P6Q/1P1R4/2q1B1PP/7K w - - 0 1\"]\r\n\r\n1. Rd7 \r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r1r3/1p4kp/p5p1/5p2/P6Q/1P1R4/2q1B1PP/7K w - - 0 1\"]\r\n\r\n1. Rd7+ \r\n*",
         "date": "2010-06-13",
         "video": [],
         "comment_count": 3,
         "solved_count": 152,
         "parsed": {
             "moves": [
-                "Rd7"
+                "Rd7+"
             ],
-            "raw": "1. Rd7 \r\n*",
+            "raw": "1. Rd7+ \r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "2r1r3/1p4kp/p5p1/5p2/P6Q/1P1R4/2q1B1PP/7K w - - 0 1"

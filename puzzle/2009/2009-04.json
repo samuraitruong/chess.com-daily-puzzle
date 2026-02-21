@@ -681,18 +681,18 @@
     {
         "id": 2238,
         "title": "Escaping the Pin",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2rqk2r/pp3p1p/2n1p1p1/3n4/2P5/1Q2BP2/P4P1P/1K1R1BR1 b - - 0 1\"]\r\n\r\n1...Nxc3+ 2. Qxc3 Qxd1+\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2rqk2r/pp3p1p/2n1p1p1/3n4/2P5/1Q2BP2/P4P1P/1K1R1BR1 b - - 0 1\"]\r\n\r\n1...Nc3+ 2. Qxc3 Qxd1+\r\n*",
         "date": "2009-04-28",
         "video": [],
         "comment_count": 4,
         "solved_count": 176,
         "parsed": {
             "moves": [
-                "Nxc3+",
+                "Nc3+",
                 "Qxc3",
                 "Qxd1+"
             ],
-            "raw": "1...Nxc3+ 2. Qxc3 Qxd1+\r\n*",
+            "raw": "1...Nc3+ 2. Qxc3 Qxd1+\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "2rqk2r/pp3p1p/2n1p1p1/3n4/2P5/1Q2BP2/P4P1P/1K1R1BR1 b - - 0 1"

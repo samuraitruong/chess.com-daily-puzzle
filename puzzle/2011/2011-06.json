@@ -2,7 +2,7 @@
     {
         "id": 3004,
         "title": "Square Play",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r4nrk/pp3ppp/1q1pp3/2b1n1N1/5N2/1BP4P/PPQ2PP1/R3R1K1 w KQkq - 0 1\"]\r\n\r\n1. Qxh7+ Nxh7 2. Nxf7 Nxf7 3. Ng6#\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r4nrk/pp3ppp/1q1pp3/2b1n1N1/5N2/1BP4P/PPQ2PP1/R3R1K1 w KQkq - 0 1\"]\r\n\r\n1. Qxh7+ Nxh7 2. Nxf7+ Nxf7 3. Ng6#\r\n*",
         "date": "2011-06-01",
         "video": [],
         "comment_count": 7,
@@ -11,11 +11,11 @@
             "moves": [
                 "Qxh7+",
                 "Nxh7",
-                "Nxf7",
+                "Nxf7+",
                 "Nxf7",
                 "Ng6#"
             ],
-            "raw": "1. Qxh7+ Nxh7 2. Nxf7 Nxf7 3. Ng6#\r\n*",
+            "raw": "1. Qxh7+ Nxh7 2. Nxf7+ Nxf7 3. Ng6#\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "r4nrk/pp3ppp/1q1pp3/2b1n1N1/5N2/1BP4P/PPQ2PP1/R3R1K1 w KQkq - 0 1"
@@ -506,7 +506,7 @@
     {
         "id": 3023,
         "title": "Mate in 3",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1kn4r/ppr1p3/5p1q/8/PNpP4/2P1RQPb/5PBP/4R1K1 w KQkq - 0 1\"]\r\n\r\n1. Na6+ Ka8 2. Nxc7 Kb8 3. Qxb7#\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1kn4r/ppr1p3/5p1q/8/PNpP4/2P1RQPb/5PBP/4R1K1 w KQkq - 0 1\"]\r\n\r\n1. Na6+ Ka8 2. Nxc7+ Kb8 3. Qxb7#\r\n*",
         "date": "2011-06-20",
         "video": [],
         "comment_count": 4,
@@ -515,11 +515,11 @@
             "moves": [
                 "Na6+",
                 "Ka8",
-                "Nxc7",
+                "Nxc7+",
                 "Kb8",
                 "Qxb7#"
             ],
-            "raw": "1. Na6+ Ka8 2. Nxc7 Kb8 3. Qxb7#\r\n*",
+            "raw": "1. Na6+ Ka8 2. Nxc7+ Kb8 3. Qxb7#\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "1kn4r/ppr1p3/5p1q/8/PNpP4/2P1RQPb/5PBP/4R1K1 w KQkq - 0 1"

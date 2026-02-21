@@ -288,7 +288,7 @@
     {
         "id": 8452,
         "title": "Traps, Pitfalls And Swindles",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r4rk1/pqp2ppp/1p3bN1/8/2P5/1PQ3P1/PB2PP1P/R5K1 w - - 0 1\"]\r\n\r\n1. Ne7+ Kh8 2. Qxf6 gxf6 3. Bxf6\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r4rk1/pqp2ppp/1p3bN1/8/2P5/1PQ3P1/PB2PP1P/R5K1 w - - 0 1\"]\r\n\r\n1. Ne7+ Kh8 2. Qxf6 gxf6 3. Bxf6#\r\n*",
         "date": "2019-03-13",
         "video": [],
         "comment_count": 10,
@@ -299,9 +299,9 @@
                 "Kh8",
                 "Qxf6",
                 "gxf6",
-                "Bxf6"
+                "Bxf6#"
             ],
-            "raw": "1. Ne7+ Kh8 2. Qxf6 gxf6 3. Bxf6\r\n*",
+            "raw": "1. Ne7+ Kh8 2. Qxf6 gxf6 3. Bxf6#\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "r4rk1/pqp2ppp/1p3bN1/8/2P5/1PQ3P1/PB2PP1P/R5K1 w - - 0 1"
@@ -392,16 +392,16 @@
     {
         "id": 8460,
         "title": "Titenko-Murei, Moscow 1961",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/3Q4/3K4/3P2p1/p5Pp/P3r3/8/2q5 w - - 0 1\"]\r\n\r\n1. Qc8\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/3Q4/3K4/3P2p1/p5Pp/P3r3/8/2q5 w - - 0 1\"]\r\n\r\n1. Qc8+\r\n*",
         "date": "2019-03-17",
         "video": [],
         "comment_count": 9,
         "solved_count": 571,
         "parsed": {
             "moves": [
-                "Qc8"
+                "Qc8+"
             ],
-            "raw": "1. Qc8\r\n*",
+            "raw": "1. Qc8+\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "6k1/3Q4/3K4/3P2p1/p5Pp/P3r3/8/2q5 w - - 0 1"

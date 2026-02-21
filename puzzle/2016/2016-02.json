@@ -680,7 +680,7 @@
     {
         "id": 6224,
         "title": "Double The Fun",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5rk1/3RR3/8/8/8/8/8/4K3 w - - 0 1\"]\r\n\r\n1. Rg7+ Kh8 2. Rh7+ Kg8 3. Rdg7\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5rk1/3RR3/8/8/8/8/8/4K3 w - - 0 1\"]\r\n\r\n1. Rg7+ Kh8 2. Rh7+ Kg8 3. Rdg7#\r\n*",
         "date": "2016-02-28",
         "video": [],
         "comment_count": 2,
@@ -691,9 +691,9 @@
                 "Kh8",
                 "Rh7+",
                 "Kg8",
-                "Rdg7"
+                "Rdg7#"
             ],
-            "raw": "1. Rg7+ Kh8 2. Rh7+ Kg8 3. Rdg7\r\n*",
+            "raw": "1. Rg7+ Kh8 2. Rh7+ Kg8 3. Rdg7#\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "5rk1/3RR3/8/8/8/8/8/4K3 w - - 0 1"

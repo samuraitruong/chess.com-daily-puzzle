@@ -760,16 +760,16 @@
     {
         "id": 1998,
         "title": "The Power of Rook and Bishop",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/R6p/5R2/1prbpB2/8/6P1/5P1P/6K1 b - - 0 1\"]\r\n\r\n1...Rc1\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"6k1/R6p/5R2/1prbpB2/8/6P1/5P1P/6K1 b - - 0 1\"]\r\n\r\n1...Rc1#\r\n*",
         "date": "2008-08-31",
         "video": [],
         "comment_count": 7,
         "solved_count": 201,
         "parsed": {
             "moves": [
-                "Rc1"
+                "Rc1#"
             ],
-            "raw": "1...Rc1\r\n*",
+            "raw": "1...Rc1#\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "6k1/R6p/5R2/1prbpB2/8/6P1/5P1P/6K1 b - - 0 1"
