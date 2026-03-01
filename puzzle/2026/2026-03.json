@@ -1,1 +1,65 @@
-[]
+[
+    {
+        "id": 13654,
+        "title": "Light Up the Night",
+        "pgn": "[Date \"1901.??.??\"]\r\n[White \"Van Woelderen\"]\r\n[Black \"Composition - Win\"]\r\n[Result \"1-0\"]\r\n[FEN \"7k/5bpr/4R3/q3b3/1p5N/3B4/p3K1Q1/8 w - - 0 1\"]\r\n\r\n1. Re8+ Bxe8 2. Qg6 Bxg6 3. Nxg6+ Kg8 4. Bc4+ Qd5 5. Bxd5# 1-0",
+        "date": "2026-03-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-03-01_Light-up-the-Night_Dane-Mattson_2H5.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 81,
+        "solved_count": 37370,
+        "author": {
+            "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
+            "name": "Dane Mattson",
+            "id": 1648605,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/1648605.e411b4af.100x100o.77916d7b050d.jpg",
+            "member_url": "https://www.chess.com/member/fischwitsch",
+            "last_login_date": 1772336191,
+            "location": "Superior, WI",
+            "username": "Fischwitsch",
+            "points": 1172,
+            "chess_title": "NM",
+            "first_name": "Dane",
+            "last_name": "Mattson",
+            "country_name": "United States",
+            "member_since": 1229032490,
+            "about": "",
+            "best_rating": 2183,
+            "best_rating_type": "blitz",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "staff",
+            "user_id": 1648605,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "3 mos"
+        },
+        "parsed": {
+            "moves": [
+                "Re8+",
+                "Bxe8",
+                "Qg6",
+                "Bxg6",
+                "Nxg6+",
+                "Kg8",
+                "Bc4+",
+                "Qd5",
+                "Bxd5#",
+                "1-0"
+            ],
+            "raw": "1. Re8+ Bxe8 2. Qg6 Bxg6 3. Nxg6+ Kg8 4. Bc4+ Qd5 5. Bxd5# 1-0",
+            "date": "1901.??.??",
+            "white": "Van Woelderen",
+            "black": "Composition - Win",
+            "result": "1-0",
+            "fen": "7k/5bpr/4R3/q3b3/1p5N/3B4/p3K1Q1/8 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=7k/5bpr/4R3/q3b3/1p5N/3B4/p3K1Q1/8 w - - 0 1"
+    }
+]
