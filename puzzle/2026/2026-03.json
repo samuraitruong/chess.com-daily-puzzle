@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1653,
-        "solved_count": 1603170,
+        "solved_count": 1604728,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -72,7 +72,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1599,
-        "solved_count": 1647585,
+        "solved_count": 1650070,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -123,8 +123,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-03-03_See-You-Later_Fiona-Steil-Antoni_3OP.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1480,
-        "solved_count": 1530677,
+        "comment_count": 1496,
+        "solved_count": 1547054,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -166,5 +166,63 @@
             "fen": "6k1/p4p1p/1n1q1p2/8/Q7/P3P2P/1r3PP1/3R2K1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=6k1/p4p1p/1n1q1p2/8/Q7/P3P2P/1r3PP1/3R2K1 w - - 0 1"
+    },
+    {
+        "id": 13578,
+        "title": "Zig, Zag, Zap!",
+        "pgn": "[White \"technical_knockout\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"4r1k1/p4ppp/p3pn2/4N2Q/P2P4/bP2P3/3q1PPP/1BrR2K1 w - - 0 1\"]\r\n\r\n1. Bxh7+ Nxh7 2. Qxf7+ Kh8 3. Ng6# 1-0",
+        "date": "2026-03-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-03-04_Zig-Zag-Zap_Kostya-Kavutskiy_7T0.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 65,
+        "solved_count": 62692,
+        "author": {
+            "uuid": "308500fe-e2b4-11df-8061-000000000000",
+            "name": "Kostya Kavutskiy",
+            "id": 4177997,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/4177997.ce79ff32.100x100o.e97117b2e04d.jpeg",
+            "member_url": "https://www.chess.com/member/hellokostya",
+            "last_login_date": 1772579514,
+            "location": "403639644887056406",
+            "username": "hellokostya",
+            "points": 836,
+            "chess_title": "IM",
+            "first_name": "Kostya",
+            "last_name": "Kavutskiy",
+            "country_name": "United States",
+            "member_since": 1288284938,
+            "about": "",
+            "best_rating": 2714,
+            "best_rating_type": "blitz",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 4177997,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "3 mos"
+        },
+        "parsed": {
+            "moves": [
+                "Bxh7+",
+                "Nxh7",
+                "Qxf7+",
+                "Kh8",
+                "Ng6#",
+                "1-0"
+            ],
+            "raw": "1. Bxh7+ Nxh7 2. Qxf7+ Kh8 3. Ng6# 1-0",
+            "white": "technical_knockout",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "4r1k1/p4ppp/p3pn2/4N2Q/P2P4/bP2P3/3q1PPP/1BrR2K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=4r1k1/p4ppp/p3pn2/4N2Q/P2P4/bP2P3/3q1PPP/1BrR2K1 w - - 0 1"
     }
 ]
