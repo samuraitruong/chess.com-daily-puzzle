@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1653,
-        "solved_count": 1639079,
+        "solved_count": 1640318,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -72,7 +72,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1614,
-        "solved_count": 1700091,
+        "solved_count": 1701808,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -123,8 +123,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-03-03_See-You-Later_Fiona-Steil-Antoni_3OP.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1520,
-        "solved_count": 1634711,
+        "comment_count": 1522,
+        "solved_count": 1637323,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -176,8 +176,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-03-04_Zig-Zag-Zap_Kostya-Kavutskiy_7T0.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1261,
-        "solved_count": 1529152,
+        "comment_count": 1271,
+        "solved_count": 1544900,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -224,5 +224,65 @@
             "fen": "4r1k1/p4ppp/p3pn2/4N2Q/P2P4/bP2P3/3q1PPP/1BrR2K1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=4r1k1/p4ppp/p3pn2/4N2Q/P2P4/bP2P3/3q1PPP/1BrR2K1 w - - 0 1"
+    },
+    {
+        "id": 13660,
+        "title": "Huddle Up",
+        "pgn": "[White \"GuyLemieux\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"1r5k/6bp/1q1N1n2/2p2bp1/p7/P2Pr2P/QBP3PK/1R6 w - - 0 1\"]\r\n\r\n1. Nf7+ Kg8 2. Nh6+ Kh8 3. Qg8+ Nxg8 4. Nf7# 1-0",
+        "date": "2026-03-05",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-03-05_Huddle-Up_Fiona-Steil-Antoni_12U.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 115,
+        "solved_count": 68990,
+        "author": {
+            "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
+            "name": "Fiona Steil-Antoni",
+            "id": 21498110,
+            "country_id": 89,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/21498110.407b57c6.100x100o.460e14bb80e1.jpg",
+            "member_url": "https://www.chess.com/member/fiona",
+            "last_login_date": 1772652448,
+            "location": "",
+            "username": "Fiona",
+            "points": 13,
+            "chess_title": "WIM",
+            "first_name": "Fiona",
+            "last_name": "Steil-Antoni",
+            "country_name": "Luxembourg",
+            "member_since": 1426259709,
+            "about": "",
+            "best_rating": 2412,
+            "best_rating_type": "bullet",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 21498110,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "3 mos"
+        },
+        "parsed": {
+            "moves": [
+                "Nf7+",
+                "Kg8",
+                "Nh6+",
+                "Kh8",
+                "Qg8+",
+                "Nxg8",
+                "Nf7#",
+                "1-0"
+            ],
+            "raw": "1. Nf7+ Kg8 2. Nh6+ Kh8 3. Qg8+ Nxg8 4. Nf7# 1-0",
+            "white": "GuyLemieux",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "1r5k/6bp/1q1N1n2/2p2bp1/p7/P2Pr2P/QBP3PK/1R6 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r5k/6bp/1q1N1n2/2p2bp1/p7/P2Pr2P/QBP3PK/1R6 w - - 0 1"
     }
 ]
