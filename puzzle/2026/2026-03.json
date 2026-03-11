@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1702,
-        "solved_count": 1721491,
+        "solved_count": 1721523,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -72,7 +72,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1686,
-        "solved_count": 1815570,
+        "solved_count": 1815619,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -124,7 +124,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1570,
-        "solved_count": 1793366,
+        "solved_count": 1793585,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -177,7 +177,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1354,
-        "solved_count": 1770105,
+        "solved_count": 1770551,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -234,8 +234,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-03-05_Huddle-Up_Fiona-Steil-Antoni_12U.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2094,
-        "solved_count": 1745004,
+        "comment_count": 2096,
+        "solved_count": 1745628,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -295,7 +295,7 @@
             "author_id": "0054c526-f279-11e3-802e-000000000000"
         },
         "comment_count": 2259,
-        "solved_count": 1672937,
+        "solved_count": 1673711,
         "author": {
             "uuid": "0054c526-f279-11e3-802e-000000000000",
             "name": "Daniel Greiner",
@@ -354,7 +354,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1472,
-        "solved_count": 1617880,
+        "solved_count": 1618879,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -409,8 +409,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-03-08_Magnetic-Eclipse_Dane-Mattson_2I9.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 3080,
-        "solved_count": 1582932,
+        "comment_count": 3083,
+        "solved_count": 1584442,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -469,8 +469,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-03-09_Right-Hook_Dane-Mattson_YHI.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 2140,
-        "solved_count": 1739663,
+        "comment_count": 2142,
+        "solved_count": 1741809,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -522,8 +522,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-03-10_All-Clear_Fiona-Steil-Antoni_YOS.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2215,
-        "solved_count": 1524497,
+        "comment_count": 2231,
+        "solved_count": 1536951,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -570,5 +570,72 @@
             "fen": "3rr2k/6pp/p1n1p2q/1p2B3/1P2PP2/6P1/P3Q2P/R4R1K b - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=3rr2k/6pp/p1n1p2q/1p2B3/1P2PP2/6P1/P3Q2P/R4R1K b - - 0 1"
+    },
+    {
+        "id": 13672,
+        "title": "Let's Dance",
+        "pgn": "[Event \"SVK-chT 0708\"]\r\n[Site \"Slovakia\"]\r\n[Date \"2008.02.17\"]\r\n[Round \"9\"]\r\n[White \"Balogh, Tomas\"]\r\n[Black \"Briestensky, Rastislav\"]\r\n[Result \"1-0\"]\r\n[SetUp \"1\"]\r\n[FEN \"6Q1/p5p1/1p1k1p1p/2p4P/P3qP2/KP4P1/8/8 w - - 0 58\"]\r\n[WhiteElo \"2362\"]\r\n[WhiteTeam \"Komarno\"]\r\n[BlackElo \"2340\"]\r\n[BlackTeam \"Cadca\"]\r\n\r\n58. Qd8+ Ke6 59. Qe8+ Kd5 60. Qd7# 1-0",
+        "date": "2026-03-11",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-03-11_Lets-Dance_Kostya-Kavutskiy_9DL.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 77,
+        "solved_count": 54096,
+        "author": {
+            "uuid": "308500fe-e2b4-11df-8061-000000000000",
+            "name": "Kostya Kavutskiy",
+            "id": 4177997,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/4177997.ce79ff32.100x100o.e97117b2e04d.jpeg",
+            "member_url": "https://www.chess.com/member/hellokostya",
+            "last_login_date": 1773112869,
+            "location": "403639644887056406",
+            "username": "hellokostya",
+            "points": 836,
+            "chess_title": "IM",
+            "first_name": "Kostya",
+            "last_name": "Kavutskiy",
+            "country_name": "United States",
+            "member_since": 1288284938,
+            "about": "",
+            "best_rating": 2714,
+            "best_rating_type": "blitz",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 4177997,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "3 mos"
+        },
+        "parsed": {
+            "moves": [
+                "Qd8+",
+                "Ke6",
+                "Qe8+",
+                "Kd5",
+                "Qd7#",
+                "1-0"
+            ],
+            "raw": "58. Qd8+ Ke6 59. Qe8+ Kd5 60. Qd7# 1-0",
+            "event": "SVK-chT 0708",
+            "site": "Slovakia",
+            "date": "2008.02.17",
+            "round": "9",
+            "white": "Balogh, Tomas",
+            "black": "Briestensky, Rastislav",
+            "result": "1-0",
+            "setup": "1",
+            "fen": "6Q1/p5p1/1p1k1p1p/2p4P/P3qP2/KP4P1/8/8 w - - 0 58",
+            "whiteelo": "2362",
+            "whiteteam": "Komarno",
+            "blackelo": "2340",
+            "blackteam": "Cadca"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6Q1/p5p1/1p1k1p1p/2p4P/P3qP2/KP4P1/8/8 w - - 0 58"
     }
 ]
