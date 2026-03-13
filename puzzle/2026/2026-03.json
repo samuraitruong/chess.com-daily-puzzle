@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1696,
-        "solved_count": 1723072,
+        "solved_count": 1723095,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -72,7 +72,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 1705,
-        "solved_count": 1817328,
+        "solved_count": 1817351,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -124,7 +124,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1577,
-        "solved_count": 1795478,
+        "solved_count": 1795505,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -177,7 +177,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1362,
-        "solved_count": 1781248,
+        "solved_count": 1781281,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -234,8 +234,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-03-05_Huddle-Up_Fiona-Steil-Antoni_12U.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2112,
-        "solved_count": 1771167,
+        "comment_count": 2113,
+        "solved_count": 1771377,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -294,8 +294,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-03-06_Take-Your-Places-Please_Daniel-Greiner_G58.mp4",
             "author_id": "0054c526-f279-11e3-802e-000000000000"
         },
-        "comment_count": 2261,
-        "solved_count": 1709282,
+        "comment_count": 2262,
+        "solved_count": 1709753,
         "author": {
             "uuid": "0054c526-f279-11e3-802e-000000000000",
             "name": "Daniel Greiner",
@@ -354,7 +354,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1490,
-        "solved_count": 1663938,
+        "solved_count": 1664632,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -409,8 +409,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-03-08_Magnetic-Eclipse_Dane-Mattson_2I9.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 3101,
-        "solved_count": 1645648,
+        "comment_count": 3102,
+        "solved_count": 1646526,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -470,7 +470,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 2162,
-        "solved_count": 1822429,
+        "solved_count": 1823494,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -523,7 +523,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 2009,
-        "solved_count": 1672225,
+        "solved_count": 1673651,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -581,7 +581,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1648,
-        "solved_count": 1653607,
+        "solved_count": 1655902,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -647,8 +647,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-03-12_Get-Out-of-Your-Own-Way_Fiona-Steil-Antoni_BUL.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1666,
-        "solved_count": 1569482,
+        "comment_count": 1675,
+        "solved_count": 1581860,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -696,5 +696,65 @@
             "fen": "3r4/3kn2p/1p4pP/1p1B1pP1/1P1K1P2/P1P5/8/4R3 b - - 0 37"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=3r4/3kn2p/1p4pP/1p1B1pP1/1P1K1P2/P1P5/8/4R3 b - - 0 37"
+    },
+    {
+        "id": 13676,
+        "title": "Opposition with Intent",
+        "pgn": "[White \"EnPassantFork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"6R1/6Qp/4p1q1/r3P1Pk/8/5PP1/p6K/8 w - - 1 31\"]\r\n\r\n31. Kh3 Qxg7 32. Rxg7 Ra4 33. g4+ Rxg4 34. fxg4# 1-0",
+        "date": "2026-03-13",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-03-13_See-for-Yourself_Fiona-Steil-Antoni_5ID.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 67,
+        "solved_count": 55411,
+        "author": {
+            "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
+            "name": "Fiona Steil-Antoni",
+            "id": 21498110,
+            "country_id": 89,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/21498110.407b57c6.100x100o.460e14bb80e1.jpg",
+            "member_url": "https://www.chess.com/member/fiona",
+            "last_login_date": 1773257734,
+            "location": "",
+            "username": "Fiona",
+            "points": 13,
+            "chess_title": "WIM",
+            "first_name": "Fiona",
+            "last_name": "Steil-Antoni",
+            "country_name": "Luxembourg",
+            "member_since": 1426259709,
+            "about": "",
+            "best_rating": 2412,
+            "best_rating_type": "bullet",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 21498110,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "3 mos"
+        },
+        "parsed": {
+            "moves": [
+                "Kh3",
+                "Qxg7",
+                "Rxg7",
+                "Ra4",
+                "g4+",
+                "Rxg4",
+                "fxg4#",
+                "1-0"
+            ],
+            "raw": "31. Kh3 Qxg7 32. Rxg7 Ra4 33. g4+ Rxg4 34. fxg4# 1-0",
+            "white": "EnPassantFork",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "6R1/6Qp/4p1q1/r3P1Pk/8/5PP1/p6K/8 w - - 1 31"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=6R1/6Qp/4p1q1/r3P1Pk/8/5PP1/p6K/8 w - - 1 31"
     }
 ]
