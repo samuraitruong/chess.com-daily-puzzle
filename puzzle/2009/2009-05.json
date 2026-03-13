@@ -332,7 +332,7 @@
     {
         "id": 2255,
         "title": "Strong Desperado",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3bR3/p2r1p1k/2Q2Ppp/1p6/1P2B2K/6P1/8/5q2 w - - 0 1\"]\r\n\r\n1. Bxg6+ Kxg6 2. Rg8+ Kh7 3. Qe4+ Kxg8 4. Qg4+ Kf8 5. Qg7+ Ke8\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3bR3/p2r1p1k/2Q2Ppp/1p6/1P2B2K/6P1/8/5q2 w - - 0 1\"]\r\n\r\n1. Bxg6+ Kxg6 2. Rg8+ Kh7 3. Qe4+ Kxg8 4. Qg4+ Kf8 5. Qg7+\r\n*",
         "date": "2009-05-15",
         "video": [],
         "comment_count": 6,
@@ -347,10 +347,9 @@
                 "Kxg8",
                 "Qg4+",
                 "Kf8",
-                "Qg7+",
-                "Ke8"
+                "Qg7+"
             ],
-            "raw": "1. Bxg6+ Kxg6 2. Rg8+ Kh7 3. Qe4+ Kxg8 4. Qg4+ Kf8 5. Qg7+ Ke8\r\n*",
+            "raw": "1. Bxg6+ Kxg6 2. Rg8+ Kh7 3. Qe4+ Kxg8 4. Qg4+ Kf8 5. Qg7+\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "3bR3/p2r1p1k/2Q2Ppp/1p6/1P2B2K/6P1/8/5q2 w - - 0 1"

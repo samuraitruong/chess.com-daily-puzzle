@@ -247,7 +247,7 @@
     {
         "id": 7664,
         "title": "The Great Escape",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"B6k/6p1/2K3PP/8/4p3/8/6b1/8 w - - 0 1\"]\r\n\r\n1. Kd6 gxh6 2. Ke5 e3 3. Bxg2 e2 4. Kf6 e1=Q 5. g7+ Kh7 6. Be4+ Qxe4 7.\r\ng8=Q+ Kxg8\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"B6k/6p1/2K3PP/8/4p3/8/6b1/8 w - - 0 1\"]\r\n\r\n1. Kd6 gxh6 2. Ke5 e3 3. Bxg2 e2 4. Kf6 e1=Q 5. g7+ Kh7 6. Be4+ Qxe4 7.\r\ng8=Q+\r\n*",
         "date": "2018-02-10",
         "video": [],
         "comment_count": 3,
@@ -266,10 +266,9 @@
                 "Kh7",
                 "Be4+",
                 "Qxe4",
-                "g8=Q+",
-                "Kxg8"
+                "g8=Q+"
             ],
-            "raw": "1. Kd6 gxh6 2. Ke5 e3 3. Bxg2 e2 4. Kf6 e1=Q 5. g7+ Kh7 6. Be4+ Qxe4 7.\r\ng8=Q+ Kxg8\r\n*",
+            "raw": "1. Kd6 gxh6 2. Ke5 e3 3. Bxg2 e2 4. Kf6 e1=Q 5. g7+ Kh7 6. Be4+ Qxe4 7.\r\ng8=Q+\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "B6k/6p1/2K3PP/8/4p3/8/6b1/8 w - - 0 1"
