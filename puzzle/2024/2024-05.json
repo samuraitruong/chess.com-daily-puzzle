@@ -1292,7 +1292,7 @@
             "user_id": 4629566,
             "has_image": true,
             "user_can_receive_gift": false,
-            "is_vacation": false,
+            "is_vacation": true,
             "vacation_remaining": "2 mos"
         },
         "parsed": {
@@ -1727,7 +1727,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 937,
-        "solved_count": 1581870,
+        "solved_count": 1581871,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -1794,7 +1794,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 869,
-        "solved_count": 1570881,
+        "solved_count": 1570882,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
