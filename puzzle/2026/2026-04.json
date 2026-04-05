@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-04-01_April-Fools-2026-TBD_Dane-Mattson_FLL.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 2428,
-        "solved_count": 1716563,
+        "comment_count": 2429,
+        "solved_count": 1718428,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -64,7 +64,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1620,
-        "solved_count": 1574098,
+        "solved_count": 1576562,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -122,8 +122,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-04-03_Flashy-Blitz-Tactic_Wouter-Bik_JM0.mp4",
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
-        "comment_count": 2241,
-        "solved_count": 1480388,
+        "comment_count": 2244,
+        "solved_count": 1484351,
         "author": {
             "uuid": "c6fe5042-d88f-11e3-8014-000000000000",
             "name": "Wouter Bik",
@@ -131,7 +131,7 @@
             "country_id": 101,
             "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/17252520.5a83dc9c.100x100o.3172aad96b41.jpg",
             "member_url": "https://www.chess.com/member/bikfoot",
-            "last_login_date": 1775345218,
+            "last_login_date": 1775373170,
             "location": "Zoetermeer",
             "username": "Bikfoot",
             "points": 557,
@@ -190,8 +190,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-04-04_Tractor-Beam_Kostya-Kavutskiy_SQ1.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1709,
-        "solved_count": 1339003,
+        "comment_count": 1744,
+        "solved_count": 1364614,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -239,5 +239,69 @@
             "fen": "2k5/6p1/1p2npB1/pb6/3r2Pp/P3K2P/1PPR4/5N2 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2k5/6p1/1p2npB1/pb6/3r2Pp/P3K2P/1PPR4/5N2 w - - 0 1"
+    },
+    {
+        "id": 13720,
+        "title": "Last King Standing",
+        "pgn": "[Event \"It (open)\"]\r\n[Site \"Regensburg (Germany)\"]\r\n[Date \"1996.??.??\"]\r\n[Round \"3\"]\r\n[White \"Kengis Edvins (LAT)\"]\r\n[Black \"Velicka Petr (CZE)\"]\r\n[Result \"1-0\"]\r\n[FEN \"r6k/p4Q1p/bn2B1pB/8/3q3P/4p1P1/5P2/6K1 w - - 0 1\"]\r\n\r\n1. Bf8 exf2+ 2. Kh2 f1=N+ 3. Kh3 Qe5 4. Qg8# 1-0",
+        "date": "2026-04-05",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-04-05_Last-King-Standing_Dane-Mattson_KHT.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 116,
+        "solved_count": 82808,
+        "author": {
+            "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
+            "name": "Dane Mattson",
+            "id": 1648605,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/1648605.e411b4af.100x100o.77916d7b050d.jpg",
+            "member_url": "https://www.chess.com/member/fischwitsch",
+            "last_login_date": 1775309744,
+            "location": "Superior, WI",
+            "username": "Fischwitsch",
+            "points": 1186,
+            "chess_title": "NM",
+            "first_name": "Dane",
+            "last_name": "Mattson",
+            "country_name": "United States",
+            "member_since": 1229032490,
+            "about": "",
+            "best_rating": 2183,
+            "best_rating_type": "blitz",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "staff",
+            "user_id": 1648605,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "3 mos"
+        },
+        "parsed": {
+            "moves": [
+                "Bf8",
+                "exf2+",
+                "Kh2",
+                "f1=N+",
+                "Kh3",
+                "Qe5",
+                "Qg8#",
+                "1-0"
+            ],
+            "raw": "1. Bf8 exf2+ 2. Kh2 f1=N+ 3. Kh3 Qe5 4. Qg8# 1-0",
+            "event": "It (open)",
+            "site": "Regensburg (Germany)",
+            "date": "1996.??.??",
+            "round": "3",
+            "white": "Kengis Edvins (LAT)",
+            "black": "Velicka Petr (CZE)",
+            "result": "1-0",
+            "fen": "r6k/p4Q1p/bn2B1pB/8/3q3P/4p1P1/5P2/6K1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=r6k/p4Q1p/bn2B1pB/8/3q3P/4p1P1/5P2/6K1 w - - 0 1"
     }
 ]
