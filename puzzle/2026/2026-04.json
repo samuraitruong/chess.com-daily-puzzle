@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 2426,
-        "solved_count": 1739967,
+        "solved_count": 1741638,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -64,7 +64,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1615,
-        "solved_count": 1603751,
+        "solved_count": 1605787,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -123,7 +123,7 @@
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
         "comment_count": 2248,
-        "solved_count": 1524210,
+        "solved_count": 1526960,
         "author": {
             "uuid": "c6fe5042-d88f-11e3-8014-000000000000",
             "name": "Wouter Bik",
@@ -191,7 +191,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1761,
-        "solved_count": 1441752,
+        "solved_count": 1446266,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -249,8 +249,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-04-05_Last-King-Standing_Dane-Mattson_KHT.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1386,
-        "solved_count": 1342718,
+        "comment_count": 1405,
+        "solved_count": 1363928,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -303,5 +303,57 @@
             "fen": "r6k/p4Q1p/bn2B1pB/8/3q3P/4p1P1/5P2/6K1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=r6k/p4Q1p/bn2B1pB/8/3q3P/4p1P1/5P2/6K1 w - - 0 1"
+    },
+    {
+        "id": 13724,
+        "title": "Early and Often? 🤔",
+        "pgn": "[Result \"1-0\"]\r\n[FEN \"8/8/8/2q5/8/5r2/5R2/2k1K2R w K - 0 1\"]\r\n\r\n1. O-O# 1-0",
+        "date": "2026-04-06",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-04-06_Early-and-Often_Dane-Mattson_J61.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 354,
+        "solved_count": 137996,
+        "author": {
+            "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
+            "name": "Dane Mattson",
+            "id": 1648605,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/1648605.e411b4af.100x100o.77916d7b050d.jpg",
+            "member_url": "https://www.chess.com/member/fischwitsch",
+            "last_login_date": 1775394988,
+            "location": "Superior, WI",
+            "username": "Fischwitsch",
+            "points": 1186,
+            "chess_title": "NM",
+            "first_name": "Dane",
+            "last_name": "Mattson",
+            "country_name": "United States",
+            "member_since": 1229032490,
+            "about": "",
+            "best_rating": 2183,
+            "best_rating_type": "blitz",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "staff",
+            "user_id": 1648605,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "3 mos"
+        },
+        "parsed": {
+            "moves": [
+                "O-O#",
+                "1-0"
+            ],
+            "raw": "1. O-O# 1-0",
+            "result": "1-0",
+            "fen": "8/8/8/2q5/8/5r2/5R2/2k1K2R w K - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/8/2q5/8/5r2/5R2/2k1K2R w K - 0 1"
     }
 ]
