@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-04-01_April-Fools-2026-TBD_Dane-Mattson_FLL.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 2467,
-        "solved_count": 1799688,
+        "comment_count": 2468,
+        "solved_count": 1800146,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -64,7 +64,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1633,
-        "solved_count": 1676681,
+        "solved_count": 1677620,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -123,7 +123,7 @@
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
         "comment_count": 2284,
-        "solved_count": 1616078,
+        "solved_count": 1617475,
         "author": {
             "uuid": "c6fe5042-d88f-11e3-8014-000000000000",
             "name": "Wouter Bik",
@@ -191,7 +191,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1806,
-        "solved_count": 1567238,
+        "solved_count": 1569056,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -249,8 +249,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-04-05_Last-King-Standing_Dane-Mattson_KHT.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1538,
-        "solved_count": 1554674,
+        "comment_count": 1539,
+        "solved_count": 1557029,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -313,8 +313,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-04-06_Early-and-Often_Dane-Mattson_J61.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 3355,
-        "solved_count": 1588492,
+        "comment_count": 3356,
+        "solved_count": 1591652,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -365,8 +365,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-04-07_Capture-Hard-Pass_Fiona-Steil-Antoni_HU0.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2290,
-        "solved_count": 1534943,
+        "comment_count": 2295,
+        "solved_count": 1539627,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -419,8 +419,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-04-08_Interception_Kostya-Kavutskiy_HSA.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1567,
-        "solved_count": 1424532,
+        "comment_count": 1588,
+        "solved_count": 1450015,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -464,5 +464,57 @@
             "fen": "2r3k1/1p4bp/3p4/5Np1/p1qP4/P5P1/1P3QBP/K1n2R2 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=2r3k1/1p4bp/3p4/5Np1/p1qP4/P5P1/1P3QBP/K1n2R2 w - - 0 1"
+    },
+    {
+        "id": 13730,
+        "title": "I'll Sit This One Out",
+        "pgn": "[Result \"*\"]\r\n[FEN \"3r1rk1/pp1q1p2/1np2n1p/3p1bp1/3P4/1P3QP1/P2BPNBP/3R1RK1 w - - 0 18\"]\r\n\r\n18. Nh1 Be4 19. Qxf6 *",
+        "date": "2026-04-09",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-04-09_Ill-Sit-This-One-Out_Wouter-Bik_MEZ.mp4",
+            "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
+        },
+        "comment_count": 205,
+        "solved_count": 125224,
+        "author": {
+            "uuid": "c6fe5042-d88f-11e3-8014-000000000000",
+            "name": "Wouter Bik",
+            "id": 17252520,
+            "country_id": 101,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/17252520.5a83dc9c.100x100o.3172aad96b41.jpg",
+            "member_url": "https://www.chess.com/member/bikfoot",
+            "last_login_date": 1775693884,
+            "location": "Zoetermeer",
+            "username": "Bikfoot",
+            "points": 557,
+            "first_name": "Wouter",
+            "last_name": "Bik",
+            "country_name": "Netherlands",
+            "member_since": 1399759778,
+            "about": "",
+            "best_rating": 2407,
+            "best_rating_type": "bullet",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "staff",
+            "user_id": 17252520,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "3 mos"
+        },
+        "parsed": {
+            "moves": [
+                "Nh1",
+                "Be4",
+                "Qxf6"
+            ],
+            "raw": "18. Nh1 Be4 19. Qxf6 *",
+            "result": "*",
+            "fen": "3r1rk1/pp1q1p2/1np2n1p/3p1bp1/3P4/1P3QP1/P2BPNBP/3R1RK1 w - - 0 18"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r1rk1/pp1q1p2/1np2n1p/3p1bp1/3P4/1P3QP1/P2BPNBP/3R1RK1 w - - 0 18"
     }
 ]
