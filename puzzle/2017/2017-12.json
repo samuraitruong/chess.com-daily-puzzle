@@ -702,7 +702,7 @@
     {
         "id": 7574,
         "title": "F.Lazard, 1916",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2k5/3p2p1/2p5/2K5/5P2/8/2P5/8 w - - 0 1\"]\r\n\r\n1. Kd6 Kd8 2. f5 Ke8 3. c3 Kd8 4. c4 Ke8 5. c5 Kd8 6. f6 gxf6 \r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2k5/3p2p1/2p5/2K5/5P2/8/2P5/8 w - - 0 1\"]\r\n\r\n1. Kd6 Kd8 2. f5 Ke8 3. c3 Kd8 4. c4 Ke8 5. c5 Kd8 6. f6\r\n*",
         "date": "2017-12-29",
         "video": [],
         "comment_count": 3,
@@ -719,10 +719,9 @@
                 "Ke8",
                 "c5",
                 "Kd8",
-                "f6",
-                "gxf6"
+                "f6"
             ],
-            "raw": "1. Kd6 Kd8 2. f5 Ke8 3. c3 Kd8 4. c4 Ke8 5. c5 Kd8 6. f6 gxf6 \r\n*",
+            "raw": "1. Kd6 Kd8 2. f5 Ke8 3. c3 Kd8 4. c4 Ke8 5. c5 Kd8 6. f6\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "2k5/3p2p1/2p5/2K5/5P2/8/2P5/8 w - - 0 1"

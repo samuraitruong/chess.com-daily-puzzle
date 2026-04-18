@@ -104,7 +104,7 @@
     {
         "id": 2368,
         "title": "Not Your Average Checkmate",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5b1r/5Qp1/4B3/5Nk1/4p2R/5b2/8/K7 w - - 0 1\"]\r\n\r\n1. Ne7 Kxh4 2. Qf4+ Kh5 3. Bf7 g6 4. Bxg6#\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5b1r/5Qp1/4B3/5Nk1/4p2R/5b2/8/K7 w - - 0 1\"]\r\n\r\n1. Ne7 Kxh4 2. Qf4+ Kh5 3. Bf7+ g6 4. Bxg6#\r\n*",
         "date": "2009-09-05",
         "video": [],
         "comment_count": 5,
@@ -115,11 +115,11 @@
                 "Kxh4",
                 "Qf4+",
                 "Kh5",
-                "Bf7",
+                "Bf7+",
                 "g6",
                 "Bxg6#"
             ],
-            "raw": "1. Ne7 Kxh4 2. Qf4+ Kh5 3. Bf7 g6 4. Bxg6#\r\n*",
+            "raw": "1. Ne7 Kxh4 2. Qf4+ Kh5 3. Bf7+ g6 4. Bxg6#\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "5b1r/5Qp1/4B3/5Nk1/4p2R/5b2/8/K7 w - - 0 1"

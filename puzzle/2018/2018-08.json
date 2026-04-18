@@ -629,7 +629,7 @@
     {
         "id": 8058,
         "title": "When A Draw Is Enough",
-        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"8/8/8/3p1p2/3Pp1k1/6q1/3Q4/7K w - f6 0 1\"]\r\n\r\n1. Qg5+ Kf3 2. Qe3+ Kg4 3. Qg5+ Kh3 4. Qg4+ Qxg4\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"8/8/8/3p1p2/3Pp1k1/6q1/3Q4/7K w - f6 0 1\"]\r\n\r\n1. Qg5+ Kf3 2. Qe3+ Kg4 3. Qg5+ Kh3 4. Qg4+\r\n*",
         "date": "2018-08-27",
         "video": [],
         "comment_count": 3,
@@ -642,10 +642,9 @@
                 "Kg4",
                 "Qg5+",
                 "Kh3",
-                "Qg4+",
-                "Qxg4"
+                "Qg4+"
             ],
-            "raw": "1. Qg5+ Kf3 2. Qe3+ Kg4 3. Qg5+ Kh3 4. Qg4+ Qxg4\r\n*",
+            "raw": "1. Qg5+ Kf3 2. Qe3+ Kg4 3. Qg5+ Kh3 4. Qg4+\r\n*",
             "date": "????.??.??",
             "fen": "8/8/8/3p1p2/3Pp1k1/6q1/3Q4/7K w - f6 0 1"
         },

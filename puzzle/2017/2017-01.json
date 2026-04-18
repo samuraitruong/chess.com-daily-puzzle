@@ -152,7 +152,7 @@
     {
         "id": 6856,
         "title": "Gasperoni, 1763",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2k1B3/p1p5/8/b6R/4P3/3Q4/6PK/2q1r3 w - - 0 1\"]\r\n\r\n1. Bd7+ Kb7 2. Qb5+ Bb6 3. Qa6+ Kxa6\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2k1B3/p1p5/8/b6R/4P3/3Q4/6PK/2q1r3 w - - 0 1\"]\r\n\r\n1. Bd7+ Kb7 2. Qb5+ Bb6 3. Qa6+ Kxa6 4. Bc8#\r\n*",
         "date": "2017-01-06",
         "video": [],
         "comment_count": 2,
@@ -164,9 +164,10 @@
                 "Qb5+",
                 "Bb6",
                 "Qa6+",
-                "Kxa6"
+                "Kxa6",
+                "Bc8#"
             ],
-            "raw": "1. Bd7+ Kb7 2. Qb5+ Bb6 3. Qa6+ Kxa6\r\n*",
+            "raw": "1. Bd7+ Kb7 2. Qb5+ Bb6 3. Qa6+ Kxa6 4. Bc8#\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "2k1B3/p1p5/8/b6R/4P3/3Q4/6PK/2q1r3 w - - 0 1"
