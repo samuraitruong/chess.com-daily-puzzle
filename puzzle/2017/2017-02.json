@@ -117,7 +117,7 @@
     {
         "id": 6918,
         "title": "Johann Sehwers,  Endspielstudien, 1922",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"R1B5/3b4/2k5/8/1K6/8/1p6/8 w - - 0 1\"]\r\n\r\n1. Bb7+ Kxb7 2. Ka3 b1=Q 3. Rb8+ Kxb8\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"R1B5/3b4/2k5/8/1K6/8/1p6/8 w - - 0 1\"]\r\n\r\n1. Bb7+ Kxb7 2. Ka3 b1=Q 3. Rb8+\r\n*",
         "date": "2017-02-06",
         "video": [],
         "comment_count": 2,
@@ -128,10 +128,9 @@
                 "Kxb7",
                 "Ka3",
                 "b1=Q",
-                "Rb8+",
-                "Kxb8"
+                "Rb8+"
             ],
-            "raw": "1. Bb7+ Kxb7 2. Ka3 b1=Q 3. Rb8+ Kxb8\r\n*",
+            "raw": "1. Bb7+ Kxb7 2. Ka3 b1=Q 3. Rb8+\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "R1B5/3b4/2k5/8/1K6/8/1p6/8 w - - 0 1"
@@ -141,7 +140,7 @@
     {
         "id": 6920,
         "title": "Basic Endgame Training",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/p7/8/8/6k1/P5p1/6K1 w - - 0 1\"]\r\n\r\n1. a4 Kf3 2. a5 Kg3 \r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/8/p7/8/8/6k1/P5p1/6K1 w - - 0 1\"]\r\n\r\n1. a4 Kf3 2. a5\r\n*",
         "date": "2017-02-07",
         "video": [],
         "comment_count": 2,
@@ -150,10 +149,9 @@
             "moves": [
                 "a4",
                 "Kf3",
-                "a5",
-                "Kg3"
+                "a5"
             ],
-            "raw": "1. a4 Kf3 2. a5 Kg3 \r\n*",
+            "raw": "1. a4 Kf3 2. a5\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/8/p7/8/8/6k1/P5p1/6K1 w - - 0 1"

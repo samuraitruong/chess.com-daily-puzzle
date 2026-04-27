@@ -284,7 +284,7 @@
     {
         "id": 6562,
         "title": "Miracle Draw",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/2p5/p1P1pp2/p5p1/P3P1P1/4P1kP/2P1K3/8 w - - 0 1\"]\r\n\r\n1. Kd3 Kxh3 2. e5 fxe5 3. e4 Kxg4 4. Kc4 Kf4 5. Kc5 Kxe4 6. c4 Kf3\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/2p5/p1P1pp2/p5p1/P3P1P1/4P1kP/2P1K3/8 w - - 0 1\"]\r\n\r\n1. Kd3 Kxh3 2. e5 fxe5 3. e4 Kxg4 4. Kc4 Kf4 5. Kc5 Kxe4 6. c4\r\n*",
         "date": "2016-08-13",
         "video": [],
         "comment_count": 2,
@@ -301,10 +301,9 @@
                 "Kf4",
                 "Kc5",
                 "Kxe4",
-                "c4",
-                "Kf3"
+                "c4"
             ],
-            "raw": "1. Kd3 Kxh3 2. e5 fxe5 3. e4 Kxg4 4. Kc4 Kf4 5. Kc5 Kxe4 6. c4 Kf3\r\n*",
+            "raw": "1. Kd3 Kxh3 2. e5 fxe5 3. e4 Kxg4 4. Kc4 Kf4 5. Kc5 Kxe4 6. c4\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/2p5/p1P1pp2/p5p1/P3P1P1/4P1kP/2P1K3/8 w - - 0 1"
