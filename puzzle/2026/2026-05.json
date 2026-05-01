@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "id": 13774,
+        "title": "Do You Even Lift, Bro?",
+        "pgn": "[Result \"1-0\"]\r\n[FEN \"3r1r1k/pb1nN1pp/1p1p4/2nP1pP1/Pq6/5P1Q/1P1R2P1/2R2BK1 w - - 0 1\"]\r\n\r\n1. Rc4 Qxd2 2. Qxh7+ Kxh7 3. Rh4# 1-0",
+        "date": "2026-05-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-05-01_Do-You-Even-Lift-Bro_Fiona-Steil-Antoni_C2I.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 234,
+        "solved_count": 124122,
+        "author": {
+            "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
+            "name": "Fiona Steil-Antoni",
+            "id": 21498110,
+            "country_id": 89,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/21498110.407b57c6.100x100o.460e14bb80e1.jpg",
+            "member_url": "https://www.chess.com/member/fiona",
+            "last_login_date": 1777621418,
+            "location": "",
+            "username": "Fiona",
+            "points": 13,
+            "chess_title": "WIM",
+            "first_name": "Fiona",
+            "last_name": "Steil-Antoni",
+            "country_name": "Luxembourg",
+            "member_since": 1426259709,
+            "about": "",
+            "best_rating": 2412,
+            "best_rating_type": "bullet",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 21498110,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "3 mos"
+        },
+        "parsed": {
+            "moves": [
+                "Rc4",
+                "Qxd2",
+                "Qxh7+",
+                "Kxh7",
+                "Rh4#",
+                "1-0"
+            ],
+            "raw": "1. Rc4 Qxd2 2. Qxh7+ Kxh7 3. Rh4# 1-0",
+            "result": "1-0",
+            "fen": "3r1r1k/pb1nN1pp/1p1p4/2nP1pP1/Pq6/5P1Q/1P1R2P1/2R2BK1 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=3r1r1k/pb1nN1pp/1p1p4/2nP1pP1/Pq6/5P1Q/1P1R2P1/2R2BK1 w - - 0 1"
+    }
+]
