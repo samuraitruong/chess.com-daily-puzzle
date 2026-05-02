@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-05-01_Do-You-Even-Lift-Bro_Fiona-Steil-Antoni_C2I.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2069,
-        "solved_count": 1382142,
+        "comment_count": 2082,
+        "solved_count": 1390405,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -54,5 +54,69 @@
             "fen": "3r1r1k/pb1nN1pp/1p1p4/2nP1pP1/Pq6/5P1Q/1P1R2P1/2R2BK1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=3r1r1k/pb1nN1pp/1p1p4/2nP1pP1/Pq6/5P1Q/1P1R2P1/2R2BK1 w - - 0 1"
+    },
+    {
+        "id": 13776,
+        "title": "Knock Knock",
+        "pgn": "[White \"EnPassantFork\"]\r\n[Black \"Daily Puzzle Inspiration\"]\r\n[Result \"1-0\"]\r\n[FEN \"1r1q1rk1/5p1p/bP4pQ/p2pP3/2nN1PBP/2P3P1/8/4K2R w - - 0 25\"]\r\n\r\n25. Nf5 gxf5 26. Bxf5 Re8 27. Bxh7+ Kh8 28. Bg6+ Kg8 29. Qh7+ Kf8 30. Qxf7# 1-0",
+        "date": "2026-05-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-05-02_Knock-Knock_Kostya-Kavutskiy_GJJ.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 217,
+        "solved_count": 135906,
+        "author": {
+            "uuid": "308500fe-e2b4-11df-8061-000000000000",
+            "name": "Kostya Kavutskiy",
+            "id": 4177997,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/4177997.ce79ff32.100x100o.e97117b2e04d.jpeg",
+            "member_url": "https://www.chess.com/member/hellokostya",
+            "last_login_date": 1777447966,
+            "location": "403639644887056406",
+            "username": "hellokostya",
+            "points": 836,
+            "chess_title": "IM",
+            "first_name": "Kostya",
+            "last_name": "Kavutskiy",
+            "country_name": "United States",
+            "member_since": 1288284938,
+            "about": "",
+            "best_rating": 2744,
+            "best_rating_type": "blitz",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 4177997,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "3 mos"
+        },
+        "parsed": {
+            "moves": [
+                "Nf5",
+                "gxf5",
+                "Bxf5",
+                "Re8",
+                "Bxh7+",
+                "Kh8",
+                "Bg6+",
+                "Kg8",
+                "Qh7+",
+                "Kf8",
+                "Qxf7#",
+                "1-0"
+            ],
+            "raw": "25. Nf5 gxf5 26. Bxf5 Re8 27. Bxh7+ Kh8 28. Bg6+ Kg8 29. Qh7+ Kf8 30. Qxf7# 1-0",
+            "white": "EnPassantFork",
+            "black": "Daily Puzzle Inspiration",
+            "result": "1-0",
+            "fen": "1r1q1rk1/5p1p/bP4pQ/p2pP3/2nN1PBP/2P3P1/8/4K2R w - - 0 25"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=1r1q1rk1/5p1p/bP4pQ/p2pP3/2nN1PBP/2P3P1/8/4K2R w - - 0 25"
     }
 ]
