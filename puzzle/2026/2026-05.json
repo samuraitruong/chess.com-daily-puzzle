@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-05-01_Do-You-Even-Lift-Bro_Fiona-Steil-Antoni_C2I.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2083,
-        "solved_count": 1511432,
+        "comment_count": 2084,
+        "solved_count": 1516956,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -65,7 +65,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1751,
-        "solved_count": 1435389,
+        "solved_count": 1444139,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -128,8 +128,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-05-03_Go-to-Your-Corners_Dane-Mattson_NW5.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1542,
-        "solved_count": 1339818,
+        "comment_count": 1593,
+        "solved_count": 1390091,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -181,5 +181,58 @@
             "fen": "8/pb6/k1p4q/2P2Q1p/6P1/2P5/8/6K1 w - - 0 1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=8/pb6/k1p4q/2P2Q1p/6P1/2P5/8/6K1 w - - 0 1"
+    },
+    {
+        "id": 13784,
+        "title": "Let Me At 'Em!",
+        "pgn": "[Result \"*\"]\r\n[FEN \"8/8/pq2p3/8/PB2Pppk/3P4/6PK/1R6 w - - 0 1\"]\r\n\r\n1. Be7+ Kh5 2. Rxb6 *",
+        "date": "2026-05-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-05-04_Let-Me-at-Em_Dane-Mattson_8PN.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 238,
+        "solved_count": 142529,
+        "author": {
+            "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
+            "name": "Dane Mattson",
+            "id": 1648605,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/1648605.e411b4af.100x100o.77916d7b050d.jpg",
+            "member_url": "https://www.chess.com/member/fischwitsch",
+            "last_login_date": 1777861937,
+            "location": "Superior, WI",
+            "username": "Fischwitsch",
+            "points": 1193,
+            "chess_title": "NM",
+            "first_name": "Dane",
+            "last_name": "Mattson",
+            "country_name": "United States",
+            "member_since": 1229032490,
+            "about": "",
+            "best_rating": 2203,
+            "best_rating_type": "daily",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "staff",
+            "user_id": 1648605,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "3 mos"
+        },
+        "parsed": {
+            "moves": [
+                "Be7+",
+                "Kh5",
+                "Rxb6"
+            ],
+            "raw": "1. Be7+ Kh5 2. Rxb6 *",
+            "result": "*",
+            "fen": "8/8/pq2p3/8/PB2Pppk/3P4/6PK/1R6 w - - 0 1"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=8/8/pq2p3/8/PB2Pppk/3P4/6PK/1R6 w - - 0 1"
     }
 ]
