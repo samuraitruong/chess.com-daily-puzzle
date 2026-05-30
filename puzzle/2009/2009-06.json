@@ -98,7 +98,7 @@
     {
         "id": 2276,
         "title": "Invasion",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r6k/1p2p3/3p1p2/2rB1P1p/2Pn1P2/1P4RP/8/6RK w - - 0 1\"]\r\n\r\n1. Rg6 Kh7 2. Rg7+ Kh8 3. Bg8 Rxg8 4. Rxg8+ Kh7\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r6k/1p2p3/3p1p2/2rB1P1p/2Pn1P2/1P4RP/8/6RK w - - 0 1\"]\r\n\r\n1. Rg6 Kh7 2. Rg7+ Kh8 3. Bg8 Rxg8 4. Rxg8+\r\n*",
         "date": "2009-06-05",
         "video": [],
         "comment_count": 5,
@@ -111,10 +111,9 @@
                 "Kh8",
                 "Bg8",
                 "Rxg8",
-                "Rxg8+",
-                "Kh7"
+                "Rxg8+"
             ],
-            "raw": "1. Rg6 Kh7 2. Rg7+ Kh8 3. Bg8 Rxg8 4. Rxg8+ Kh7\r\n*",
+            "raw": "1. Rg6 Kh7 2. Rg7+ Kh8 3. Bg8 Rxg8 4. Rxg8+\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "r6k/1p2p3/3p1p2/2rB1P1p/2Pn1P2/1P4RP/8/6RK w - - 0 1"
@@ -376,7 +375,7 @@
     {
         "id": 2286,
         "title": "Exploiting a Trapped King",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3Q4/pp2pk1p/5pp1/1N1P2q1/4P3/5P2/P1r3PP/1R4K1 w - - 0 1\"]\r\n\r\n1. Nd6+ exd6 2. Rxb7#\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"3Q4/pp2pk1p/5pp1/1N1P2q1/4P3/5P2/P1r3PP/1R4K1 w - - 0 1\"]\r\n\r\n1. Nd6+ exd6 2. Rxb7\r\n*",
         "date": "2009-06-16",
         "video": [],
         "comment_count": 6,
@@ -385,9 +384,9 @@
             "moves": [
                 "Nd6+",
                 "exd6",
-                "Rxb7#"
+                "Rxb7"
             ],
-            "raw": "1. Nd6+ exd6 2. Rxb7#\r\n*",
+            "raw": "1. Nd6+ exd6 2. Rxb7\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "3Q4/pp2pk1p/5pp1/1N1P2q1/4P3/5P2/P1r3PP/1R4K1 w - - 0 1"

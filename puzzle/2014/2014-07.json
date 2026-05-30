@@ -261,7 +261,7 @@
     {
         "id": 5026,
         "title": "Joseph Dollinger, Schach-Endspiele, 1806",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5r2/8/3r1q2/2p1k1p1/2P1p1P1/8/4R3/2Q1K3 w - - 0 1\"]\r\n\r\n1. Rxe4+ Kxe4 2. Qe3+ Kxe3\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"5r2/8/3r1q2/2p1k1p1/2P1p1P1/8/4R3/2Q1K3 w - - 0 1\"]\r\n\r\n1. Rxe4+ Kxe4 2. Qe3+\r\n*",
         "date": "2014-07-12",
         "video": [],
         "comment_count": 3,
@@ -270,10 +270,9 @@
             "moves": [
                 "Rxe4+",
                 "Kxe4",
-                "Qe3+",
-                "Kxe3"
+                "Qe3+"
             ],
-            "raw": "1. Rxe4+ Kxe4 2. Qe3+ Kxe3\r\n*",
+            "raw": "1. Rxe4+ Kxe4 2. Qe3+\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "5r2/8/3r1q2/2p1k1p1/2P1p1P1/8/4R3/2Q1K3 w - - 0 1"

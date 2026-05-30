@@ -722,7 +722,7 @@
     {
         "id": 7942,
         "title": "Saving A Half Point In Style",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"k7/8/B3P3/8/1K5b/8/4N2p/8 w - - 0 1\"]\r\n\r\n1. Ng3 Bxg3 2. e7 Bd6+ 3. Ka4 Bxe7 4. Bc4 h1=Q 5. Bd5+ Qxd5\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"k7/8/B3P3/8/1K5b/8/4N2p/8 w - - 0 1\"]\r\n\r\n1. Ng3 Bxg3 2. e7 Bd6+ 3. Ka4 Bxe7 4. Bc4 h1=Q 5. Bd5+\r\n*",
         "date": "2018-06-29",
         "video": [],
         "comment_count": 3,
@@ -737,10 +737,9 @@
                 "Bxe7",
                 "Bc4",
                 "h1=Q",
-                "Bd5+",
-                "Qxd5"
+                "Bd5+"
             ],
-            "raw": "1. Ng3 Bxg3 2. e7 Bd6+ 3. Ka4 Bxe7 4. Bc4 h1=Q 5. Bd5+ Qxd5\r\n*",
+            "raw": "1. Ng3 Bxg3 2. e7 Bd6+ 3. Ka4 Bxe7 4. Bc4 h1=Q 5. Bd5+\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "k7/8/B3P3/8/1K5b/8/4N2p/8 w - - 0 1"
