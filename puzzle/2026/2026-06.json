@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-01_Dash-Left-Slide-Right_Dane-Mattson_AQB.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 2146,
-        "solved_count": 1827927,
+        "comment_count": 2147,
+        "solved_count": 1831127,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -61,8 +61,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-02_Reveal-at-Your-Own-Risk_Fiona-Steil-Antoni_3A2.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2224,
-        "solved_count": 1766985,
+        "comment_count": 2226,
+        "solved_count": 1770687,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -70,7 +70,7 @@
             "country_id": 89,
             "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/21498110.407b57c6.100x100o.460e14bb80e1.jpg",
             "member_url": "https://www.chess.com/member/fiona",
-            "last_login_date": 1780728143,
+            "last_login_date": 1780815016,
             "location": "",
             "username": "Fiona",
             "points": 13,
@@ -114,8 +114,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-03_Swipe-RIght-Swipe-Left_Kostya-Kavutskiy_CGT.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1919,
-        "solved_count": 1691808,
+        "comment_count": 1920,
+        "solved_count": 1696330,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -167,8 +167,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-04_Double-Hop-Mic-Drop_Fiona-Steil-Antoni_MCL.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2027,
-        "solved_count": 1651395,
+        "comment_count": 2029,
+        "solved_count": 1657671,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -176,7 +176,7 @@
             "country_id": 89,
             "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/21498110.407b57c6.100x100o.460e14bb80e1.jpg",
             "member_url": "https://www.chess.com/member/fiona",
-            "last_login_date": 1780728143,
+            "last_login_date": 1780815016,
             "location": "",
             "username": "Fiona",
             "points": 13,
@@ -222,8 +222,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-05_Grandmaster-Miss-Puzzle-Bliss_Fiona-Steil-Antoni_ADX.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1934,
-        "solved_count": 1557772,
+        "comment_count": 1942,
+        "solved_count": 1568345,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -231,7 +231,7 @@
             "country_id": 89,
             "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/21498110.407b57c6.100x100o.460e14bb80e1.jpg",
             "member_url": "https://www.chess.com/member/fiona",
-            "last_login_date": 1780728143,
+            "last_login_date": 1780815016,
             "location": "",
             "username": "Fiona",
             "points": 13,
@@ -279,8 +279,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-06_Royal-Shadow_Kostya-Kavutskiy_9NK.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1757,
-        "solved_count": 1348082,
+        "comment_count": 1915,
+        "solved_count": 1443277,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -328,6 +328,59 @@
             ],
             "raw": "39... Bf5+ 40. Kg5 Kg7 41. Rxd4 f6+ 42. Kh4 Kh6 43. g4 g5+ 44.fxg5+ fxg5# 0-1",
             "white": "Daily Puzzle Inspiration"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
+    },
+    {
+        "id": 13896,
+        "title": "6️⃣ 🤔 7️⃣ ?",
+        "pgn": "[White \"6\"]\n[Black \"7\"]\n[Result \"1-0\"]\n[FEN \"2nr3r/2N5/pk1b4/1bn1pP2/1R4n1/Q5p1/4q1BP/2R3BK w - - 0 1\"]\n\n1. Qxa6+ Kxc7 2. Qb7# 1-0",
+        "date": "2026-06-07",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-07_Six-Seven_Dane-Mattson_NVL.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 407,
+        "solved_count": 87780,
+        "author": {
+            "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
+            "name": "Dane Mattson",
+            "id": 1648605,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/1648605.e411b4af.100x100o.77916d7b050d.jpg",
+            "member_url": "https://www.chess.com/member/fischwitsch",
+            "last_login_date": 1780456389,
+            "location": "Superior, WI",
+            "username": "Fischwitsch",
+            "points": 1211,
+            "chess_title": "NM",
+            "first_name": "Dane",
+            "last_name": "Mattson",
+            "country_name": "United States",
+            "member_since": 1229032490,
+            "about": "",
+            "best_rating": 2203,
+            "best_rating_type": "daily",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "staff",
+            "user_id": 1648605,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": true,
+            "vacation_remaining": "3 mos"
+        },
+        "parsed": {
+            "moves": [
+                "Qxa6+",
+                "Kxc7",
+                "Qb7#",
+                "1-0"
+            ],
+            "raw": "1. Qxa6+ Kxc7 2. Qb7# 1-0",
+            "white": "6"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
     }
