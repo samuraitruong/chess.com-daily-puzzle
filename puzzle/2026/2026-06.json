@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 2151,
-        "solved_count": 1846153,
+        "solved_count": 1848804,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -61,8 +61,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-02_Reveal-at-Your-Own-Risk_Fiona-Steil-Antoni_3A2.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2206,
-        "solved_count": 1788008,
+        "comment_count": 2207,
+        "solved_count": 1791713,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -115,7 +115,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1918,
-        "solved_count": 1717129,
+        "solved_count": 1721514,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -167,8 +167,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-04_Double-Hop-Mic-Drop_Fiona-Steil-Antoni_MCL.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2041,
-        "solved_count": 1685039,
+        "comment_count": 2044,
+        "solved_count": 1690768,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -223,7 +223,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1956,
-        "solved_count": 1609314,
+        "solved_count": 1617760,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -279,8 +279,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-06_Royal-Shadow_Kostya-Kavutskiy_9NK.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1952,
-        "solved_count": 1525514,
+        "comment_count": 1965,
+        "solved_count": 1540771,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -340,8 +340,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-07_Six-Seven_Dane-Mattson_NVL.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 7480,
-        "solved_count": 1363890,
+        "comment_count": 7913,
+        "solved_count": 1465636,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -381,6 +381,57 @@
             ],
             "raw": "1. Qxa6+ Kxc7 2. Qb7# 1-0",
             "white": "6"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
+    },
+    {
+        "id": 13850,
+        "title": "Their Worst Nightmare 😱",
+        "pgn": "[Result \"0-1\"]\n[FEN \"r1b1k2r/ppppqppp/2n5/4n3/1PP2B2/5N2/1P1NPPPP/R2QKB1R b KQkq - 0 8\"]\n\n8... Nd3# 0-1",
+        "date": "2026-06-08",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-08_Their-Worst-Nightmare_Dane-Mattson_UQI.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 600,
+        "solved_count": 200700,
+        "author": {
+            "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
+            "name": "Dane Mattson",
+            "id": 1648605,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/1648605.e411b4af.100x100o.77916d7b050d.jpg",
+            "member_url": "https://www.chess.com/member/fischwitsch",
+            "last_login_date": 1780456389,
+            "location": "Superior, WI",
+            "username": "Fischwitsch",
+            "points": 1211,
+            "chess_title": "NM",
+            "first_name": "Dane",
+            "last_name": "Mattson",
+            "country_name": "United States",
+            "member_since": 1229032490,
+            "about": "",
+            "best_rating": 2203,
+            "best_rating_type": "daily",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "staff",
+            "user_id": 1648605,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": true,
+            "vacation_remaining": "3 mos"
+        },
+        "parsed": {
+            "moves": [
+                "Nd3#",
+                "0-1"
+            ],
+            "raw": "8... Nd3# 0-1",
+            "result": "0-1"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
     }
