@@ -9,7 +9,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 2150,
-        "solved_count": 1864889,
+        "solved_count": 1865083,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -62,7 +62,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 2205,
-        "solved_count": 1824035,
+        "solved_count": 1824305,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -114,8 +114,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-03_Swipe-RIght-Swipe-Left_Kostya-Kavutskiy_CGT.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1924,
-        "solved_count": 1763520,
+        "comment_count": 1923,
+        "solved_count": 1765457,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -168,7 +168,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 2063,
-        "solved_count": 1743180,
+        "solved_count": 1746225,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -222,8 +222,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-05_Grandmaster-Miss-Puzzle-Bliss_Fiona-Steil-Antoni_ADX.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 1979,
-        "solved_count": 1686245,
+        "comment_count": 1980,
+        "solved_count": 1690005,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -280,7 +280,7 @@
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
         "comment_count": 1982,
-        "solved_count": 1642214,
+        "solved_count": 1647105,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -340,8 +340,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-07_Six-Seven_Dane-Mattson_NVL.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 6224,
-        "solved_count": 1634573,
+        "comment_count": 6244,
+        "solved_count": 1641263,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -393,8 +393,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-08_Their-Worst-Nightmare_Dane-Mattson_UQI.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 3347,
-        "solved_count": 1705071,
+        "comment_count": 3351,
+        "solved_count": 1714842,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -444,8 +444,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-09_Above-and-Beyond_Fiona-Steil-Antoni_0DP.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2118,
-        "solved_count": 1556837,
+        "comment_count": 2139,
+        "solved_count": 1577629,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -484,6 +484,60 @@
             ],
             "raw": "1. Rxb6+ Rxb6 2. Qa8# *",
             "result": "*"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
+    },
+    {
+        "id": 13852,
+        "title": "Square Snare",
+        "pgn": "[White \"EnPassantFork\"]\n[Black \"Daily Puzzle Inspiration\"]\n[Result \"*\"]\n[FEN \"8/1R3ppp/pnppk3/8/Pr6/1P3NPP/2P3K1/8 w - - 0 29\"]\n\n29. c3 Rxb3 30. Nd4+ Ke5 31. Nxb3 *",
+        "date": "2026-06-10",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-06-10_Square-Snare_Kostya-Kavutskiy_GNB.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 530,
+        "solved_count": 415514,
+        "author": {
+            "uuid": "308500fe-e2b4-11df-8061-000000000000",
+            "name": "Kostya Kavutskiy",
+            "id": 4177997,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/4177997.ce79ff32.100x100o.e97117b2e04d.jpeg",
+            "member_url": "https://www.chess.com/member/hellokostya",
+            "last_login_date": 1781048283,
+            "location": "403639644887056406",
+            "username": "hellokostya",
+            "points": 836,
+            "chess_title": "IM",
+            "first_name": "Kostya",
+            "last_name": "Kavutskiy",
+            "country_name": "United States",
+            "member_since": 1288284938,
+            "about": "",
+            "best_rating": 2699,
+            "best_rating_type": "bullet",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 4177997,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "3 mos"
+        },
+        "parsed": {
+            "moves": [
+                "c3",
+                "Rxb3",
+                "Nd4+",
+                "Ke5",
+                "Nxb3"
+            ],
+            "raw": "29. c3 Rxb3 30. Nd4+ Ke5 31. Nxb3 *",
+            "white": "EnPassantFork"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
     }
