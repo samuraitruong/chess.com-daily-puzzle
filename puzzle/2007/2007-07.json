@@ -97,8 +97,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"rnbq1r2/pp2kpp1/4pb1p/1B2N2Q/3pN3/8/PPP3PP/R4RK1 w - - 0 1\"]\r\n\r\n1. Qxf7+ Rxf7 2. Ng6#\r\n*\r\n\r\n\r\n",
         "date": "2007-07-05",
         "video": [],
-        "comment_count": 20,
-        "solved_count": 681,
+        "comment_count": 21,
+        "solved_count": 682,
         "parsed": {
             "moves": [
                 "Qxf7+",
@@ -268,8 +268,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r3kb1r/1ppqnppp/p1bp4/5P1Q/2P5/8/PPB2PPP/RNB1R1K1 w kq - 0 1\"]\r\n\r\n1. f6 gxf6 { Black must capture or lose the knight.  }  2. Bf5 { White keeps black from escaping by castling queenside! The bishop cannot be taken of course because the knight is pinned.  }  2... Qd8 3. Be6 Ng6 ( 3... Qb8 4. Qxf7+ Kd8 5. Qxf6 { And the rook is lost as well... }  ) 4. Bd7+ { Not an easy move to find!  }  4... Kxd7 5. Qf5#\r\n*\r\n\r\n\r\n",
         "date": "2007-07-12",
         "video": [],
-        "comment_count": 19,
-        "solved_count": 627,
+        "comment_count": 20,
+        "solved_count": 629,
         "parsed": {
             "moves": [
                 "f6",
@@ -296,7 +296,7 @@
         "date": "2007-07-13",
         "video": [],
         "comment_count": 17,
-        "solved_count": 609,
+        "solved_count": 610,
         "parsed": {
             "moves": [
                 "Kh2",
@@ -319,7 +319,7 @@
         "date": "2007-07-14",
         "video": [],
         "comment_count": 18,
-        "solved_count": 606,
+        "solved_count": 607,
         "parsed": {
             "moves": [
                 "Rh8+",
@@ -350,7 +350,7 @@
         "date": "2007-07-15",
         "video": [],
         "comment_count": 18,
-        "solved_count": 609,
+        "solved_count": 610,
         "parsed": {
             "moves": [
                 "Qg8+",
@@ -373,7 +373,7 @@
         "date": "2007-07-16",
         "video": [],
         "comment_count": 21,
-        "solved_count": 604,
+        "solved_count": 605,
         "parsed": {
             "moves": [
                 "h5+",
@@ -404,7 +404,7 @@
         "date": "2007-07-17",
         "video": [],
         "comment_count": 18,
-        "solved_count": 592,
+        "solved_count": 593,
         "parsed": {
             "moves": [
                 "Rxd7+",
@@ -426,7 +426,7 @@
         "date": "2007-07-18",
         "video": [],
         "comment_count": 17,
-        "solved_count": 589,
+        "solved_count": 590,
         "parsed": {
             "moves": [
                 "Qe5+",
@@ -448,7 +448,7 @@
         "date": "2007-07-19",
         "video": [],
         "comment_count": 18,
-        "solved_count": 585,
+        "solved_count": 586,
         "parsed": {
             "moves": [
                 "Qc6",
