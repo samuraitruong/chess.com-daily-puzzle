@@ -2,7 +2,7 @@
     {
         "id": 8610,
         "title": "Approaching The Corner",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r3k1/2r2ppp/8/8/p7/1p6/PP3RPP/1K3R2 b - - 0 1\"]\r\n\r\n1...Rc1+ 2. Rxc1 Rxc1 3. Kxc1 bxa2\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2r3k1/2r2ppp/8/8/p7/1p6/PP3RPP/1K3R2 b - - 0 1\"]\r\n\r\n1...Rc1+ 2. Rxc1 Rxc1+ 3. Kxc1 bxa2\r\n*",
         "date": "2019-06-01",
         "video": [],
         "comment_count": 11,
@@ -11,11 +11,11 @@
             "moves": [
                 "Rc1+",
                 "Rxc1",
-                "Rxc1",
+                "Rxc1+",
                 "Kxc1",
                 "bxa2"
             ],
-            "raw": "1...Rc1+ 2. Rxc1 Rxc1 3. Kxc1 bxa2\r\n*",
+            "raw": "1...Rc1+ 2. Rxc1 Rxc1+ 3. Kxc1 bxa2\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "2r3k1/2r2ppp/8/8/p7/1p6/PP3RPP/1K3R2 b - - 0 1"
