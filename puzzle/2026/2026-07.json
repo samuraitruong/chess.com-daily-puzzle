@@ -1,1 +1,57 @@
-[]
+[
+    {
+        "id": 13909,
+        "title": "Profound Rebound",
+        "pgn": "[Result \"1-0\"]\n[FEN \"7k/5K2/8/5b2/8/5pR1/8/8 w - - 0 1\"]\n\n1. Rg8+ Kh7 2. Rg5 Bd3 3. Rh5# 1-0",
+        "date": "2026-07-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-07-01_Profound-Rebound_Kostya-Kavutskiy_478.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 182,
+        "solved_count": 114878,
+        "author": {
+            "uuid": "308500fe-e2b4-11df-8061-000000000000",
+            "name": "Kostya Kavutskiy",
+            "id": 4177997,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/4177997.ce79ff32.100x100o.e97117b2e04d.jpeg",
+            "member_url": "https://www.chess.com/member/hellokostya",
+            "last_login_date": 1782855452,
+            "location": "403639644887056406",
+            "username": "hellokostya",
+            "points": 836,
+            "chess_title": "IM",
+            "first_name": "Kostya",
+            "last_name": "Kavutskiy",
+            "country_name": "United States",
+            "member_since": 1288284938,
+            "about": "",
+            "best_rating": 2755,
+            "best_rating_type": "blitz",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 4177997,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "3 mos"
+        },
+        "parsed": {
+            "moves": [
+                "Rg8+",
+                "Kh7",
+                "Rg5",
+                "Bd3",
+                "Rh5#",
+                "1-0"
+            ],
+            "raw": "1. Rg8+ Kh7 2. Rg5 Bd3 3. Rh5# 1-0",
+            "result": "1-0"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
+    }
+]
