@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-07-01_Profound-Rebound_Kostya-Kavutskiy_478.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1559,
-        "solved_count": 1381688,
+        "comment_count": 1592,
+        "solved_count": 1408409,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -51,6 +51,58 @@
             ],
             "raw": "1. Rg8+ Kh7 2. Rg5 Bd3 3. Rh5# 1-0",
             "result": "1-0"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
+    },
+    {
+        "id": 13911,
+        "title": "Switcheroo",
+        "pgn": "[White \"gorgonops\"]\n[Black \"Daily Puzzle Inspiration\"]\n[Result \"1-0\"]\n[FEN \"4r1k1/3b1Nbp/2pB1n2/p1P1ppNn/1r6/1B1q2PP/P4P1K/2R1R3 w - - 0 1\"]\n\n1. Nh6+ Kh8 2. Ngf7# 1-0",
+        "date": "2026-07-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-07-02_Switcheroo_Wouter-Bik_TBD.mp4",
+            "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
+        },
+        "comment_count": 587,
+        "solved_count": 289251,
+        "author": {
+            "uuid": "c6fe5042-d88f-11e3-8014-000000000000",
+            "name": "Wouter Bik",
+            "id": 17252520,
+            "country_id": 101,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/17252520.5a83dc9c.100x100o.3172aad96b41.jpg",
+            "member_url": "https://www.chess.com/member/bikfoot",
+            "last_login_date": 1782982834,
+            "location": "Amsterdam",
+            "username": "Bikfoot",
+            "points": 558,
+            "first_name": "Wouter",
+            "last_name": "Bik",
+            "country_name": "Netherlands",
+            "member_since": 1399759778,
+            "about": "",
+            "best_rating": 2428,
+            "best_rating_type": "bullet",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "staff",
+            "user_id": 17252520,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "4 weeks"
+        },
+        "parsed": {
+            "moves": [
+                "Nh6+",
+                "Kh8",
+                "Ngf7#",
+                "1-0"
+            ],
+            "raw": "1. Nh6+ Kh8 2. Ngf7# 1-0",
+            "white": "gorgonops"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
     }
