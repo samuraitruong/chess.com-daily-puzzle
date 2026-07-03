@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-07-01_Profound-Rebound_Kostya-Kavutskiy_478.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1613,
-        "solved_count": 1483514,
+        "comment_count": 1617,
+        "solved_count": 1490707,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -63,8 +63,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-07-02_Switcheroo_Wouter-Bik_TBD.mp4",
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
-        "comment_count": 2315,
-        "solved_count": 1366041,
+        "comment_count": 2394,
+        "solved_count": 1404046,
         "author": {
             "uuid": "c6fe5042-d88f-11e3-8014-000000000000",
             "name": "Wouter Bik",
@@ -103,6 +103,60 @@
             ],
             "raw": "1. Nh6+ Kh8 2. Ngf7# 1-0",
             "white": "gorgonops"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
+    },
+    {
+        "id": 13913,
+        "title": "X-Ray Slay",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\n[Black \"Sam Copeland\"]\n[Result \"0-1\"]\n[FEN \"7r/R1Qnbk1r/1p1p4/1P1b1pp1/3Pp1q1/4P1P1/1B3PB1/2R2NK1 b - - 0 1\"]\n\n1... Qf3 2. Bxf3 exf3 3. Qxd7 Rh1# 0-1",
+        "date": "2026-07-03",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-07-03_Xray-Slay_Wouter-Bik_8D3.mp4",
+            "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
+        },
+        "comment_count": 317,
+        "solved_count": 181581,
+        "author": {
+            "uuid": "c6fe5042-d88f-11e3-8014-000000000000",
+            "name": "Wouter Bik",
+            "id": 17252520,
+            "country_id": 101,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/17252520.5a83dc9c.100x100o.3172aad96b41.jpg",
+            "member_url": "https://www.chess.com/member/bikfoot",
+            "last_login_date": 1783040479,
+            "location": "Amsterdam",
+            "username": "Bikfoot",
+            "points": 558,
+            "first_name": "Wouter",
+            "last_name": "Bik",
+            "country_name": "Netherlands",
+            "member_since": 1399759778,
+            "about": "",
+            "best_rating": 2418,
+            "best_rating_type": "bullet",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "staff",
+            "user_id": 17252520,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "4 weeks"
+        },
+        "parsed": {
+            "moves": [
+                "Qf3",
+                "Bxf3",
+                "exf3",
+                "Qxd7",
+                "Rh1#",
+                "0-1"
+            ],
+            "raw": "1... Qf3 2. Bxf3 exf3 3. Qxd7 Rh1# 0-1",
+            "white": "Daily Puzzle Inspiration"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
     }
