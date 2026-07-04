@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-07-01_Profound-Rebound_Kostya-Kavutskiy_478.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 1630,
-        "solved_count": 1530995,
+        "comment_count": 1635,
+        "solved_count": 1535334,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -63,8 +63,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-07-02_Switcheroo_Wouter-Bik_TBD.mp4",
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
-        "comment_count": 2423,
-        "solved_count": 1475651,
+        "comment_count": 2427,
+        "solved_count": 1482131,
         "author": {
             "uuid": "c6fe5042-d88f-11e3-8014-000000000000",
             "name": "Wouter Bik",
@@ -115,8 +115,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-07-03_Xray-Slay_Wouter-Bik_8D3.mp4",
             "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
         },
-        "comment_count": 1791,
-        "solved_count": 1300701,
+        "comment_count": 1825,
+        "solved_count": 1329876,
         "author": {
             "uuid": "c6fe5042-d88f-11e3-8014-000000000000",
             "name": "Wouter Bik",
@@ -157,6 +157,60 @@
             ],
             "raw": "1... Qf3 2. Bxf3 exf3 3. Qxd7 Rh1# 0-1",
             "white": "Daily Puzzle Inspiration"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
+    },
+    {
+        "id": 13901,
+        "title": "Major 🎆 Pawn Finale 🎇",
+        "pgn": "[Result \"*\"]\n[FEN \"8/8/2pp4/Q1rkpK2/2b4R/4P3/3n4/4b1q1 w - - 0 1\"]\n\n1. Qxd2+ Bxd2 2. Rd4+ exd4 3. e4# *",
+        "date": "2026-07-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-07-04_Major-Fireworks-Pawn-Finale_Kostya-Kavutskiy_HYN.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 511,
+        "solved_count": 210242,
+        "author": {
+            "uuid": "308500fe-e2b4-11df-8061-000000000000",
+            "name": "Kostya Kavutskiy",
+            "id": 4177997,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/4177997.ce79ff32.100x100o.e97117b2e04d.jpeg",
+            "member_url": "https://www.chess.com/member/hellokostya",
+            "last_login_date": 1783105232,
+            "location": "403639644887056406",
+            "username": "hellokostya",
+            "points": 836,
+            "chess_title": "IM",
+            "first_name": "Kostya",
+            "last_name": "Kavutskiy",
+            "country_name": "United States",
+            "member_since": 1288284938,
+            "about": "",
+            "best_rating": 2755,
+            "best_rating_type": "blitz",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 4177997,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "4 weeks"
+        },
+        "parsed": {
+            "moves": [
+                "Qxd2+",
+                "Bxd2",
+                "Rd4+",
+                "exd4",
+                "e4#"
+            ],
+            "raw": "1. Qxd2+ Bxd2 2. Rd4+ exd4 3. e4# *",
+            "result": "*"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
     }
