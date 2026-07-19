@@ -216,7 +216,7 @@
     {
         "id": 1241,
         "title": "Mate in 7",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1r3r1k/p3R2p/8/2p2PQ1/b4K1P/2q5/P7/6R1 b - - 0 1\"]\r\n\r\n1...Rb4+ 2. Re4 Rxe4 3. Kxe4 Bc6+ 4. Kf4 Qf3+ 5. Ke5 Qe4+ 6. Kd6 Qd5+ 7. Ke7 Rf7#",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1r3r1k/p3R2p/8/2p2PQ1/b4K1P/2q5/P7/6R1 b - - 0 1\"]\r\n\r\n1...Rb4+ 2. Re4 Rxe4+ 3. Kxe4 Bc6+ 4. Kf4 Qf3+ 5. Ke5 Qe4+ 6. Kd6 Qd5+ 7. Ke7 Rf7#",
         "date": "2008-01-09",
         "video": [],
         "comment_count": 5,
@@ -225,7 +225,7 @@
             "moves": [
                 "Rb4+",
                 "Re4",
-                "Rxe4",
+                "Rxe4+",
                 "Kxe4",
                 "Bc6+",
                 "Kf4",
@@ -237,7 +237,7 @@
                 "Ke7",
                 "Rf7#"
             ],
-            "raw": "1...Rb4+ 2. Re4 Rxe4 3. Kxe4 Bc6+ 4. Kf4 Qf3+ 5. Ke5 Qe4+ 6. Kd6 Qd5+ 7. Ke7 Rf7#",
+            "raw": "1...Rb4+ 2. Re4 Rxe4+ 3. Kxe4 Bc6+ 4. Kf4 Qf3+ 5. Ke5 Qe4+ 6. Kd6 Qd5+ 7. Ke7 Rf7#",
             "date": "????.??.??",
             "result": "*",
             "fen": "1r3r1k/p3R2p/8/2p2PQ1/b4K1P/2q5/P7/6R1 b - - 0 1"
