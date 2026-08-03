@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-08-01_Stutter-Step-Drop_Kostya-Kavutskiy_MS8.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 2090,
-        "solved_count": 1154027,
+        "comment_count": 2061,
+        "solved_count": 1175413,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -17,7 +17,7 @@
             "country_id": 2,
             "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/4177997.ce79ff32.100x100o.e97117b2e04d.jpeg",
             "member_url": "https://www.chess.com/member/hellokostya",
-            "last_login_date": 1785695227,
+            "last_login_date": 1785756758,
             "location": "403639644887056406",
             "username": "hellokostya",
             "points": 837,
@@ -62,8 +62,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-08-02_Hopping-Mad_Dane-Mattson_WTO.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 2130,
-        "solved_count": 1081533,
+        "comment_count": 2260,
+        "solved_count": 1141261,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -106,6 +106,57 @@
             ],
             "raw": "1. Nc7+ Nxc7 2. d6 Nd5 3. d7 Nxb4 4. d8=Q *",
             "result": "*"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
+    },
+    {
+        "id": 13961,
+        "title": "Fab Collab",
+        "pgn": "[Result \"1-0\"]\n[FEN \"1R6/3b1kpp/8/p3pP2/P5P1/B5KP/1r3r2/8 w - - 7 40\"]\n\n40. Rf8# 1-0",
+        "date": "2026-08-03",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-08-03_Fab-Collab_Dane-Mattson_E83.mp4",
+            "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
+        },
+        "comment_count": 1621,
+        "solved_count": 501085,
+        "author": {
+            "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
+            "name": "Dane Mattson",
+            "id": 1648605,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/1648605.e411b4af.100x100o.77916d7b050d.jpg",
+            "member_url": "https://www.chess.com/member/fischwitsch",
+            "last_login_date": 1785682214,
+            "location": "Superior, WI",
+            "username": "Fischwitsch",
+            "points": 1269,
+            "chess_title": "NM",
+            "first_name": "Dane",
+            "last_name": "Mattson",
+            "country_name": "United States",
+            "member_since": 1229032490,
+            "about": "",
+            "best_rating": 2203,
+            "best_rating_type": "daily",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "staff",
+            "user_id": 1648605,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "4 weeks"
+        },
+        "parsed": {
+            "moves": [
+                "Rf8#",
+                "1-0"
+            ],
+            "raw": "40. Rf8# 1-0",
+            "result": "1-0"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
     }
