@@ -491,7 +491,7 @@
     {
         "id": 6454,
         "title": "Tricky Draw",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1k6/R7/K7/8/8/8/2p5/8 w - - 0 1\"]\r\n\r\n1. Rb7+ Kc8 2. Rb5 c1=Q 3. Rc5+ Qxc5\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"1k6/R7/K7/8/8/8/2p5/8 w - - 0 1\"]\r\n\r\n1. Rb7+ Kc8 2. Rb5 c1=Q 3. Rc5+\r\n*",
         "date": "2016-06-20",
         "video": [],
         "comment_count": 3,
@@ -502,10 +502,9 @@
                 "Kc8",
                 "Rb5",
                 "c1=Q",
-                "Rc5+",
-                "Qxc5"
+                "Rc5+"
             ],
-            "raw": "1. Rb7+ Kc8 2. Rb5 c1=Q 3. Rc5+ Qxc5\r\n*",
+            "raw": "1. Rb7+ Kc8 2. Rb5 c1=Q 3. Rc5+\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "1k6/R7/K7/8/8/8/2p5/8 w - - 0 1"
