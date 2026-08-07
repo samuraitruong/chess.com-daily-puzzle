@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-08-01_Stutter-Step-Drop_Kostya-Kavutskiy_MS8.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 2086,
-        "solved_count": 1286010,
+        "comment_count": 2087,
+        "solved_count": 1287205,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -63,7 +63,7 @@
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
         "comment_count": 2246,
-        "solved_count": 1296006,
+        "solved_count": 1297348,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -118,8 +118,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-08-03_Fab-Collab_Dane-Mattson_E83.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 3015,
-        "solved_count": 1331885,
+        "comment_count": 3017,
+        "solved_count": 1333533,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -170,7 +170,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 1788,
-        "solved_count": 1258621,
+        "solved_count": 1260815,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -222,8 +222,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-08-05_Swing-Swing_Kostya-Kavutskiy_1BN.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 1964,
-        "solved_count": 1202163,
+        "comment_count": 1966,
+        "solved_count": 1205796,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -277,8 +277,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-08-06_Please-Dont-Sacrifice_Fiona-Steil-Antoni_XV1.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2415,
-        "solved_count": 1126096,
+        "comment_count": 2449,
+        "solved_count": 1147509,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -317,6 +317,59 @@
             ],
             "raw": "1. Be3 Qxe3 2. Rxe3 *",
             "white": "himavanth0010 / JohanVA"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
+    },
+    {
+        "id": 13969,
+        "title": "Anybody Home?",
+        "pgn": "[Result \"1-0\"]\n[FEN \"3q1b2/p3rbk1/R2N2pp/3Bp1N1/4P2B/2pn1Q1P/1r3P1P/6K1 w - - 0 1\"]\n\n1. Qf6+ Kxf6 2. Ne8# 1-0",
+        "date": "2026-08-07",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-08-07_Anybody-Home_Fiona-Steil-Antoni_VHV.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 258,
+        "solved_count": 99449,
+        "author": {
+            "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
+            "name": "Fiona Steil-Antoni",
+            "id": 21498110,
+            "country_id": 89,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/21498110.407b57c6.100x100o.460e14bb80e1.jpg",
+            "member_url": "https://www.chess.com/member/fiona",
+            "last_login_date": 1786039817,
+            "location": "",
+            "username": "Fiona",
+            "points": 13,
+            "chess_title": "WIM",
+            "first_name": "Fiona",
+            "last_name": "Steil-Antoni",
+            "country_name": "Luxembourg",
+            "member_since": 1426259709,
+            "about": "",
+            "best_rating": 2412,
+            "best_rating_type": "bullet",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 21498110,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "4 weeks"
+        },
+        "parsed": {
+            "moves": [
+                "Qf6+",
+                "Kxf6",
+                "Ne8#",
+                "1-0"
+            ],
+            "raw": "1. Qf6+ Kxf6 2. Ne8# 1-0",
+            "result": "1-0"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
     }
