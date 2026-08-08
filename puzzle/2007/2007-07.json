@@ -6,7 +6,7 @@
         "date": "2007-07-01",
         "video": [],
         "comment_count": 27,
-        "solved_count": 801,
+        "solved_count": 802,
         "parsed": {
             "moves": [
                 "Bxd3",
@@ -27,7 +27,7 @@
         "date": "2007-07-02",
         "video": [],
         "comment_count": 13,
-        "solved_count": 741,
+        "solved_count": 742,
         "parsed": {
             "moves": [
                 "Qc5",
@@ -51,7 +51,7 @@
         "date": "2007-07-03",
         "video": [],
         "comment_count": 19,
-        "solved_count": 725,
+        "solved_count": 726,
         "parsed": {
             "moves": [
                 "Qh8+",
@@ -76,7 +76,7 @@
         "date": "2007-07-04",
         "video": [],
         "comment_count": 12,
-        "solved_count": 722,
+        "solved_count": 723,
         "parsed": {
             "moves": [
                 "Rg8+",
@@ -98,7 +98,7 @@
         "date": "2007-07-05",
         "video": [],
         "comment_count": 21,
-        "solved_count": 712,
+        "solved_count": 713,
         "parsed": {
             "moves": [
                 "Qxf7+",
@@ -119,7 +119,7 @@
         "date": "2007-07-06",
         "video": [],
         "comment_count": 21,
-        "solved_count": 707,
+        "solved_count": 708,
         "parsed": {
             "moves": [
                 "b4",
@@ -148,7 +148,7 @@
         "date": "2007-07-07",
         "video": [],
         "comment_count": 21,
-        "solved_count": 701,
+        "solved_count": 702,
         "parsed": {
             "moves": [
                 "Qb5",
@@ -172,8 +172,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r4rk1/p3ppbp/np1p2p1/3P4/qP1NP3/4BP2/3Q2PP/2RR2K1 w - - 0 1\"]\r\n\r\n1. Ra1 Qxb4 ( 1... Qd7 2. Rxa6 ) 2. Rxa6 Qxd2 3. Rxd2\r\n*\r\n\r\n\r\n",
         "date": "2007-07-08",
         "video": [],
-        "comment_count": 19,
-        "solved_count": 690,
+        "comment_count": 20,
+        "solved_count": 691,
         "parsed": {
             "moves": [
                 "Ra1",
@@ -195,8 +195,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/4N3/5kP1/8/7b/8/5PK1/8 w - - 0 1\"]\r\n\r\n1. g7 Kxg7 ( 1... Kf7 2. g8=Q+ Kxe7 3. Qh7+ Ke6 4. Qxh4 ) 2. Nf5+ Kg6 3. Nxh4+ Kg5 4. Kg3 { And white can queen the pawn! }\r\n*\r\n\r\n\r\n",
         "date": "2007-07-09",
         "video": [],
-        "comment_count": 17,
-        "solved_count": 682,
+        "comment_count": 18,
+        "solved_count": 683,
         "parsed": {
             "moves": [
                 "g7",
@@ -220,8 +220,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"2k5/1ppr2p1/p1n3bp/7q/3prP2/PP1B2Q1/1KPBR2P/3R4 w KQkq - 0 1\"]\r\n\r\n1. Rde1 { Threatening the rook }  ( 1. Bxe4 { ?? Bad move! }  1... Qxe2 2. Qxg6 Qxd1 ) 1... Rxe2 ( 1... Rde7 2. Bxe4 Bxe4 3. Rxe4 Rxe4 4. Rxe4 { And white has won a piece. }  ) 2. Bxe2 ( 2. Rxe2 Bxd3 3. cxd3 Qxe2 ) Qf5 3. Bd3 Qf6 4. Qxg6 { And white has an extra piece. }\r\n*\r\n\r\n\r\n",
         "date": "2007-07-10",
         "video": [],
-        "comment_count": 20,
-        "solved_count": 670,
+        "comment_count": 21,
+        "solved_count": 671,
         "parsed": {
             "moves": [
                 "Rde1",
@@ -245,8 +245,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r3rk2/2b3pn/1p6/1Pp1N3/2N1bP2/1Q1P2q1/1B2B3/1K1R4 w - - 0 1\"]\r\n\r\n1. Nd6 { Threating mate and the bishop on e4. }  1... Bg6 2. Nf5 Qg2 { Giving up mate instead of the queen. }  ( 2... Bxf5 3. Qf7# ) 3. Nd7#\r\n*\r\n\r\n\r\n",
         "date": "2007-07-11",
         "video": [],
-        "comment_count": 21,
-        "solved_count": 658,
+        "comment_count": 22,
+        "solved_count": 659,
         "parsed": {
             "moves": [
                 "Nd6",
@@ -268,8 +268,8 @@
         "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"r3kb1r/1ppqnppp/p1bp4/5P1Q/2P5/8/PPB2PPP/RNB1R1K1 w kq - 0 1\"]\r\n\r\n1. f6 gxf6 { Black must capture or lose the knight.  }  2. Bf5 { White keeps black from escaping by castling queenside! The bishop cannot be taken of course because the knight is pinned.  }  2... Qd8 3. Be6 Ng6 ( 3... Qb8 4. Qxf7+ Kd8 5. Qxf6 { And the rook is lost as well... }  ) 4. Bd7+ { Not an easy move to find!  }  4... Kxd7 5. Qf5#\r\n*\r\n\r\n\r\n",
         "date": "2007-07-12",
         "video": [],
-        "comment_count": 20,
-        "solved_count": 654,
+        "comment_count": 21,
+        "solved_count": 655,
         "parsed": {
             "moves": [
                 "f6",
@@ -296,7 +296,7 @@
         "date": "2007-07-13",
         "video": [],
         "comment_count": 17,
-        "solved_count": 635,
+        "solved_count": 636,
         "parsed": {
             "moves": [
                 "Kh2",
@@ -319,7 +319,7 @@
         "date": "2007-07-14",
         "video": [],
         "comment_count": 18,
-        "solved_count": 632,
+        "solved_count": 633,
         "parsed": {
             "moves": [
                 "Rh8+",
@@ -350,7 +350,7 @@
         "date": "2007-07-15",
         "video": [],
         "comment_count": 18,
-        "solved_count": 636,
+        "solved_count": 637,
         "parsed": {
             "moves": [
                 "Qg8+",
@@ -373,7 +373,7 @@
         "date": "2007-07-16",
         "video": [],
         "comment_count": 21,
-        "solved_count": 629,
+        "solved_count": 630,
         "parsed": {
             "moves": [
                 "h5+",
@@ -404,7 +404,7 @@
         "date": "2007-07-17",
         "video": [],
         "comment_count": 18,
-        "solved_count": 617,
+        "solved_count": 618,
         "parsed": {
             "moves": [
                 "Rxd7+",
@@ -425,8 +425,8 @@
         "pgn": "[Result \"*\"]\r\n[SetUp \"1\"]\r\n[FEN \"3q1b1k/1b5p/2p1Q1p1/1pP5/4Nr2/4R2P/5PP1/5BK1 w - - 0 1\"]\r\n[PlyCount \"1\"]\r\n\r\n1. Qe5+ Bg7 2. Qxf4",
         "date": "2007-07-18",
         "video": [],
-        "comment_count": 17,
-        "solved_count": 613,
+        "comment_count": 18,
+        "solved_count": 614,
         "parsed": {
             "moves": [
                 "Qe5+",
@@ -448,7 +448,7 @@
         "date": "2007-07-19",
         "video": [],
         "comment_count": 18,
-        "solved_count": 609,
+        "solved_count": 610,
         "parsed": {
             "moves": [
                 "Qc6",
@@ -478,7 +478,7 @@
         "date": "2007-07-20",
         "video": [],
         "comment_count": 18,
-        "solved_count": 600,
+        "solved_count": 601,
         "parsed": {
             "moves": [
                 "Qxh7+",
@@ -509,8 +509,8 @@
         "pgn": "[FEN \"2kr2r1/pp6/2q2p1b/N1P2P1p/P2ppn2/3n1B2/1BQ3PP/1R3RK1 b - - 0 1\"]\r\n[PlyCount \"13\"]\r\n[Result \"*\"]\r\n[Date \"2007.07.19\"]\r\n\r\n1... exf3 $1 2. Nxc6 Ne2+ 3. Qxe2 ( 3. Kh1 $4 fxg2# ) fxe2 4. Ne7+ ( 4. Nxd8 Be3+ 5. Kh1 exf1=Q+ 6. Rxf1 Nxb2 $19 ) Kc7 5. Nxg8 Be3+ 6. Kh1 exf1=Q+ 7. Rxf1 Rxg8 $19\r\n*\r\n\r\n\r\n",
         "date": "2007-07-21",
         "video": [],
-        "comment_count": 19,
-        "solved_count": 592,
+        "comment_count": 20,
+        "solved_count": 593,
         "parsed": {
             "moves": [
                 "exf3",
@@ -542,7 +542,7 @@
         "date": "2007-07-22",
         "video": [],
         "comment_count": 16,
-        "solved_count": 593,
+        "solved_count": 594,
         "parsed": {
             "moves": [
                 "Qf4+",
@@ -566,7 +566,7 @@
         "date": "2007-07-23",
         "video": [],
         "comment_count": 15,
-        "solved_count": 591,
+        "solved_count": 592,
         "parsed": {
             "moves": [
                 "Qxf8+",
@@ -588,7 +588,7 @@
         "date": "2007-07-24",
         "video": [],
         "comment_count": 17,
-        "solved_count": 580,
+        "solved_count": 581,
         "parsed": {
             "moves": [
                 "Bxg6+",
@@ -611,7 +611,7 @@
         "date": "2007-07-25",
         "video": [],
         "comment_count": 17,
-        "solved_count": 575,
+        "solved_count": 576,
         "parsed": {
             "moves": [
                 "Bxb6",
@@ -633,7 +633,7 @@
         "date": "2007-07-26",
         "video": [],
         "comment_count": 18,
-        "solved_count": 575,
+        "solved_count": 576,
         "parsed": {
             "moves": [
                 "Rxg2+",
@@ -670,7 +670,7 @@
         "date": "2007-07-27",
         "video": [],
         "comment_count": 17,
-        "solved_count": 567,
+        "solved_count": 568,
         "parsed": {
             "moves": [
                 "Nf3+",
@@ -693,7 +693,7 @@
         "date": "2007-07-28",
         "video": [],
         "comment_count": 17,
-        "solved_count": 563,
+        "solved_count": 564,
         "parsed": {
             "moves": [
                 "Qxe1+",
@@ -733,7 +733,7 @@
         "date": "2007-07-29",
         "video": [],
         "comment_count": 18,
-        "solved_count": 565,
+        "solved_count": 566,
         "parsed": {
             "moves": [
                 "Rg3+",
@@ -758,7 +758,7 @@
         "date": "2007-07-30",
         "video": [],
         "comment_count": 19,
-        "solved_count": 566,
+        "solved_count": 567,
         "parsed": {
             "moves": [
                 "Na2+",
@@ -781,7 +781,7 @@
         "date": "2007-07-31",
         "video": [],
         "comment_count": 21,
-        "solved_count": 576,
+        "solved_count": 577,
         "parsed": {
             "moves": [
                 "Ng6+",
