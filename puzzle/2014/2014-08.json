@@ -500,7 +500,7 @@
     {
         "id": 5110,
         "title": "White To Draw",
-        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/6k1/R5p1/8/p4K2/P6r/8/8 w - - 0 1\"]\r\n\r\n1. Rxa4 Rh4+ 2. Kg5 Rxa4\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[Result \"*\"]\r\n[FEN \"8/6k1/R5p1/8/p4K2/P6r/8/8 w - - 0 1\"]\r\n\r\n1. Rxa4 Rh4+ 2. Kg5\r\n*",
         "date": "2014-08-22",
         "video": [],
         "comment_count": 7,
@@ -509,10 +509,9 @@
             "moves": [
                 "Rxa4",
                 "Rh4+",
-                "Kg5",
-                "Rxa4"
+                "Kg5"
             ],
-            "raw": "1. Rxa4 Rh4+ 2. Kg5 Rxa4\r\n*",
+            "raw": "1. Rxa4 Rh4+ 2. Kg5\r\n*",
             "date": "????.??.??",
             "result": "*",
             "fen": "8/6k1/R5p1/8/p4K2/P6r/8/8 w - - 0 1"

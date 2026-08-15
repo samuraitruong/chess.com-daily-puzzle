@@ -618,7 +618,7 @@
     {
         "id": 8308,
         "title": "Combining Tactical Themes",
-        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"4q1k1/4r1pp/3Qb3/n2B1R2/p7/P3P1P1/3r3P/2R3K1 w - - 0 1\"]\r\n\r\n1. Qxe7 Qxe7 2. Rc8\r\n*",
+        "pgn": "[Date \"????.??.??\"]\r\n[FEN \"4q1k1/4r1pp/3Qb3/n2B1R2/p7/P3P1P1/3r3P/2R3K1 w - - 0 1\"]\r\n\r\n1. Qxe7 Qxe7 2. Rc8+\r\n*",
         "date": "2018-12-29",
         "video": [],
         "comment_count": 5,
@@ -627,9 +627,9 @@
             "moves": [
                 "Qxe7",
                 "Qxe7",
-                "Rc8"
+                "Rc8+"
             ],
-            "raw": "1. Qxe7 Qxe7 2. Rc8\r\n*",
+            "raw": "1. Qxe7 Qxe7 2. Rc8+\r\n*",
             "date": "????.??.??",
             "fen": "4q1k1/4r1pp/3Qb3/n2B1R2/p7/P3P1P1/3r3P/2R3K1 w - - 0 1"
         },
