@@ -213,7 +213,7 @@
             "user_id": 1648605,
             "has_image": true,
             "user_can_receive_gift": false,
-            "is_vacation": false,
+            "is_vacation": true,
             "vacation_remaining": "4 weeks"
         },
         "parsed": {
@@ -630,7 +630,7 @@
             "user_id": 1648605,
             "has_image": true,
             "user_can_receive_gift": false,
-            "is_vacation": false,
+            "is_vacation": true,
             "vacation_remaining": "4 weeks"
         },
         "parsed": {
@@ -1027,7 +1027,7 @@
             "user_id": 1648605,
             "has_image": true,
             "user_can_receive_gift": false,
-            "is_vacation": false,
+            "is_vacation": true,
             "vacation_remaining": "4 weeks"
         },
         "parsed": {
@@ -1062,7 +1062,7 @@
             "author_id": "004b093e-3b64-11e5-8012-000000000000"
         },
         "comment_count": 579,
-        "solved_count": 1210217,
+        "solved_count": 1210218,
         "author": {
             "uuid": "004b093e-3b64-11e5-8012-000000000000",
             "name": "Keti Tsatsalashvili",
@@ -1126,7 +1126,7 @@
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
         "comment_count": 411,
-        "solved_count": 1208103,
+        "solved_count": 1208104,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -1437,7 +1437,7 @@
             "user_id": 1648605,
             "has_image": true,
             "user_can_receive_gift": false,
-            "is_vacation": false,
+            "is_vacation": true,
             "vacation_remaining": "4 weeks"
         },
         "parsed": {
