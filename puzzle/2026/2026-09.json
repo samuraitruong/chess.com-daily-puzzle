@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-09-01_Where-Did-Everybody-Go_Fiona-Steil-Antoni_IT6.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2456,
-        "solved_count": 1064252,
+        "comment_count": 2443,
+        "solved_count": 1076269,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -17,7 +17,7 @@
             "country_id": 89,
             "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/21498110.407b57c6.100x100o.460e14bb80e1.jpg",
             "member_url": "https://www.chess.com/member/fiona",
-            "last_login_date": 1788272190,
+            "last_login_date": 1788336047,
             "location": "",
             "username": "Fiona",
             "points": 13,
@@ -52,6 +52,62 @@
             ],
             "raw": "1. Qa4+ Nc6 2. Bxc6+ Qxc6 3. Qxc6+ bxc6 4. Bxb4 *",
             "result": "*"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
+    },
+    {
+        "id": 14023,
+        "title": "Ready, Set, Push!",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\n[Black \"JohanVA\"]\n[Result \"*\"]\n[FEN \"3r1r1k/1bp3p1/pbnp2qp/8/3BPp2/PB3P2/1P1QN1PP/3RR1K1 b - - 0 1\"]\n\n1... Nxd4 2. Nxd4 c5 3. Ne6 c4+ 4. Kh1 Qxe6 *",
+        "date": "2026-09-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-09-02_Ready-Set-Push_Kostya-Kavutskiy_K2Z.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 960,
+        "solved_count": 405657,
+        "author": {
+            "uuid": "308500fe-e2b4-11df-8061-000000000000",
+            "name": "Kostya Kavutskiy",
+            "id": 4177997,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/4177997.ce79ff32.100x100o.e97117b2e04d.jpeg",
+            "member_url": "https://www.chess.com/member/hellokostya",
+            "last_login_date": 1788216808,
+            "location": "403639644887056406",
+            "username": "hellokostya",
+            "points": 837,
+            "chess_title": "IM",
+            "first_name": "Kostya",
+            "last_name": "Kavutskiy",
+            "country_name": "United States",
+            "member_since": 1288284938,
+            "about": "",
+            "best_rating": 2745,
+            "best_rating_type": "blitz",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 4177997,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "4 weeks"
+        },
+        "parsed": {
+            "moves": [
+                "Nxd4",
+                "Nxd4",
+                "c5",
+                "Ne6",
+                "c4+",
+                "Kh1",
+                "Qxe6"
+            ],
+            "raw": "1... Nxd4 2. Nxd4 c5 3. Ne6 c4+ 4. Kh1 Qxe6 *",
+            "white": "Daily Puzzle Inspiration"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
     }
