@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-09-01_Where-Did-Everybody-Go_Fiona-Steil-Antoni_IT6.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2459,
-        "solved_count": 1121949,
+        "comment_count": 2443,
+        "solved_count": 1125331,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -17,7 +17,7 @@
             "country_id": 89,
             "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/21498110.407b57c6.100x100o.460e14bb80e1.jpg",
             "member_url": "https://www.chess.com/member/fiona",
-            "last_login_date": 1788503141,
+            "last_login_date": 1788514025,
             "location": "",
             "username": "Fiona",
             "points": 13,
@@ -64,8 +64,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-09-02_Ready-Set-Push_Kostya-Kavutskiy_K2Z.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 2640,
-        "solved_count": 973417,
+        "comment_count": 2604,
+        "solved_count": 978115,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -120,8 +120,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-09-03_Just-Tap-It-In_Fiona-Steil-Antoni_L81.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2138,
-        "solved_count": 707321,
+        "comment_count": 2139,
+        "solved_count": 715345,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -129,7 +129,7 @@
             "country_id": 89,
             "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/21498110.407b57c6.100x100o.460e14bb80e1.jpg",
             "member_url": "https://www.chess.com/member/fiona",
-            "last_login_date": 1788503141,
+            "last_login_date": 1788514025,
             "location": "",
             "username": "Fiona",
             "points": 13,
@@ -163,6 +163,61 @@
             ],
             "raw": "1... Ra4 2. Nxc3 Qxc3 3. Rd3 Ra1# 0-1",
             "white": "Daily Puzzle Collaboration"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
+    },
+    {
+        "id": 14027,
+        "title": "Open and Shut Case",
+        "pgn": "[Date \"2012.??.??\"]\n[White \"Kovalenko\"]\n[Black \"Study\"]\n[Result \"1-0\"]\n[FEN \"6Q1/1K6/8/pkp5/1p6/8/P1P5/4q3 w - - 0 1\"]\n\n1. a4+ bxa3 2. Qb3+ Qb4 3. c4# 1-0",
+        "date": "2026-09-04",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-09-04_Open-and-Shut-Case_Fiona-Steil-Antoni_O9W.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 1087,
+        "solved_count": 464428,
+        "author": {
+            "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
+            "name": "Fiona Steil-Antoni",
+            "id": 21498110,
+            "country_id": 89,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/21498110.407b57c6.100x100o.460e14bb80e1.jpg",
+            "member_url": "https://www.chess.com/member/fiona",
+            "last_login_date": 1788514025,
+            "location": "",
+            "username": "Fiona",
+            "points": 13,
+            "chess_title": "WIM",
+            "first_name": "Fiona",
+            "last_name": "Steil-Antoni",
+            "country_name": "Luxembourg",
+            "member_since": 1426259709,
+            "about": "",
+            "best_rating": 2412,
+            "best_rating_type": "bullet",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 21498110,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "4 weeks"
+        },
+        "parsed": {
+            "moves": [
+                "a4+",
+                "bxa3",
+                "Qb3+",
+                "Qb4",
+                "c4#",
+                "1-0"
+            ],
+            "raw": "1. a4+ bxa3 2. Qb3+ Qb4 3. c4# 1-0",
+            "date": "2012.??.??"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
     }
