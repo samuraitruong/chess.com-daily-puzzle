@@ -1,1 +1,59 @@
-[]
+[
+    {
+        "id": 14079,
+        "title": "Defensive Breach",
+        "pgn": "[White \"Daily Puzzle Inspiration\"]\n[Black \"chesstiger787\"]\n[Result \"0-1\"]\n[FEN \"3q1rk1/pp3pbp/6p1/8/2Q2Pn1/1B6/PPP3PP/R1B2RK1 b - - 0 1\"]\n\n1... Bd4+ 2. Kh1 Qh4 3. h3 Qg3 4. hxg4 Qh4# 0-1",
+        "date": "2026-10-01",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-10-01_Defensive-Breach_Fiona-Steil-Antoni_3H5.mp4",
+            "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
+        },
+        "comment_count": 530,
+        "solved_count": 261321,
+        "author": {
+            "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
+            "name": "Fiona Steil-Antoni",
+            "id": 21498110,
+            "country_id": 89,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/21498110.407b57c6.100x100o.460e14bb80e1.jpg",
+            "member_url": "https://www.chess.com/member/fiona",
+            "last_login_date": 1790812088,
+            "location": "",
+            "username": "Fiona",
+            "points": 13,
+            "chess_title": "WIM",
+            "first_name": "Fiona",
+            "last_name": "Steil-Antoni",
+            "country_name": "Luxembourg",
+            "member_since": 1426259709,
+            "about": "",
+            "best_rating": 2412,
+            "best_rating_type": "bullet",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 21498110,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "4 weeks"
+        },
+        "parsed": {
+            "moves": [
+                "Bd4+",
+                "Kh1",
+                "Qh4",
+                "h3",
+                "Qg3",
+                "hxg4",
+                "Qh4#",
+                "0-1"
+            ],
+            "raw": "1... Bd4+ 2. Kh1 Qh4 3. h3 Qg3 4. hxg4 Qh4# 0-1",
+            "white": "Daily Puzzle Inspiration"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
+    }
+]
