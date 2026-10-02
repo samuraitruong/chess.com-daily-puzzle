@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-10-01_Defensive-Breach_Fiona-Steil-Antoni_3H5.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2337,
-        "solved_count": 1253181,
+        "comment_count": 2358,
+        "solved_count": 1272361,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -53,6 +53,59 @@
             ],
             "raw": "1... Bd4+ 2. Kh1 Qh4 3. h3 Qg3 4. hxg4 Qh4# 0-1",
             "white": "Daily Puzzle Inspiration"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
+    },
+    {
+        "id": 14081,
+        "title": "Exit Strategy",
+        "pgn": "[White \"Sean Bishop\"]\n[Black \"Daily Puzzle Inspiration\"]\n[Result \"*\"]\n[FEN \"r4rk1/3bbppp/pq2p1n1/1p2P3/2p2P2/2P2NPP/PP4BK/R1BQ1R2 w - - 2 16\"]\n\n16. f5 exf5 17. Qxd7 Rad8 18. Qxf5 *",
+        "date": "2026-10-02",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-10-02_Exit-Strategy_Daniel-Greiner_THG.mp4",
+            "author_id": "0054c526-f279-11e3-802e-000000000000"
+        },
+        "comment_count": 1224,
+        "solved_count": 658750,
+        "author": {
+            "uuid": "0054c526-f279-11e3-802e-000000000000",
+            "name": "Daniel Greiner",
+            "id": 17669546,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/17669546.ddfc2425.100x100o.ee0c527b52b9.png",
+            "member_url": "https://www.chess.com/member/kingsbishop",
+            "last_login_date": 1790941664,
+            "location": "Davison, MI",
+            "username": "KingsBishop",
+            "points": 1187,
+            "first_name": "Daniel",
+            "last_name": "Greiner",
+            "country_name": "United States",
+            "member_since": 1402608726,
+            "about": "",
+            "best_rating": 2200,
+            "best_rating_type": "blitz",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 17669546,
+            "has_image": true,
+            "user_can_receive_gift": true,
+            "is_vacation": false,
+            "vacation_remaining": "4 weeks"
+        },
+        "parsed": {
+            "moves": [
+                "f5",
+                "exf5",
+                "Qxd7",
+                "Rad8",
+                "Qxf5"
+            ],
+            "raw": "16. f5 exf5 17. Qxd7 Rad8 18. Qxf5 *",
+            "white": "Sean Bishop"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
     }
