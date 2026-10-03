@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-10-01_Defensive-Breach_Fiona-Steil-Antoni_3H5.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2362,
-        "solved_count": 1291492,
+        "comment_count": 2356,
+        "solved_count": 1296778,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -65,8 +65,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-10-02_Exit-Strategy_Daniel-Greiner_THG.mp4",
             "author_id": "0054c526-f279-11e3-802e-000000000000"
         },
-        "comment_count": 2211,
-        "solved_count": 1161430,
+        "comment_count": 2319,
+        "solved_count": 1228101,
         "author": {
             "uuid": "0054c526-f279-11e3-802e-000000000000",
             "name": "Daniel Greiner",
@@ -106,6 +106,60 @@
             ],
             "raw": "16. f5 exf5 17. Qxd7 Rad8 18. Qxf5 *",
             "white": "Sean Bishop"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
+    },
+    {
+        "id": 14083,
+        "title": "Brace for Impact",
+        "pgn": "[White \"bollnills\"]\n[Black \"Daily Puzzle Inspiration\"]\n[Result \"1-0\"]\n[FEN \"2b1r2b/5k1p/2N1pPp1/1p1q3n/1QnBN3/p4B1P/P1r2PKP/3R4 w - - 0 1\"]\n\n1. Nd8+ Qxd8 2. Ng5+ Kg8 3. f7#",
+        "date": "2026-10-03",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-10-03_Brace-for-Impact_Kostya-Kavutskiy_0ZQ.mp4",
+            "author_id": "308500fe-e2b4-11df-8061-000000000000"
+        },
+        "comment_count": 457,
+        "solved_count": 183246,
+        "author": {
+            "uuid": "308500fe-e2b4-11df-8061-000000000000",
+            "name": "Kostya Kavutskiy",
+            "id": 4177997,
+            "country_id": 2,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/4177997.ce79ff32.100x100o.e97117b2e04d.jpeg",
+            "member_url": "https://www.chess.com/member/hellokostya",
+            "last_login_date": 1790968835,
+            "location": "403639644887056406",
+            "username": "hellokostya",
+            "points": 837,
+            "chess_title": "IM",
+            "first_name": "Kostya",
+            "last_name": "Kavutskiy",
+            "country_name": "United States",
+            "member_since": 1288284938,
+            "about": "",
+            "best_rating": 2715,
+            "best_rating_type": "blitz",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "diamond",
+            "user_id": 4177997,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "4 weeks"
+        },
+        "parsed": {
+            "moves": [
+                "Nd8+",
+                "Qxd8",
+                "Ng5+",
+                "Kg8",
+                "f7#"
+            ],
+            "raw": "1. Nd8+ Qxd8 2. Ng5+ Kg8 3. f7#",
+            "white": "bollnills"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
     }
