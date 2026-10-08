@@ -8,8 +8,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-10-01_Defensive-Breach_Fiona-Steil-Antoni_3H5.mp4",
             "author_id": "bcc1ca32-c993-11e4-800a-000000000000"
         },
-        "comment_count": 2404,
-        "solved_count": 1363258,
+        "comment_count": 2405,
+        "solved_count": 1363619,
         "author": {
             "uuid": "bcc1ca32-c993-11e4-800a-000000000000",
             "name": "Fiona Steil-Antoni",
@@ -17,7 +17,7 @@
             "country_id": 89,
             "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/21498110.407b57c6.100x100o.460e14bb80e1.jpg",
             "member_url": "https://www.chess.com/member/fiona",
-            "last_login_date": 1791394371,
+            "last_login_date": 1791452462,
             "location": "",
             "username": "Fiona",
             "points": 13,
@@ -65,8 +65,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-10-02_Exit-Strategy_Daniel-Greiner_THG.mp4",
             "author_id": "0054c526-f279-11e3-802e-000000000000"
         },
-        "comment_count": 2383,
-        "solved_count": 1328760,
+        "comment_count": 2389,
+        "solved_count": 1331412,
         "author": {
             "uuid": "0054c526-f279-11e3-802e-000000000000",
             "name": "Daniel Greiner",
@@ -74,7 +74,7 @@
             "country_id": 2,
             "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/17669546.ddfc2425.100x100o.ee0c527b52b9.png",
             "member_url": "https://www.chess.com/member/kingsbishop",
-            "last_login_date": 1791369915,
+            "last_login_date": 1791457829,
             "location": "Davison, MI",
             "username": "KingsBishop",
             "points": 1187,
@@ -118,8 +118,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-10-03_Brace-for-Impact_Kostya-Kavutskiy_0ZQ.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 2551,
-        "solved_count": 1273657,
+        "comment_count": 2555,
+        "solved_count": 1276822,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -172,8 +172,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-10-04_Beware-of-the-Gift-Horse_Dane-Mattson_2GL.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 2698,
-        "solved_count": 1295832,
+        "comment_count": 2699,
+        "solved_count": 1299708,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -231,8 +231,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-10-05_No-Squares_Dane-Mattson_A9Z.mp4",
             "author_id": "555a74fc-c7ce-11dd-8005-000000000000"
         },
-        "comment_count": 3006,
-        "solved_count": 1343614,
+        "comment_count": 3015,
+        "solved_count": 1348506,
         "author": {
             "uuid": "555a74fc-c7ce-11dd-8005-000000000000",
             "name": "Dane Mattson",
@@ -281,8 +281,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-10-06_Get-Outta-Here_Daniel-Greiner_Z0G.mp4",
             "author_id": "0054c526-f279-11e3-802e-000000000000"
         },
-        "comment_count": 2593,
-        "solved_count": 1311208,
+        "comment_count": 2598,
+        "solved_count": 1318602,
         "author": {
             "uuid": "0054c526-f279-11e3-802e-000000000000",
             "name": "Daniel Greiner",
@@ -290,7 +290,7 @@
             "country_id": 2,
             "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/17669546.ddfc2425.100x100o.ee0c527b52b9.png",
             "member_url": "https://www.chess.com/member/kingsbishop",
-            "last_login_date": 1791369915,
+            "last_login_date": 1791457829,
             "location": "Davison, MI",
             "username": "KingsBishop",
             "points": 1187,
@@ -334,8 +334,8 @@
             "url": "https://media.chesscomfiles.com/videos/square/DP_2026-10-07_Double-Hop-Drop_Kostya-Kavutskiy_HIV.mp4",
             "author_id": "308500fe-e2b4-11df-8061-000000000000"
         },
-        "comment_count": 3225,
-        "solved_count": 1280486,
+        "comment_count": 3256,
+        "solved_count": 1296944,
         "author": {
             "uuid": "308500fe-e2b4-11df-8061-000000000000",
             "name": "Kostya Kavutskiy",
@@ -377,6 +377,62 @@
             ],
             "raw": "32. Ng6+ Kh7 33. Nf8+ Rxf8 34. Qxg7# 1-0",
             "result": "1-0"
+        },
+        "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
+    },
+    {
+        "id": 14093,
+        "title": "Pwned",
+        "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.08.18\"]\n[Round \"?\"]\n[White \"Bikfoot\"]\n[Black \"Hendry35 Missed Opportunity\"]\n[Result \"0-1\"]\n[ECO \"A52\"]\n[WhiteElo \"2354\"]\n[BlackElo \"2331\"]\n[FEN \"5B2/7R/2p2pp1/8/1Pk1P3/2n1KPP1/1r5P/8 b - - 0 39\"]\n\n39... g5 40. f4 g4 41. f5 Re2+ 42. Kf4 Rxe4# 0-1",
+        "date": "2026-10-08",
+        "video": {
+            "url": "https://media.chesscomfiles.com/videos/square/DP_2026-10-08_Pwned_Wouter-Bik_NGW.mp4",
+            "author_id": "c6fe5042-d88f-11e3-8014-000000000000"
+        },
+        "comment_count": 1375,
+        "solved_count": 733541,
+        "author": {
+            "uuid": "c6fe5042-d88f-11e3-8014-000000000000",
+            "name": "Wouter Bik",
+            "id": 17252520,
+            "country_id": 101,
+            "avatar_url": "https://images.chesscomfiles.com/uploads/v1/user/17252520.5a83dc9c.100x100o.3172aad96b41.jpg",
+            "member_url": "https://www.chess.com/member/bikfoot",
+            "last_login_date": 1791453661,
+            "location": "Amsterdam",
+            "username": "Bikfoot",
+            "points": 558,
+            "first_name": "Wouter",
+            "last_name": "Bik",
+            "country_name": "Netherlands",
+            "member_since": 1399759778,
+            "about": "",
+            "best_rating": 2360,
+            "best_rating_type": "bullet",
+            "is_online": false,
+            "is_in_livechess": false,
+            "online_status": "offline",
+            "is_enabled": true,
+            "membership_code": "staff",
+            "user_id": 17252520,
+            "has_image": true,
+            "user_can_receive_gift": false,
+            "is_vacation": false,
+            "vacation_remaining": "4 weeks"
+        },
+        "parsed": {
+            "moves": [
+                "g5",
+                "f4",
+                "g4",
+                "f5",
+                "Re2+",
+                "Kf4",
+                "Rxe4#",
+                "0-1"
+            ],
+            "raw": "39... g5 40. f4 g4 41. f5 Re2+ 42. Kf4 Rxe4# 0-1",
+            "event": "Live Chess"
         },
         "viewerUrl": "https://chess-board.fly.dev/?fen=undefined"
     }
